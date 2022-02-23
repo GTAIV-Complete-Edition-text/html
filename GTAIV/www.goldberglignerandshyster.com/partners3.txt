@@ -1,0 +1,24 @@
+﻿;0x4D15EA96=TOM GOLDBERG Esq
+0x4D15EA96=
+
+;0x4B7DC889=PATRICK LIGNER Jr Esq
+0x4B7DC889=
+
+;0x04F148B9=DICK SHYSTER Esq
+0x04F148B9=
+
+;0x6AC1E321=DICK SHYSTER Esq  
+0x6AC1E321=
+
+;0xAA84554E=Mr. Shyster is an expert in State, National, and International Law.  He demonstrated this by constructing a case against a former Secretary General of the Civilization Committee in all three sectors and can be held personally responsible for the rescinding of parking permits previously granted to foreign dignitaries.  
+0xAA84554E=
+
+;0x42340908=Family man, talented litigator and bureaucrat - Mr. Ligner is a vital part of the GL&S team.  He is a fierce trial lawyer, a meticulous investigator and is experienced in the filing of class action law suits against BAWSAQ 500 companies.  Just don't call him Richard.
+0x42340908=
+
+;0xEA4A2F30=shyster@goldberglignerandshyster.com
+0xEA4A2F30=
+
+;0x1EB6AC60=GL&S, All Rights Reserved . Privacy Statement . Contact Info
+0x1EB6AC60=
+

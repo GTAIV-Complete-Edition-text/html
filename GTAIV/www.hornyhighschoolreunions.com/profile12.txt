@@ -1,0 +1,42 @@
+﻿;0x794D43F4=Pupil: John Firmstroke
+0x794D43F4=
+
+;0xC0345A3B=Class of: 2001
+0xC0345A3B=
+
+;0x19F8EB07=High School: Meadows  Park International  High School
+0x19F8EB07=
+
+;0xE5F8ED95=NICKNAME:
+0xE5F8ED95=
+
+;0x4FFFC583=Puppetboy
+0x4FFFC583=
+
+;0xB78A2011=BIO:
+0xB78A2011=
+
+;0x274D0D08=I hope some of you remember me. I was expelled from Meadows Park in 2000 for something I didn't do. I am offering $5,000 for any information concerning the person who spray-painted a phallus on the principal's car. It's like a shadow hanging over me, a blot on my copy book that I have to erase. Well, you get the point. Nobody believes me, even my parents. I thought that I could move on but I can't.
+0x274D0D08=
+
+;0xE8FFA8EE=Otherwise, I'm the same old John. Aside from on weekends when I am Joanna. Please help me to clear my name.
+0xE8FFA8EE=
+
+;0x4DF782CF=- John 
+0x4DF782CF=
+
+;0x95A5A6F4=P.S. Also, did anybody else think it was strange that Mr. Wakelin used to shower with us all?
+0x95A5A6F4=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0x6DCDF11D=I did it. What are you going to do, put me in detention? Wire the $5,000 to my bank account. 
+0x6DCDF11D=
+
+;0x0826A557=- Sean Horland.
+0x0826A557=
+
+;0xADD9CB45=BACK TO MAIN PAGE 
+0xADD9CB45=
+

@@ -1,0 +1,21 @@
+﻿;0x628D44E4=Product: Lipurgex
+0x628D44E4=
+
+;0x4384CA18=Quantity: 60 capsules
+0x4384CA18=
+
+;0xDDFF7088=Our price: $59.99
+0xDDFF7088=
+
+;0xF2169EC7=The #1 selling diet pill!  Lipurgex's revolutionary proprietary formula of caffeine, laxatives, diuretics, painkillers and the magic ingredient, On Fei Taa Ming, halts the hunger sensation in the brain while jacking you up so high you'll never want to come down again.  Lipurgex's ground-breaking 'Dual Exit System' violently expels toxins from the body and after a few hours we guarantee that you will no longer derive any pleasure from the taste of food.  Take the 'Green for Go' pill in the morning and the 'Red for Stop' pill in the evening.    
+0xF2169EC7=
+
+;0x6FEAE585=Major credit cards accepted.
+0x6FEAE585=
+
+;0x93D0CCD8=All purchases are non-refundable.
+0x93D0CCD8=
+
+;0x246A54CE=All liabilities are denied.
+0x246A54CE=
+

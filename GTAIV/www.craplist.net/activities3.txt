@@ -1,0 +1,72 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x04915A94=>activities
+0x04915A94=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0xC2F12958=ACTIVITIES
+0xC2F12958=
+
+;0xFF6AA59E=Tablet PC enthusiasts?
+0xFF6AA59E=
+
+;0x5CAAAE2F=(Port Tudor)
+0x5CAAAE2F=
+
+;0x4B73462F=Where are all the tablet PC users in the Alderney area?  Sometimes I feel like I'm the only one left!  I am organizing a barbecue / user group this weekend.  Lots of vegan food and fun drawing games!  Serious replies only.  Last time I posted an ad for tablet enthusiasts, I was bombarded with requests for ecstasy and guys that thought if you have a tablet PC you give hand jobs behind Pizza Stack.  Don't let digital writing die!  Visit  
+0x4B73462F=
+
+;0xEC51840F=www.electronicwritingtablet.com
+0xEC51840F=
+
+;0xDACB46BB=  for more info.  
+0xDACB46BB=
+
+;0xBC74F8E9=PostingID: 494556411
+0xBC74F8E9=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

@@ -1,0 +1,6 @@
+﻿;0x98A5CFBB=Want All The Weapons?
+0x98A5CFBB=
+
+;0xC2954BC2=Back
+0xC2954BC2=
+

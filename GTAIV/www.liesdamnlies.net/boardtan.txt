@@ -1,0 +1,129 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x0CC122CF=> Discussion Forums
+0x0CC122CF=
+
+;0xCB2825DA= Discussion forums links
+0xCB2825DA=
+
+;0x60854DB4=World domination conspiracies
+0x60854DB4=
+
+;0x55DF0714=The mullet connection!
+0x55DF0714=
+
+;0xFD910832=Cybernetics and mass surveillance
+0xFD910832=
+
+;0x1AF6F7BB=The All Seeing Eye is watching you...
+0x1AF6F7BB=
+
+;0xB6D62AFE=Brainwashing and mind control
+0xB6D62AFE=
+
+;0xF3353255=Planning notes so you will know.
+0xF3353255=
+
+;0x25013734=Is there anybody out there?
+0x25013734=
+
+;0x6C844346=Aliens and UFO's
+0x6C844346=
+
+;0x9923E42F=Smoke and mirrors
+0x9923E42F=
+
+;0x3D8FBEB8=The real truth about Pluto.
+0x3D8FBEB8=
+
+;0x6F2E6571=Women
+0x6F2E6571=
+
+;0xF084B531=The ultimate conspirators?
+0xF084B531=
+
+;0x3D52522A=Poisoning our future leaders
+0x3D52522A=
+
+;0x96793E98=What the food and drink companies are not telling you!
+0x96793E98=
+
+;0xCA1CA9E1=Forum: Poisoning our future leaders 
+0xCA1CA9E1=
+
+;0x76FA6774=What the food and drink companies are not telling you! Soda in schools, mind control, obesity lies.
+0x76FA6774=
+
+;0xEF857086=Postings
+0xEF857086=
+
+;0x44AD44FF=Read New
+0x44AD44FF=
+
+;0xF0C79167=Post
+0xF0C79167=
+
+;0xA82D02E5=Name: Apollo11
+0xA82D02E5=
+
+;0xDA5174F4=Location: Las Venturas        
+0xDA5174F4=
+
+;0xCBB6C003=Newsflash! Vegetables and salads are not as healthy as we are led to believe. In fact, they contain no nutritional value and make you shit rusty water 8 times a day. It's just scaremongering to generate jobs and money for the farming industry so that the government can boost their employment figures and pull in additional taxes. I only eat dairy now... I faint every three minutes and have to sleep in a diaper but my system is finally purged of that bug-ridden rabbit food.           
+0xCBB6C003=
+
+;0xDDFF9B24=Name: Bermuda Triangle
+0xDDFF9B24=
+
+;0x73A27210=Location: Vice City
+0x73A27210=
+
+;0xF0CA9CF9=Food is actually the ultimate conspiracy of all time. Eating is an acquired habit like smoking crack. Air has everything that you need to survive. Paris fashion models swear by it.          
+0xF0CA9CF9=
+
+;0xF3E3575E=Name: Big Foot
+0xF3E3575E=
+
+;0x1AE9CCCA=Location: Los Santos        
+0x1AE9CCCA=
+
+;0x5ECCB440=Research has shown that certain additives required in the food imported into the USA make women's breasts bigger. Now tell me that we're not the greatest country in the world! USA!           
+0x5ECCB440=
+
+;0xE8827AEF=Name: Taos Hum
+0xE8827AEF=
+
+;0x73A27210=Location: Vice City
+0x73A27210=
+
+;0xD68BDABD=Probably explains why all that Swiss cheese has given me man boobs!          
+0xD68BDABD=
+
+;0xAC3E0669=Name: SkullandBones
+0xAC3E0669=
+
+;0x08947274=Location: Las Venturas
+0x08947274=
+
+;0xACAAF44F=Hey kids, forget what the pharmaceutical companies tell you... smoking is the quickest way to get something into your bloodstream. I don't want to wait half an hour for medicine or a hallucinogenic to take effect. I had a splitting migraine last week so decided to hot-knife some painkillers from Pill Pharm. I flatlined for 10 minutes and blistered my nasal passages but it sure dealt with the headache!          
+0xACAAF44F=
+
+;0x2B0586A2=Name: Frankie
+0x2B0586A2=
+
+;0x80A484E2=Location: Liberty City
+0x80A484E2=
+
+;0xEE704940=My Dad tells me that an Indian scientist found a cure for hay fever 15 years ago but the heads of the world's tissue companies paid for him to be assassinated. My dad died five years ago. He sneezed to death.           
+0xEE704940=
+
+;0x1FB32D1F=Name: Mary
+0x1FB32D1F=
+
+;0x0036CB6F=Location: San Fierro
+0x0036CB6F=
+
+;0x85A24100=I'm convinced that Meteorite Bars are laced with heroin. All my monosyllabic kid does is laze around all day playing video games.           
+0x85A24100=
+

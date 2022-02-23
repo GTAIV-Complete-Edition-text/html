@@ -1,0 +1,153 @@
+﻿;0x168E9B59=For over 10 years, Fly High Pizza Pie has been bringing smiles to the faces of hungry customers across Liberty City. A family-owned business, we use only the freshest home-grown ingredients and pride ourselves on high-grade quality and discreet, speedy service.
+0x168E9B59=
+
+;0x36501B4F=Why buy second-rate pizza from a shady street vendor when you can get the best stuff in town delivered straight to your door?! As soon as you catch your first whiff of a Fly High pizza, we guarantee you will never buy from anywhere else again. The finest herbs on the East Coast are but a phone call away. The best way to relax at the end of a hard day is with a Fly High Pizza Pie. Order now!
+0x36501B4F=
+
+;0x8FD133A5=Open 24 hours!
+0x8FD133A5=
+
+;0x955CE3F0=Delivery only!
+0x955CE3F0=
+
+;0xC4815BC3=Free delivery for orders over $100! 
+0xC4815BC3=
+
+;0x2244F50E=Slice (around an eighth) - $60
+0x2244F50E=
+
+;0xD08AFB80=Large Slice (approx quarter) - $110
+0xD08AFB80=
+
+;0xA35B5140=Half Pie - $180
+0xA35B5140=
+
+;0x076B003C=Whole Pie - $320
+0x076B003C=
+
+;0xBBE18E78=Cash only. Not for re-sale. Please have the money ready when the delivery guy arrives and keep your hands where he can see them. We don't barter. Please tip.
+0xBBE18E78=
+
+;0xD76095FF=PURPLE HAZE
+0xD76095FF=
+
+;0xEFE418A2=You won't remember your first!
+0xEFE418A2=
+
+;0x16DC5E9C=Tomato sauce, mozzarella cheese, pepperoni, eggplant, beetroot, red onion.
+0x16DC5E9C=
+
+;0xF63C8D03=ACAPULCO GOLD
+0xF63C8D03=
+
+;0x35CA64F8=You'll smell it two blocks away!
+0x35CA64F8=
+
+;0x0316EF8E=Tomato sauce, mozzarella cheese, cheddar cheese, chicken, yellow peppers, pineapple.
+0x0316EF8E=
+
+;0x5217B590=WHITE WIDOW
+0x5217B590=
+
+;0x2E02F27C=You won't want to move after this!
+0x2E02F27C=
+
+;0xD8BB3AFA=Olive oil and garlic sauce, mozzarella cheese, garlic, artichoke hearts, and topped with goat cheese.
+0xD8BB3AFA=
+
+;0x74590117=MOROCCAN CARAMELLO
+0x74590117=
+
+;0x2DC84455=Get ready for some sticky fingers!
+0x2DC84455=
+
+;0x3334E73E=Tomato sauce, mozzarella cheese, chorizo, sun-dried tomatoes, caramelized onions.
+0x3334E73E=
+
+;0x95FAE57C=SHROOM FEST (Seasonal)
+0x95FAE57C=
+
+;0x1C5710B0=It will make you see things differently!
+0x1C5710B0=
+
+;0xFDE51D01=Tomato sauce, mozzarella cheese, gold tops, blue meanies, liberty caps and fresh herbs.
+0xFDE51D01=
+
+;0xCE23FAEF=SPECIAL OFFERS
+0xCE23FAEF=
+
+;0xF272C859=The 4:20 special - half-price slices after school!
+0xF272C859=
+
+;0x4DD210C2=The Wake n' Bake special - 15% off all pizzas ordered before 
+0x4DD210C2=
+
+;0x62CA8195=10am!
+0x62CA8195=
+
+;0xC1822976=If you like a bit of extra kick, why not order a Power Crust Pizza, dusted with our special seasoning? Warning: can cause psychotic behavior.
+0xC1822976=
+
+;0x6B7C12D8=Soda
+0x6B7C12D8=
+
+;0x77739671=- Don't let cottonmouth get the better of you!
+0x77739671=
+
+;0x03A03E6D=Sprunk, E-Cola and Orang-O-Tang in one-liter and two-liter bottles (many uses for these after you are finished!) 
+0x03A03E6D=
+
+;0x093C9697=Beer
+0x093C9697=
+
+;0x3FE17593=- Logger, Piswasser, Jakey's 
+0x3FE17593=
+
+;0x7C278430=Cigarettes
+0x7C278430=
+
+;0xA4A6D3B6=- Redwood, Cardiaque and 69 Brand
+0xA4A6D3B6=
+
+;0x11483590=Nuggets
+0x11483590=
+
+;0x2579ACFA=- Sometimes you don't want a whole slice. Fly High's nuggets are the perfect snack-size order for people on a budget.
+0x2579ACFA=
+
+;0x68B99D45=Mini Calzones
+0x68B99D45=
+
+;0xD98BB220=- Pre-rolled pizzas for one! No cutlery required! Cheap, convenient and ready to choke down! 
+0xD98BB220=
+
+;0x9680F9D2=Lots of candy!
+0x9680F9D2=
+
+;0x304EF48F=Placing your order - 
+0x304EF48F=
+
+;0xEB7D6B99=BE COOL! USE THE CODE.
+0xEB7D6B99=
+
+;0xBA78A3C4=Tell us the type of pizza you want and let us know the quantity, e.g.
+0xBA78A3C4=
+
+;0x9346BD4A='Just a slice'
+0x9346BD4A=
+
+;0x2C7840F0='Extra cheese on half'
+0x2C7840F0=
+
+;0x74AD25C1='A whole pie'
+0x74AD25C1=
+
+;0xE36A8629=Please mention whether you need napkins (standard or king-size). Pizzas can be delivered in aluminum foil or vacuum sealed plastic bags.
+0xE36A8629=
+
+;0xCCC4B8DA=We find that at least half of our customers have problems remembering their phone number and address. If you can write these down before calling, it will save us all a lot of time and confusion.
+0xCCC4B8DA=
+
+;0xB55EBCA7=Runners wanted! Excellent commission structure. Must be inconspicuous and comfortable with violence. Call for rigorous background check.
+0xB55EBCA7=
+

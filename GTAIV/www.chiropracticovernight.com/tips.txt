@@ -1,0 +1,108 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0xB6DDF7C1=The Distance Learning Chiropractor Kit
+0xB6DDF7C1=
+
+;0x37185572=Tips and Tricks
+0x37185572=
+
+;0x37185572=Tips and Tricks
+0x37185572=
+
+;0x28703D2C=Make no bones about it!
+0x28703D2C=
+
+;0xFB07BC7A=A sure-fire way to run your business into the ground is to assume that chiropractic treatments are only useful for lower back pain. Remember: all health problems from acne to anorexia, from constipation to cardiovascular congestion, from delinquency to diabetes can be cured by a quick fumble along the spine.
+0xFB07BC7A=
+
+;0xC719A903=Don't know how it works but it does!
+0xC719A903=
+
+;0x4906A4E8=We find that the use of meaningless but impressive-sounding terms helps to build credibility. Remember, 'Vertebral Subluxation' is the all-encompassing excuse for the myriad of signs and symptoms that we attribute to a misaligned spinal segment. Just like when you're trying to bag a chick, keep it vague but complicated. It would be catastrophic if it got out that our treatments are no more effective than a back rub. If someone questions subluxation, use the pinched garden hose analogy. Then brain them and dump them out back. 
+0x4906A4E8=
+
+;0x7E0DBB13=Offer free examinations in shopping malls.
+0x7E0DBB13=
+
+;0x8D33D492=Don't forget the plastic skeleton! Great way to meet brainless girls! 
+0x8D33D492=
+
+;0xCFB1CDB3=Lock patients into a cycle
+0xCFB1CDB3=
+
+;0x94C5ABEB=Lock patients into a cycle of regular but unnecessary treatment to ensure that they spend their twilight years wall-mounted on a wooden pallet, drinking their dinner through a straw.
+0x94C5ABEB=
+
+;0x5C7B8005=The 'Animal Cracker'
+0x5C7B8005=
+
+;0x4450F02B=.       
+0x4450F02B=
+
+;0x8B28A09B=Why not throw it out to pets as well?! Dogs love a good back pop and will sometimes get erect.
+0x8B28A09B=
+
+;0x5B5AD979=Keep it flowing.
+0x5B5AD979=
+
+;0xF5229EE0=Consider colonic irrigations as part of the process. Insist on them daily. 
+0xF5229EE0=
+
+;0x1DA6A552=Above and beyond the call of duty.
+0x1DA6A552=
+
+;0x06754E58=Don't be afraid to drop a hint that "extra" services are on the menu... You've got to compete with those slutty masseurs!
+0x06754E58=
+
+;0xE09BE4EB=Hurt children so they'll never wet the bed again! 
+0xE09BE4EB=
+
+;0xF66A2D41=Aggressively promote the untold benefits of kneading a baby's spinal cord. Remember the three magic words: Lifetime Maintenance Care... make sure that they are flopping around the house like a seal by the time they reach puberty.
+0xF66A2D41=
+
+;0xE93BB2C2=YOU CAN NEVER HAVE TOO MANY X-RAYS!
+0xE93BB2C2=
+
+;0xE4F46598=Well, you can, and they sometimes give you fatal diseases, but oh well, life goes on, even without you.
+0xE4F46598=
+
+;0x0C99BB6D=Straighten it out.
+0x0C99BB6D=
+
+;0x2BBCFACB=Tell girls that their breasts are uneven and in need of alignment...
+0x2BBCFACB=
+
+;0xC716A2CD=Try the same approach with other body parts. 
+0xC716A2CD=
+
+;0x7396D3D4=Use the AMP Method.
+0x7396D3D4=
+
+;0xAD2E950D=Advanced Muscle Palpation is an excellent excuse for feeling up a girl's tits.
+0xAD2E950D=
+
+;0xA61025C3=Always emphasize that you are a Primary Care Provider.
+0xA61025C3=
+
+;0xB24D4893=Sell strange-shaped pillows in the reception area.
+0xB24D4893=
+
+;0x905FE929=Offer as many ridiculous treatments as possible
+0x905FE929=
+
+;0x4450F02B=.       
+0x4450F02B=
+
+;0x59DE196D=Stay one step ahead of the competition! Iridology, Applied Kinesiology, Fisting, Pendulum Divining, Hair Analysis, Labia Piercing, Herbal Crystallization Analysis, Aquarian Age Healing, Bioenergetics, Somatosynthesis are just a few great ways to scam the patient into parting with their life savings.
+0x59DE196D=
+
+;0xAAE33658=Orthopedists, physiotherapists and osteopaths are evil shysters.
+0xAAE33658=
+
+;0x35C5220D=Take a few acting classes.
+0x35C5220D=
+
+;0x17E44E2D=Within 24 hours you will be fully indoctrinated into the cult of chiropractics. Deprogramming will take years. Sponsored by the Epsilon Program.
+0x17E44E2D=
+

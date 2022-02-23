@@ -1,0 +1,105 @@
+﻿;0x83F373AC=The Roman Empire Wealth System is the 
+0x83F373AC=
+
+;0xBBF727AC=#1 money-making scheme in America!!! 
+0xBBF727AC=
+
+;0xCC0C0364=I
+0xCC0C0364=
+
+;0x24D967FE=LIMITLESS earning potential!!! 
+0x24D967FE=
+
+;0x63E8FFD7=II
+0x63E8FFD7=
+
+;0xC4105E96=Be able to THROW money around!!!!
+0xC4105E96=
+
+;0xE5CA65BA=III
+0xE5CA65BA=
+
+;0x5CCDCC7A=INSTANT cash return!!! 
+0x5CCDCC7A=
+
+;0x68E907B6=IV
+0x68E907B6=
+
+;0x2BB51D76=High yield investment program!!! 
+0x2BB51D76=
+
+;0xD30C0E69=V
+0xD30C0E69=
+
+;0x1E85EEC2=LOTS of exclamation points!!!! 
+0x1E85EEC2=
+
+;0x5BFA3C60=VI
+0x5BFA3C60=
+
+;0x72A205D3=NO skill or intelligence required!!! 
+0x72A205D3=
+
+;0xF3ECB48B=VII
+0xF3ECB48B=
+
+;0x812E22A4=Quit your job TODAY!!!  
+0x812E22A4=
+
+;0xBFA08D66=VIII
+0xBFA08D66=
+
+;0x3AAF7744=AMAZING business opportunity!!! 
+0x3AAF7744=
+
+;0x72E91774=IX
+0x72E91774=
+
+;0x60D35119=Learn the secret to ENORMOUS wealth!!!  
+0x60D35119=
+
+;0xDD0C1E27=X
+0xDD0C1E27=
+
+;0x2C5D3A6C=KILL off your fat wife!!!!! 
+0x2C5D3A6C=
+
+;0x6813E72A=XI
+0x6813E72A=
+
+;0x7A26DB69=Financial stability for LIFE!!! 
+0x7A26DB69=
+
+;0x3A5540D9=XII
+0x3A5540D9=
+
+;0xB9985935=Devised by people with PhDs!!!  
+0xB9985935=
+
+;0x6434A2B0=XIII
+0x6434A2B0=
+
+;0xB9B61082=Own a 110 inch plasma screen in your limo!!!  
+0xB9B61082=
+
+;0x53556834=XIV
+0x53556834=
+
+;0x0D0001FF=The easiest FORTUNE you will ever make!!!  
+0x0D0001FF=
+
+;0x6B13EBE3=XV
+0x6B13EBE3=
+
+;0x3D7AF76A=Idiot-proof formula!!!
+0x3D7AF76A=
+
+;0x308C07DF="I became a millionaire in less than an hour! It really works!"     
+0x308C07DF=
+
+;0xBB57EA4F="Thanks to the Roman Empire Wealth System, everybody I know is rich!"     
+0xBB57EA4F=
+
+;0xB4B91F76="It really works! I was poor and now I own two countries. Not bad for $20,000!"
+0xB4B91F76=
+

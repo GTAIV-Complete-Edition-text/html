@@ -1,0 +1,21 @@
+﻿;0x2FAF27EF=CONTACT US 
+0x2FAF27EF=
+
+;0x6C5CE2E4=At AutoEroticar, it's our mission to make all our customers feel excited and satisfied - we want to give you the best ride of your life.  If you have any questions or comments for our team, please contact: 
+0x6C5CE2E4=
+
+;0xC5719496=customerservicing@autoeroticar.com
+0xC5719496=
+
+;0x8B01A4F7=YOU CAN FIND US:
+0x8B01A4F7=
+
+;0xAD60BFB9=On the corner of Keneckie Ave and Lockowski Ave, 
+0xAD60BFB9=
+
+;0x0193B3FC=Alderney City, 
+0x0193B3FC=
+
+;0x7CD65C5F=Liberty City.
+0x7CD65C5F=
+

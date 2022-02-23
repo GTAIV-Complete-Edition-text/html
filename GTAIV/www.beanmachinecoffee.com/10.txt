@@ -1,0 +1,60 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x244E8099=Specials
+0x244E8099=
+
+;0xAD935D05=Cup Sizes
+0xAD935D05=
+
+;0xC46A285A=Franchising Opportunities
+0xC46A285A=
+
+;0x951A1C18=Buy Our Coffees
+0x951A1C18=
+
+;0x0910409E=Caffeine Is Not a Drug
+0x0910409E=
+
+;0x8512F7FC=Become a Rep
+0x8512F7FC=
+
+;0xC14112B2=10 Reasons to Boycott 
+0xC14112B2=
+
+;0xF275475D=Your Local Coffeehouse
+0xF275475D=
+
+;0x66925D36=A few independently-owned coffee houses have proven to be surprisingly stubborn in the face of bribes and intimidation and threaten to undermine the American dream of a homogeneous society.  Remember the dark old days of the 1990's when coffeehouses were the beating heart of the community, an expression of unique local identity?  Sheer anarchy!  Don't let these dens of iniquity make a mockery of our plans for world domination.  Here are ten reasons to boycott your local coffeehouses:
+0x66925D36=
+
+;0x88EC654F=1) They do not look the same.
+0x88EC654F=
+
+;0x7A73B789=2) They do not have a condiment bar.
+0x7A73B789=
+
+;0x216058C8=3) They hate your religion and they think your girlfriend is a dog.
+0x216058C8=
+
+;0x24098753=4) They show live sports - so uncouth.
+0x24098753=
+
+;0xEC1F682B=5) They are frequented by blue collar workers who fornicate like animals in pens and smell.
+0xEC1F682B=
+
+;0xF250511D=6) They encourage social interaction - the last thing that you want when you're anxious and paranoid.
+0xF250511D=
+
+;0x089941A4=7) They do not provide corrugated insulating sleeves in a dirty-brown, eco-friendly color.
+0x089941A4=
+
+;0xE8884270=8) They offer free re-fills, insulting your status as an upscale urban consumer.  Think how great you feel paying $4 for 4 cents worth of bean juice?
+0xE8884270=
+
+;0x32A9C66C=9) They only serve one or two sizes of coffee and do not understand the importance of syrup.
+0x32A9C66C=
+
+;0xFA1F9D96=10) They do not use foreign names for their coffees.        
+0xFA1F9D96=
+

@@ -1,0 +1,12 @@
+﻿;0xAAF14B10=Flush, burn, block!
+0xAAF14B10=
+
+;0xB1D42878=Lipurgex's revolutionary proprietary formula of caffeine, laxatives, diuretics, painkillers and the magic ingredient, On Fei Taa Ming, halts the hunger sensation in the brain while jacking you up so high you'll never want to come down again. Lipurgex's ground-breaking 'Dual Exit System' violently expels toxins from the body, and after a few hours we guarantee that you will no longer derive any pleasure from the taste of food. 
+0xB1D42878=
+
+;0x3CCC62D8=Take the 'Green for Go' pill in the morning and the 'Red for Stop' pill in the evening. This rollercoaster ride of heart-pumping stimulants that make you feel like you're running a marathon at your desk and brain-melting tranquilizers strong enough to put a rhino in a coma will give you the rapid weight loss results you so desperately want and need.
+0x3CCC62D8=
+
+;0x58214E69=Join the Lipurgex revolution today!
+0x58214E69=
+

@@ -1,0 +1,144 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x0CC122CF=> Discussion Forums
+0x0CC122CF=
+
+;0xCB2825DA= Discussion forums links
+0xCB2825DA=
+
+;0x60854DB4=World domination conspiracies
+0x60854DB4=
+
+;0x55DF0714=The mullet connection!
+0x55DF0714=
+
+;0xFD910832=Cybernetics and mass surveillance
+0xFD910832=
+
+;0x1AF6F7BB=The All Seeing Eye is watching you...
+0x1AF6F7BB=
+
+;0xB6D62AFE=Brainwashing and mind control
+0xB6D62AFE=
+
+;0xF3353255=Planning notes so you will know.
+0xF3353255=
+
+;0x25013734=Is there anybody out there?
+0x25013734=
+
+;0x6C844346=Aliens and UFO's
+0x6C844346=
+
+;0x9923E42F=Smoke and mirrors
+0x9923E42F=
+
+;0x3D8FBEB8=The real truth about Pluto.
+0x3D8FBEB8=
+
+;0x6F2E6571=Women
+0x6F2E6571=
+
+;0xF084B531=The ultimate conspirators?
+0xF084B531=
+
+;0x3D52522A=Poisoning our future leaders
+0x3D52522A=
+
+;0x96793E98=What the food and drink companies are not telling you!
+0x96793E98=
+
+;0xA15149BB=Forum: Brainwashing and mind control 
+0xA15149BB=
+
+;0x8D56EB87=Planting notes so you will know.
+0x8D56EB87=
+
+;0xEF857086=Postings
+0xEF857086=
+
+;0x44AD44FF=Read New
+0x44AD44FF=
+
+;0xF0C79167=Post
+0xF0C79167=
+
+;0xA82D02E5=Name: Apollo11
+0xA82D02E5=
+
+;0xDA5174F4=Location: Las Venturas        
+0xDA5174F4=
+
+;0x5A1E11AB=I read a post here 3 years ago about ATM machines being nefarious instruments of mind control. I thought it was shit but I'm starting to believe it.  I am a well-adjusted, happy guy but every time I go to the bank I develop uncontrollable psychotic tendencies. Yesterday was going great until I took out $40 and ended up running home to disembowel my Yorkshire Terrier with a math compass. Terrified that the populace is becoming too educated and organized, banks and government agencies have conspired to develop brainwashing technology within the ATMs of Liberty City. Ever wonder why the machines ask you so many questions? These are subliminal Neocon-inspired messages urging you to butcher your secretary when you get back to the office. The Powers That Be are determined that discord will continue to bubble under the surface of our society. Be very afraid!          
+0x5A1E11AB=
+
+;0xE8827AEF=Name: Taos Hum
+0xE8827AEF=
+
+;0x73A27210=Location: Vice City
+0x73A27210=
+
+;0xA415A6C6=Yeah, right. Next you'll be telling me that millions of kids around the world will be brainwashed into believing that an invisible, omniscient being created and controls the universe!          
+0xA415A6C6=
+
+;0x507867E6=Name: Anon        
+0x507867E6=
+
+;0xEAC1C226=The Vietnam war never happened! I was there and I don't remember any of it!          
+0xEAC1C226=
+
+;0x7B2E7DEC=Name: Chupacabra
+0x7B2E7DEC=
+
+;0xAC26DB22=Location: Liberty City        
+0xAC26DB22=
+
+;0x956E1177=Why are the homeless people always watching me? I have a theory that they are actually cyborgs created by the government to police the city. Whenever I stumble out a massage parlor or emerge blinking into the midday sun from a crack den, I spot a wino out of the corner of my eye seemingly tracking my every move. Anyone agree?          
+0x956E1177=
+
+;0xD3CB77F9=Name: Greg
+0xD3CB77F9=
+
+;0xAC26DB22=Location: Liberty City        
+0xAC26DB22=
+
+;0x3BAA184D=I'm reliably informed that a recent invasion by robots was foiled by the invention of stairs.          
+0x3BAA184D=
+
+;0x7B2E7DEC=Name: Chupacabra
+0x7B2E7DEC=
+
+;0xAC26DB22=Location: Liberty City        
+0xAC26DB22=
+
+;0x90C09D01=Are you trying to be funny, Greg? You're messing with a man on the edge. I'll gut you and your family.          
+0x90C09D01=
+
+;0x2DF737E0=Name: ReichstagFire
+0x2DF737E0=
+
+;0x1AE9CCCA=Location: Los Santos        
+0x1AE9CCCA=
+
+;0x27937FD5=Dump your trash in the park. Recycling is another ploy to database our DNA. Trash men are paid to log our addresses.          
+0x27937FD5=
+
+;0xDC07B5B0=Name: The Ripper Lives
+0xDC07B5B0=
+
+;0x9181EA10=Location: Vice City        
+0x9181EA10=
+
+;0xB8E9130D=Does that mean that if, say, for example, I was buying trowels, bleach and masking tape 9 times a week, the government would be able to track that via my grocery card?          
+0xB8E9130D=
+
+;0x28595B83=Name: Steve
+0x28595B83=
+
+;0xA155258F=Location: San Fierro        
+0xA155258F=
+
+;0x1A3540FC=Any time-travelers out there? Can I get Saturday's football score?          
+0x1A3540FC=
+

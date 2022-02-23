@@ -1,0 +1,24 @@
+﻿;0xF596456B=RUNWAY SLAVES
+0xF596456B=
+
+;0xA6A66E86=STREET SLAVES
+0xA6A66E86=
+
+;0xC427CDB0=AUTHENTICITY
+0xC427CDB0=
+
+;0x6AD85C6C=Do you love designer labels but hate the price tags? Are you prepared to take the end-of-line stock that nobody else will buy? Are you tired of being arrested for shoplifting? Will you settle for fake Asian imports in place of the real thing? Designer Slave is the premium online store for heavily-discounted and badly-counterfeited fashion wear. We stock all  your favorite brands at a fraction of retail - up to 99% off! It's the American way - from Asia! It's high-quality classic luxury, from a sweat shop in a malaria-infested swamp.
+0x6AD85C6C=
+
+;0xA7FAAEC7=Designer clothes are more important than politics and religion. They are a proper status symbol. They get you into nightclubs. They get you laid. They can even solve a major crisis. Fashion means that you are thinking for yourself by someone else. Life is too short to worry about tomorrow or yesterday. Worry about 2 seconds ago, which is when most fashion falls out of fashion. Let the media guide you towards individuality. Listen to the magazines and TV shows; they know what they are talking about. Look to teen celebrities for inspiration. 
+0xA7FAAEC7=
+
+;0x6C071F25=Designs without enormous logos are not designs. Understatement is a failure in fashion. If you are going to buy a designer item, make sure that it is as gaudy as possible so that everybody knows how much you spent. Big logos impress people. It does not matter if you are too young, too old or too fat. From a 5-year-old in a padded bra to a 50-year-old in a crop-top to a 500-pounder in hot pants, it is the brand that counts. A designer name excuses all fashion felonies. The only crime is a crime against individual choice, but not dressing like everyone else.
+0x6C071F25=
+
+;0x269BEB26=Designer Slave is for people who want the same shoes, handbags and diamante clit ring as their favorite pop star. Designer Slave is for people who post pictures of Jill Von Crastenburg in their 'Heroes' section on MyRoom. Designer Slave is for people who have perfected the subtle and important art of label flashing. Designer Slave is for people who live and die by meTV and Vain magazine. When you see Tony McTony at the Wreck Kurds Awards wearing a new leather bicep leash attached to his ho, Designer Slave will have a knockoff available the next morning. 
+0x269BEB26=
+
+;0x5A4B4A4A=This is high fashion at low prices. Some of it has been worn, some of it is stolen, some of it is fake - ALL of it is CHEAP! You are going to get labeled in life so make sure that it is the right label. Don't fight it. Brand yourself at Designer Slave...
+0x5A4B4A4A=
+

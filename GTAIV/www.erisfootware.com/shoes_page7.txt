@@ -1,0 +1,15 @@
+﻿;0xB402B4AB=Made By Children, Worn By Men
+0xB402B4AB=
+
+;0x65FCA9D0=The Eris KOMBATT takes you from the playing field to the battle field.  A light-weight, heavy-duty ski boot and martial art shoe hybrid, the KOMBATT is made of maximum-strength ballistics-grade fibers with a futuristic chain mail overlay, steel toecaps and an ice skate in the heel. Face your fears.  Do some damage.  Be deadly.  It's kill or be killed out there.
+0x65FCA9D0=
+
+;0xB8EE2FE0=$300
+0xB8EE2FE0=
+
+;0xED147BBF= DECIPHERING THE LINGO
+0xED147BBF=
+
+;0x9B780572= CLICK HERE FOR A MESSAGE FROM ERIS FOUNDER, PETER VASSAL
+0x9B780572=
+

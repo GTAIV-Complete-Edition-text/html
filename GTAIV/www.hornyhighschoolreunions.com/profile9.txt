@@ -1,0 +1,60 @@
+﻿;0x507965B3=Pupil: Melissa Baremott
+0x507965B3=
+
+;0x64F6AF0E=Class of: 1999
+0x64F6AF0E=
+
+;0x614BFE20=High School: Doherty  High School
+0x614BFE20=
+
+;0xE5F8ED95=NICKNAME:
+0xE5F8ED95=
+
+;0x2C8D8022=Spooky Pants
+0x2C8D8022=
+
+;0xB78A2011=BIO:
+0xB78A2011=
+
+;0xFD7446B8=What's going on, class of '99?!!!! Can you believe it's been so long since we left high school? Who's still in San Fierro? My news? Where to start! Do you remember Mr. Britton, our 9th grade science teacher? We are now married and living on a barge with two lovely children called Amaryllis and Calypso. I changed my name to Dawn Light three years ago. I teach experimental mime and play the didgeridoo in my spare time (have a look at 
+0xFD7446B8=
+
+;0xBE30D09C=www.ilovetoblow.org
+0xBE30D09C=
+
+;0x1E8704E9= for more info on this remarkable instrument!). I feel very lucky. It would be cool to hear from some of the Doherty crew! Get in touch!
+0x1E8704E9=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0x545AE513=Are you that cute goth chick I sat behind in geography? Your math was always shit. I always thought you were so lovely and talented. I'm still obsessed with you. Can you send a new photo? The old one I took from the tree outside your bedroom window is falling apart. 
+0x545AE513=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0x661D18BD=Thanks for the photo, Melissa. Shit, you've really gone off the boil! Where are those perky little breasts? What's with the shaved head and cellulite? You were so much better when you were pre-pubescent. You're officially scratched from the spank bank. 
+0x661D18BD=
+
+;0x0A281620=- Lenny.
+0x0A281620=
+
+;0xC0D2B04B=REPLY FROM MELISSA:
+0xC0D2B04B=
+
+;0xEED03F9E=Bite me, creep.
+0xEED03F9E=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0xBD6D439A=I told everybody you gave me head in our Junior year. There, I said it. I'm sorry. 
+0xBD6D439A=
+
+;0x607E2375=- Fingers Watkins.
+0x607E2375=
+
+;0xADD9CB45=BACK TO MAIN PAGE 
+0xADD9CB45=
+

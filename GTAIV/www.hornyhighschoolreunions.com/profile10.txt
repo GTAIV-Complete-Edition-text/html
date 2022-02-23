@@ -1,0 +1,54 @@
+﻿;0x7961C432=Pupil: Tisha Finch
+0x7961C432=
+
+;0xBF3458A8=Class of: 2000
+0xBF3458A8=
+
+;0x8DC705F0=High School: Bohan  Leadership Academy
+0x8DC705F0=
+
+;0xE5F8ED95=NICKNAME:
+0xE5F8ED95=
+
+;0xDA183DBA=Thunder Thighs
+0xDA183DBA=
+
+;0xB78A2011=BIO:
+0xB78A2011=
+
+;0xFD8A640E=What's up, BLA?! I stumbled across this website and thought I'd leave a quick message. I've hardly seen anyone since high school! I work most days and nights at the Clam Palace in Bohan. Pop in and say hi some time. There's always somewhere private where we can talk. I'll even give a free dance to anybody from the class of 2000! 
+0xFD8A640E=
+
+;0x893868F0=Did you hear about Tammy, btw? Did you see the video on 
+0x893868F0=
+
+;0xC0034CD7=Electric Tit
+0xC0034CD7=
+
+;0x88A6B45D= ? I always knew she'd go out in a blaze of glory!
+0x88A6B45D=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0xB498FC84=What are the rules on touching?
+0xB498FC84=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0x43323AD5=Weren't you, like, 300lbs in high school?
+0x43323AD5=
+
+;0x353D2E70=REPLY FROM TISHA :
+0x353D2E70=
+
+;0xAEF49BB3=Lipurgex
+0xAEF49BB3=
+
+;0x8F412704= , baby! It changed my life! I haven't eaten since 2005 and I can pole-dance for 37 hours straight. I had a baby recently and it already looks fat. I fear the cycle is starting again. I think I'm going to give it to my sister.
+0x8F412704=
+
+;0xADD9CB45=BACK TO MAIN PAGE 
+0xADD9CB45=
+

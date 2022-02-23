@@ -1,0 +1,21 @@
+﻿;0xD4C15205=Product: Debonaire 
+0xD4C15205=
+
+;0xEBA7C5F1=Quantity: 200 cigarettes
+0xEBA7C5F1=
+
+;0x09C56C3D=Our Price: $29.99
+0x09C56C3D=
+
+;0x6C10D3DA=Generic cigarettes that don't taste generic.  At this price, you can't afford not to smoke!  You might find that these cigarettes taste a little different from your normal Debonaires and that the name is misspelled on some of the packaging (Hernando won't work in this town again).  This is all in your head.  After a few packs, we promise that it will start to feel less like you are sucking on a tractor exhaust.  
+0x6C10D3DA=
+
+;0x6FEAE585=Major credit cards accepted.
+0x6FEAE585=
+
+;0x93D0CCD8=All purchases are non-refundable.
+0x93D0CCD8=
+
+;0x246A54CE=All liabilities are denied.
+0x246A54CE=
+

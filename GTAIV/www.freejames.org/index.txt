@@ -1,0 +1,30 @@
+﻿;0xD0C13E4A=Welcome to freejames.org, the official campaign for the release of world-famous radio show host, James Pedeaston from jail in Bali.
+0xD0C13E4A=
+
+;0x9E4FEEF6=We need $100,000 to pay off the judge.
+0x9E4FEEF6=
+
+;0x12127F4C=James' legal fund is currently at $23.00.
+0x12127F4C=
+
+;0x21AD6D8F=Like most other days that week, James Pedeaston was awoken on the morning of October 23, 2003 by something long and hard prodding him in the face. Still groggy from the opium he indulged in the night before, James mumbled "Not now Guntur, how did you manage to slip your leash again?" before opening his eyes to find a rifle barrel in his mouth and a leering Balinese policeman standing over him. Having spent the last of his Rupiah in a Kuta nightclub the previous evening, James was unable to meet the financial demands required to secure his innocence and was bound, gagged and beaten, bundled into the back of a van and thrown into a dark prison cell.
+0x21AD6D8F=
+
+;0x1CF15AA6=Bali authorities claimed to have received numerous complaints from frightened villagers about Pedeaston's odd and suspicious behavior in the surrounding areas. It is reputed that he had been spotted taking photos in schoolyards, loitering on street corners with bags of candy, hanging out near the local swimming pool with a banana hammock on and offering cigarettes to parents in exchange for their children. These reports are completely unfounded and, apart from some compromising notes and pictures planted/forged by corrupt officials, as yet only circumstantial evidence has come to light.
+0x1CF15AA6=
+
+;0x010FC970=The fact is it's not true, even though all the evidence says otherwise. It's like religion in that way. A large number of Bali residents have stepped forward to provide information but we at freejames.org question the legitimacy of these savages and strongly suspect police coercion. James was there trying to save these people, to tell the world about them in his radio show. Your donations will help us to suppress all this so-called evidence for good.    
+0x010FC970=
+
+;0x1B142342=James Pedeaston has roamed the globe for years, reporting for his show "The Wild Traveler," which at the height of its popularity was syndicated on over 10 radio stations, before they were all fined by the overzealous FCC over what has become known as 'The Avrindar Incident'.
+0x1B142342=
+
+;0xA72CA5E0=CLICK HERE FOR FURTHER DETAILS
+0xA72CA5E0=
+
+;0xD7BD194C=Until his ill-fated run-in with the Bali police, tens of avid listeners used to tune into Pedeaston's regular travelogue to hear stories of his intrepid adventures and exotic encounters in far-flung corners of the world. James Pedeaston was convicted without trial and has been rotting in a Bali prison for the last 5 years.  
+0xD7BD194C=
+
+;0xA9C64A2C=But there is still hope and YOU CAN HELP!
+0xA9C64A2C=
+

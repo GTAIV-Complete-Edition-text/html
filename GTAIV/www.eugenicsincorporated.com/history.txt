@@ -1,0 +1,9 @@
+﻿;0xA2E29963=The term Eugenics is derived from the Greek word 'Eugenes', which means 'making babies for money'. For some years now, a number of fertility clinics around the world have offered parents the opportunity to choose the sex of their baby, a service that has proved extremely popular in China and India. However, over the last 20 years, scientists like Dr. Von Singer have been working tirelessly to map out the 25,000 genes that make up the human genome. Most people assumed that the Human Genome Project was some kind of campaign to promote the decoration of suburban front yards with tacky little bearded figurines but the reality is that germinal choice technology has now advanced to the point where you can hand-pick the genetic make-up of your child. At Eugenics Incorporated, brains and beauty are firmly on the shopping list.
+0xA2E29963=
+
+;0x266D9DA1=The 1980's were IVF, the 1990's were PGD; the 21st century is the age of SPROG: Selective Prenatal Recombination of Optimal Genes. Pioneered by Dr. Von Singer at Eugenics Incorporated, SPROG is at the cutting edge of advanced reproductive technologies, enabling customers to design their perfect baby by ticking a few boxes in a glossy catalogue.
+0x266D9DA1=
+
+;0x4F1B8342=Make a bioengineered baby today! 
+0x4F1B8342=
+

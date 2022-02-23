@@ -1,0 +1,51 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x880CB8A1=Testimonials
+0x880CB8A1=
+
+;0x6EB3F3BC=Case Study
+0x6EB3F3BC=
+
+;0x880CB8A1=Testimonials
+0x880CB8A1=
+
+;0x911C5256=Positive experiences with our labor force around the world.
+0x911C5256=
+
+;0x9C123E57=Beijing to Texas
+0x9C123E57=
+
+;0x56418623=A call center success story
+0x56418623=
+
+;0x34919844="When I set up my little call center in Beijing back in the early 80's, little did I realize that it would quickly grow into a multi-million-dollar offshoring empire. Milking the cash cow and kissing the udders, as you say in America! Unfortunately, the double-D bra growth of my wife in recent years has meant that operations are very expensive. It's too expensive to outsource in China. When I approached Outsource For America for some advice on streamlining my business model, they recommended that it would be more cost-effective to outsource our payroll and database management to Texas. The people there are dolts and will work for nothing if you let them have a square dance break and some beer after work.  There have been a few teething problems with cross-cultural issues and the heavily-accented Mandarin but the benefits to the bottom line have been tremendous. Those guys will do anything for a few dollars and a keg of beer! We've never looked back!"       
+0x34919844=
+
+;0xF74A0084=- Huan, Beijing.
+0xF74A0084=
+
+;0x657F50A2=Liberty City to Eastern Europe
+0x657F50A2=
+
+;0x00696AF2=Leveraging the power of outsourcing
+0x00696AF2=
+
+;0x81AF69C9="Man, business was bad a couple of years ago. I was thinking of turning out my daughter it was so bad. All the doctors and bankers who used to pay for the girls on my corner lost their jobs and started hitting the crack whores on the other side of town. Human trafficking was getting too expensive and I was tired of rounding up runaways at the train station. I was very close to quitting the pimp game for good until I spoke to Outsource For America. Now I own a gleaming new service center in Eastern Europe where thousands of skinny chicks turn tricks around the clock in a computer-simulated virtual reality. Through the wonders of teledildonic technology, I've been able to slash my costs and they're lining up the street in Liberty City for my $2 blow-jobs. I have to do all my bitchslapping by email now but you have to move with the times..."       
+0x81AF69C9=
+
+;0x168AE0A5=- Felipe, Liberty City       
+0x168AE0A5=
+
+;0x2F3F665E=San Fierro to Bangalore
+0x2F3F665E=
+
+;0x1B4F1F43=Hello profits, goodbye harassment suits
+0x1B4F1F43=
+
+;0x8C58AFF5="Listen. I'm tired of liberals complaining about this stuff. Capitalism means I make a lot of money and I don't care who gets kicked to the curb in the meantime. Outsource For America did a fantastic job helping us to move our operations overseas. We were very keen to be able to mirror our domestic business as closely as possible including having an ass-slapping misogynist Director, a sexually confused Line Manager that would talk to girls' tits and stick his hand up the Receptionist's skirt at the Christmas party and appalling morale for everyone. They found foreign workers who will do this for a fraction of the cost of our smarmy U.S. sales director. A promising start!"       
+0x8C58AFF5=
+
+;0xCBA97790=- Steve, San Fierro         
+0xCBA97790=
+

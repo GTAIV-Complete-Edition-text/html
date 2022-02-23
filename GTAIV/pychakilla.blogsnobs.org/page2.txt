@@ -1,0 +1,84 @@
+﻿;0x04E72159=Username:
+0x04E72159=
+
+;0xF0D04777= Pychakilla 
+0xF0D04777=
+
+;0xB0BACC87=Sex:
+0xB0BACC87=
+
+;0x6246637D= Female 
+0x6246637D=
+
+;0x6C1F83B4=Location:
+0x6C1F83B4=
+
+;0x4C0732B5= Las Venturas 
+0x4C0732B5=
+
+;0xD0F33C72=Age:
+0xD0F33C72=
+
+;0x3F398D1F=Profession:
+0x3F398D1F=
+
+;0x98F2BD7D= College student 
+0x98F2BD7D=
+
+;0xCA6ED4BF=Appearance:
+0xCA6ED4BF=
+
+;0x6E2B41B9= Curly brown hair, pretty summer dresses, white pumps, girly smile, eyes of steel. 
+0x6E2B41B9=
+
+;0x0EEC57CE=Interests:
+0x0EEC57CE=
+
+;0x83798476= Pottery, poetry, civil war reenactments, animals 
+0x83798476=
+
+;0xC4338853=UPDATED - 11 DAYS AGO
+0xC4338853=
+
+;0x298BC964=OMFGMHHLH - and I do mean hurts like hell.  I feel like a small man with an anvil has been using my head for his medevil games of blacksmithery and averice.  Last night was incredible, and I've spent the entire day in bed with Jack.  We met at jen's party.  He was wearing this thing with safety pins and a cartoon tail, and he made this incredible comment about the lawns of castles or something, I was WASTED ON ACID, but we left the party and walked around the city until we could barely stand it.  I was reading a magazine upside down in a 24/7 at one point, and I think we got thrown out, but one thing is certain, jack stayed in my bed, and it was incredible.  My back hurts.  He kept babbling nicknames at me, something about how I'm his little crash test dummy.  He even made me put those weird yellow and black stickers on my tits and he screamed "help, I can't stop" and went face first into them hollering about airbags save lives.  It was cute until he fell asleep with a cigarette in his mouth and it dropped and nearly burned down my curtains, if you know what I mean.  Shit.
+0x298BC964=
+
+;0x23724830=UPDATED - 12 DAYS AGO
+0x23724830=
+
+;0xBA32D4D8=DUMDUMS!!    
+0xBA32D4D8=
+
+;0xA12E0BB5=It's spring break, and while everyone is cavorting around in some place where a person who makes three pesetas an hour shoves ping pong balls inside themand half assedly shakes some stupid marichas around, I'm here, on campus, and even the dining hall is closed.   I like to sit in that big empty dining hall and pretend I'm a star.  I'm dying my hair green, to match the world bank protest I'm going to in a couple of weeks.  If the world is a bank, I'm going through withdrawl.  Shit.  That was brilliant.  I have decided to beceome a writer.  You have inspired me to share more of myself with the world, readers!!!    
+0xA12E0BB5=
+
+;0x17A72890=Jen is having some weird party tonight where you have to dress as your favorite slaveowner.  I've never done anything like that, so why not.
+0x17A72890=
+
+;0x556BF586=UPDATED - 14 DAYS AGO
+0x556BF586=
+
+;0xF192C5C8=I woke up today singing. A bum starting poking me with a stick in the park this afternoon.  He was such a skeezeball but I let him do it.      
+0xF192C5C8=
+
+;0x6F981044=Jen took me to my very firrst nightclub!! Very different from the hodowns back home a lot less fighting and hardly any incest. It was quite possibly the best night of my life.  Jen met her hand-twin and a bald British guy tried to stick his mottled tongue down my throat.  He said he had a place up in the country we could go.  I don't think he's been with a girl in a long time.  We drank shots of tequila and I danced with an immigrant!!!  Why not throw caution to the wind?!!  You're only young once.    
+0x6F981044=
+
+;0x007E0B03=I spent the last couple of hours hanging all the power cables in my room over the back of chairs.  I have to let all the bad energy drain out or Mom will die.      
+0x007E0B03=
+
+;0x180CCBF6=Nearly finished my costume for the 
+0x180CCBF6=
+
+;0xB535D82C=civil war reenactment
+0xB535D82C=
+
+;0x06019106=, btw!!
+0x06019106=
+
+;0x63A064A0=(PREVIOUS POSTS)
+0x63A064A0=
+
+;0xA4647A74=(NEXT POSTS)
+0xA4647A74=
+

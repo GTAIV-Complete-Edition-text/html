@@ -1,0 +1,54 @@
+﻿;0x04E72159=Username:
+0x04E72159=
+
+;0xF0D04777= Pychakilla 
+0xF0D04777=
+
+;0xB0BACC87=Sex:
+0xB0BACC87=
+
+;0x6246637D= Female 
+0x6246637D=
+
+;0x6C1F83B4=Location:
+0x6C1F83B4=
+
+;0x4C0732B5= Las Venturas 
+0x4C0732B5=
+
+;0xD0F33C72=Age:
+0xD0F33C72=
+
+;0x3F398D1F=Profession:
+0x3F398D1F=
+
+;0x98F2BD7D= College student 
+0x98F2BD7D=
+
+;0xCA6ED4BF=Appearance:
+0xCA6ED4BF=
+
+;0x6E2B41B9= Curly brown hair, pretty summer dresses, white pumps, girly smile, eyes of steel. 
+0x6E2B41B9=
+
+;0x0EEC57CE=Interests:
+0x0EEC57CE=
+
+;0x83798476= Pottery, poetry, civil war reenactments, animals 
+0x83798476=
+
+;0x9F2A4FDD=UPDATED - 17 DAYS AGO
+0x9F2A4FDD=
+
+;0x42E2709A=College is so AMAZING.  I feel like a butterfly drawn from a cocoon who gets eaten by a bat.  Every day I am growing and changing.  Soon I'll shave the hair on my arms.  Its so nice to leave all that nasty business at home behind.  I wanted Randy to realize what he had, and in order to do that you have to take away something that they love.  In this case, he loves brake fluid. Mom tells me the minimart has been re-built and that Randy should be back on his feet any day now.  Love makes you do some crazy things.  Sometimes I think that I have too much love to give.  Some of it I should sell...  A restraining order can be tough in a town of 3,400 people, let me tell you.  Those hillbillies don't understand love.  Dr. Carter told me that it would be good to get away.  That the animal torture would stop.  Here I have a clean slate, a blank canvas on which to paint myself a new life.  Right now I'm like a Picasso painting.  I feel like im walking on air.  Jen is my best friend in the whole world.  Shes introducing me to all kinds of cool expereiences. I feel like such a country girl sometimes. I ate sushi the other day.  GROSS!!!  How guys can stand it I'll never know.  Jen enjoyed it however.      
+0x42E2709A=
+
+;0x8394FC02=Pottery Club is such good fun.  I have nominated myself for treasurer.  Fingers crossed!!  This way I can raise money for meds    
+0x8394FC02=
+
+;0x7F10309B=I look forward to sharing more wonderful entries with everyone.
+0x7F10309B=
+
+;0xA4647A74=(NEXT POSTS)
+0xA4647A74=
+

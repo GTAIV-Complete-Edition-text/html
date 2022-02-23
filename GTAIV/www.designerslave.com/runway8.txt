@@ -1,0 +1,15 @@
+﻿;0xE68F1511=RUNWAY SLAVES 
+0xE68F1511=
+
+;0xA6A66E86=STREET SLAVES
+0xA6A66E86=
+
+;0xC427CDB0=AUTHENTICITY
+0xC427CDB0=
+
+;0x6F5D50C2=For Men as Hard as Nails 
+0x6F5D50C2=
+
+;0xFAF5DA7D=Figure-hugging black G&B t-shirts for just $30! They go great with a fake spray on tan! Designed by gay Italians! Worn by soccer players! Look Euro-trash! They're so rich, they don't care that they look like cretins.
+0xFAF5DA7D=
+

@@ -1,0 +1,36 @@
+﻿;0xE253C598=Identity Theft Policy
+0xE253C598=
+
+;0x6D402909=Kids Kredit
+0x6D402909=
+
+;0xB058CCFC=International Wire Transfers
+0xB058CCFC=
+
+;0x368B9352=Debt Consoldiation
+0x368B9352=
+
+;0xCC2A1722=Home Equity Loans
+0xCC2A1722=
+
+;0x6AA54E4F=Plastic Surgery Loans
+0x6AA54E4F=
+
+;0x88C3B8C4=Off-Shore Bank Accounts
+0x88C3B8C4=
+
+;0x97B7449C=Bachelor Party Loans
+0x97B7449C=
+
+;0xB7872DC7=Brokerage
+0xB7872DC7=
+
+;0x97B7449C=Bachelor Party Loans
+0x97B7449C=
+
+;0x90C81EE5=Don't settle for second best on your last night of freedom!  Cocaine, hookers, penthouse suites, bail money... it all adds up!  Make sure that you have enough cash to keep the hotel concierge quiet for a long time. This is a cash loan. Untraceable.        
+0x90C81EE5=
+
+;0xA6AC1EDB=Bank of Liberty uses subliminal advertising throughout all its websites
+0xA6AC1EDB=
+

@@ -1,0 +1,42 @@
+﻿;0x06D2535F=CASE STUDY 1
+0x06D2535F=
+
+;0x221B8696=CASE STUDY 2 
+0x221B8696=
+
+;0x08D25685=CASE STUDY 3
+0x08D25685=
+
+;0x2871A93C=Name: 
+0x2871A93C=
+
+;0x94A16EF8=Patterson vs Pirate Music
+0x94A16EF8=
+
+;0x5845021B=Date: 
+0x5845021B=
+
+;0x47EE3BEB=Case brought in 2004
+0x47EE3BEB=
+
+;0xDAB2AB70=Settlement: 
+0xDAB2AB70=
+
+;0x02476DB6=Dismissed due to lack of 'common sense'
+0x02476DB6=
+
+;0x977A3968=Sometimes a case comes around that just grabs your heart. When we were contacted by the Pattersons about their son Nick, we knew that no matter the lack of 'evidence' available, our law firm could not turn our backs.
+0x977A3968=
+
+;0x58651CF2=Nick had been a promising student who dropped out of school to do nothing but stay in his room conducting imaginary orchestras - a sickening charade as his thirteen hamsters were forced into military fatigue costume, armed with teeny tiny imitation assault weapons and made to simulate warfare as he played Wagner at high volume. The cause of this was clear - popular music - even if it was popular over 100 years ago.
+0x58651CF2=
+
+;0x94BAA478=Nick's fascination with Wagnerian operas clearly caused his  withdrawal from society, and the Pattersons rightly took action before he did something illegal. Despite GL&S not winning the case, we attracted a great deal of media attention for a cause we fervently believe in -ourselves - while nearly bankrupting a national company.
+0x94BAA478=
+
+;0xBB85DF73=GL&S maintains that pop culture and indeed even Wagnerian operas influence those with possible violent tendencies and, despite warning stickers, can still make it into the hands of children.  What happens when they go from opera to Nietzsche? Don't ban weapons, ban pixels, and we're working on that. 
+0xBB85DF73=
+
+;0x1EB6AC60=GL&S, All Rights Reserved . Privacy Statement . Contact Info
+0x1EB6AC60=
+

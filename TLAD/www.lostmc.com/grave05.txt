@@ -1,0 +1,15 @@
+﻿;0xB7ECFEEC=RIP
+0xB7ECFEEC=
+
+;0xCFD9F597=Night Hog
+0xCFD9F597=
+
+;0x5468B135=1950-1982
+0x5468B135=
+
+;0xEDD1EB8A=No one knows where and when and why we started warring with those corporate sell-out bigoted bastards in the A.O.D. But we do know that Night Hog was the first casualty of that fucked up on again off again bullshit. He took two barrels to the face and didn't even stop giving it - died standing on his feet firing off his automatic like a true hero. You were never one for sentiment, Night Hog, but we miss you. I hope you're sticking it to those Deadbeats in the underbelly.
+0xEDD1EB8A=
+
+;0x85A978F8=After viewing use back arrow to return
+0x85A978F8=
+

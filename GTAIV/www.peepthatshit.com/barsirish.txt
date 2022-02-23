@@ -1,0 +1,39 @@
+﻿;0x19A522C2=Irish pubs are everywhere.  It's amazing that there are any Irish left in Ireland.  First they opened up bars throughout continental Europe so that the British could binge-drink when they went abroad without having to mix with the locals.  Then they started their assault on America.  The Americans love to claim distant Irish relatives from 11 generations ago so that they can get loaded like every day is St. Patrick's Day.  These days you can go to the most remote Amazonian settlement and still find an Irish pub nestled between a Wigwam Burger and Bean Machine Coffee, with a bartender who has a horrible  accent.  Not that it's exactly difficult to open one.  A wooden floor, some green paint, a few olde-world artifacts, a couple of shamrocks, a CD of depressing folk songs about murdering your family, some meaningless words in Gaelic, Blarney's on tap, a stupid name like Stinky O'Muff's and you're in business.  If you want the real deal in Liberty City - a bar where people still punch first and ask questions second - you should check out Lucky Winkle's in Purgatory, a place that seems to have been on the corner of Galveston and Hell Gate since the dawn of time.  Another of our favorites is the historic Steinway Beer Garden in Dukes, the perfect spot to hide from your probation officer for an afternoon.  Get in there, get drunk and get into a fight.  Make the Emerald Isle proud your ancestors left and never came back!     
+0x19A522C2=
+
+;0x006388FD=Algonquin
+0x006388FD=
+
+;0xA67F0F37=Drusilla's
+0xA67F0F37=
+
+;0x388007ED=Super Star Café
+0x388007ED=
+
+;0xC6E1A607=Lucky Winkle's
+0xC6E1A607=
+
+;0x81C941D4=Broker
+0x81C941D4=
+
+;0x266BA4BB=69th Street Diner
+0x266BA4BB=
+
+;0x0746BE68=Comrades Bar
+0x0746BE68=
+
+;0x51717FFB=Homebrew Café
+0x51717FFB=
+
+;0xDAE5F56B=Dukes
+0xDAE5F56B=
+
+;0x31E52A46=Steinway Beer Garden
+0x31E52A46=
+
+;0x3EB137E5=Alderney
+0x3EB137E5=
+
+;0x4E1D7285=Mr. Fuks Rice Box
+0x4E1D7285=
+

@@ -1,0 +1,6 @@
+﻿;0x0187BA55=The Angels of Death Motorcycle Club started in San Andreas in 1949.  At first, it was only a small club. Then, after the Civil Rights Act, people became unsatisfied with a non-segregated society.  They looked to the Angels of Death as an oasis of racial and religious purity. Men wanted to treat women like objects, ride motorcycles, and say fuck off to anyone who looked different - they joined the AODMC.
+0x0187BA55=
+
+;0xC7A7E841=Now, there are AOD charters in every state in the country, as well as Scandinavia, the UK, Canada and Australia. We have a theme park in the South and an extensive range of club merchandise. If you've got any questions, take a look at the Q and A section. If you've got more questions, ask a fully patched member of AOD and hope you don't get a kick in the balls.
+0xC7A7E841=
+

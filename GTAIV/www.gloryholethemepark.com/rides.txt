@@ -1,0 +1,33 @@
+﻿;0x29071132=MONSTER WOODY ROLLER COASTER
+0x29071132=
+
+;0xB298A31D=Older roller coaster fans have often complained that newer coasters with their smooth steel shafts, well-lubricated mechanisms and intricate safety procedures can take the fun out of riding.  We're proud to introduce the Monster Woody Roller Coaster, constructed out of wood.  This is not the ride you are used to!  Your insides will take a pounding as the G-force twists and turns take hold.  It's the ride of your life!
+0xB298A31D=
+
+;0xA1FD6EFD=FLAMING SCREAM MACHINE
+0xA1FD6EFD=
+
+;0x52236BF5=has reopened after last month's incident.
+0x52236BF5=
+
+;0x09100789=OTHER RIDES AND ATTRACTIONS:
+0x09100789=
+
+;0x3E66900B=The Spitting Cobra
+0x3E66900B=
+
+;0x55FD0891=The Coffeegrinder
+0x55FD0891=
+
+;0x8D7B45F5=Bucking Bronco
+0x8D7B45F5=
+
+;0x66C19838=Roman Shower
+0x66C19838=
+
+;0xA3ED1EDA=Log Flume
+0xA3ED1EDA=
+
+;0x325205B4=Galley Wacker
+0x325205B4=
+

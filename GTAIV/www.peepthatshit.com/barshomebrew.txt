@@ -1,0 +1,39 @@
+﻿;0xC863AE1F=A good bar should feel like home: warm and damp like a communal bathtub.   And the Homebrew Café is like home - familiar, but lonely and full of angry people you have to pretend to like in order to avoid a fight.  If you don't mind your beer served slowly and with some serious attitude, Broker's Homebrew Café will transport you straight from Liberty City to the heart of Jamaica.  Much of the beer is made in a real home bathtub.  Anyone who finds a pubic hair in their lager gets a free shot.   Don't expect 5-star treatment at this no-frills hangout in Beechwood City, but it is definitely a fun place to get fucked up, play some pool, chase a chubby, drink some Pride Brew and eat some curried goat.  Enjoy.     
+0xC863AE1F=
+
+;0x006388FD=Algonquin
+0x006388FD=
+
+;0xA67F0F37=Drusilla's
+0xA67F0F37=
+
+;0x388007ED=Super Star Café
+0x388007ED=
+
+;0xC6E1A607=Lucky Winkle's
+0xC6E1A607=
+
+;0x81C941D4=Broker
+0x81C941D4=
+
+;0x266BA4BB=69th Street Diner
+0x266BA4BB=
+
+;0x0746BE68=Comrades Bar
+0x0746BE68=
+
+;0x51717FFB=Homebrew Café
+0x51717FFB=
+
+;0xDAE5F56B=Dukes
+0xDAE5F56B=
+
+;0x31E52A46=Steinway Beer Garden
+0x31E52A46=
+
+;0x3EB137E5=Alderney
+0x3EB137E5=
+
+;0x4E1D7285=Mr. Fuks Rice Box
+0x4E1D7285=
+

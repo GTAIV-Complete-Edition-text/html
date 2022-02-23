@@ -1,0 +1,81 @@
+﻿;0x3FB3EF0A=Now that there are sports that you can participate in while sitting with a cigar and martini in your hand, why not visit the sports centers in LC?  It is impossible to get bored in Liberty City, unless you're a religious freak, and then it's a pretty boring place.  Once you have had your fill of sightseeing, eating and drinking, there is a wealth of other fun activities available to help you work off that last Heartstopper from Burger Shot.
+0x3FB3EF0A=
+
+;0xA8AEE2A9=The best sports are those that require no fitness whatsoever.  Challenge one of the locals to a game of darts, hustle somebody on the pool table and get in a knife fight, or if you don't mind sharing sweaty footwear with strangers, show off your ten-pin bowling skills at Memory Lanes.     
+0xA8AEE2A9=
+
+;0x0A49A909=Memory Lanes at Golden Pier
+0x0A49A909=
+
+;0xF42B4B0C=Westminster, Algonquin       
+0xF42B4B0C=
+
+;0xC2BB7654=Memory Lanes at Firefly Island
+0xC2BB7654=
+
+;0x38F18054=Broker        
+0x38F18054=
+
+;0xDCE4A755=If you think Liberty City is a war zone, you should check out the dating scene.  People in Liberty City date a lot, or at least that's what they tell you.  Nowadays, drinking and stalking are not the only ways to meet someone of the opposite sex - online dating is the future.  You don't have to worry about fluffing your pick-up lines, you can be generous with the truth and photo-editing can really broaden your options.  It's a gamble; you might get killed but you might also find the love of your life.  
+0xDCE4A755=
+
+;0xCAAC6EC2=Love-Meet.net
+0xCAAC6EC2=
+
+;0x18BC55FE= is a premium Liberty City dating service with a database full of desperate people looking for hand jobs, domestic violence, and romance.   Desperation and anonymity are powerful aphrodisiacs. Real perverts like to use 
+0x18BC55FE=
+
+;0x37D143C5=Craplist
+0x37D143C5=
+
+;0xD57B7B04= to meet society's worst dregs for no-holds-barred smut.     
+0xD57B7B04=
+
+;0x05C29F1C=After a night spent spanking a lap dancer in a seedy nightclub, you can feel better about yourself by taking your walk of shame into one of Liberty City's many museums:       
+0x05C29F1C=
+
+;0xC5F142A9=Randolf Art Center
+0xC5F142A9=
+
+;0xDAC24B0E=Galveston Avenue between Obsidian Street and Nickel Street, Middle Park West, Algonquin       
+0xDAC24B0E=
+
+;0x2CEB2922=Current Exhibits:       
+0x2CEB2922=
+
+;0x6882F1E4=Philips Van Der Philip is the Dutch 'aesthetic minimalist', who creates paintings that look as little like the subject matter as possible. Critics say that Van Der Philip has exposed the gap between subject and object like no one else before.        
+0x6882F1E4=
+
+;0x7F6F5D05=Adam Biggs is the world-renowned 'abstract literalist' who painted nothing but circles during the 1950's and 60's.                
+0x7F6F5D05=
+
+;0x5C0AA9D6=National Union of Contemporary Arts - NUCA
+0x5C0AA9D6=
+
+;0x92ACD395=Dukes Boulevard at Bunker Hill Avenue, East Island City, Dukes       
+0x92ACD395=
+
+;0x2CEB2922=Current Exhibits:       
+0x2CEB2922=
+
+;0xA82742DB=Bao is an incredible and original Chinese artist who paints with pandas.  More specifically, he sings and shouts at pandas until they do the painting for him.       
+0xA82742DB=
+
+;0x7E8CDE81=Simon & Nigel are two middle-aged British homosexuals who take photographs of themselves reenacting famous atrocities in history, dressed as gorillas.            
+0x7E8CDE81=
+
+;0x83C772AC=Libertonian Museum
+0x83C772AC=
+
+;0x50798B7D=Columbus Avenue opposite Pyrite Street, Middle Park, Algonquin       
+0x50798B7D=
+
+;0x2CEB2922=Current Exhibits:       
+0x2CEB2922=
+
+;0x5B62DBE5=History, Heraldry, Egypt, Dinosaurs        
+0x5B62DBE5=
+
+;0x29114411=NOTE: CLOSED FOR RENOVATION        
+0x29114411=
+

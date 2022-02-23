@@ -1,0 +1,9 @@
+﻿;0x9F9C808C=Help to create a new world for your children, including entirely new coastlines and seaside resorts.
+0x9F9C808C=
+
+;0x982F2EFA=Globe Oil is always looking for new staff, especially in the fields of, Law and Lobbying.  If you are young, blond, and would like the thrill of interfacing with members of Congress, helping to get energy legislation killed by hiking your business in the air for a quick bang courtesy of Globe Oil, apply now!
+0x982F2EFA=
+
+;0xA03DB633=We also hire the top Public Relations executives in the world.  If you are extremely persuasive and can make members of the media melt with a sophisticated verbal dance - we want to hire you!
+0xA03DB633=
+

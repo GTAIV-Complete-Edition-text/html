@@ -1,0 +1,81 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x0EAC1F07=Browse
+0x0EAC1F07=
+
+;0xDBFA1DE3=Shipping
+0xDBFA1DE3=
+
+;0x20F64111=Payment
+0x20F64111=
+
+;0x880CB8A1=Testimonials
+0x880CB8A1=
+
+;0x588A5993=Welcome
+0x588A5993=
+
+;0x84D38C77=The flowers.  The dates.  The sexual harassment lawsuits at work.  Are you tired of the game?  Going broke and settling for second best?  Are you looking for a beautiful, nubile wife or at least someone to clean up around the house and give you executive release?  Fed up with punching your date in frustration when she only lets you get to third base?   Tired of looking for love in the corners of truck stop parking lots?  Desperate but solvent?  You have come to the right place.          
+0x84D38C77=
+
+;0x74CC2DC0=Welcome to PointClickShipABitch.com, your one-stop-shop for mail order brides.  Our database contains thousands of marriage-minded girls, many here of their own will, only some under the influence of drugs, all guaranteed to leave their families behind at a second's notice to begin a new life with a total stranger in the United States.  A stranger just like you. Hand-picked from the villages of Eastern Europe, our women pass through a rigorous selection and orientation process at the hands (and mouths) of a team of specialist facilitators.           
+0x74CC2DC0=
+
+;0x3D00BACA=More than just a pretty face, these girls are loyal, obedient and endowed with the traditional values of marriage - when women were considered property and a man was met at the door with a martini and a quickie.  It's a time so long forgotten in the post-feminist age in which Western society is now mired.  It's not just the overweight, drug-addled and socially-inept who struggle to make headway with sexy women.  Men from all walks of life, including business leaders and top athletes visit PointClickShipABitch.com in search of something new...something foreign, yet fast ...an exotic lady at your doorstep in 24 hours.          
+0x3D00BACA=
+
+;0x2968BE63=Think ahead for a moment. Think ahead to the day, maybe TOMORROW, when you are walking down the aisle with a statuesque teenage blond who loves you for who you are - her owner - and not what you look like.  
+0x2968BE63=
+
+;0x97C7CA79=Today's Special Offer
+0x97C7CA79=
+
+;0xF3844C2B=Olga is 18 and looking for love.  Ever since she saw her first episode of Just the Five of Us , she has always dreamt of leaving her eight brothers and sisters behind to marry an American man.  Toned, busty and blond with a girly laugh, Olga describes her perfect man as middle-aged, portly, and introverted.  Baldness is a plus.  Likes:  mayonnaise, cigarettes and ten-pin bowling.  Due to a short absence from her over-protective local guardian, Olga is looking to move within the next two days.  Are you her knight in shining armor?  Don't delay; your stunning bride is two clicks away!
+0xF3844C2B=
+
+;0x30F193B7=Please note that all our bride profiles are translated from source language into English by PointClickShipABitch.com.  We reserve the right to employ artistic license.
+0x30F193B7=
+
+;0x11ED1355=Ready to ship
+0x11ED1355=
+
+;0xF05955E4=Irina
+0xF05955E4=
+
+;0x5F3E9F4D=Age: 23
+0x5F3E9F4D=
+
+;0x5FBEF0DE=Zorana
+0x5FBEF0DE=
+
+;0xD54614D4=Age: 19
+0xD54614D4=
+
+;0x1D591336=Tatjana
+0x1D591336=
+
+;0x5A3E976E=Age: 26
+0x5A3E976E=
+
+;0x3C144EDB=Svetlana
+0x3C144EDB=
+
+;0x5C3E9A94=Age: 20
+0x5C3E9A94=
+
+;0x1FA22377=Nata
+0x1FA22377=
+
+;0x5E3E9DBA=Age: 22
+0x5E3E9DBA=
+
+;0xD5163236=Yana
+0xD5163236=
+
+;0xD6461667=Age: 18
+0xD6461667=
+
+;0xBA67C3A1=Browse our catalog to view our entire inventory of ready-to-ship brides.
+0xBA67C3A1=
+

@@ -1,0 +1,30 @@
+﻿;0x4D15EA96=TOM GOLDBERG Esq
+0x4D15EA96=
+
+;0x4B7DC889=PATRICK LIGNER Jr Esq
+0x4B7DC889=
+
+;0x04F148B9=DICK SHYSTER Esq
+0x04F148B9=
+
+;0xAF8A09B1=PATRICK LIGNER Jr Esq  
+0xAF8A09B1=
+
+;0x45E0C856=Mr. Ligner has been dedicated to the bettering of society since an early age.  He came to prominence after bankrupting the law school he had recently graduated from with only one lawsuit.  
+0x45E0C856=
+
+;0xFCFE61B2=After this achievement, he went on to construct cases against his undergraduate college, high school, and elementary school.  With a well known name and reputation to be reckoned with, Mr. Ligner became a co-founder and partner in one of the most respected law firms in Liberty City - Goldberg Ligner and Shyster.  
+0xFCFE61B2=
+
+;0x48ED6CC3=Recently he has taken a sabbatical from practicing law to promote his new book, 'Five Easy Ways to Spot a Lawsuit: Rudimentary Case Construction.'  'Five Easy Ways' was a fixture on the Liberty Tree Bestseller List and a Weazel News Book of the Week.  
+0x48ED6CC3=
+
+;0x59E0D19A=GL&S now welcomes Mr. Ligner back into the fold as a full time attorney.   
+0x59E0D19A=
+
+;0x6AE1B293=ligner@goldberglignerandshyster.com
+0x6AE1B293=
+
+;0x1EB6AC60=GL&S, All Rights Reserved . Privacy Statement . Contact Info
+0x1EB6AC60=
+

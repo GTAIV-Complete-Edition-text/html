@@ -1,0 +1,36 @@
+﻿;0x8EA5675B=On Fei Taa Ming is the Cantonese word for uh, happy spirit tiny waist powder. It was, um, handed down from the Cantons to the Nese's around 1300 or something. We find that consumers are far more comfortable buying our products if we list out the dangerous and addictive  ingredients by their exotic Chinese names.
+0x8EA5675B=
+
+;0x0BF75138=We prefer to refer to Lipurgex as a dietary supplement rather than a drug. This way we can bypass the FDA and bring our products to market without having to  demonstrate that they are safe or effective. 
+0x0BF75138=
+
+;0xD202AD68=FDA - Go screw!
+0xD202AD68=
+
+;0x7A27960A=Contrary to the claims on our home page, users of Lipurgex have experienced some side effects including irritability, social  withdrawal, high blood pressure, heart failure, pulmonary embolisms, spontaneous hand under armpit noise seizures and strokes. But guess what? Obesity carries exactly the same health risks! If you're going to die early, would you rather be fat or thin? In a similar way to ecstasy, the long-term psychological and physical effects (e.g.  irreparable damage to the heart and central nervous system) will not manifest themselves for at least a decade by which time you will have already reaped the professional and societal rewards reserved for the slender demographic.
+0x7A27960A=
+
+;0x3BA25482=From time to time, our website gets shut down  and we need to change the name of our product and move the servers to another  small independent island nation. 
+0x3BA25482=
+
+;0xAD6167D6=If this happens, you will be able to get your fix by purchasing additional supplies of Lipurgex on Craplist. Just search under amphetamine + laxative + tranquilizer.
+0xAD6167D6=
+
+;0x7C4C487D=All of the people you see on our website are  paid models.
+0x7C4C487D=
+
+;0xA252B28A=Before and After Photos: we take the 'after' photos first, force the models to overeat and then take the 'before' photos.
+0xA252B28A=
+
+;0x0639F03A=Customers who submit testimonials are compensated with free product.
+0x0639F03A=
+
+;0x63BFA62F=The weight loss described in our testimonials is extremely unlikely or impossible.
+0x63BFA62F=
+
+;0x190E87A7=Dr. Von Singer is under contract for the next six months. Real people get paid. And doctors are real people too.
+0x190E87A7=
+
+;0x8649E4BC=We strongly advise against applying for jobs that require a drug test.
+0x8649E4BC=
+

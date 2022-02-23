@@ -1,0 +1,24 @@
+﻿;0x232AE571=Last minute travel is the best kind of travel, especially if you've accidentally killed your girlfriend or received word of a federal indictment.        
+0x232AE571=
+
+;0x5BBB331C=We've bought up the entire excess inventory from airlines and hotels and have put together some truly amazing vacations to places you've never thought of going.        
+0x5BBB331C=
+
+;0xB023BCE1=Why pay the airline and hotel directly when a dubious online intermediary can slash your costs by hiding all the extra charges until your credit card details have already been processed?  Our database is packed with too-good-to-be-true deals designed to seduce and deceive the customer with false advertising.  
+0xB023BCE1=
+
+;0xA445D865=Like any successful business, the travel industry is all about connections... and our flights have LOTS of them.  We fill up empty seats with empty promises.        
+0xA445D865=
+
+;0x5884BA76=All special offers are subject to impossible-to-meet conditions, all purchases are non-refundable and we reserve the right to cancel any part of the itinerary at the last minute.
+0x5884BA76=
+
+;0xFC2B0158=You're our 10,000th customer!        
+0xFC2B0158=
+
+;0x1BBDD020=You have been selected to join our exclusive Travel Club!  Enjoy special discounts, amazing offers and unique package deals all for the low promotional rate of $2,000 per year!  A telemarketer will call you every 10 minutes for the rest of your life!       
+0x1BBDD020=
+
+;0x122B6CFE=Be an adventurer!      
+0x122B6CFE=
+

@@ -1,0 +1,18 @@
+﻿;0x32DA30B0=If There's Grass On The Field, Play Ball!
+0x32DA30B0=
+
+;0x824709D6=The Asaltacunas is for people who play to win. This top-selling sneaker merges a baseball-inspired design with a Velcro-tab fastening system for easy removal and a mirror on each toecap for looking up girls' skirts.   If you haven't heard of Ernesto Asaltacunas, well, you must be European.  Star power pitcher for the Liberty Swingers, the Cuban has broken every baseball record under the sun and every law under the sheets.  He recently came out of a tumultuous and much-publicized three week relationship with teen heiress and party girl, Jill Von Crastenburg.  Eris founder, Pete Vassal, told reporters, "It's obvious from Ernesto's performance on and off the field that his appeal touches all age groups.  He embodies the Eris lifestyle and we are more than happy to pay him $100 million a year to say that. "After signing the deal with Eris last year, Asaltacunas said at a press conference, "You've either got it or not.  And I got it.  Being an idol is about aspiration.  My fans know I'm better than them in every way but that gives them some kind of hope.  Weird, I know, but it turns me on. Now, who wants to blow me in the limo?"
+0x824709D6=
+
+;0x27990493=$280
+0x27990493=
+
+;0x651E7172= Step up to the plate. 
+0x651E7172=
+
+;0xED147BBF= DECIPHERING THE LINGO
+0xED147BBF=
+
+;0x9B780572= CLICK HERE FOR A MESSAGE FROM ERIS FOUNDER, PETER VASSAL
+0x9B780572=
+

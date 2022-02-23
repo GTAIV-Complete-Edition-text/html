@@ -1,0 +1,150 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x0CC122CF=> Discussion Forums
+0x0CC122CF=
+
+;0xCB2825DA= Discussion forums links
+0xCB2825DA=
+
+;0x60854DB4=World domination conspiracies
+0x60854DB4=
+
+;0x55DF0714=The mullet connection!
+0x55DF0714=
+
+;0xFD910832=Cybernetics and mass surveillance
+0xFD910832=
+
+;0x1AF6F7BB=The All Seeing Eye is watching you...
+0x1AF6F7BB=
+
+;0xB6D62AFE=Brainwashing and mind control
+0xB6D62AFE=
+
+;0xF3353255=Planning notes so you will know.
+0xF3353255=
+
+;0x25013734=Is there anybody out there?
+0x25013734=
+
+;0x6C844346=Aliens and UFO's
+0x6C844346=
+
+;0x9923E42F=Smoke and mirrors
+0x9923E42F=
+
+;0x3D8FBEB8=The real truth about Pluto.
+0x3D8FBEB8=
+
+;0x6F2E6571=Women
+0x6F2E6571=
+
+;0xF084B531=The ultimate conspirators?
+0xF084B531=
+
+;0x3D52522A=Poisoning our future leaders
+0x3D52522A=
+
+;0x96793E98=What the food and drink companies are not telling you!
+0x96793E98=
+
+;0xEBF9750A=Forum: Women
+0xEBF9750A=
+
+;0xF084B531=The ultimate conspirators?
+0xF084B531=
+
+;0xEF857086=Postings
+0xEF857086=
+
+;0x44AD44FF=Read New
+0x44AD44FF=
+
+;0xF0C79167=Post
+0xF0C79167=
+
+;0x5E27FC79=Name: Loch Ness
+0x5E27FC79=
+
+;0xA155258F=Location: San Fierro        
+0xA155258F=
+
+;0x23280F36=I'm sure you all visit my blog but I wanted to repost this. Scientists somewhere have discovered that there is an ingredient in Sprunk soda that stops women from having orgasms. That explains a lot! For years I have plied lonely-looking women with vodka and Sprunk before luring them back to my studio under false pretenses but, despite all my best efforts, they always seem to lie there like a sack of potatoes until I unload one, cry, then ask them to leave. Until now I had put it down to my hairy back and tiny member... what a relief!          
+0x23280F36=
+
+;0xF10717BF=Name: ChemTrail
+0xF10717BF=
+
+;0xAC26DB22=Location: Liberty City        
+0xAC26DB22=
+
+;0xB28627DE=I knew it! Does it also cause premature ejaculation? I drink loads of sprunk and last five seconds at most          
+0xB28627DE=
+
+;0xAC3E0669=Name: SkullandBones
+0xAC3E0669=
+
+;0xDA5174F4=Location: Las Venturas        
+0xDA5174F4=
+
+;0x14EF01C7=Sounds like yet another far-right feminist conspiracy to turn women against men. Aren't the senior execs at Sprunk all chicks?           
+0x14EF01C7=
+
+;0xE675A4B6=Two words: Population control. We all know that the government bankrolled the women's liberation movement back in the sixties in order to undermine the family unit. It's all about thinning out the herd, man. Just like they created crystal meth as a means to control men who like musicals. And they create shortages of flu vaccine to kill off the elderly. Fine with me. MY GRANDMA SMELLS LIKE SHIT!            
+0xE675A4B6=
+
+;0x2DF737E0=Name: ReichstagFire
+0x2DF737E0=
+
+;0x1AE9CCCA=Location: Los Santos        
+0x1AE9CCCA=
+
+;0xAF66BCEF=Next you'll be telling me that a woman will run for president! HA! I hate vaginas.          
+0xAF66BCEF=
+
+;0x7B2E7DEC=Name: Chupacabra
+0x7B2E7DEC=
+
+;0xAC26DB22=Location: Liberty City        
+0xAC26DB22=
+
+;0x56A576B2=Yeah, man! Women have been systematically grinding men down one generation at a time for centuries. It's a known fact that the Y chromosome is in decline and will eventually disappear completely!          
+0x56A576B2=
+
+;0x12015370=Look what happened to the whiptail lizard! Imagine that...a master race of oiled-up chicks copulating amongst themselves!             
+0x12015370=
+
+;0xE8827AEF=Name: Taos Hum
+0xE8827AEF=
+
+;0x73A27210=Location: Vice City
+0x73A27210=
+
+;0x6756ED31=I think that I have that on DVD!           
+0x6756ED31=
+
+;0xA82D02E5=Name: Apollo11
+0xA82D02E5=
+
+;0x08947274=Location: Las Venturas
+0x08947274=
+
+;0xC5D1EB15=Why do women's shirts button up the other way?          
+0xC5D1EB15=
+
+;0xDDFF9B24=Name: Bermuda Triangle
+0xDDFF9B24=
+
+;0x73A27210=Location: Vice City
+0x73A27210=
+
+;0x1DEEB85D=Christ, you guys really need to get laid.          
+0x1DEEB85D=
+
+;0x4790E926=Name: Anon
+0x4790E926=
+
+;0x52A533C9=Research has also shown that too much Cluck N'Bell food makes you support same sex marriages and marijuana legalization. Another conspiracy that leaves a bitter taste in the mouth...literally! Be careful what you eat. Every time my roommate pops in for a piece of chicken, he finds himself strapped to an anvil with crocodile clips on his nipples and a Samoan's balls in his mouth a couple of hours later.          
+0x52A533C9=
+

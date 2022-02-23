@@ -1,0 +1,45 @@
+﻿;0xD2C8C28E=home
+0xD2C8C28E=
+
+;0xCED71285=interesting
+0xCED71285=
+
+;0x1B0897A4=facts
+0x1B0897A4=
+
+;0x848A9B39=in the
+0x848A9B39=
+
+;0x4BC7BC46=news
+0x4BC7BC46=
+
+;0x831229FF=big instruments
+0x831229FF=
+
+;0x01C7882B=for small men
+0x01C7882B=
+
+;0xC8163241=the didge
+0xC8163241=
+
+;0xA847E0A9=shop
+0xA847E0A9=
+
+;0x9CF23A65=in the news: didge dens
+0x9CF23A65=
+
+;0x3B204D6B=The Liberty Tree has been following the story of 'Didge Dens' that are springing up all over Liberty City.  Over the past twelve months, the basements of derelict apartment blocks have become overrun with gangs of guys in sandals and girls without bras.       
+0x3B204D6B=
+
+;0xF89CA506=A local police officer told The Liberty Tree that, "These didgeheads are terrorizing our communities.  They just lie there cooking up bees wax and passing around the infernal tube.  It's turning into a real epidemic.  Only today I apprehended a youth with a tailshaft under his coat."       
+0xF89CA506=
+
+;0xB9C31A00=The risk of infection is tremendous and social workers are now trying to educate people about the dangers of sharing didgeridoos.       
+0xB9C31A00=
+
+;0xFE9C6B6F=One Liberty City resident, who lives above a Didge Den, commented "It's terrible.  It sounds like a walrus is dying down there.  My little girls have to step over discarded drainpipes on their way to school."       
+0xFE9C6B6F=
+
+;0x23CAB8CC=Medical centers have started to hand out cleaning works to users in the worst-hit areas.  The kits, consisting of six lightweight fiberglass tubes, are designed to strap easily to the back of caftans.
+0x23CAB8CC=
+

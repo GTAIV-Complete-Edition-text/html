@@ -1,0 +1,48 @@
+﻿;0x08DF3006=Pupil: Craig Dingleberry
+0x08DF3006=
+
+;0xD8F39413=Class of: 1981
+0xD8F39413=
+
+;0x246C2B15=High School: South  Broker High  School
+0x246C2B15=
+
+;0xE5F8ED95=NICKNAME:
+0xE5F8ED95=
+
+;0xCE8C70E4=Skunky
+0xCE8C70E4=
+
+;0xB78A2011=BIO:
+0xB78A2011=
+
+;0x082DB4B9=Long time no see! Some big news from my side. I met a wonderful Croatian girl on the Internet called Anka (
+0x082DB4B9=
+
+;0x09FA0A30=www.pointclickshipabitch.com
+0x09FA0A30=
+
+;0xFD0A40E9=  - check it out)! The check to her father is taking some time to clear and I am still waiting for point of entry to be confirmed but we plan on getting married in three weeks! I can't wait to meet her! Fingers crossed that she's as dirty as she looks in her photo. Who would have thought that there are hot 18-year-old girls out there who love overweight, bald middle-aged men! 
+0xFD0A40E9=
+
+;0xD9E0DBCA=Anyway, I am trying to get some people together for a bachelor party next weekend. At the moment it's just me and the weird guy from the video store. Any takers? You don't have to like me. You don't have to even know me. Dinner at Mr. Fuks followed by bowling at Memory Lanes. Let's tear it up! Free booze and cigarettes all night.
+0xD9E0DBCA=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0x8DEE26A7=I didn't want to hang out with you in high school and I sure as hell don't want to hang out with you now. 
+0x8DEE26A7=
+
+;0x07C0819D=- Pauly.
+0x07C0819D=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0x4107F28E=How's that BO problem working out for you, Craig?
+0x4107F28E=
+
+;0xADD9CB45=BACK TO MAIN PAGE 
+0xADD9CB45=
+

@@ -1,0 +1,15 @@
+﻿;0x276BA874=Be a Player
+0x276BA874=
+
+;0xA6384F9C=A basketball legend for the Liberty Penetrators, Tyrone 'The Tower' Hancock signed a record-breaking endorsement deal with Eris in 1985.  The Eris Hancock sneaker range initially received a lukewarm reception but, after The Tower's ignominious exit from professional basketball the following year, sales went through the roof.  During a random drug test, Hancock tested positive for 9 different illegal narcotics and famously came out with the line, "I thought if I just took a little bit of everything it would cancel itself out."  The Hancock was the first sports shoe to feature the Eris SQUIDGE heel-cushioning technology in a visible plastic capsule (original models actually contained Tyrone's own hair gel).  The Tower never played basketball again and has been in and out of rehab ever since his fall from grace but Hancocks are still going strong 20 years later.  These days, he is more commonly referred to as 'The Leaning Tower' by the tabloid press.  Eris founder, Pete Vassal, said of Hancock, "Tyrone is an inspiration for millions of kids the world over.  He is just the type of unsuitable role model young people will go out of their way to emulate.  It's a fact - bad boys sell sneakers.  Every time The Tower falls off the wagon, Hancocks fly off the shelves." Be like your hero. Walk in his shoes. 
+0xA6384F9C=
+
+;0xA98D0546=$250
+0xA98D0546=
+
+;0xED147BBF= DECIPHERING THE LINGO
+0xED147BBF=
+
+;0x9B780572= CLICK HERE FOR A MESSAGE FROM ERIS FOUNDER, PETER VASSAL
+0x9B780572=
+

@@ -1,0 +1,102 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x52433BD9=How To Get Involved
+0x52433BD9=
+
+;0x4FB4929D=Our Policy
+0x4FB4929D=
+
+;0x791CF7C4=Thomas Stubbs 
+0x791CF7C4=
+
+;0xC8C79435=is about continuity AND change
+0xC8C79435=
+
+;0x95CA138C=Thomas Stubbs
+0x95CA138C=
+
+;0x6050F32B=wants to use insider experience to bring an end to bi-partisan politics.
+0x6050F32B=
+
+;0x95CA138C=Thomas Stubbs
+0x95CA138C=
+
+;0x6879E60E=stands up to terrorists by ensuring the homeland is protected and by engaging in a sensible dialogue with like-minded individuals.
+0x6879E60E=
+
+;0x791CF7C4=Thomas Stubbs 
+0x791CF7C4=
+
+;0x1DA3E0F6=is concerned about the environment, but not at the expense of economic development or our energy needs.
+0x1DA3E0F6=
+
+;0x95CA138C=Thomas Stubbs
+0x95CA138C=
+
+;0x0581908B=is pro-choice, apart from when to be so would harm the unborn baby, or his chances in an election.
+0x0581908B=
+
+;0x95CA138C=Thomas Stubbs
+0x95CA138C=
+
+;0x6AEF5260=is pro-gay, apart from when it suits him to be pro-family. Marriage is about a union between Adam and Steve, and not between two men. Civil partnerships are what matters. And that's different in a lot of important ways.
+0x6AEF5260=
+
+;0x95CA138C=Thomas Stubbs
+0x95CA138C=
+
+;0x0CF4D0CC=helped invent a lot of things, including penicillin, the internet and disposable diapers.
+0x0CF4D0CC=
+
+;0x95CA138C=Thomas Stubbs
+0x95CA138C=
+
+;0x3D454655=wants to help out Main Street, and big business by giving tax breaks to people.
+0x3D454655=
+
+;0x95CA138C=Thomas Stubbs
+0x95CA138C=
+
+;0x0AEAD4B6=is a patriot who believes in a military that has an increased advertising budget.
+0x0AEAD4B6=
+
+;0x95CA138C=Thomas Stubbs
+0x95CA138C=
+
+;0x07E66940=has the plan that will solve healthcare once and for all. Vote for him and you may find out what it is.
+0x07E66940=
+
+;0x95CA138C=Thomas Stubbs
+0x95CA138C=
+
+;0x830126C8=comes from a long line of politicians but also represents the common man and equal opportunities.
+0x830126C8=
+
+;0x95CA138C=Thomas Stubbs
+0x95CA138C=
+
+;0x374A73F4=will help bring campaign reform to government, by reforming the way people campaign.
+0x374A73F4=
+
+;0x95CA138C=Thomas Stubbs
+0x95CA138C=
+
+;0xD76128D1=is a patriot who is also a citizen of the world.
+0xD76128D1=
+
+;0xCB44F10B=With 
+0xCB44F10B=
+
+;0x95CA138C=Thomas Stubbs
+0x95CA138C=
+
+;0xBC583C01=, what you see is really what you get.      
+0xBC583C01=
+
+;0xFF918D09=VOTE FOR THOMAS STUBBS
+0xFF918D09=
+
+;0x2A7A668C=Privacy Policy  RSS  Site Map
+0x2A7A668C=
+

@@ -1,0 +1,39 @@
+﻿;0xD2C8C28E=home
+0xD2C8C28E=
+
+;0xCED71285=interesting
+0xCED71285=
+
+;0x1B0897A4=facts
+0x1B0897A4=
+
+;0x848A9B39=in the
+0x848A9B39=
+
+;0x4BC7BC46=news
+0x4BC7BC46=
+
+;0x831229FF=big instruments
+0x831229FF=
+
+;0x01C7882B=for small men
+0x01C7882B=
+
+;0xC8163241=the didge
+0xC8163241=
+
+;0xA847E0A9=shop
+0xA847E0A9=
+
+;0xC9D6631F=the didge shop
+0xC9D6631F=
+
+;0x60F258DE=Let's get didgetal! Try out our new electric didgeridoo.  Annoy the neighbors and get microdermabrasion at the same time!
+0x60F258DE=
+
+;0x35F0531D=Didgeridoo Carrying Cases: protect your instrument and look like you're carrying a huge hunting rifle! A great way to scare people in airports.
+0x35F0531D=
+
+;0x6081858D=Didgeridoo Lessons! Pay to learn how to play one note over and over again. Kids, your parents will love it!
+0x6081858D=
+

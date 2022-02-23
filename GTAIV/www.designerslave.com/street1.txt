@@ -1,0 +1,15 @@
+﻿;0xF596456B=RUNWAY SLAVES
+0xF596456B=
+
+;0xA6A66E86=STREET SLAVES
+0xA6A66E86=
+
+;0xC427CDB0=AUTHENTICITY
+0xC427CDB0=
+
+;0x173E536C=Up Against It 
+0x173E536C=
+
+;0x736DB38D=Designed for mountaineering; worn by yuppies and gangsters who would die if they had to sleep outside for one night. Our mirror-image replicas sacrifice warmth and waterproofing for extreme affordability. Rearwall jackets for $60!
+0x736DB38D=
+

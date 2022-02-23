@@ -1,0 +1,51 @@
+﻿;0xCB8D4BE9=Most European countries still speak in the barbaric tongues of pre-1776 civilization.
+0xCB8D4BE9=
+
+;0xF6874A1B=A form of pidgin English is spoken in the city of England, often used to depict villains in Vinewood movies.
+0xF6874A1B=
+
+;0x51DE25D6=We strongly recommend that you strive to avoid direct contact with the local yokels wherever possible. However, if you are forced into a situation where conversation with a European becomes necessary, these three steps will stand you in good stead:
+0x51DE25D6=
+
+;0xE0AA6E99=Hold tightly onto your wallet
+0xE0AA6E99=
+
+;0x2DB238BA=Speak slowly and loudly like you are talking to someone with a mental handicap - most have one     
+0x2DB238BA=
+
+;0x615FC7FF=Move closer into their personal space and repeat at a higher volume
+0x615FC7FF=
+
+;0x2138060E=The American Travel Guide has pulled together some common phrases that may come in handy on your travels through Europe and buy you some time when fending off the advances of a murderous foreigner:    
+0x2138060E=
+
+;0x1183867D=Say "Get your thieving hands off my passport" in an apologetic, sarcastic but pessimistic tone. Try to instill a feeling of quiet desperation. Pretend to be missing teeth.
+0x1183867D=
+
+;0x4D36D6ED=Say "Get your thieving hands off my passport" in an aloof, condescending tone. Shrug your shoulders and imagine you are a great lover and that everyone hates you.
+0x4D36D6ED=
+
+;0xC6EC3BAD=Slur "Get your thieving hands off my passport". Hit them in the face and throw some gold coins on the ground.      
+0xC6EC3BAD=
+
+;0x0DF88E1F=Say "Get your thieving hands off my passport" in a non-committal tone while asking if they know a good place to stash some genocidal loot.
+0x0DF88E1F=
+
+;0x4B06D0F2=Say "Get your thieving hands off my passport" while grabbing your balls. Wink and run your fingers through your hair.
+0x4B06D0F2=
+
+;0x9717F2FE=Say "Get your thieving hands off my passport" whilst gesticulating wildly and acting like you are full of hash.
+0x9717F2FE=
+
+;0xE8012AEE=Say "Get your thieving hands off my passport" with the air of an inferiority complex. Follow up with 'No hablo espanol'.     
+0xE8012AEE=
+
+;0x008399C5=Say "Get your thieving hands off my passport" in an officious, self-righteous tone. Do not smile. Do not say you are sorry. Grunt.
+0x008399C5=
+
+;0x9001B8AE=Say "Get your thieving hands off my passport" in a suicidal tone. Do not mention daylight.
+0x9001B8AE=
+
+;0xB8A9EF81=Say "Get your thieving hands off my passport" in a laid-back tone. Roll up a fatty and light it.  
+0xB8A9EF81=
+

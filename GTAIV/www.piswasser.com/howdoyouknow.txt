@@ -1,0 +1,51 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x1A55813C=Language of Love
+0x1A55813C=
+
+;0xBE9EF411=Wishful Drinking
+0xBE9EF411=
+
+;0x0077C37E=Beer Boogie
+0x0077C37E=
+
+;0xE50AC71E=Partners
+0xE50AC71E=
+
+;0xA1B68015=How Do You Know?
+0xA1B68015=
+
+;0x0109E6AC=These days, police officers carry around expensive equipment to tell you how smashed you are.  Getting pulled over is a good way to tell that you're drunk, but since you can't always count on that happening, here are 10 tell-tale signs that the Piswasser has started to work its magic:
+0x0109E6AC=
+
+;0x00C2FF31=It dawns on you that you are rich beyond your wildest dreams
+0x00C2FF31=
+
+;0xB4D9BFFE=The locks to your house appear to have been changed
+0xB4D9BFFE=
+
+;0xFA3D6561=Someone is pulling your pants up in the ladies room
+0xFA3D6561=
+
+;0xA8E0E1CF=You drop your Chihuahua hotdog on the floor, pick it up and carry on eating
+0xA8E0E1CF=
+
+;0x9D8A3D4B=The cocktail waitress who you're flirting with went to school with your mother
+0x9D8A3D4B=
+
+;0x943C0633=You wake up in Rio de Janeiro with a biker named Rex
+0x943C0633=
+
+;0x85823FB0=You're French-kissing a basset hound
+0x85823FB0=
+
+;0x96393AC3=You suddenly realize you've been masturbating to that knife show on TV for three hours
+0x96393AC3=
+
+;0x6DA15EF5=You're in bed with your uncle and realize that school starts in two hours
+0x6DA15EF5=
+
+;0xD243A110=Last night was Friday, but today's newspaper says that it's Monday
+0xD243A110=
+

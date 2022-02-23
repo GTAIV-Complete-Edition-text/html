@@ -1,0 +1,30 @@
+﻿;0xEC91F28A=Health is a gift from space. Worship the worm.
+0xEC91F28A=
+
+;0xC2954BC2=Back
+0xC2954BC2=
+
+;0x598F451B=Posted by HealthyEater
+0x598F451B=
+
+;0x4D01F443=Liberty City is at war.  Brothers kill brothers, sisters sell sex on the street, peace keepers take bribes, elected officials get blow jobs from rent boys in public toilets.  How can we expect enlightened beings from outer galaxies to contact us when the world's greatest city cannot embrace love?   At midnight every night an alien worm travels through Liberty City spreading love and giving health.  He is both man and woman, hairy and smooth, light and dark.  He wants us to love one another.  When we do, his race will come to earth and we will live as one in peace.  He has left health around our city.   Be healthy, live in peace.  Eternal bliss on earth is near at hand.
+0x4D01F443=
+
+;0x3337F2AD=Posted by GreenGodess 
+0x3337F2AD=
+
+;0xAD0FF0C0=You're crazy.  The Health has been left there by Republicans who don't want us to elect a Democratic President who will provide this country with free healthcare.
+0xAD0FF0C0=
+
+;0x6B1AE133=Posted by BirdNerd 
+0x6B1AE133=
+
+;0x6293CAC6=This won't save us from Pigeon Flu.  2 little 2 late.
+0x6293CAC6=
+
+;0x296925A3=Posted by Trooth 
+0x296925A3=
+
+;0xF82FCCAA=You are truly enlightened.  Thank you, brother.
+0xF82FCCAA=
+

@@ -1,0 +1,42 @@
+﻿;0xBA04A15A=Pupil: Dino Perdente
+0xBA04A15A=
+
+;0x5EF6A59C=Class of: 1997
+0x5EF6A59C=
+
+;0x6DAF141E=High School: Alderney  City Tech
+0x6DAF141E=
+
+;0xE5F8ED95=NICKNAME:
+0xE5F8ED95=
+
+;0x9D1A9F1B=The Hoseman
+0x9D1A9F1B=
+
+;0xB78A2011=BIO:
+0xB78A2011=
+
+;0xA689A376=What's up losers???!!!! It's the Hoseman here! MVP 1997!!! You know it - yeah you do!! Working part-time at a gas station and full-time at chasing ass!!! Some things never change! I still live with my Mom in Alderney City and go out drinking with Fishface, Spunky and Bubble every night! SWEET! High school ring as well. I'd like to hear from any of the hot chicks I used to hook up with. Suzie, Marianne, Yolanda, Chu Hua... FIRE, FIRE!! Quick, where's the hose? Right here, baby, right here. Check me out. Fuckin A!
+0xA689A376=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0x6660B8AD=Hoseman - you rock!! Last night fucking RULED! 
+0x6660B8AD=
+
+;0xC18D4A2C=- Spunky
+0xC18D4A2C=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0x377981F4=For the record, Dino, you were the worst lay of my life. More like a straw than a hose. 
+0x377981F4=
+
+;0x6BB0229A=- Yolanda.
+0x6BB0229A=
+
+;0xADD9CB45=BACK TO MAIN PAGE 
+0xADD9CB45=
+

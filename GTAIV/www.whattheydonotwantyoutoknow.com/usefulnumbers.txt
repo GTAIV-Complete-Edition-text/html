@@ -1,0 +1,81 @@
+﻿;0xAC819BD8=Other Useful Numbers In Liberty City 
+0xAC819BD8=
+
+;0xC2954BC2=Back
+0xC2954BC2=
+
+;0xD2A1D38A= Here are some really useful numbers to know when in LC.
+0xD2A1D38A=
+
+;0x1671563F= You want health and weapons?
+0x1671563F=
+
+;0xF75CC2DD= Call 
+0xF75CC2DD=
+
+;0x97249BC7=GTA-555-0100
+0x97249BC7=
+
+;0x6847129D= After some weapons?
+0x6847129D=
+
+;0xF75CC2DD= Call 
+0xF75CC2DD=
+
+;0x9DFC7FAA=GUN-555-0150
+0x9DFC7FAA=
+
+;0x2FE2C780= You want some advanced weaponry?
+0x2FE2C780=
+
+;0xF75CC2DD= Call 
+0xF75CC2DD=
+
+;0x1C087EF7=GUN-555-0100
+0x1C087EF7=
+
+;0x0F261677= Got poor health? Sort it out.
+0x0F261677=
+
+;0xF75CC2DD= Call 
+0xF75CC2DD=
+
+;0x1A994E1A=DOC-555-0150
+0x1A994E1A=
+
+;0x772D3C38= You wanted? Get your rating down.
+0x772D3C38=
+
+;0xF75CC2DD= Call 
+0xF75CC2DD=
+
+;0xF2107DA7=COP-555-0100
+0xF2107DA7=
+
+;0xEAC4BFF5= Feeling brave? Get your wanted level up.
+0xEAC4BFF5=
+
+;0xF75CC2DD= Call 
+0xF75CC2DD=
+
+;0x74047E5A=COP-555-0150
+0x74047E5A=
+
+;0xEC5D8E97= Get some free money.
+0xEC5D8E97=
+
+;0xF75CC2DD= Call 
+0xF75CC2DD=
+
+;0x176C95EB=PAY-555-0100
+0x176C95EB=
+
+;0x408E740E= Too hot? Too cold? Change the climate.
+0x408E740E=
+
+;0xF75CC2DD= Call 
+0xF75CC2DD=
+
+;0x306B1FA4=HOT-555-0100
+0x306B1FA4=
+

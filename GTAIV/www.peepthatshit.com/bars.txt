@@ -1,0 +1,84 @@
+﻿;0x7D7D36D5=Liberty City's restaurants serve up dishes from every corner of the globe and many of them have the hygiene practices of a Central American outhouse. Here are the top bar and restaurant picks!  Voted by you, the reader, and edited based on advertiser revenue! Actually, that's a lie. They are chosen by us, based on who gives us the most free dinners or happy endings in the coatroom. We are about as impartial as Weazel News. Bribes, gifts, party favors - we are open to it all.  Some cold, hard cash and we will forget about your cold, hard filet mignon that has a glaze of rat feces. That's how restaurant reviews work. What do you care? If you knew how to cook you wouldn't be eating out all the time.      
+0x7D7D36D5=
+
+;0x7DEF9CAF=Algonquin       
+0x7DEF9CAF=
+
+;0xA67F0F37=Drusilla's
+0xA67F0F37=
+
+;0x388007ED=Super Star Café
+0x388007ED=
+
+;0xC6E1A607=Lucky Winkle's
+0xC6E1A607=
+
+;0x377F02FC=Broker       
+0x377F02FC=
+
+;0x266BA4BB=69th Street Diner
+0x266BA4BB=
+
+;0x0746BE68=Comrades Bar
+0x0746BE68=
+
+;0x51717FFB=Homebrew Café
+0x51717FFB=
+
+;0xDE5AE7C9=Dukes       
+0xDE5AE7C9=
+
+;0x31E52A46=Steinway Beer Garden
+0x31E52A46=
+
+;0x23FC5027=Alderney       
+0x23FC5027=
+
+;0x701BB78C=Mr. Fuk's Rice Box
+0x701BB78C=
+
+;0x114B0A82=Other places worth a look but less forth-coming with advertising revenue:              
+0x114B0A82=
+
+;0x32F9E3F3=Greasy Joe's Café
+0x32F9E3F3=
+
+;0x29A48DD5=Leprechauns Winklepicker
+0x29A48DD5=
+
+;0x3A594420=Fanny Crabs
+0x3A594420=
+
+;0x9FF09F93=60 Diner
+0x9FF09F93=
+
+;0x4258B857=O.O.T
+0x4258B857=
+
+;0x4C9AFE49=Jerkov's Bar
+0x4C9AFE49=
+
+;0xA81B0000=Vinewood
+0xA81B0000=
+
+;0xCFCDFCE7=In the city that never sleeps because it has to work two jobs to pay for a tiny apartment after that slut divorced you, find comfort that you can eat at any hour of the day or night and there will always be a street vendor happy to send you running to the restroom, then the emergency room, as you permanently destroy your large intestine.  It looks like a lukewarm hotdog or a bag of suspicious-looking nuts - but, in reality, it is a test of your manhood and immune system that only the strong shall pass.  Liberty City is famous for giving tourists the raging runs, and its street food is a cheap way to cleanse your system.         
+0xCFCDFCE7=
+
+;0x6CDC157B=Keep your eye out for:       
+0x6CDC157B=
+
+;0xBEC37A11=The Nut House       
+0xBEC37A11=
+
+;0x7E6B30FF=Chihuahua Hotdogs       
+0x7E6B30FF=
+
+;0x9B0FC48E=Cherry Poppers Ice Cream        
+0x9B0FC48E=
+
+;0x1BC49D0F=Whether you feel like a three-day-old slice of pepperoni from Pizza This, a soggy sub from The Big Bite, a fudge-packed donut from Rusty Brown's, a sweaty burger from Wigwam, a 2000-calorie gunkaccino from Bean Machine Coffee or a few days of food poisoning from Gozushi, Liberty City has a fast food option to satisfy every craving.  Don't let some emaciated teen celebrity define your body image.  Pay no attention to the kids making that 'beep, beep, beep' noise when you walk backwards - they'll be obese soon too!  Two thirds of Americans are now overweight, so, according to the stats, fat is officially the new thin!          
+0x1BC49D0F=
+
+;0xA98951DD=Here are two of our particular favorites, who we would like to thank for their continued sponsorship:        
+0xA98951DD=
+

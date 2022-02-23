@@ -1,0 +1,33 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x244E8099=Specials
+0x244E8099=
+
+;0xAD935D05=Cup Sizes
+0xAD935D05=
+
+;0xC46A285A=Franchising Opportunities
+0xC46A285A=
+
+;0x951A1C18=Buy Our Coffees
+0x951A1C18=
+
+;0x0910409E=Caffeine Is Not a Drug
+0x0910409E=
+
+;0x8512F7FC=Become a Rep
+0x8512F7FC=
+
+;0xC14112B2=10 Reasons to Boycott 
+0xC14112B2=
+
+;0xF275475D=Your Local Coffeehouse
+0xF275475D=
+
+;0x62AFB12A=Hi Kids!  Looking to make some extra pocket money on the side?  The teen market has huge growth potential for Bean Machine and we are recruiting budding entrepreneurs to sell our products across the school yards of America. Become a Bean Machine dealer.
+0x62AFB12A=
+
+;0x454C25DB=Guys, find out what girls will do for a latte! It's a lot! It's well known that dealers get a lot of attention from the opposite sex. Listen to your parents and take your vitamin C:  Caffeine!  ADD is a small price to pay for something that sends you into math class wound up like a coiled spring.        
+0x454C25DB=
+

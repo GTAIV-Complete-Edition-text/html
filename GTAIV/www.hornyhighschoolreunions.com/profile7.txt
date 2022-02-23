@@ -1,0 +1,42 @@
+﻿;0x3DFAEF50=Pupil: Peter Wyndup
+0x3DFAEF50=
+
+;0xDEF39D85=Class of: 1987
+0xDEF39D85=
+
+;0xAA9AE8C6=High School: Washington  Beach High  School
+0xAA9AE8C6=
+
+;0xE5F8ED95=NICKNAME:
+0xE5F8ED95=
+
+;0x732A0F1B=NONE
+0x732A0F1B=
+
+;0xB78A2011=BIO:
+0xB78A2011=
+
+;0xCA31EB81=Hello! Petie W here! How is everyone? Things have been going great for me since high school. After some shrewd business moves in the late 1990s, I was able to surf the dotcom wave into some serious 7-figure action. The houses, the cars, the women - I've got it all. I'm rich and I'm happy. Well, I had it all. You know what they say - once an over-achiever, always an over-achiever! Jenn, you told me I'd never amount to anything. Look at me now! I was rich. Why didn't you answer my calls? I went to your house and they told me you moved. Please get in touch. We can start again. I'll pay your Dad back all the money.
+0xCA31EB81=
+
+;0xCBE95C3B=Any other Washington Beach girls out there? I'm single and looking for a relationship. Something casual. If I can move in with you temporarily, even better. Send me a note!
+0xCBE95C3B=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0x4535138B=You're so full of shit. You're not rich! You sold me a flat-pack mini-bar at Krapea only two weeks ago! I pretended not to know you because I was too embarrassed! 
+0x4535138B=
+
+;0x35E70F01=- Claire Floward, class of 87.
+0x35E70F01=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0x2A887536=I married this loser. Unless you find alcoholism and gambling attractive qualities in a man, stay the fuck away from him!
+0x2A887536=
+
+;0xADD9CB45=BACK TO MAIN PAGE 
+0xADD9CB45=
+

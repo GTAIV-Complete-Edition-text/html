@@ -1,0 +1,3 @@
+﻿;0x76D2A620=The Burger Shot Drive-thru is an incredible invention that allows you to buy food without leaving the seat of your car. You can also score drugs at most of them, if you know the right thing to ask. We started installing drive-thrus at our restaurants in the 1980's when we realized that customers were increasingly reluctant or unable to walk from the parking lot to the counter to get their fix of salt and grease. It was a natural follow-up to the TV remote control. Perfect for our regulars who can no longer get through the revolving doors.
+0x76D2A620=
+

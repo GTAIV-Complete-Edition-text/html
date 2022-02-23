@@ -1,0 +1,18 @@
+﻿;0x560B77A4=High school dropouts, crack moms, ex-cons, fine art graduates, parolees, YOU! Calling all disadvantaged groups! Take a look at all the beautiful, smiling, thin people in our brochure. Work for Burger Shot! We will employ you when nobody else will! We even hire people rejected by Wigwam Burger. Illiteracy and acne preferred.
+0x560B77A4=
+
+;0xC1F86FA2=Burger Shot is an equal opportunity employer - we hire lots of teenage dropouts. Our restaurants are a great place to learn a foreign language, including English. We empower our workers, which is why they look so smug when they tell you that "we stopped serving breakfast one second ago". The majority of our staff is under 21, apart from the really old senile people who we like to hire to mop up their own urine. All work is part-time and we do not pay overtime. Most employees last about three weeks. If you make it past a month, we will promote you to Service Expert (no pay raise). We will give you some nominal training, like: how to over-salt food so that people buy more drinks. After all, we don't want to lose our federal tax breaks. However, like a good frat party with a drunk girl, the assembly line approach is the key to our success and we have broken down the burger-making process into a series of mind-numbing repetitive actions. The last thing we want is anyone claiming that they are a skilled worker and demanding minimum wage or benefits. If you think that this sounds bad, try spending a day with our tomato-pickers in Central America. 
+0xC1F86FA2=
+
+;0x8E37D485=If flipping burgers is not your thing, why not work in one of our slaughterhouses? Can you imagine slitting throats all day? How many other jobs allow you to use a stun gun and skin animals alive? No experience necessary.
+0x8E37D485=
+
+;0xE6E11205=NOTE:
+0xE6E11205=
+
+;0x650372D6= Be very careful how you pronounce onion rings. If it sounds anything like 'union rings', we will sack you on the spot or put in a call to say that you have violated your parole. 
+0x650372D6=
+
+;0x7AEECD22=Join Burger Shot today!
+0x7AEECD22=
+

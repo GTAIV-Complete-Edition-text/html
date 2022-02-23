@@ -1,0 +1,15 @@
+﻿;0xB7ECFEEC=RIP
+0xB7ECFEEC=
+
+;0xAF2E4FD9=BOZO
+0xAF2E4FD9=
+
+;0x141B6E85=1961-1999
+0x141B6E85=
+
+;0x79BD6827=Never one to suck it to the bulls, Bozo gave a big fuck you to the cherry tops when they tried to pull him over one time. Long story short, an argument led to an altercation led to bullets bein' exchanged. Bozo had taken out three cops when one of 'em got a lucky head shot. The SOB wasn't even breaking the speed limit. He'll be missed.
+0x79BD6827=
+
+;0x85A978F8=After viewing use back arrow to return
+0x85A978F8=
+

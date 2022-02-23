@@ -1,0 +1,27 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x1A55813C=Language of Love
+0x1A55813C=
+
+;0xBE9EF411=Wishful Drinking
+0xBE9EF411=
+
+;0x0077C37E=Beer Boogie
+0x0077C37E=
+
+;0xE50AC71E=Partners
+0xE50AC71E=
+
+;0xA1B68015=How Do You Know?
+0xA1B68015=
+
+;0x1E750076=Some say it with flowers; real men slur it with Piswasser.  You only have to watch the teenage girl deep-throating an over-sized Piswasser bottle in our latest TV commercial to know that beer and romance are inextricably intertwined in modern society.  Women love the smell of beer on a man's breath... it brings back memories of Daddy kissing them goodbye at the school gate.  The beauty of alcohol is that it turns men into caring, sensitive lovers with a passion for experimentation.  Do you think that touching gestures like the Dirty Sanchez, Donkey Punch and Angry Pirate would ever have been invented without beer?          
+0x1E750076=
+
+;0x59E10313=Go on a Piswasser bender today and give your lover a night that she'll never forget!          
+0x59E10313=
+
+;0xB41B5B10=Make up your moves!
+0xB41B5B10=
+

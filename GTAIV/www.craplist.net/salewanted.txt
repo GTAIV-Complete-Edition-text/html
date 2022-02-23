@@ -1,0 +1,207 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x7DFD8D83=>sale&wanted
+0x7DFD8D83=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2D4B6E13=CRAP FOR SALE / WANTED
+0x2D4B6E13=
+
+;0xDA9BF360=Natural male enhancement supplement
+0xDA9BF360=
+
+;0xE82C0956= (Liberty City)
+0xE82C0956=
+
+;0xE36F7850=Unlucky bed, 6 months old, $400 for quick sale
+0xE36F7850=
+
+;0x25442C02= (Tudor)
+0x25442C02=
+
+;0x874A09EA=NEED LIPURGEX TODAY - PRICE IS NOT AN ISSUE!!!
+0x874A09EA=
+
+;0x6D3C733B= (Purgatory)
+0x6D3C733B=
+
+;0xB77FA764=Design your perfect baby!
+0xB77FA764=
+
+;0x9DE3C136= (America)
+0x9DE3C136=
+
+;0x1B97AB87=Modern Art for sale
+0x1B97AB87=
+
+;0x0493407C= (Little Bay)
+0x0493407C=
+
+;0x5B5F32D1=Eris PUMP UP Limited Edition????
+0x5B5F32D1=
+
+;0xA1F7B7FD= (BOABO)
+0xA1F7B7FD=
+
+;0x8BCC9CAA=Free box of healthy crap
+0x8BCC9CAA=
+
+;0xFF605D69= (East Holland)
+0xFF605D69=
+
+;0xF697FCA6=For sale: one kebab
+0xF697FCA6=
+
+;0x9FD6D80A= (Berchem)
+0x9FD6D80A=
+
+;0x57A0EBBF=Do you want 10 inches and more?
+0x57A0EBBF=
+
+;0xE82C0956= (Liberty City)
+0xE82C0956=
+
+;0x41B8C3FE=Meth lab for sale
+0x41B8C3FE=
+
+;0x5E4693B4= (Steinway)
+0x5E4693B4=
+
+;0x383E7058=Shoddi bed from Krapea.  Brand new - $5
+0x383E7058=
+
+;0xC8D90602= (Fort Side)
+0xC8D90602=
+
+;0x1B029C07=Looking for clean urine
+0x1B029C07=
+
+;0x25442C02= (Tudor)
+0x25442C02=
+
+;0xE4029215=Yard sale - Varsity Heights
+0xE4029215=
+
+;0x0ACD75E4= (Varsity Heights)
+0x0ACD75E4=
+
+;0x0C7660B0=For sale:  bunch of self-help books
+0x0C7660B0=
+
+;0x2C84E1D9= (Fishmarket South)
+0x2C84E1D9=
+
+;0xA8115D49=Isolation tank for sale
+0xA8115D49=
+
+;0xF1E72EE7= (Beechwood City)
+0xF1E72EE7=
+
+;0xF2A1AA5A=Sexless woman, 46, looking to adopt 50-100 cats
+0xF2A1AA5A=
+
+;0x0960F8B4= (Alderney)
+0x0960F8B4=
+
+;0xFC5D9FB6=Designer brands at a fraction of retail - up to 99% off!
+0xFC5D9FB6=
+
+;0xE82C0956= (Liberty City)
+0xE82C0956=
+
+;0xDC821419=I am looking for robin eggs!
+0xDC821419=
+
+;0xCA01DF1C= (Willis)
+0xCA01DF1C=
+
+;0xFB042832=Pearls of wisdom.  $1 per pearl
+0xFB042832=
+
+;0x6FDB616B= (Alderney City)
+0x6FDB616B=
+
+;0xD5EF1A38=I will pay to sleep in your car
+0xD5EF1A38=
+
+;0xC1C58482= (Star Junction)
+0xC1C58482=
+
+;0x2990D048=Broken air guitar for sale
+0x2990D048=
+
+;0x892DC8B7= (Lancaster)
+0x892DC8B7=
+
+;0x3324FE72=Leather pants, worn twice
+0x3324FE72=
+
+;0x65B48C91= (Lower Easton)
+0x65B48C91=
+
+;0x31053A9A=Pump-action shotgun
+0x31053A9A=
+
+;0xDCCAAC14= (Northern Gardens)
+0xDCCAAC14=
+
+;0x76981794=Come to Mexico!
+0x76981794=
+
+;0xFC89092E= (Tijuana)
+0xFC89092E=
+
+;0x82CC542B=Wanted: really nasty porn
+0x82CC542B=
+
+;0x34604134= (Leftwood)
+0x34604134=
+
+;0x949EADA7=I need conjunctivitis by tomorrow!
+0x949EADA7=
+
+;0x1085C95A= (Middle Park West)
+0x1085C95A=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

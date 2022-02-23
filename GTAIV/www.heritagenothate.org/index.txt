@@ -1,0 +1,42 @@
+﻿;0xBE64217B=We need members!
+0xBE64217B=
+
+;0xAD12E7ED=Our living history events almost always draw a crowd of police officers.  Avoid talking to them, unless they are offering to help you beat a slave.
+0xAD12E7ED=
+
+;0xB1665B5C=They will compare you to furries or plushies and try to taunt you out of character.
+0xB1665B5C=
+
+;0xB1C7CEF7=People will ask stupid questions like, "Did they have milk back then?"
+0xB1C7CEF7=
+
+;0xFE39B15F=Crazy Vietnam vets will rant at you for not having seen real combat.
+0xFE39B15F=
+
+;0xE3060425=Reenactment is about authenticity, and currently we are very low on anyone who wants to play the part of the meddling North.  What is a war of Northern aggression without people to play the yanks who came down south and told us how to run our business?  Also, non-Caucasian members would really make this Civil War reenactment feel authentic; however, for some reason, so far, none have tried to join us.  Come on, history buffs!  Reenactment needs bloodthirsty aggressors as well as victims.  Victims please apply.
+0xE3060425=
+
+;0x049C5D1E=Welcome to Heritage Not Hate, Liberty City's largest, most authentic and most anal-retentive American Civil War reenactment group.  It's where grown men get to dress up in itchy, woolen uniforms and play with toy guns and swords! 
+0x049C5D1E=
+
+;0x19E07353=Experience history first-hand by shitting in a hole and sleeping out in the rain!  What could be more natural than a 50 year-old man pretending to be a 15 year-old union soldier?  With modern-day America so divided across political, social and geographic lines, there has never been a better time to look to the past for inspiration on killing your fellow American.  Historical reenactment is not just about sad, lonely men trying to drag themselves out of a mid-life crisis by running around a muddy field with a rubber musket and a sympathetic heart towards the people who died fighting the war against Northern aggression. 
+0x19E07353=
+
+;0xFB74C6A1=Heritage Not Hate brings people of all ages, backgrounds and walks of life together.  Children can engage in non-combat roles and women can join up as nurses and busty wenches.  Guns and chicks in bodices - it doesn't get any better than that! 
+0xFB74C6A1=
+
+;0x83083652=Heritage Not Hate provides all the fun of war without the death and only a slight risk of disease.  We haven't had an injury since two Abraham Lincolns got in a clash after a day on the home-brew last week!  We play hide-and-seek, have midnight feasts and carry out raids on each other's tents.  You can hear the gunfire and cries of 'please sir, we ain't yankees' from miles away.  There are period dances and we get loaded every night on wine and beer.  Go easy though, the Northern boys got trashed last week and ended up losing the war!  Sexual promiscuity and swinging are commonplace and 'operations' in the infirmary tend to have a happy ending.  You also get to talk in an old tyme accent and smoke without fear of cancer!  What is there not to like? 
+0x83083652=
+
+;0x812B4A90=Live the trauma of conflict, feel the heat of the battle, enjoy the warmth of a man's embrace and then drive back home in your SUV for take-out and a shower.  To experience history is to understand it.  What are you doing this weekend? 
+0x812B4A90=
+
+;0xDFDFB6FE=For more information, please hand-deliver a written letter to our secure mailbox in Northwood with a lengthy explanation of why you would make a good historical re-enactor.  Women should include pictures of their cleavage.  Note - we need slaves! 
+0xDFDFB6FE=
+
+;0x09CBFAD9=Heritage Not Hate is a non-profit organization but membership does require a modest monthly fee.  We are also available for private functions such as weddings and bar mitzvahs. 
+0x09CBFAD9=
+
+;0xD3DC6335=Into battle, my friends. Civilization is at stake! 
+0xD3DC6335=
+

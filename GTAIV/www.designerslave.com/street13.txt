@@ -1,0 +1,12 @@
+﻿;0xF596456B=RUNWAY SLAVES
+0xF596456B=
+
+;0xFE002F52=STREET SLAVES 
+0xFE002F52=
+
+;0xC427CDB0=AUTHENTICITY
+0xC427CDB0=
+
+;0x672DB632=Hinterland is trucker chic that is made to last. Designer Slave has a suitcase full of indestructible Hinterland dungarees that we picked up in Mexico. Only yellow and red left. Look like a laborer, fight like a redneck. A bargain at $25!!
+0x672DB632=
+

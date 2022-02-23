@@ -1,0 +1,39 @@
+﻿;0x06D2535F=CASE STUDY 1
+0x06D2535F=
+
+;0x07D254F2=CASE STUDY 2
+0x07D254F2=
+
+;0x08D25685=CASE STUDY 3
+0x08D25685=
+
+;0x2871A93C=Name: 
+0x2871A93C=
+
+;0xC11A8DDC=LCPD vs Rusty Brown's
+0xC11A8DDC=
+
+;0x5845021B=Date: 
+0x5845021B=
+
+;0x49EE3F11=Case brought in 2006
+0x49EE3F11=
+
+;0xDAB2AB70=Settlement: 
+0xDAB2AB70=
+
+;0x1E409299=Accused ordered to pay out $400,000 in compensatory vouchers
+0x1E409299=
+
+;0x53E66683=It's an old cliché; the fat cop with a donut. But we don't shy away from a cliché at GL&S, and that's what's kept us at the top. When we were approached by one precinct about the impact that Rusty Brown's donuts were having on their productivity, we delved deeper into the two-dozen box of lies and found a city-wide conspiracy.
+0x53E66683=
+
+;0x5BE35B7F=For years, Rusty Brown's had waged chocolate-covered war on our brave police force, leaving many long-serving officers too bloated and surly to react appropriately to even the smallest infraction of the law.  
+0x5BE35B7F=
+
+;0xA8444C4A=We proved that through using a relentless campaign that included  the constant opening of new franchises, the development of an impossibly tempting array of new flavors and the offering of  price savings for bigger boxes, Rusty Brown's, with full knowledge and forethought, fattened up our front-line crime fighters and made us all more vulnerable in the war on terror. 
+0xA8444C4A=
+
+;0x1EB6AC60=GL&S, All Rights Reserved . Privacy Statement . Contact Info
+0x1EB6AC60=
+

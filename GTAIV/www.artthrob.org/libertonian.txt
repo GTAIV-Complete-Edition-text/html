@@ -1,0 +1,21 @@
+﻿;0xD1C271FB=Four different exhibits of historical 
+0xD1C271FB=
+
+;0xA5FC981F=artifacts are open to the public at the 
+0xA5FC981F=
+
+;0x22954926=Libertonian Museum: 
+0x22954926=
+
+;0xD1A21A93=Check out the impressive man busts and how fascinated primitive people are with their reproductive organs. 
+0xD1A21A93=
+
+;0x734C129A=Mummification demo on real corpses.
+0x734C129A=
+
+;0x351D3BFC=Admire the shiny helmets and long swords of violent lunatics! 
+0x351D3BFC=
+
+;0x15312809=Did they exist?  (Note - exhibit changed after heavy lobbying by family groups.) 
+0x15312809=
+

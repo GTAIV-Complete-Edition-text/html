@@ -1,0 +1,15 @@
+﻿;0xE68F1511=RUNWAY SLAVES 
+0xE68F1511=
+
+;0xA6A66E86=STREET SLAVES
+0xA6A66E86=
+
+;0xC427CDB0=AUTHENTICITY
+0xC427CDB0=
+
+;0xC2704BDD=The Measure of Beauty 
+0xC2704BDD=
+
+;0xF63DFDD2=Clothes that only look good on models!  Cute dresses for tiny women! Special offer - $120!!! You cannot beat this price! These dresses are hot! So hot, in fact, that we have to get them off the premises today! Accessorize with a little dog! Or a nice emetic! 
+0xF63DFDD2=
+

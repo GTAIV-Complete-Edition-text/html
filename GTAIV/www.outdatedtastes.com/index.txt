@@ -1,0 +1,60 @@
+﻿;0xA9CCCB93=Welcome to Outdated Tastes, the best place on the web for vintage clothing.
+0xA9CCCB93=
+
+;0x276004DB=Old crap at new prices! Pay hundreds of dollars to smell like your grandmother!
+0x276004DB=
+
+;0xDF50DE06=In the past ten years, we have gone from a back-street thrift store to a multimillion-dollar vintage clothing business. We take clothes donated to charities and churches and then sell them to posh city kids for hundreds of dollars! Buying second-hand clothes used to be definitive proof that the American dream had passed you by, that you were a turd on the bottom of society's shoe. As a child, there was no greater humiliation than turning up for the first day of school in an older sibling's cast-offs or, even worse, an ill-fitting hand-me-down from your parents. Nowadays, however, thanks to euphemisms like 'retro', 'boho', 'period' and 'pre-loved', it has become the height of hip to rifle through dead people's belongings at flea markets and to walk around in clothes worn by some fogeys who used to sit in front of radios in the living room for entertainment and wash once a month in a communal tub. Suddenly we can sell a bedbug-infested sweater that we found in the trash can for $400 because it is 'vintage 80's Binco'.
+0xDF50DE06=
+
+;0x71BC6A33=From hipsters to models to goths to soccer moms to indie scene whores, the streets are full of tragic fashion victims who have paid a fortune to dress in a bunch of musty rags that somebody threw away for good reason 30 years ago. You don't know whether to chuck them a dollar or just to beat the shit out of them for thinking things were so damn lovely in the "good old days." People now talk about clothes in the same way as a fine wine - as if a pair of shitty underpants somehow improves with age - and expensive boutiques have started making their new clothing look like it was worn by a junkie domestic violence victim. It's all about cashing in on the vintage craze. Complete your vintage wardrobe with some of this over-priced crap: 
+0x71BC6A33=
+
+;0x7FA1A965=Striped Parachute Pants $600
+0x7FA1A965=
+
+;0xDFDBFE9B=Bring these back in an ironic, post-modern way... like the mullet.
+0xDFDBFE9B=
+
+;0x072E3F60=Women's Ballet Pumps $859
+0x072E3F60=
+
+;0x96A35C25=You haven't felt comfort until you've sunk your toes into the verruca mulch at the bottom of these 1960's originals.
+0x96A35C25=
+
+;0x1EABA77D=Women's Velvet Bloomers $1,150
+0x1EABA77D=
+
+;0xB5CB4E6C=One owner (incontinent) and stored for 50 years in mothballs. People will know when you walk into a room!
+0xB5CB4E6C=
+
+;0xFBD213FB=Woolen Bathing Suit $3,700
+0xFBD213FB=
+
+;0x7872CC2C=Feel another person's DNA all over you in this classic swimsuit from the roaring 20's. Transport yourself back to the days when clothes were itchy and women didn't use tampons!
+0x7872CC2C=
+
+;0x3AADC3A7=Men's Pajamas $720
+0x3AADC3A7=
+
+;0x89E26CB6=Still lined with the crust of an old man's knob cheese! Very collectible.
+0x89E26CB6=
+
+;0x3469A78B=Men's Jacket, Burgundy $1,300
+0x3469A78B=
+
+;0xDD280AA5=Smell the sweat and cigarette smoke of a bygone era of racial segregation and extreme ignorance in this unique archive piece! Some mildew damage.
+0xDD280AA5=
+
+;0x2460B554=Men's Cardigan, Gray $799
+0x2460B554=
+
+;0x452BCAA7=Look like your old math teacher in this one-of-a-kind piece. Genuine yellow armpit stains.
+0x452BCAA7=
+
+;0xF821393D=Crochet Lace Gloves $300
+0xF821393D=
+
+;0x7F4C7AB1=Worn by a clubbing freak who overdosed.
+0x7F4C7AB1=
+

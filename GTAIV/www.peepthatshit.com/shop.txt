@@ -1,0 +1,36 @@
+﻿;0x8300B293=Liberty City is the fashion capital of the United States.  Why? Because it's the home of stupid money and people who can spend $18,000 on cufflinks.  But there are clothing stores to suit every budget.  Nothing screams that you've made it quite like a designer label, and a visit to Perseus in Middle Park East will have you looking like a player in no time.  If Didier Sachs and Gutter & Blood are not your thing, shops down at Hove Beach in Broker can kit you out in itchy polyester for less than the cost of a round of drinks.         
+0x8300B293=
+
+;0x08EDCCDD=Going to Liberty City and not shopping would be like going to Australia and not crying.  Where else can you buy a fake Enema handbag on the street that is better than the original?  Where else can you spot stores that have had a 'going out of business' sale for the last 15 years?  Where else can you see so many 24-hour delis with 24 year-old cold cuts?  Most of the tourists head straight for the Spenders department store in The Triangle but there are lots of other places where you can engage in a bit of retail therapy:       
+0x08EDCCDD=
+
+;0xD79A093D=High Fashion
+0xD79A093D=
+
+;0x3A0ACB02=Street Fashion
+0x3A0ACB02=
+
+;0x4FFC56F1=Hip Hop
+0x4FFC56F1=
+
+;0xFCF44A17=Outdoor
+0xFCF44A17=
+
+;0xDFCB7081=Skate
+0xDFCB7081=
+
+;0xBBC39B8D=Sport
+0xBBC39B8D=
+
+;0x58C1FBF3=Shoes
+0x58C1FBF3=
+
+;0xD65A27BC=Jewelry & Watches
+0xD65A27BC=
+
+;0xC21F0687=Department Stores
+0xC21F0687=
+
+;0x1D1F832C=Electronics
+0x1D1F832C=
+

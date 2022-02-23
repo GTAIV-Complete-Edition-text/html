@@ -1,0 +1,30 @@
+﻿;0xD79A093D=High Fashion
+0xD79A093D=
+
+;0x3A0ACB02=Street Fashion
+0x3A0ACB02=
+
+;0x4FFC56F1=Hip Hop
+0x4FFC56F1=
+
+;0xFCF44A17=Outdoor
+0xFCF44A17=
+
+;0xDFCB7081=Skate
+0xDFCB7081=
+
+;0xBBC39B8D=Sport
+0xBBC39B8D=
+
+;0x58C1FBF3=Shoes
+0x58C1FBF3=
+
+;0xD65A27BC=Jewelry & Watches
+0xD65A27BC=
+
+;0xC21F0687=Department Stores
+0xC21F0687=
+
+;0x1D1F832C=Electronics
+0x1D1F832C=
+

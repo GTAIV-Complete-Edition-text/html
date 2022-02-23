@@ -1,0 +1,21 @@
+﻿;0x535009DF=Product: Sooth Cough & Cold Medicine
+0x535009DF=
+
+;0x6F9A293A=Quantity: 10 bottles
+0x6F9A293A=
+
+;0x4330B753=Our price: $49.99
+0x4330B753=
+
+;0x53B8B500=Sooth's special formula of Codeine, Morphine, and Alcohol will make you forget all your cough and cold symptoms.  It will also make you forget who you are and where you've been.  Side effects include having sex with strange men and chasing birds.  Slur your words for a couple of hours and then sleep for two days.    
+0x53B8B500=
+
+;0x6FEAE585=Major credit cards accepted.
+0x6FEAE585=
+
+;0x93D0CCD8=All purchases are non-refundable.
+0x93D0CCD8=
+
+;0x246A54CE=All liabilities are denied.
+0x246A54CE=
+

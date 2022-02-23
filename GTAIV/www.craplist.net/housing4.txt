@@ -1,0 +1,69 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x3B0CB221=>
+0x3B0CB221=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0xF152F95C=HOUSING
+0xF152F95C=
+
+;0xBE729D45=$225,000 3 bed/2 bath haunted house.  Price reduced for quick sale
+0xBE729D45=
+
+;0xA3905DD6=(Little Bay)
+0xA3905DD6=
+
+;0xFAFC5698=When my mother-in-law died, I thought I'd seen the end of unwanted house guests.  Then we moved to Little Bay.  It seemed like we'd found our dream home - airy, spacious rooms, a beautiful yard and lots of character.  Too much character, it turns out.  We'd only been there a few weeks when it started.  Footsteps in the night, doors slamming, the smell of strange perfume...  The feel of someone's hand on my thigh.   Until furniture starting flying across the room, I was convinced that my husband was having an affair and had been poisoning my food.  I have the constant sensation of being watched, and not just by the weird kid with the big head who lives next door.  My dream home has become a living nightmare.  If you can put up with the flashing lights, cold spots, scratching noises, small child talking to a television, and the overwhelming feeling of dread, this house is a steal.  I can't.  If you want more bangs for your buck, email me today to set up an appointment. 
+0xFAFC5698=
+
+;0x6B01FC55=PostingID: 962022365
+0x6B01FC55=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

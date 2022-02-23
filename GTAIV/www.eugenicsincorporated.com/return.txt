@@ -1,0 +1,12 @@
+﻿;0xD445799B=If you want to make an omelette, you have to break some eggs! Mistakes happen.         
+0xD445799B=
+
+;0x54823BD5=Please bear in mind we are still shooting in the dark. 
+0x54823BD5=
+
+;0x25290D9B=Splashing around in the gene pool, so to speak. 
+0x25290D9B=
+
+;0x79B47C89=If you're not 100% satisfied with your baby, take the brat out back and blow its sub-standard brains out or return by Alpha Mail and we will put them to work around the facility.
+0x79B47C89=
+

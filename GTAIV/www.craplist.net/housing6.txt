@@ -1,0 +1,69 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x3B0CB221=>
+0x3B0CB221=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0xF152F95C=HOUSING
+0xF152F95C=
+
+;0x97B1FCAF=$750 Panic room for rent 
+0x97B1FCAF=
+
+;0x55577B1F=(Downtown Broker)
+0x55577B1F=
+
+;0x8201D6BC=Ever since my husband left me for that fakebaked slut of a waitress, money has been tight.  Apparently, some chain-smoking skank who takes it up the can more often than she cleans her teeth is more important to him than his wife of 19 years and two children.  So I have decided to take in a lodger.  We installed a panic room in our house after a break-in about 3 years ago.  I go in there occasionally to spy on my daughter and her boyfriend or to scream at the top of my voice but, like my ex, most of the time it's a waste of space.  I figure that, on the rare occasion there is an intruder, you won't mind me joining you in there.  The room is about 7x7ft and comes complete with separate phone line, internet connection, water supply, first aid kit, fold-out bed, blankets, 3 days of dried food, an assault rifle, copies of German literature, a coloring book of funerals, and an old but functional commode.  There's no natural light but it's very quiet.  The door is made of reinforced steel and has 6 deadbolts.  It's a little soulless at the moment but think of it as a blank canvas on which to stamp your personality.  Shoot me a note if you would like to take a look at the room.  I'm not going to lie to you.  I'm a sour, resentful woman with a deep mistrust of all around me but I've got great legs and I love to drink.  I'm sure that we can make this work. 
+0x8201D6BC=
+
+;0x6FE06744=PostingID: 962056448
+0x6FE06744=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

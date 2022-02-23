@@ -1,0 +1,69 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x3B0CB221=>
+0x3B0CB221=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0x6FF67641=LOST & FOUND
+0x6FF67641=
+
+;0x5C6D1321=Lost wedding ring last night - HELP!!!!!!!!!!
+0x5C6D1321=
+
+;0x6C60F3B6=(Algonquin)
+0x6C60F3B6=
+
+;0xA2F75760=OK, I'll lay it on the line.  I've started taking off my wedding ring and leaving it in the hotel when I'm away on business.  I know I'm a dog.  I'm not proud of it, believe me.  Most of the time I don't even get any ass, at least not without paying for it.  I must be having a mid-life crisis.  I even bought some designer jeans last week.  I'm normally so careful but somewhere between the hotel, restaurant, massage parlor and strip club, I managed to lose the damn thing somewhere in Algonquin last night.  It's a gold band with an engraving in Sanskrit that, like a FUCKING DUMBASS, I never wrote down anywhere.  I can't even remember what it means - I had the mother of all hangovers on my wedding day.  If you have found it, sold it, pawned it, seen it... ANYTHING, please let me know.  I will double your money.  I'm back home now in Verona Beach, Los Santos, and I'm not going to be able to hide this for much longer.  I can't believe she hasn't noticed yet. 
+0xA2F75760=
+
+;0xEDBF6B7D=PostingID: 620025350
+0xEDBF6B7D=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

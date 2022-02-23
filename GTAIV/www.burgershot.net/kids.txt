@@ -1,0 +1,15 @@
+﻿;0x6E2F5B73=Kids love fast food. And we love kids! Especially ones who pull their parents into our stores so they can shove shit down their throats and become the type of lazy fuckwad Americans that only care about TV and not democracy. We spend billions every year on aggressively marketing our products to the tween demographic. The younger our customers are, the easier it is to mold their eating preferences for life. Our 'Every Child Deserves To Be Loved' TV campaign has been very successful in encouraging young people to emotionally blackmail their parents into spending money at Burger Shot. Also please note that we give away free fries during every Amber Alert.
+0x6E2F5B73=
+
+;0x773FF1F8=Nutritional advice? Take it with a large pinch of salt! Who are you going to listen to? Some crusty hippy or sexless crone? Or one of the funny, colorful, cuddly mascots that we send to your school? What do you care about your diet?! Nobody ever had a stroke at the age of 10!
+0x773FF1F8=
+
+;0x078289B9=Many of our restaurants have cool playscapes where you will find lots of other chubby kids flopping down slides, more germs than a campsite toilet and a couple of fully-grown men masturbating behind the ball pit. 
+0x078289B9=
+
+;0xD0E00564=Celebrate your birthday at Burger Shot! You never know when it might be your last!
+0xD0E00564=
+
+;0x0EFF8BE2=Burger Shot's Birthday Meat Muffin is the perfect treat! A fistful of reconstituted cattle off-cuts, the Meat Muffin is frosted with salt and comes with fries for candles (note: candle wax is also made from beef tallow so you can light them if you want).
+0x0EFF8BE2=
+

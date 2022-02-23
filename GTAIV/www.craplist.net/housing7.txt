@@ -1,0 +1,69 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x3B0CB221=>
+0x3B0CB221=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0xF152F95C=HOUSING
+0xF152F95C=
+
+;0x4CAC0EEC=$2600 / 1BR - Really shitty apartment with hot neighbors 
+0x4CAC0EEC=
+
+;0xF8441734=(Presidents City)
+0xF8441734=
+
+;0xF605258C=7th floor, no elevator, 1 poky bedroom, no light, rising damp, leaking roof, paint peeling off the walls, stench of cat urine in the corridor.  The kitchen was last remodeled at the turn of the century (last century!) and the bathroom looks like something out of a Russian submarine.  This is the most over-priced apartment in Presidents City but, and this is very big BUT, my neighbors are foxy as fuck!  And I'm not just talking cute.  These chicks should carry a health warning.  Weapons-grade, red-hot model babes.  Fucking faultless.  I see them going off to work in the morning in their tight skirts and low-cut blouses.  I see them coming back from the gym in their shorts and tiny tees.  I see them heading out on the weekend in their mini dresses and knee boots.  They even ask me to fix things in their apartment sometimes.  Oh, how I live for those moments.  They're so far out of my league but I don't care.  I have enough jerk-off material for life.  I can't believe I have to move back to Carcer City.  The apartment sucks - it's fucking third-world but, please believe me, this will be the best move you ever make.  
+0xF605258C=
+
+;0x7D030BEB=PostingID: 962058447
+0x7D030BEB=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

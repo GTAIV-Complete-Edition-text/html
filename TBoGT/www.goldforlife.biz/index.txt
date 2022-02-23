@@ -1,0 +1,39 @@
+﻿;0x10B8C84E=HOME
+0x10B8C84E=
+
+;0x2D7F6D58=FAQs
+0x2D7F6D58=
+
+;0x2718EC8F=BUY GOLD NOW
+0x2718EC8F=
+
+;0x95B0734D=Your investments are in tatters. Your retirement is unsure. Your wife's left you for her personal trainer and you're addicted to prescription medication. If only you'd invested in 
+0x95B0734D=
+
+;0xE9BA3AD3=GOLD
+0xE9BA3AD3=
+
+;0x38FB5395= instead of the stock market, you'd be rich and happy right now.
+0x38FB5395=
+
+;0x55732569=The American government's solution to the current financial panic
+0x55732569=
+
+;0x9245A0D4=is to print more money.
+0x9245A0D4=
+
+;0xF35AAEA7=All money becomes worthless. Soon the only way you will be able to buy food and clothing is with gold, just like they did in the Middle Ages. It will be a return to the golden era; a time when religious bigots roamed the countryside drinking mead and raping maidens and when a bag of groats got you a night at an inn with a young farm boy. In South Dakota and Nevada, where the majority of American gold is produced, this has already started. In these difficult economic times, it's amazing what a quick root through your grandma's jewelry box or local graveyard can yield.
+0xF35AAEA7=
+
+;0x1A88DCBE=Nothing screams wealth like a stack of gold bars on the table. Keep your investment where you can see it, not in the hands of some greedy stockbrokers who are going to ransack your investments and steal your home.
+0x1A88DCBE=
+
+;0x760145D6=Women respond to gold. They are mesmerized by it. You've seen the music videos on MeTV. It makes them soap themselves down and writhe around on the hood of your car in a string bikini. Rub her breast and you'll get slapped in the face. Rub her breast with a gold bar and she'll be in your pants in a second or less.
+0x760145D6=
+
+;0x4E783E9E=Gold offers 100% privacy of ownership. Nobody will know how filthy rich you are, and the nosy government won't be in your grill with "capital gains" paperwork if you sell some gold using our secure black market online system.
+0x4E783E9E=
+
+;0x3ABE6235=Men with gold chains are known to be 100% successful in business and with women. Gold teeth are a sign of luxury. The French like to shower in it. Nobility in Europe often decorate food and drinks with gold leaf, flakes or dust to demonstrate the host's wealth. Then later, as partygoers pass the gold, people are summoned to look at who has the most sparkly and well designed excrement. This also explains why European toilets use so little water.
+0x3ABE6235=
+

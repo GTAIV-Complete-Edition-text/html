@@ -1,0 +1,30 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x7AA3A3ED=PATE
+0x7AA3A3ED=
+
+;0xA237BF2F=Vegan Problems?
+0xA237BF2F=
+
+;0x578F5F28=TIPS FOR DEALING WITH VEGANS
+0x578F5F28=
+
+;0x3DB9E68F=While vegetarians are merely attention-seeking, supercilious hypocrites who drink milk and eat fish in leather army boots while licking the gelatin off cigarette papers and feeding animal by-products to flea-ridden German Shepherds, vegans are an altogether more dangerous breed who should be approached with extreme care. A militant neo-hippie movement popularized in the 1960s, the cult of veganism has been preaching hate around the world ever since.
+0x3DB9E68F=
+
+;0xD29C8A35=Normally pale, thin and female with tiny offspring, these pallid creatures are typically found outside fashion shows clutching tins of paint, twirling fire sticks in city parks or huddled in backstreet doorways pumping breast-milk into a hipflask. You can tell them apart from methheads by the canvas shoes and tie-die clothing. If you come across a vegan, remember:          
+0xD29C8A35=
+
+;0x4D1A1C93=Do not panic - vegans are manipulative but generally slow and clumsy from the lack of fat and protein.          
+0x4D1A1C93=
+
+;0x341EB2FA=Keep your distance - they are likely to be banged out of their heads on skunk but the methane emissions can be lethal.           
+0x341EB2FA=
+
+;0xFC8AB529=Stay in direct sunlight and start to recite the preparation techniques for Foie Gras. Within 20 minutes, they will either collapse or need to defecate.          
+0xFC8AB529=
+
+;0x0EB15549=If in doubt, shoot to kill.          
+0x0EB15549=
+

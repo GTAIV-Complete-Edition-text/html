@@ -1,0 +1,15 @@
+﻿;0xF596456B=RUNWAY SLAVES
+0xF596456B=
+
+;0xFE002F52=STREET SLAVES 
+0xFE002F52=
+
+;0xC427CDB0=AUTHENTICITY
+0xC427CDB0=
+
+;0x7C4B3592=Powder Specialists 
+0x7C4B3592=
+
+;0xD758F89B=Funky snowboarding gear for investment bankers who like to vacation in the Rockies! Our Hawaiian Snow camouflage salopettes are covered in zippers and are guaranteed to get you noticed on the slopes! $60!!!! Only 3 pairs left! 
+0xD758F89B=
+

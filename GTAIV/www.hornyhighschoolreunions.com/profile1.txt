@@ -1,0 +1,42 @@
+﻿;0xCE176829=Pupil: Jeremy Grasstain
+0xCE176829=
+
+;0x5FF6A72F=Class of: 1996
+0x5FF6A72F=
+
+;0xADBA4AFD=High School: Easton  Academy for Boys
+0xADBA4AFD=
+
+;0xE5F8ED95=NICKNAME:
+0xE5F8ED95=
+
+;0x5C15BE49=Rainbow
+0x5C15BE49=
+
+;0xB78A2011=BIO:
+0xB78A2011=
+
+;0x1BCC0E43=Darlings! I came across this site and thought that it would be fab to hook up with some of my old friends from the Easton Academy! How is everyone? Loving life? I am!!!!!!! Writing from Paris! I just wanted to set the record straight regarding that unfortunate incident in the 8th grade when Kevin Rodthwack and I were caught together naked under the school stage. I know how this must have looked but I want to tell everybody AGAIN that I AM NOT GAY. It was a hot day and Kevin and I had stripped off just like any other red-blooded males. We chose to conceal ourselves because we were arm-wrestling for money (a practice strictly prohibited under the Easton Academy code of conduct!!!). I hope that now we are all mature enough to move on and close this chapter for good. I don't want my parents to disown me again. Send me a message! It would be fantastic to see all the boys! Come see me in Paris. It is SO free. I am working as an interior designer with my fabulous roommate Alain. We have a gorgeous apartment and two of the cutest cats you will ever see (little rascals!). I also absolutely love musical theater, if anybody fancies taking in a show? Please get in touch! Bye for now! xxx
+0x1BCC0E43=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0x174F21A6=Hi Jeremy. Great to hear from you. I just wanted to apologize for all the teasing you had to put up with during your last few years of high school. It was cruel and immature. Glad that everything is working out for you and YOU BITE PILLOWS! 
+0x174F21A6=
+
+;0x044F1353=- Mike K.
+0x044F1353=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0xD092385D=If that was arm-wrestling, I've been doing it wrong all these years!
+0xD092385D=
+
+;0xD43E2AE7=- Dave Moorcock
+0xD43E2AE7=
+
+;0xADD9CB45=BACK TO MAIN PAGE 
+0xADD9CB45=
+

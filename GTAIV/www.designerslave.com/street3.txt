@@ -1,0 +1,15 @@
+﻿;0xF596456B=RUNWAY SLAVES
+0xF596456B=
+
+;0xA6A66E86=STREET SLAVES
+0xA6A66E86=
+
+;0xC427CDB0=AUTHENTICITY
+0xC427CDB0=
+
+;0xE0F76466=What Time Is It? 
+0xE0F76466=
+
+;0x149168AB=Roll like your favorite hip hop star in a pair of 1620 extra-baggy jeans. Designed to be worn around the knees. $45!!!! These are the real deal! Stolen this morning beatch!! (see - we can be down)
+0x149168AB=
+

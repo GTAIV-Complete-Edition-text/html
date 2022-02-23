@@ -1,0 +1,51 @@
+﻿;0xEDE38757=Welcome to one of the thousands of official websites for Eunux, the open source operating system that geeks love! Just imagine your car being put together by hundreds of people in their spare time. That's the same as the open source movement.
+0xEDE38757=
+
+;0x1B3062BB=Eunux, masturbation, vandalism... all the best things in life are free. Why pay $300 to a mega-corporation so you can run $oftware compatible with 99% of computers on the planet when you can join the open source insurgency and be at the ground floor of a revolution?! The underlying source code is available for anyone to modify and redistribute freely which means that you can see how the system works! Doesn't this excite you?! Compiling code r0xx0rz! We're going to bankrupt the $oftware monopoly.
+0x1B3062BB=
+
+;0x6EBE4BB0=Just imagine what would happen if all the fancy clothing stores released copies of their designs?!
+0x6EBE4BB0=
+
+;0xA79F53AC=You would never buy clothes again, right?
+0xA79F53AC=
+
+;0x7EBF7BC5=Only a fool would pay for something when he can get it for free.
+0x7EBF7BC5=
+
+;0xEC22F132=Why buy a house when you can make one out of scrap?
+0xEC22F132=
+
+;0xBA3C57DE=Why go to a supermarket when you can home-farm?
+0xBA3C57DE=
+
+;0xD4E00E93=Why buy a car when you can make one yourself?
+0xD4E00E93=
+
+;0x9B2156EA=At Eunux.net, we all drive around in wooden go-carts powered by hairdryers that we made in our backyards.
+0x9B2156EA=
+
+;0xEF0A162A=L33t!
+0xEF0A162A=
+
+;0x5E4462F0=There are literally millions of different versions of Eunux called distributions or 'distresses', such as RedTwat 328.4, Ucuntu 293.6, Slackcrack 784.9 and Knobbix 136.7. A few of them actually work but we're not going to tell you which ones - that's all part of the fun! Eunux is compatible with almost everything, apart from a sex life, and can do almost anything, except music, movies, games or fun in general. It is the best operating system in the world.
+0x5E4462F0=
+
+;0x2FED096F=But, before you shit the tighty-whities your Mom bought you, it gets even better: as a Eunux user, you will have the chance to be part of a cult-like community and learn a secret handshake. You will finally belong somewhere!        
+0x2FED096F=
+
+;0x77E45944=Why would you want a glitzy, out-of-the-box, plug-and-play, one-size-fits-all desktop solution when you can buy a computer a piece at a time and build it from scratch?
+0x77E45944=
+
+;0x1ADE05D7=Eunux is easy - after about six months of getting flamed on message boards when asking for help, you'll finally figure out the answer to your questions, and, after a few weeks of online tutorials, you should be able to play a DVD.
+0x1ADE05D7=
+
+;0xF8FA0797=Can you think of anything better than spending your weekend recompiling a kernel? Do you even know what we're talking about? A fucking kernel man! Eunux is completely free, so long as time has no value to you. All we ask in return is that you worship our founder. He is a geek god. If you speak to him nicely, he will tell you the meaning of life. Just don't mispronounce Eunux or he will make the system even less intuitive.           
+0xF8FA0797=
+
+;0xFAFB14C6=Come on! What better way to fuck capitalism in the ass than an operating system used by nobody?!! Don't kid yourselves - you're never going to get laid. Join the free software subculture instead. 
+0xFAFB14C6=
+
+;0xB86EC663=Become Eunux today!
+0xB86EC663=
+

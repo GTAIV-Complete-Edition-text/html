@@ -1,0 +1,129 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x0CC122CF=> Discussion Forums
+0x0CC122CF=
+
+;0xCB2825DA= Discussion forums links
+0xCB2825DA=
+
+;0x60854DB4=World domination conspiracies
+0x60854DB4=
+
+;0x55DF0714=The mullet connection!
+0x55DF0714=
+
+;0xFD910832=Cybernetics and mass surveillance
+0xFD910832=
+
+;0x1AF6F7BB=The All Seeing Eye is watching you...
+0x1AF6F7BB=
+
+;0xB6D62AFE=Brainwashing and mind control
+0xB6D62AFE=
+
+;0xF3353255=Planning notes so you will know.
+0xF3353255=
+
+;0x25013734=Is there anybody out there?
+0x25013734=
+
+;0x6C844346=Aliens and UFO's
+0x6C844346=
+
+;0x9923E42F=Smoke and mirrors
+0x9923E42F=
+
+;0x3D8FBEB8=The real truth about Pluto.
+0x3D8FBEB8=
+
+;0x6F2E6571=Women
+0x6F2E6571=
+
+;0xF084B531=The ultimate conspirators?
+0xF084B531=
+
+;0x3D52522A=Poisoning our future leaders
+0x3D52522A=
+
+;0x96793E98=What the food and drink companies are not telling you!
+0x96793E98=
+
+;0x90A48EDB=Forum: World domination conspiracies
+0x90A48EDB=
+
+;0x6CED1600=The Mullet, The Miller, Mom.
+0x6CED1600=
+
+;0xEF857086=Postings
+0xEF857086=
+
+;0x44AD44FF=Read New
+0x44AD44FF=
+
+;0xF0C79167=Post
+0xF0C79167=
+
+;0x2DF737E0=Name: ReichstagFire
+0x2DF737E0=
+
+;0x37C9358A=Location: Los Santos
+0x37C9358A=
+
+;0x305A900F=I've been thinking a lot. Open your eyes! For hundreds of years, a powerful group of Europeans has been hatching plans to rule the world via a single, totalitarian government. It's true - fascists have bad hair! Characterized by their mullet haircuts, pot bellies, bad teeth and distinctive rituals of line dancing and group urination outside heavy metal clubs, these cigarette-smoking anarchists have been spotted in countries such as Germany, Belgium and the Czech Republic and have permeated every stratum of society from ice hockey to sexually confused teen girls to country music. Don't be fooled by the paper governments of the developed world; the Mulletati are responsible for every bloody revolution ever perpetrated and are masterminding events that will lead to a new world order in which sausage for breakfast and wine for lunch will become the norm. This is a worldwide conspiracy directed at the manipulation and control of humanity... I say nuke them!          
+0x305A900F=
+
+;0xE8827AEF=Name: Taos Hum
+0xE8827AEF=
+
+;0x73A27210=Location: Vice City
+0x73A27210=
+
+;0xEA905407=Isn't that the European Union?          
+0xEA905407=
+
+;0x90C0BFBB=Name: Julio
+0x90C0BFBB=
+
+;0x1AE9CCCA=Location: Los Santos        
+0x1AE9CCCA=
+
+;0xF9E43A3B=Femme Puerto Rican, 9 inches cut, seeks bad daddy for depraved sex games.          
+0xF9E43A3B=
+
+;0xE8827AEF=Name: Taos Hum
+0xE8827AEF=
+
+;0x73A27210=Location: Vice City
+0x73A27210=
+
+;0xCE441D88=Are you sure that you're on the right website, Julio?!!          
+0xCE441D88=
+
+;0x90C0BFBB=Name: Julio
+0x90C0BFBB=
+
+;0x37C9358A=Location: Los Santos
+0x37C9358A=
+
+;0x1CDB77AB=Definitely... I love you conspiracy nuts - you're into some crazy shit! Who wants to be my bottom? Or spank my bottom.           
+0x1CDB77AB=
+
+;0xEE6C7667=Name: Majestic12
+0xEE6C7667=
+
+;0x73A27210=Location: Vice City
+0x73A27210=
+
+;0x72E4ABF0=That deranged alcoholic in my local bar who rants about secretly controlling world affairs from his tool shed has a mullet. I'd better kill him...          
+0x72E4ABF0=
+
+;0x7B2E7DEC=Name: Chupacabra
+0x7B2E7DEC=
+
+;0x80A484E2=Location: Liberty City
+0x80A484E2=
+
+;0x429F2761=I'm sacrificing my niece next week, if anyone's interested. Seriously, she's into it. Virgins welcome. Bring snacks and condiments.          
+0x429F2761=
+

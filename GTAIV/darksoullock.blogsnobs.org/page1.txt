@@ -1,0 +1,117 @@
+﻿;0x04E72159=Username:
+0x04E72159=
+
+;0x24E0604D= DarkSoulLock 
+0x24E0604D=
+
+;0xB0BACC87=Sex:
+0xB0BACC87=
+
+;0x5669F7CE= Male 
+0x5669F7CE=
+
+;0x6C1F83B4=Location:
+0x6C1F83B4=
+
+;0xC25F9F82= Carcer City 
+0xC25F9F82=
+
+;0xD0F33C72=Age:
+0xD0F33C72=
+
+;0x3F398D1F=Profession:
+0x3F398D1F=
+
+;0x4194840E= Deadend jobs 
+0x4194840E=
+
+;0xCA6ED4BF=Appearance:
+0xCA6ED4BF=
+
+;0x4065AC38= Purple hair, eyeliner, tight black pants, flouncy shirt, spikes, chains. 
+0x4065AC38=
+
+;0x0EEC57CE=Interests:
+0x0EEC57CE=
+
+;0x78AF6D29= Death metal, furries, gaming, conspiracy theories 
+0x78AF6D29=
+
+;0xC4338853=UPDATED - 11 DAYS AGO
+0xC4338853=
+
+;0x34F20454=Got some anti-depressants today!!!  The doctor filled out the prescription pretty quickly, perhaps a bit too quickly.  I think that he wanted to get me out of there.  
+0x34F20454=
+
+;0x9ACA0A90=This guy at work told me that his cousin developed a rash around her mouth after eating at Wigwam Burger.  When she went to get it checked out at the hosptial they detected 8 different guys DNA all infested with herpes!!!  I tell you... its no wonder I am riddled with infections. There's some scary stuff going on in the world. You just need to open your eyes.  Governement conspiracies to control the population and subvert society.  I'm convinced that the mulletati are pulling the strings.  Just check out this website: 
+0x9ACA0A90=
+
+;0x186E2C1F=www.liesdamnlies.net
+0x186E2C1F=
+
+;0xB245DF51=.  Those central Europeans have always been hellbent on world domination. Something big is about to go down and I for one am going to be ready.  I've boarded up my windows and im going to start sealing my door with duct tape at night.  Just bought a nailgun as well.  Probably not a lot of use against a shapeshifting reptilian but I like the feel of it in my hands.  
+0xB245DF51=
+
+;0x556BF586=UPDATED - 14 DAYS AGO
+0x556BF586=
+
+;0x9F799E59=Woke up with the taste of rotten eggs in my mouth and my hand stuck in the drain of the sink.  Who knows how long I'd been there!  My sinuses must be acting up again.  Cant believe I need to go to the doctors for the fifth day in a row.  
+0x9F799E59=
+
+;0x5CDA855B=Even with all the lights on its too dark.  Even with the heat on, I am too cold.  Daylight Saving Time is screwing with my mind, man!  I never really recover. Just when I start to adjust, it's October and time to turn back again.  
+0x5CDA855B=
+
+;0xD3340AE3=I will finish this eagle origami if it is the last thing I do!  Then im going to hit the bottle.  
+0xD3340AE3=
+
+;0x1BBCFAB3=So much guilt hanging over me.  
+0x1BBCFAB3=
+
+;0xBEF0C12A=UPDATED - 18 DAYS AGO
+0xBEF0C12A=
+
+;0xA933D96D=I knew it was going to be a good day as soon as I laid that ghost turd this morning.  Nothing lifts your spirits quite like wiping your ass and finding the paper clean.  I think it was part of my soul leaving my body.  
+0xA933D96D=
+
+;0xDADA1816=Then someone finally replied to my fantasy post about wanting to eat raw eaglets off the body of a narcoleptic naked chick.  It seems that I am not alone in my perversioon!  There's even a name for it: Nyotaimori.  Just need to track down some clamps now.  
+0xDADA1816=
+
+;0xDB55FA6A=I wrote to Jez Torrent again earlier.  That's the eighth letter this month.  I feel like if we could just meet, just speak for a few minutes he would see how similar we are.  I feel that we are somehow locked into the same vibe, that our destinies are intertwined.  Maybe we could live together.  Anything to get out of this house.  
+0xDB55FA6A=
+
+;0xA306459D=I've decided to try to make amends with all the people that I've harmed.  I apologized to the postman for the crossbow incident last week and I am going to give my sister a call later today.  Ever since she found those pictures of rotting people on my computer we've drifted apart.  
+0xA306459D=
+
+;0xF0C2E750=Also got a new job at the print shop down the street.  Things are looking up!  Finally I will be able to make money. Getting the ink the right color of green is a bitch though.    
+0xF0C2E750=
+
+;0x29BCC08B=UPDATED - 19 DAYS AGO
+0x29BCC08B=
+
+;0xC65F6A8D=I'm back.  I don't know if anyone reads my blog.  I don't really care.  It's better than sitting alone in my room eating my scabs.  
+0xC65F6A8D=
+
+;0x9862258A=I've had this terrible fear all morning that I'm actually mentally ill but nobody has told me yet and everyone is just trying to act normal around me.  I really need to get some sleep.  
+0x9862258A=
+
+;0x80BD9435=I've been calling SaveACent every ten minutes about this freaking kettle but I keep getting an automated message about my query being important to them.  Its driving me insane.  
+0x80BD9435=
+
+;0x02D457E9=Oh i almost forgot!  I bought a ferret off 
+0x02D457E9=
+
+;0x37D143C5=Craplist
+0x37D143C5=
+
+;0xD26E6143=!  Paid $30 for the skinny little fucker.  I already hate it.  Hope that it eats instant noodles.  
+0xD26E6143=
+
+;0x49A91514=I'm going to go hack up a lung.  
+0x49A91514=
+
+;0x63A064A0=(PREVIOUS POSTS)
+0x63A064A0=
+
+;0xA4647A74=(NEXT POSTS)
+0xA4647A74=
+

@@ -1,0 +1,51 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x6520FC0D=>missed connections
+0x6520FC0D=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0x0CE017A1=women seeking men
+0x0CE017A1=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x9F41091F=men seeking men
+0x9F41091F=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x5496CAB5=men seeking women
+0x5496CAB5=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0x0E776B53=MISSED CONNECTIONS 
+0x0E776B53=
+
+;0x73E4A449=I kicked your dog, you spat in my face
+0x73E4A449=
+
+;0x0C864C7F=(Lower Easton)
+0x0C864C7F=
+
+;0x37F775F9=You were the blond girl in the blue dress on the corner of Emerald Street and Bismarck Avenue at about 10 PM last night.  I think that we had a moment.  Want to meet up?  Don't bring that little rat-dog with you - I don't like the way it looks at me. 
+0x37F775F9=
+
+;0x624CED69=PostingID: 882056493
+0x624CED69=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

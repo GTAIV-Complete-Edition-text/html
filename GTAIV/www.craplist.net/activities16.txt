@@ -1,0 +1,66 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x04915A94=>activities
+0x04915A94=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0xC2F12958=ACTIVITIES
+0xC2F12958=
+
+;0x02243DE3=Short on cash... Looking for doppelgangers to share gym membership etc.
+0x02243DE3=
+
+;0xD841792A=(Leftwood)
+0xD841792A=
+
+;0x11E46E26=People are always saying that I have one of those familiar faces, so I figure there must be a few guys out there who look like me.  I've attached a recent photo below.  I really need to tighten my belt for a while - the roulette table has been pounding me in the ass the past couple of months!  If anybody thinks they could pass for me and would like to go halfsies on a few memberships, please get in touch!  Ideally, you should live in or near Leftwood in Alderney.  If you really are my doppelganger, you can also share my girlfriend.  She's high maintenance but gives head like her life depended on it.
+0x11E46E26=
+
+;0x74A1323D=PostingID: 4945899102
+0x74A1323D=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

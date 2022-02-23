@@ -1,0 +1,69 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x3B0CB221=>
+0x3B0CB221=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0x6FF67641=LOST & FOUND
+0x6FF67641=
+
+;0xDBC24838=LOST dwarf crocodile, answers to the name of Betty
+0xDBC24838=
+
+;0xF5C17AEF=(South Slopes)
+0xF5C17AEF=
+
+;0xB35313CE=I was changing Betty's bathwater when my awful mother called me YET AGAIN.  By the time I got back, my baby was gone.  If anything's happened to her, I'll kill that bitch!  I don't care if she's got a bad back.  Man the fuck up, woman!  I'm 26 now - I've done my time.  PLEASE HELP ME TO FIND MY CROCODILE!  She's about 4 feet long and looks like, well, a crocodile.  I brought her from Vice.  Very timid until she gets hungry.  You're unlikely to see her during the day but please keep an ear out for splashing noises in your swimming pool at night.  If you spot her, please DO NOT call the police.  I'm fairly sure it's illegal to own a crocodile, especially in a condo, and I had to pay a fortune to get her smuggled in.  Airport security blows.  Large reward for information leading to her capture.  
+0xB35313CE=
+
+;0xF4DBC4C8=PostingID: 620021546
+0xF4DBC4C8=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

@@ -1,0 +1,24 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x1A55813C=Language of Love
+0x1A55813C=
+
+;0xBE9EF411=Wishful Drinking
+0xBE9EF411=
+
+;0x0077C37E=Beer Boogie
+0x0077C37E=
+
+;0xE50AC71E=Partners
+0xE50AC71E=
+
+;0xA1B68015=How Do You Know?
+0xA1B68015=
+
+;0xC625CAB0=While we strongly recommend that you skip dinner when drinking Piswasser, fast food is the perfect complement at around 3 AM.  Puking marks the halfway point of the evening; a face buried in the fat rolls of some horny slob marks the end.  Piswasser is proud of its strategic alliances with Burger Shot, Cluckin' Bell, Al Dente's and Pizza Stack.
+0xC625CAB0=
+
+;0x8D978CA7=Try to eat before you get plastered.               
+0x8D978CA7=
+

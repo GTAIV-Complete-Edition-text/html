@@ -1,0 +1,72 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x244E8099=Specials
+0x244E8099=
+
+;0xAD935D05=Cup Sizes
+0xAD935D05=
+
+;0xC46A285A=Franchising Opportunities
+0xC46A285A=
+
+;0x951A1C18=Buy Our Coffees
+0x951A1C18=
+
+;0x0910409E=Caffeine Is Not a Drug
+0x0910409E=
+
+;0x8512F7FC=Become a Rep
+0x8512F7FC=
+
+;0xC14112B2=10 Reasons to Boycott 
+0xC14112B2=
+
+;0xF275475D=Your Local Coffeehouse
+0xF275475D=
+
+;0xBA7583F9=Nothing can stop the Bean Machine.  We have a product people drink at night, during the day... coffee isn't just for morning anymore.  We have built our global empire around one simple premise:  annihilate the competition.  As a Bean Machine Franchisee, you will quickly learn the secrets of sabotaging mom and pop coffee shops, how to plant explosives, and the fine art of puffing out your chest, grabbing your nuts and threatening people.
+0xBA7583F9=
+
+;0xF77DAA63=Welcome to capitalism the Bean Machine way - with market cannibalization and cluster-bombing campaigns that show you how to flex the corporate muscle and drive family businesses into the ground. 
+0xF77DAA63=
+
+;0x3218B20A=As soon as your life savings hit our bank account, we will ship out the Bean Machine Starter Identi-KIT to your chosen location:
+0x3218B20A=
+
+;0x895E71F9=3 distressed leather sofas
+0x895E71F9=
+
+;0xADAD0794=10 velvet-effect armchairs
+0xADAD0794=
+
+;0xB9E39A84=1 Reggae CD
+0xB9E39A84=
+
+;0x5B469F65=1 bookcase full of dog-eared paperbacks
+0x5B469F65=
+
+;0xB64EA822=1 rack of travel mugs with exotic prints
+0xB64EA822=
+
+;0x7064D2ED=4 pieces of terrible abstract art
+0x7064D2ED=
+
+;0xFBE25285=6 tins of paint in assorted earthy colors
+0xFBE25285=
+
+;0xB2974678=5 over-privileged students
+0xB2974678=
+
+;0x08175809=7 yuppies on cell phones
+0x08175809=
+
+;0xC7DBF140=12 failed dot-com entrepreneurs
+0xC7DBF140=
+
+;0x6431FE7E=8 soccer moms
+0x6431FE7E=
+
+;0x4A99DB9F=Monopolize your local market in a matter of weeks!
+0x4A99DB9F=
+

@@ -1,0 +1,42 @@
+﻿;0x06D2535F=CASE STUDY 1
+0x06D2535F=
+
+;0x07D254F2=CASE STUDY 2
+0x07D254F2=
+
+;0x08D25685=CASE STUDY 3
+0x08D25685=
+
+;0x2871A93C=Name: 
+0x2871A93C=
+
+;0xF3236347=Mark Eastman
+0xF3236347=
+
+;0x2D1BC830=Position: 
+0x2D1BC830=
+
+;0x5FF711BA=C.E.O Betta Pharmaceuticals
+0x5FF711BA=
+
+;0x5845021B=Date: 
+0x5845021B=
+
+;0xF876DB54=7th of July 2001
+0xF876DB54=
+
+;0xDAB2AB70=Settlement: 
+0xDAB2AB70=
+
+;0x2A43D804=Undisclosed seven figure sum, resignation from all company boards.
+0x2A43D804=
+
+;0x2987A31B=Mark Eastman started as a clerk at a drug store and through hard work and perseverance beat a bout with cancer at the age of 30 and went on to become CEO of one of the largest pharmaceutical companies in the world.  He won multiple humanitarian awards for bringing Mollis to market in the late nineties and solved the problem of juvenile erectile dysfunction globally.  Named "the untouchable CEO" in the Liberty Tree (Sept. 15th 2000), Eastman gives a percentage of his money to charity and has three girls and a wife. Goldberg, Ligner and Shyster saw this as a challenge.  Taking down a prize such as this was a top goal.
+0x2987A31B=
+
+;0xB9DB7408=After thorough investigation, our attorneys were able to find certain accounting irregularities pertaining to Eastman's student loan payments. From this cornerstone, a case was constructed that toppled him from his position of power and made a name for the GL&S team.  His wife divorced him and one of his three daughters has reportedly turned to prostitution.
+0xB9DB7408=
+
+;0x1EB6AC60=GL&S, All Rights Reserved . Privacy Statement . Contact Info
+0x1EB6AC60=
+

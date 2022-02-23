@@ -1,0 +1,21 @@
+﻿;0x6DE89817=NUCA will be exhibiting a sample of work from Bao, the Chinese artist who is known throughout the world for his innovative abstract paintings, created in collaboration with giant pandas.  Bao shouts, screams, sings and beats the pandas with a gnarly branch, often for hours, until they have completely covered a canvas with paint.  An excerpt translated from his autobiography reads, "Creativity should be raw and animalistic.  We are products of our environment, mere robots programmed to conform to a pre-determined interpretation of the world.  Pandas are untainted by the collective weight of human conscience. I have distilled the essence of what it is to create. I am not the artist, they are the artists, however they can't spend money, so I buy them trinkets to entertain them." 
+0x6DE89817=
+
+;0x152F83F5=Critical commentary: "Bao is a miracle - you should not let his work pass you by.  Under his tutelage, the space between man and nature has been condensed into nothing. He has a rare understanding of ugliness." 
+0x152F83F5=
+
+;0xAF8C617C=The latest exhibition at NUCA is a series of photographs from the British homosexuals, Simon & Nigel. Simon & Nigel have shaken up the art world in recent years with their controversial reenactments of pivotal events in history, dressed as gorillas.
+0xAF8C617C=
+
+;0x9BCE3C01=We are condemned to view the past through the eyes of others and these photos act as a powerful reminder of the subjectivity inherent in all historical accounts. From the Fall of Troy to Hiroshima to the Rwandan Genocide, Simon & Nigel's work encourages us to approach history from a fresh perspective, stripped of prejudice and stereotypes. Once you see Hitler dressed as a gorilla, it will explain WWII in a way you never thought possible. 
+0x9BCE3C01=
+
+;0xA075A9FD=Critical commentary: "Simon & Nigel shock. They simplify history to the most base concepts. It is work about mortality and seeing theirs will make you give thanks for your own mortality."
+0xA075A9FD=
+
+;0x9E74876C=Dukes Boulevard at Bunker Hill Avenue 
+0x9E74876C=
+
+;0xD9959FD4=East Island City, Dukes 
+0xD9959FD4=
+

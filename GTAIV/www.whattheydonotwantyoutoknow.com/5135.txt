@@ -1,0 +1,24 @@
+﻿;0x5F32407D=The hidden weapons that the mayor wants you to find.
+0x5F32407D=
+
+;0xC2954BC2=Back
+0xC2954BC2=
+
+;0x6C2A2788=Posted by LibertyLove
+0x6C2A2788=
+
+;0xB934B4B7=Mayor Ochoa and all them fat cats in city hall is trying to get us to kill each other.  He talks about gun control and all that shit but he really want a war on the streets of Liberty.  There's a subsonic message that goes out in the night.  "Kill!  Kill!  Kill!"  I been able to hear it ever since I got hit in the head by a taxi.  Mayor Ochoa also been hiding guns all over the city as well.  I been following him around in the night seeing where he done it.  He wears a big black cloak and he hovers like 6 inches off the ground. You don't believe me, check it out.  He want a war.
+0xB934B4B7=
+
+;0x4551C656=Posted by Patriot68 
+0x4551C656=
+
+;0x10BF895B=God bless the 2nd Amendment!  Are you a lefty loon or a Pinko or something!  Every man woman and child in this city needs a gun!
+0x10BF895B=
+
+;0x89C7AAB6=Posted by LCFelon 
+0x89C7AAB6=
+
+;0x54B19E19=Thx for the info.
+0x54B19E19=
+

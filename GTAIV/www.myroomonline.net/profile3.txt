@@ -1,0 +1,273 @@
+﻿;0x34F1F1A1=Shaved or natural?
+0x34F1F1A1=
+
+;0xBBC9BBBD=Shower or grower?
+0xBBC9BBBD=
+
+;0xDFBAA916=natural
+0xDFBAA916=
+
+;0x8A98950A=shower, I think
+0x8A98950A=
+
+;0x26BF8E02=Do you have a nickname for your genitals?
+0x26BF8E02=
+
+;0x542F5FC0=How many sexual partners have you had?
+0x542F5FC0=
+
+;0x7CCAA77C=Deafy
+0x7CCAA77C=
+
+;0xC9849F39=one and I will never be with another
+0xC9849F39=
+
+;0x82D4E616=When did you last have sex?
+0x82D4E616=
+
+;0x1EE80A40=How often do you masturbate? 
+0x1EE80A40=
+
+;0xB0608CAC=I don't have sex I make love and cry
+0xB0608CAC=
+
+;0x1BD095D6=whenever I cry
+0x1BD095D6=
+
+;0x3B8B80E7=Ever had sex with anything not human?  
+0x3B8B80E7=
+
+;0x2C1E4D92=One word to describe you:
+0x2C1E4D92=
+
+;0xC1B955B7=once with a sea bass
+0xC1B955B7=
+
+;0xA2BD2F4F=sensitive
+0xA2BD2F4F=
+
+;0x4683E37A=What makes you happy?  
+0x4683E37A=
+
+;0xA20926C3=Finish this sentence. "I wish...
+0xA20926C3=
+
+;0xF266B2B9=cutting myself
+0xF266B2B9=
+
+;0x46EA3F73=that one day people will get me
+0x46EA3F73=
+
+;0x04E72159=Username:
+0x04E72159=
+
+;0x1A2666C1=blackfrost5
+0x1A2666C1=
+
+;0xD0F33C72=Age:
+0xD0F33C72=
+
+;0xC456436E=Gender:
+0xC456436E=
+
+;0xE19D9FD0=male
+0xE19D9FD0=
+
+;0x1522FED4=Hometown:
+0x1522FED4=
+
+;0x3EB137E5=Alderney
+0x3EB137E5=
+
+;0xF5AF3FFB=Relationship Status:
+0xF5AF3FFB=
+
+;0x1F050D34=broken-hearted
+0x1F050D34=
+
+;0xA83327DE=Here for: 
+0xA83327DE=
+
+;0x3110C38B=acceptance, a voice
+0x3110C38B=
+
+;0x3F398D1F=Profession:
+0x3F398D1F=
+
+;0xBE264805=art school student
+0xBE264805=
+
+;0x837868DF=Likes:
+0x837868DF=
+
+;0x537A119B=tight pants, poetry, self-mutilation, piercings, playing with mom's makeup, death
+0x537A119B=
+
+;0xC962002D=Dislikes:
+0xC962002D=
+
+;0x98733266=jocks, mainstream shit, meat, capitalism
+0x98733266=
+
+;0x80983B99=Strengths:
+0x80983B99=
+
+;0x52BC47EB=in touch with emotions
+0x52BC47EB=
+
+;0xE51189B4=Weaknesses:
+0xE51189B4=
+
+;0x3F5784D9=drug problem, punching walls, sterile 
+0x3F5784D9=
+
+;0x834639B4=Best Physical Feature: 
+0x834639B4=
+
+;0x0046AA62=eyelashes
+0x0046AA62=
+
+;0x918E3581=Drink of choice:
+0x918E3581=
+
+;0xA2AF1C3E=wheatgrass juice
+0xA2AF1C3E=
+
+;0x91683F03=Drug of choice:
+0x91683F03=
+
+;0x6FF74317=weed, mushrooms
+0x6FF74317=
+
+;0x8B390C71=Weapon of choice:
+0x8B390C71=
+
+;0x498C7C78=Faust
+0x498C7C78=
+
+;0xE3BAE3BC=One of my poems:
+0xE3BAE3BC=
+
+;0x68F5C820=Night suffocates my sphincter  
+0x68F5C820=
+
+;0x6D261114=with its heavy cloak,  
+0x6D261114=
+
+;0x7656F7C2=cold and empty train track hobo love.  
+0x7656F7C2=
+
+;0x62ECC9CE=A poisonous torch pencil twisted  
+0x62ECC9CE=
+
+;0xAB2D263F=understanding five  
+0xAB2D263F=
+
+;0x7185B12D=glows bright, then dies,  
+0x7185B12D=
+
+;0x3D8CC6B2=shit stained carpet  
+0x3D8CC6B2=
+
+;0xBDA2F200=Zoo fling your feces.  
+0xBDA2F200=
+
+;0x3AD9862A=devoured by madness and shame.  
+0x3AD9862A=
+
+;0xCDB3E615=Heart sicken milk body  
+0xCDB3E615=
+
+;0xF8D48ADB=adjective metaphor rubbish  
+0xF8D48ADB=
+
+;0x6FDC53C0=Never copulate never  
+0x6FDC53C0=
+
+;0x529A870A=copulate. Sicky sicky  
+0x529A870A=
+
+;0x65090212=Turn left up direction shit poem.  
+0x65090212=
+
+;0x21C2BBED=Shit poem.  Shit poem.  
+0x21C2BBED=
+
+;0x82140695=Shadows surround us, weeping,  
+0x82140695=
+
+;0xBBC90D32=At my shit poem. - blackfrost5  
+0xBBC90D32=
+
+;0xA17C801C=Shit.  I hate my life.  Why am i constantly persecuted 4 being different?  Society rejected me before I had a chance.  I've lived a lifetime.  Or maybe it was me who rejected society?  Who knows.
+0xA17C801C=
+
+;0x0950E0F7=One things 4 sure, I don't fit in and now I whine about it online.  The road to acceptance is paved with hate and guts and propsitions and thats a path I refuse to take.  Sometimes I get the feeling that the world around me is nothing mmore than an illusion, and I'm so smart and one day I will invent a machine that I can attach to bears that will allow them to speak and they will have small headsets and we can discuss fushing.   im trapped in a parallel universe and looking in a mirror.  Actually, I'm trapped in a shit apartment with carpet that smells like a musty old woman's diaper. im condemned to drift forever more on a sea of loneliness.  Floating.  And now jody has left me as well.  What is love if not a test of our capacity 2 forgive?  We said we would love each other forever.  But can I forgive her?  She says it was her mouth on that man's junk and not mine but we were both loaded and swinging with couples in their 40s can be troublesome, especially when they spike your drink.  Geezers. Thank Zeus for my poetry.  Without it, I don't think I would be here today.  I wish I wasn't so in touch with my emotions - I FEEL everything so strongly.  It might be the fistful of pills I just shoved into my piehole.  I soak up pain like a sponge and it eats away at me day after day, like a rat.  I am hollowed out, an empty shell.  I am nothing but I am everything.  I am the most boring Myroom person in the world.  How I long for death's cold embrace!!!!  I planted a tree today and started to cry uncontrollably as I shit next to it and covered it up like a cat. I castrated one of nature's babies with my excretement.  
+0x0950E0F7=
+
+;0xF39AE793=What's wrong with me?!!!!
+0xF39AE793=
+
+;0x0FFBB2CD=My corn will soak into that trees DNA and it will becaome a sickly mess.  I wonder why im so misundertstoood.   It might possibly be that my mother drank during pregnancy.  I'm going to cut myself.      
+0x0FFBB2CD=
+
+;0xD984568C=fatedsongstress04
+0xD984568C=
+
+;0xFB4613C8=How cud u remove me as a frend?  I thought we wer solemates!!
+0xFB4613C8=
+
+;0xD984568C=fatedsongstress04
+0xD984568C=
+
+;0x8DCB5E62=I luv ur poetry, it touches my heart deeply.  I thought I was the only 1 who felt so alienated and cut of from the rest of the world.  Ur destined to be famus, but prob not in ur own life time
+0x8DCB5E62=
+
+;0x86F33166=drippinglibrarian
+0x86F33166=
+
+;0x543DEBE5=Hey sexy!!!  Me and my girlfriends have been hooking up with lots of guys at this great website called www.love-meet.net.  One of the girls saw your picture on MyRoom and thinks that you are SOOOOO HOTTTTT!!!!   She's really cute - check her out on 
+0x543DEBE5=
+
+;0xB1827EC7=www.love-meet.net
+0xB1827EC7=
+
+;0x34463C03=.  Bye for now!  xxxxxxxxxxxx
+0x34463C03=
+
+;0xA84FF50B=squashedtear19
+0xA84FF50B=
+
+;0xECB7606E=ive got a new online girlfriend I was myrooming her until 2am i think im in luv
+0xECB7606E=
+
+;0xA2DF7D23=wickerclitoris
+0xA2DF7D23=
+
+;0x2185133C=STOP calling me and STOP hanging around my house.  If I read any more of your pathetic poems, I'm going to puke.  Go and whine about your tortured existence to somebody else.  Jody.
+0x2185133C=
+
+;0x48A814BA=insignificantwonder000
+0x48A814BA=
+
+;0x4910A0C6=Im going to kill myself
+0x4910A0C6=
+
+;0xDE63C6E0=spongyveteran2
+0xDE63C6E0=
+
+;0x8FE76190=Got a younger brother?
+0x8FE76190=
+
+;0xDE63C6E0=spongyveteran2
+0xDE63C6E0=
+
+;0xDBFBDA82=thanks for the add!!! dave xxx
+0xDBFBDA82=
+
+;0x4727BCC7=chunkysunbather
+0x4727BCC7=
+
+;0xBB66F0C1=Do you believe in God?
+0xBB66F0C1=
+

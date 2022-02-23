@@ -1,0 +1,168 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x04915A94=>activities
+0x04915A94=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0xC2F12958=ACTIVITIES
+0xC2F12958=
+
+;0x63F4FD0A=Carpool to Bohan on Friday/Saturday nights???
+0x63F4FD0A=
+
+;0x0ACD75E4= (Varsity Heights)
+0x0ACD75E4=
+
+;0xEF1471E5=Political Group seeks cause and scapegoat
+0xEF1471E5=
+
+;0x9DE3C136= (America)
+0x9DE3C136=
+
+;0xFF6AA59E=Tablet PC enthusiasts?
+0xFF6AA59E=
+
+;0x83533C71= (Port Tudor)
+0x83533C71=
+
+;0x7B0B70C1=Players wanted for cross-dressing rugby team!!!!
+0x7B0B70C1=
+
+;0x0C661445= (Westminster)
+0x0C661445=
+
+;0xA06DF764=COED TRAMPOLINE CLUB NEEDS GIRLS!
+0xA06DF764=
+
+;0x5E4693B4= (Steinway)
+0x5E4693B4=
+
+;0x1CCEFB1B=Female tennis partner in Meadows Park??
+0x1CCEFB1B=
+
+;0xCEB6777C= Meadows Park)
+0xCEB6777C=
+
+;0x492B64C9=Want to join me for some urban hunting?
+0x492B64C9=
+
+;0x5BBD6BD0= (Hatton Gardens)
+0x5BBD6BD0=
+
+;0x892FCFC6=Kids bodybuilding on Friday nights - we're hands on!
+0x892FCFC6=
+
+;0xAFEF6C34= (Schottler)
+0xAFEF6C34=
+
+;0x050934A3=Eunux user group?
+0x050934A3=
+
+;0xD54B9E07= (Rotterdam Hill)
+0xD54B9E07=
+
+;0x3747ACCD=Hangover club?  Meet on Sundays to wallow in self-pity?
+0x3747ACCD=
+
+;0x65B48C91= (Lower Easton)
+0x65B48C91=
+
+;0xD45DA6B2=Parents Against Tofu Eating (PATÉ)
+0xD45DA6B2=
+
+;0x9FD6D80A= (Berchem)
+0x9FD6D80A=
+
+;0xEDA102AB=Will you hold me?  SWM 185lb
+0xEDA102AB=
+
+;0xA66CC5DE= (Normandy)
+0xA66CC5DE=
+
+;0x65841CE1=Elderly swingers???
+0x65841CE1=
+
+;0x357A29A2= (Firefly Island)
+0x357A29A2=
+
+;0x5CB2C409=Anyone want to play Ultimate Disc (not in the dark) and 
+0x5CB2C409=
+
+;0xB9918968=smoke some weed in about 30 minutes?
+0xB9918968=
+
+;0x0B2515CB= (Middle Park)
+0x0B2515CB=
+
+;0x3A9B033F=Failing police officer needs people to stage a crime.  $$$$
+0x3A9B033F=
+
+;0x6D3C733B= (Purgatory)
+0x6D3C733B=
+
+;0x02243DE3=Short on cash... Looking for doppelgangers to share gym membership etc.
+0x02243DE3=
+
+;0x34604134= (Leftwood)
+0x34604134=
+
+;0xD63B55D4=Support group for straight adult men who love boy bands
+0xD63B55D4=
+
+;0x0A9519BD= (South Slopes)
+0x0A9519BD=
+
+;0x2843CE41=Good pool player needed to hustle drunk tourists
+0x2843CE41=
+
+;0xE82C0956= (Liberty City)
+0xE82C0956=
+
+;0x2C9B8F88=Photography hobbyist want to take pics - my services for yours!
+0x2C9B8F88=
+
+;0xA908AE2C= (Middle Park East)    
+0xA908AE2C=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

@@ -1,0 +1,12 @@
+﻿;0xF596456B=RUNWAY SLAVES
+0xF596456B=
+
+;0xA6A66E86=STREET SLAVES
+0xA6A66E86=
+
+;0xC427CDB0=AUTHENTICITY
+0xC427CDB0=
+
+;0x9FE23EB9=Get one of Fourchette's excessively-monogrammed handbags for $50! $2,000 retail! Nobody will know from a distance! Ugly design but it will make you look rich! They kill for them in Japan!
+0x9FE23EB9=
+

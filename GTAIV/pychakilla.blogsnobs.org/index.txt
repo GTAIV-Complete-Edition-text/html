@@ -1,0 +1,99 @@
+﻿;0x04E72159=Username:
+0x04E72159=
+
+;0x75CFD727= Pychakilla     
+0x75CFD727=
+
+;0xB0BACC87=Sex:
+0xB0BACC87=
+
+;0xC0952D8D= Female     
+0xC0952D8D=
+
+;0x6C1F83B4=Location:
+0x6C1F83B4=
+
+;0x100FF0C5= Las Venturas     
+0x100FF0C5=
+
+;0xD0F33C72=Age:
+0xD0F33C72=
+
+;0x3F398D1F=Profession:
+0x3F398D1F=
+
+;0x442D278D= College student     
+0x442D278D=
+
+;0xCA6ED4BF=Appearance:
+0xCA6ED4BF=
+
+;0x48D750C9= Curly brown hair, pretty summer dresses, white pumps, girly smile, eyes of steel.     
+0x48D750C9=
+
+;0x0EEC57CE=Interests:
+0x0EEC57CE=
+
+;0x551667B2= Pottery, poetry, civil war reenactments, animals    
+0x551667B2=
+
+;0x7D3A9088=UPDATED - 3 HOURS AGO
+0x7D3A9088=
+
+;0x6212477B=Big sigh!!!!!    
+0x6212477B=
+
+;0x6ECB8769=Sorry for not updating for so long but I've been dying of a broken heart.  I'm hurt.  I'm lost.  I'm crying.  I'm wet.  Even pottery club cannot lift my spirits.  Smashing your face into a tray of wet clay really captures the essence of pain.  I'm finding it so hard to get over Jack and I've starting sucking my thumb again.  He hasn't returned any of my calls ssince I cut up his clothes and peed in his car and even his mother seems to have changed her phone number.  Everyone on campus is calling me a psycho bitch.  I dont know why.  I think rolling around in the campus fountain in tears says a lot about loss.  He's such a bastard and hes ruined my life but I still love him more than anything in the world.  Nobody will ever love him more than me.  Not even a three legged poodle.    
+0x6ECB8769=
+
+;0x608F3E52=I keep getting depressed for NO FRIGGIN REASON other than I'm out of pills.  My hamster and goldfish aren't doing it.  Frigid little shits.  I need a ginseng enema or something, cause Wednesday I spent thae day staring at the ceiling and looking at my pink nightstand and wanting to throw up from all the chocolate I ate.  I watched some documentary where elephants have sex.  ELEPHANTS HAVE HUGE ONES.  The say elephants never forget, but I don't think I'll forget seeing that either.  I would have gotten excited, but watching elephants do it reminds me of the time I walked in on my parents and then I start to cry.  Mom made me promise to stop joking about it on holidays by picking up the cat and humping it.  She did.  Sound.  Just.  Like.  A.  Cat.   It's why I hate cats.      Tomorrow I meet Sitva to study.  He and I are in the same Poly Sci class and I can't understand a word he says in pastafarian or Spanglish or Heswalli or whatever language it is, but I can tell you if he didn't have such massive acne I'd totally do him. ^o^ *lol*        I don't know why, but I felt like posting right now, even though I'm supposed to be at the library, yet here I am, writing.  Shakespeare must have had a blog, because every word feels like it's a piece of my soud.  I took a long hot bath and let the water glisten on my body, but that got boring.
+0x608F3E52=
+
+;0x7FDA5DC5=UPDATED - 6 DAYS AGO
+0x7FDA5DC5=
+
+;0x9344CBA4=NOOOOOOOOOOO!!!!!!!!!  MY LIFE SUCKS!!!  I am drowning in a sea of misery and hate and seagull shit.  Jack dumped me today.  I thought that he was going to propose when he told me to sit down but he called me a demented schizo and said he would call the police if I ever tried to contact him again.  I don't undertsand.  i surround him with love and he backs away.  I send him used intimate clothing and he burns it.  I shower him with affection and tracking beacons and he tears out my heart and stamps it on the floor.  How could you throw away something so special, Jack?  Don't all men want a woman chasing them?  I thought we were going to spend the rest of our lives toogether.  My horoscope said so.      
+0x9344CBA4=
+
+;0x97F52FB1=Im in a really bad place right now.  Jail.  Thanks god they have wifi.  I keep getting flashbacks to that day on the farm when the baby calf was born and those two sheep dogs ate the afterbirth.      
+0x97F52FB1=
+
+;0x83543424=I hate you Jack.  I hate you Jack.  I hate you Jack.  But I love you.  You wont get rid of me that easily.  I will win you back.  I will straddle your face with my heart and suffocate you with my desire.  I will find you and make you want me again.  Maybe I'll tell him that im pregnant?
+0x83543424=
+
+;0xFE11606C=UPDATED - 7 DAYS AGO
+0xFE11606C=
+
+;0x72085C18=I just had that recurring dream that I am being chased by horses through a field of marshmellows with a pair of scissors in my hand.  What does it mean???!!!  And what does it mean when I find marshmallows in my bed?    
+0x72085C18=
+
+;0x55A563A8=WTF!!  I had a few replies to my post asking for feedbackt on high school. I have to admit I was a little shocked at some of the responses.  Clingy?  Unhinged?  Overbearing?  Possessive?  How many times do I need to say sorry for what happened to Randy?  And Brian.  And Terry, I suppose.  Youre all just jealous.    
+0x55A563A8=
+
+;0x3CC907A6=I wanted to surprise Jack today and let myself into his dorm room with the key that I copied when he was at soccer practice.  You should have seen his face when he switched on the light to find me sitting in his armchair dressed in his clothes!!!  I LUV him so much.    I keep bursting into hysterics for no reason.  I hope that Jack finds it simply adorable.    
+0x3CC907A6=
+
+;0x17A84883=I thought you might want to know my five favorite flavors of coffee:    
+0x17A84883=
+
+;0xBA87E0AE=Vanilla Brownie    
+0xBA87E0AE=
+
+;0x347448DE=Orange Sherbert    
+0x347448DE=
+
+;0x8C2C8EB2=Chocolate Hazelnut    
+0x8C2C8EB2=
+
+;0x6ABC9DA9=Banana Peanut Butter    
+0x6ABC9DA9=
+
+;0x60A9B913=Praline Pecan    
+0x60A9B913=
+
+;0x9DCEC5D8=Bye for now!!!!XX
+0x9DCEC5D8=
+
+;0x63A064A0=(PREVIOUS POSTS)
+0x63A064A0=
+

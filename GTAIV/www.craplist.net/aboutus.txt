@@ -1,0 +1,24 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0xFC4A8B1C=> about us 
+0xFC4A8B1C=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0x6B986F9E=ABOUT US 
+0x6B986F9E=
+
+;0x9982485F=EST 1995 
+0x9982485F=
+
+;0x4D8631A3=Craplist was started in San Fierro in 1995 by some basement dwelling sociopaths with the simple mission of creating a computer-based online forum where users can sell stolen bicycles and meet up at lunch time to give a stranger head. Sure, you can find a new apartment or job on this website, but our main goal is to provide knobheaded computer slobs a nationwide distribution platform, and to become the legitimate face of prostitution.  We pride ourselves on bringing perverts and psychos together with desperate individuals who will do anything for money or attention.  You might have to lie, you might have to pay; but anybody can get laid on Craplist.  Capitalists don't understand us.  Newspapers hate us.  Stalkers love us.  Craplist is here to stay. We are you. 
+0x4D8631A3=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

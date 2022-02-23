@@ -1,0 +1,21 @@
+﻿;0xD4FD0540=Product: Grin
+0xD4FD0540=
+
+;0xE1616949=Quantity: 90 capsules
+0xE1616949=
+
+;0x63CD9463=Our price: $25
+0x63CD9463=
+
+;0xED445E05=Raising a family in the suburbs is tough, especially if you are a convicted sex offender.  With the stresses of modern society, it can be difficult to maintain a loving, exploratory sexual relationship with your partner while countering the temptations to kill your own children.  Grin is scientifically formulated to help cure the anxiety, depression, and lack of self-confidence that comes with living a new life in the suburbs.  It's safe and non-addictive.  After all, what could be habit-forming about a pill that makes you feel better all of the time?    
+0xED445E05=
+
+;0x6FEAE585=Major credit cards accepted.
+0x6FEAE585=
+
+;0x93D0CCD8=All purchases are non-refundable.
+0x93D0CCD8=
+
+;0x246A54CE=All liabilities are denied.
+0x246A54CE=
+

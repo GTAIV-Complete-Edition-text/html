@@ -1,0 +1,33 @@
+﻿;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
+0xE773CCA2=
+
+;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
+0x5E1A6427=
+
+;0xEAE8E015='Like' has been voted 'word of the year' by linguists.  'Whatever' came in second and 'totally' a narrow third. Awesome!!!!
+0xEAE8E015=
+
+;0xFEE439CA=Popping, the heartwarming dance-off movie about a kid from the rough part of town who has one chance to make something of his life, is at the top of the box office charts for a second week.  Many are attributing the movie's phenomenal success to its 78-minute training montage in which the main character, Flex, is put through his paces in a dance studio by an older mentor from the neighborhood and a hot upper-middle class ballerina.  Can Flex keep it real while high-kicking in a yellow leotard?  You'll have to go see for yourself.  Truly, this is how it is settled on the streets.
+0xFEE439CA=
+
+;0x09ED52CA=- BREAKING NEWS: Bryce Dawkins - You got MALE!!!
+0x09ED52CA=
+
+;0xB87A0552=- Samantha Muldoon buys another baby!
+0xB87A0552=
+
+;0xC7E658D4=- Shear Lunacy!
+0xC7E658D4=
+
+;0x391868C4=- McTony: A microscopic maniac!!!
+0x391868C4=
+
+;0x779E01C9=- 'Like' voted word of the year!
+0x779E01C9=
+
+;0x9112632A=- POPPING boffo box office
+0x9112632A=
+
+;0x10CCF982=- More Madness From McIntosh!!!
+0x10CCF982=
+

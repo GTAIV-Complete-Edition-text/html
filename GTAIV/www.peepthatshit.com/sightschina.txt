@@ -1,0 +1,84 @@
+﻿;0x7C856B24=Chinatown       
+0x7C856B24=
+
+;0xDEBF2B0D=Algonquin    
+0xDEBF2B0D=
+
+;0x1F41DF81=Liberty City's Chinatown between Lower Easton and The Exchange in Algonquin is a vibrant neighborhood and a great place to pick up food poisoning and counterfeit handbags that funnel money to terrorists.         
+0x1F41DF81=
+
+;0xEBADA5B7=The People
+0xEBADA5B7=
+
+;0x92171299=Broker Bridge
+0x92171299=
+
+;0x92882617=Statue of Happiness
+0x92882617=
+
+;0x006388FD=Algonquin
+0x006388FD=
+
+;0x90DB42AF=Star Junction
+0x90DB42AF=
+
+;0x2C1AE7B0=Middle Park
+0x2C1AE7B0=
+
+;0xD05808E4=Rotterdam Tower
+0xD05808E4=
+
+;0xDE45AE5D=Zirconium Building
+0xDE45AE5D=
+
+;0x12B16F2B=Triangle Building
+0x12B16F2B=
+
+;0x217DF431=CC Building
+0x217DF431=
+
+;0xBF773E55=Grand Easton Terminal
+0xBF773E55=
+
+;0x107C31CC=Chinatown
+0x107C31CC=
+
+;0xA5E9B921=The Exchange
+0xA5E9B921=
+
+;0x310DB0C6=Cleethorpes Tower
+0x310DB0C6=
+
+;0xB029F950=GetaLife Building
+0xB029F950=
+
+;0xA84B6FB7=Bohan       
+0xA84B6FB7=
+
+;0x3D3ADCBC=Welham Parkway
+0x3D3ADCBC=
+
+;0x81C941D4=Broker
+0x81C941D4=
+
+;0x46C7ACE4=Outlook Park
+0x46C7ACE4=
+
+;0x7CE2A56F=Firefly Island
+0x7CE2A56F=
+
+;0xDAE5F56B=Dukes
+0xDAE5F56B=
+
+;0x930300E7=Meadows Park
+0x930300E7=
+
+;0x6605870F=LC24 Tower
+0x6605870F=
+
+;0x3EB137E5=Alderney
+0x3EB137E5=
+
+;0xC0713D1E=Plumber's Skyway
+0xC0713D1E=
+

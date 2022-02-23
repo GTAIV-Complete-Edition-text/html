@@ -1,0 +1,57 @@
+﻿;0x58B742E0=THE GEEKS HAVE WON!
+0x58B742E0=
+
+;0x42D25DA8=Internet 1.5, 2.0 and 3.75 are taking America's largest billion dollar companies and throwing them in the toilet. For years and years, misinformed consumers were duped into paying through the nose for television, music and phone calls. NOW IT IS FREE. THIS IS THE FUTURE! Everything will be free, people who create things will be forced to give them away for free, but they will be famous, and everything will be about trying to sell you something else. That is important. We spit on phone companies, musicians, movie writers and anyone creative who has made a fortune out of fleecing their fans by charging for what people want. It's free, as long as we sell you another thing at the same time.          
+0x42D25DA8=
+
+;0x0D9C749D=With phone companies, it was a license to print money.  It was the never-ending honeymoon. Then, the Internet came along and gate-crashed the party. Grype allows you to call people over the Internet for free (so long as they have Grype!) and is completely untraceable.  Perfect for every kind of criminal activity! Call strangers!
+0x0D9C749D=
+
+;0xB6BB0253=Grype is so much more than a phone network; it is a community. Grype brings people together who never cared about each other and never will.  You can chat with random strangers about similar interests and perversions. You can lie about your age and stalk young girls.  You can play pranks on unwitting victims or talk them into giving you their credit card number. You can have phone sex with weirdos from every corner of the globe or use the conference feature to get involved in a full-blown cyber-orgy, and nobody will comment on your spotty back. It is the danger that makes Grype exciting. 
+0xB6BB0253=
+
+;0x0756274A=Will the connection cut out?  Will a 4-year-old hack into your call? Will that person you just added to your buddy list turn out to be a serial killer or a scam artist asking for money to fund his dying grandmother's operation? You can't put a price on communication, so we don't.  We believe in freedom: the freedom to pronounce Grype and VoIP however you like; the freedom to throw on a headset, never be able to move around the house when talking to someone, and most of all, stick it to your phone company so that when your internet connection goes down, your telephone, email, TV, everything - goes dark! 
+0x0756274A=
+
+;0xF453F063=READY TO MAKE FREE CALLS? THIS IS ALL YOU NEED:
+0xF453F063=
+
+;0xC52B77AA=-  A high speed Internet connection ($50 a month)
+0xC52B77AA=
+
+;0xA20F6172=-  A sound card ($150 version strongly recommended)
+0xA20F6172=
+
+;0x78A84529=-  Speakers ($40)
+0x78A84529=
+
+;0x7980977B=-  Grype Microphone ($158 version recommended)
+0x7980977B=
+
+;0xC625061B=-  Grype Headset ($136 version recommended)
+0xC625061B=
+
+;0x0F5A5738=-  Download the Grype software from the web (Free! But future updates may cost money)
+0x0F5A5738=
+
+;0x91DA3D9E=-  (Making long distance calls to a non-Grype person may cost money, but really, fuck the phone company!)
+0x91DA3D9E=
+
+;0x853B8491=-  See - it's Free!!!!!!!!!!
+0x853B8491=
+
+;0xAEFE8298=Once all your friends have converted to the same computer set-up and installed the software, you are ready to start pre-planning all your phone calls to ensure that both parties are in front of their PCs at a specific time with Grype running.  Sound convenient?  It's the future!  Get with the fidelity that sounds like you are talking on a 1949 Russian military field radio.  Enjoy hearing your friends sound like robots when the bandwidth gets strained.  It's a crazy revolution, and sometimes the communication sounds like someone shit into a tin can phone. We laugh at the billions of dollars that traditional phone carriers have invested in their networks.  The old telephone model is dead.  Join the Grype revolution.
+0xAEFE8298=
+
+;0xBC12C089="My wife and I love Grype.  We use it to talk to Malaysian couples."
+0xBC12C089=
+
+;0x236C29E2=Jason, Liberty City
+0x236C29E2=
+
+;0xE89587F1="Now there's even more reason to spend time sitting in front of my computer!"
+0xE89587F1=
+
+;0xF6E2BEB3=Linda, Las Venturas
+0xF6E2BEB3=
+

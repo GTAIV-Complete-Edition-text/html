@@ -1,0 +1,39 @@
+﻿;0x03371CBA=All good beef should be cooked medium-rare. Our burgers are served torched on the outside, pink on the inside and buzzing with bacteria.
+0x03371CBA=
+
+;0x7FF5628C=A veggie burger and fries cooked in animal fat! This is very rarely ordered so has normally been sitting on the heated chute for over 48 hours.
+0x7FF5628C=
+
+;0xE8697CB2=Who loves cock?! Who doesn't?! The Torpedo is a deep-fried chicken filet on a stale bun. The secret ingredient of our boneless chicken is... bones! We throw carrion and carcasses into a tree chipper and grind up until we have a paste that tastes like damp sawdust.
+0xE8697CB2=
+
+;0x0827D608=Can you imagine a burger as big as your head? Can you imagine getting 20 times the recommended daily amounts of calories, saturated fat and salt in one sitting? The all new Heartstopper does what it says on the box: 7 luke-warm beef patties, cheese, lettuce, tomato, half a jar of mayonnaise, pickles and an asylum seeker's semen. At 6 lbs, the Heartstopper is like a new-born baby on a roll. Die with a smile on your face.
+0x0827D608=
+
+;0x993F667D=Amazingly, you will still be hungry again in an hour's time.
+0x993F667D=
+
+;0x029CA77A=Two quarter-pound patties, cheese, lettuce and pubic hair for less than a dollar! Maximize your meal for another 5 cents! The Bleeder is 100% animal by-products!
+0x029CA77A=
+
+;0xED5E5E60=Block your arteries before you even finish high school!
+0xED5E5E60=
+
+;0xD9A4F012=Meat for minors! The Merry Meal is identical to every other combo except it comes with a toy from a labor camp in Southeast Asia! Burger Shot has also entered into a partnership with 
+0xD9A4F012=
+
+;0x3E9E59D3=Bank of Liberty
+0x3E9E59D3=
+
+;0xD3B85F2D=  and, as a special introductory offer, all Merry Meals will come with a Kids Kredit Kard for the first six months. A $1,000 limit! Ask one of the ex-cons at the register to act as co-signer on the application form.
+0xD3B85F2D=
+
+;0xF800C05C=Another option on the Merry Meal Menu, Kiddie Fiddlers are delicious deep-fried strips of mysterious dark meat that children will love! Feast on grease! Dip your Fiddlers into one of our sickly savory syrups: Steaming Hot, Sweet and Squirt, Muddy Mustard or Bubbling BBQ.
+0xF800C05C=
+
+;0x4F580C27=- The ultimate breakfast sandwich!
+0x4F580C27=
+
+;0x58E9C161=The Slugger is chicken, beef, sausage, bacon, cheese, syrup, egg and cookies served between two hash browns. The only way to start the day. It will take you down!
+0x58E9C161=
+

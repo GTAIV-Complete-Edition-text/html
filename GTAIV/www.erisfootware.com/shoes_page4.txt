@@ -1,0 +1,15 @@
+﻿;0xE2169329=Shift Through The Gears
+0xE2169329=
+
+;0x5D65550B=Ready to be so fast that you leave a vapor trail?  Isn't it about time you became a well-oiled machine?  Eris is proud to present the TURBO - a full-throttle, tricked-out, feature-laden Contemporary Urban Nextgen Trainer.  Featuring anti-lock braking, Specialized High-density Impact Technology power steering, electronic stability control, Constant Reactive Airway Pressure, fully-automatic transmission, headlamps and fog lights, the TURBO is the ultimate blend of progressive design, precision engineering, assembly line endurance and performance-enhancing technology. Nothing offers better handling, cornering and traction than the TURBO.  Get ready to be supercharged!  Speed kills. Don't get caught in someone else's wake.
+0x5D65550B=
+
+;0x56FA618D=$350
+0x56FA618D=
+
+;0xED147BBF= DECIPHERING THE LINGO
+0xED147BBF=
+
+;0x9B780572= CLICK HERE FOR A MESSAGE FROM ERIS FOUNDER, PETER VASSAL
+0x9B780572=
+

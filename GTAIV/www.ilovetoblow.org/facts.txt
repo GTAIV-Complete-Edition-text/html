@@ -1,0 +1,57 @@
+﻿;0xD2C8C28E=home
+0xD2C8C28E=
+
+;0xCED71285=interesting
+0xCED71285=
+
+;0x1B0897A4=facts
+0x1B0897A4=
+
+;0x848A9B39=in the
+0x848A9B39=
+
+;0x4BC7BC46=news
+0x4BC7BC46=
+
+;0x831229FF=big instruments
+0x831229FF=
+
+;0x01C7882B=for small men
+0x01C7882B=
+
+;0xC8163241=the didge
+0xC8163241=
+
+;0xA847E0A9=shop
+0xA847E0A9=
+
+;0xADB89C9E=interesting facts
+0xADB89C9E=
+
+;0xD91CAAE7=Didge players are famous! They are often hired to perform that subtle segue in Vinewood movies to let the viewer know that the scene has switched to the southern hemisphere - even though the foliage looks remarkably like a shitty park in Los Santos.
+0xD91CAAE7=
+
+;0x0A5D64CD=The sound of the didgeridoo can be best compared to the moans of a moose in painful labor. However, with the right cocktail of mind-altering drugs, it has been shown to lend itself well to juggling, interpretive dance, and following around the same band all the time.
+0x0A5D64CD=
+
+;0x6332EDD9=Traditionally, Aborigines used the instrument to mimic the noises of their surroundings.  This may explain why the didgeridoos in cities like Carcer City and Liberty City tend to sound like someone is being murdered.
+0x6332EDD9=
+
+;0xEC8496D0=Similar to baseball in the USA, the didgeridoo is exclusive to male players and involves an over-sized wooden  phallus.
+0xEC8496D0=
+
+;0xEE13CDEC=The indigenous people of Australia believe strongly in the power of vibrational healing - a concept already very familiar to bored, suburban housewives.
+0xEE13CDEC=
+
+;0x94006CAD=Didgeridoos are typically over 4 feet long and weigh tens of pounds. Ironic, therefore, that they are the instrument of choice for New Age Travelers.
+0x94006CAD=
+
+;0x36D924DD=Traditional didgeridoos are hollowed out by worms - much like the decrepit LSD casualties who play them.
+0x36D924DD=
+
+;0x3D47C98C=The didgeridoo is just one in a long line of wondrous musical instruments from Australia including the clapsticks and the bullroarer, often referred to by the indigenous population as the 'wife caller'.  In the West, throwing a beer can at the TV is the preferred technique.  
+0x3D47C98C=
+
+;0x6C7155B8=It's amazing what you can learn by tonguing the waxy rim of an oiled-up trunk!  A 2005 study found that playing the didgeridoo helps to reduce snoring and sleep apnea.  A 2006 study found a marked increase in didgeridoo-related divorces.    
+0x6C7155B8=
+

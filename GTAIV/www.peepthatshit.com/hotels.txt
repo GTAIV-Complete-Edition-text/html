@@ -1,0 +1,72 @@
+﻿;0x0C54E679=The Celtica       
+0x0C54E679=
+
+;0xE6436EA4=The Majestic       
+0xE6436EA4=
+
+;0xBE9315D8=Grand Northumbrian       
+0xBE9315D8=
+
+;0xD0E5BD4A=Pythagoras Apartments       
+0xD0E5BD4A=
+
+;0x3437D0F2=The Big House       
+0x3437D0F2=
+
+;0x1CC7C9B5=The Abattoir Apartments       
+0x1CC7C9B5=
+
+;0x891BB1F4=Bell Tower Apartments        
+0x891BB1F4=
+
+;0x48690F8C=The Matterhorn       
+0x48690F8C=
+
+;0x5B2DAE2D=Hotel Uberbrucker       
+0x5B2DAE2D=
+
+;0x70FF40F9=Goering Hotels       
+0x70FF40F9=
+
+;0xF325101E=The Nicoise       
+0xF325101E=
+
+;0xC5B56EC9=The Emissary       
+0xC5B56EC9=
+
+;0x736647EE=Opium Nights       
+0x736647EE=
+
+;0x3A086662=The Libertine        
+0x3A086662=
+
+;0xD2256295=Westdyke Hospital
+0xD2256295=
+
+;0xCC230936=Holland Hospital Center
+0xCC230936=
+
+;0x508E69F7=Schottler Medical Center
+0x508E69F7=
+
+;0x2A6FCE5F=Cerveza Heights Medical Center
+0x2A6FCE5F=
+
+;0xF71D9317=Easton Medical Center
+0xF71D9317=
+
+;0x35341BF7=North Tudor Hospital Center
+0x35341BF7=
+
+;0x4EF446AB=Bohan Medical & Dental Center 
+0x4EF446AB=
+
+;0x400BCC80=Grotti
+0x400BCC80=
+
+;0x3FA16D2D=Autoeroticar
+0x3FA16D2D=
+
+;0x8DD5CC45=Big Paulie's Budget Cars
+0x8DD5CC45=
+

@@ -1,0 +1,39 @@
+﻿;0xE253C598=Identity Theft Policy
+0xE253C598=
+
+;0x6D402909=Kids Kredit
+0x6D402909=
+
+;0xB058CCFC=International Wire Transfers
+0xB058CCFC=
+
+;0x368B9352=Debt Consoldiation
+0x368B9352=
+
+;0xCC2A1722=Home Equity Loans
+0xCC2A1722=
+
+;0x6AA54E4F=Plastic Surgery Loans
+0x6AA54E4F=
+
+;0x88C3B8C4=Off-Shore Bank Accounts
+0x88C3B8C4=
+
+;0x97B7449C=Bachelor Party Loans
+0x97B7449C=
+
+;0xB7872DC7=Brokerage
+0xB7872DC7=
+
+;0x88C3B8C4=Off-Shore Bank Accounts
+0x88C3B8C4=
+
+;0x0B11FC80=Off-shore bank accounts are not just for money launderers and drug barons, they are also a great way to finance an extra-marital affair without getting caught!  
+0x0B11FC80=
+
+;0x9D0E597B=Bank of Liberty can help you to carve out a separate financial identity... completely untraceable!  Why not avoid the embarrassment of a pre-nup by hiding your assets in a remote European enclave?  Honestly, your wife is a c*%# and only wants your $.  Speak to an advisor today. You deserve it.        
+0x9D0E597B=
+
+;0x55F4BBAF=Bank of Liberty uses subliminal advertising throughout all its websites.
+0x55F4BBAF=
+

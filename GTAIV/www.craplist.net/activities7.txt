@@ -1,0 +1,66 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x04915A94=>activities
+0x04915A94=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0xC2F12958=ACTIVITIES
+0xC2F12958=
+
+;0x492B64C9=Want to join me for some urban hunting?
+0x492B64C9=
+
+;0x7C5C18CE=(Hatton Gardens)
+0x7C5C18CE=
+
+;0x35912D81=Who needs to go to the country when we have great hunting right here in Algonquin?  The streets are infested with stray dogs, cats and immigrants.  Not to mention all the pigeons.  They disgust me with their filth and disease.  Somebody needs to clean up this town!  I read a great comic book where a guy did it and the town totally appreciated it.  I'd really like a female sidekick while I do this cause it's cool that superheroes wear bikinis.   Who's with me?  I have a spare semi-automatic pistol (with silencer) so all you need to do is bring some booze and maybe a camera.  I will assign you a rank once you have proved your mettle out in the field.   
+0x35912D81=
+
+;0x689BDE3F=PostingID: 494533782
+0x689BDE3F=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

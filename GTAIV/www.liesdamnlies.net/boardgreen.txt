@@ -1,0 +1,129 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x0CC122CF=> Discussion Forums
+0x0CC122CF=
+
+;0xCB2825DA= Discussion forums links
+0xCB2825DA=
+
+;0x60854DB4=World domination conspiracies
+0x60854DB4=
+
+;0x55DF0714=The mullet connection!
+0x55DF0714=
+
+;0xFD910832=Cybernetics and mass surveillance
+0xFD910832=
+
+;0x1AF6F7BB=The All Seeing Eye is watching you...
+0x1AF6F7BB=
+
+;0xB6D62AFE=Brainwashing and mind control
+0xB6D62AFE=
+
+;0xF3353255=Planning notes so you will know.
+0xF3353255=
+
+;0x25013734=Is there anybody out there?
+0x25013734=
+
+;0x6C844346=Aliens and UFO's
+0x6C844346=
+
+;0x9923E42F=Smoke and mirrors
+0x9923E42F=
+
+;0x3D8FBEB8=The real truth about Pluto.
+0x3D8FBEB8=
+
+;0x6F2E6571=Women
+0x6F2E6571=
+
+;0xF084B531=The ultimate conspirators?
+0xF084B531=
+
+;0x3D52522A=Poisoning our future leaders
+0x3D52522A=
+
+;0x96793E98=What the food and drink companies are not telling you!
+0x96793E98=
+
+;0x464A92CB=Forum: Is there anybody out there?
+0x464A92CB=
+
+;0x6C844346=Aliens and UFO's
+0x6C844346=
+
+;0xEF857086=Postings
+0xEF857086=
+
+;0x44AD44FF=Read New
+0x44AD44FF=
+
+;0xF0C79167=Post
+0xF0C79167=
+
+;0xABA057F9=Name: AreaCinquanteetUn
+0xABA057F9=
+
+;0x26F244BD=Location: Brussels
+0x26F244BD=
+
+;0x5D3D7632=Hello LiesDamnLies.com. I am a student from Belgium! For a long time, I have believed that the existence of extraterrestrials is being suppressed by the government and that an underground UFO base exists somewhere in the United States, mapping out the economic and political destiny of our planet. I have just returned from a trip to Liberty City... am I the only one who's noticed the steam coming out of the manholes and the rumbling noises under the street and the stupidity of the people?           
+0x5D3D7632=
+
+;0x287B74C0=Name: Barcode
+0x287B74C0=
+
+;0x80A484E2=Location: Liberty City
+0x80A484E2=
+
+;0x7E0A2F52=That's the subway, you moron! Have you got a mullet? Ha, ha... see the post above.          
+0x7E0A2F52=
+
+;0x7B2E7DEC=Name: Chupacabra
+0x7B2E7DEC=
+
+;0xAC26DB22=Location: Liberty City        
+0xAC26DB22=
+
+;0x203298E3=Anyone got any tips for getting virgins' blood out of velour curtains?          
+0x203298E3=
+
+;0xBB54B1DD=Name: Kevin
+0xBB54B1DD=
+
+;0x37C9358A=Location: Los Santos
+0x37C9358A=
+
+;0xD133A276=Aliens do exist! My wife disappeared two years ago leaving a note that she had been abducted by extraterrestrials and that they had demanded her clothes, jewelry and the SUV. Every six months, her old personal trainer contacts me for money. Apparently, he is a shapeshifting intermediary who crosses between their universe and ours. He assures me that she will return one day if I keep up the payments...          
+0xD133A276=
+
+;0xDDFF9B24=Name: Bermuda Triangle
+0xDDFF9B24=
+
+;0x9181EA10=Location: Vice City        
+0x9181EA10=
+
+;0x6BC1CCE1=UFO sightings are so 1970s...Can we get some serious people here? This generation gap is killing me.           
+0x6BC1CCE1=
+
+;0x0F8B7D21=Name: Phil
+0x0F8B7D21=
+
+;0x29B0DC82=Location: London        
+0x29B0DC82=
+
+;0xEAF2E9C1=I had a stop-over in New Orleans last February. When I emerged from my hotel, I was sucked into a seething mob of winged humanoids with grotesque faces. A terrifying experience.           
+0xEAF2E9C1=
+
+;0xE8827AEF=Name: Taos Hum
+0xE8827AEF=
+
+;0x9181EA10=Location: Vice City        
+0x9181EA10=
+
+;0x129349F4=Hey, check out this piece in the Liberty City News... "Local teenager murdered! Neil Golightly, a devoted trainspotter and well-known blogger on the conspiracy theory forums under the alias Barcode was found brutally murdered this morning behind a subway station. He was last seen getting into a car with two shadowy men sporting long hair at the back and short on top..."          
+0x129349F4=
+

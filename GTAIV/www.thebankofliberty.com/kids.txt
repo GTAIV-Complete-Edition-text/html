@@ -1,0 +1,51 @@
+﻿;0xE253C598=Identity Theft Policy
+0xE253C598=
+
+;0x6D402909=Kids Kredit
+0x6D402909=
+
+;0xB058CCFC=International Wire Transfers
+0xB058CCFC=
+
+;0x368B9352=Debt Consoldiation
+0x368B9352=
+
+;0xCC2A1722=Home Equity Loans
+0xCC2A1722=
+
+;0x6AA54E4F=Plastic Surgery Loans
+0x6AA54E4F=
+
+;0x88C3B8C4=Off-Shore Bank Accounts
+0x88C3B8C4=
+
+;0x97B7449C=Bachelor Party Loans
+0x97B7449C=
+
+;0xB7872DC7=Brokerage
+0xB7872DC7=
+
+;0xE81B31BB=Hey Kids, want to know about Kredit?
+0xE81B31BB=
+
+;0xCC184D17=It's the Kredit Kard for Kids!
+0xCC184D17=
+
+;0x8CB909BE=Did your parents tell you that you need a job or an income or a specific ethnicity to get a credit card?  Well they're still living in the Stoned Age (trust us, you'll get to it in Third Grade)!           
+0x8CB909BE=
+
+;0x187007DF=Bank of Liberty is pleased to announce the Piggy Bank Card!  Available with pictures of your favorite cartoon characters copulating with an ATM, this card offers the under-12s a taste of what life can be like when you get your bill and shit your pants. 
+0x187007DF=
+
+;0x60A949A6=Enjoy a teaser rate of just 5% per week and a credit limit of $1000.  But all you need to know is: that's a lot of candy!  And now you can buy candy and worry about the bill or diabetes later.          
+0x60A949A6=
+
+;0x796720BC=Don't be a laughing stock in recess with last month's sneakers.  Just pick up a form from one of our clown sales reps outside the school gate or in your local shopping mall and ask the janitor to act as co-signer.        
+0x796720BC=
+
+;0x588984C3=The interest rate will rise to 25% in the second month.  Grace periods will be changed when you least expect it.
+0x588984C3=
+
+;0x55F4BBAF=Bank of Liberty uses subliminal advertising throughout all its websites.
+0x55F4BBAF=
+

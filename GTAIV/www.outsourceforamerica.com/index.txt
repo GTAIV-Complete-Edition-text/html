@@ -1,0 +1,99 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x880CB8A1=Testimonials
+0x880CB8A1=
+
+;0xC52E078D=Positive experiences with our slave labor force
+0xC52E078D=
+
+;0x6EB3F3BC=Case Study
+0x6EB3F3BC=
+
+;0x1C4A2D0F=Read a call center phone transcript
+0x1C4A2D0F=
+
+;0x7A0C0B3B=Calling all CEOs! The American dream isn't just in America anymore. The Chinese are on board too. Not only are our countries becoming more alike by spying on citizens' emails and phone calls - but the business opportunities are endless as well! Ever since sportswear companies realized that they could get emaciated 8-year-old girls to better themselves by working 120-hour weeks for a few cents a day, businesses have been unable to resist the sweet allure of hardworking, inexpensive foreign labor.
+0x7A0C0B3B=
+
+;0xEF7E55A3=Cultural Acclimatization
+0xEF7E55A3=
+
+;0xC8C4F51C=All employees at Outsource For America call centers pass through an intensive cultural acclimatization program of fast food and reality TV. We specialize in taking highly-articulate foreign graduates and turning them into celebrity-obsessed, self-medicating couch potatoes who get tanked on dollar drafts in titty bars.
+0xC8C4F51C=
+
+;0x965FBAC7=Hoaxsourcing
+0x965FBAC7=
+
+;0xEC823B53=Not ready to outsource? Well, nothing fires up productivity more than the prospect of losing the house and car! As part of our hoaxsourcing services, we will send in some ringers - usually Indian and Chinese guys in suits - to loiter behind desks and whisper in corner offices for a week. Rampant worker insecurity guaranteed! 
+0xEC823B53=
+
+;0x6A8B063E=Advertisement
+0x6A8B063E=
+
+;0x04006BC5=Tech Grads! New Hairdressing School opens in Silicon Valley!
+0x04006BC5=
+
+;0xBF4A14F6=  Why Not Hire Americans?
+0xBF4A14F6=
+
+;0x80225F64=Blame the unions. They demanded health care, wages and retirement for workers. So all the jobs left the country. Rebadged under the more palatable names of 'outsourcing' and 'offshoring', sweatshops still offer fantastic opportunities to maximize shareholder value and fatten executive bonuses. Like a quick bump, outsourcing is a swift fix; an immediate boost to the bottom line which will make you look really good in the boardroom. Then you wake up and you've slept with some street trash and your penis burns.
+0x80225F64=
+
+;0x5CA46B82=Added value, every time.
+0x5CA46B82=
+
+;0xE0EF6080=Some of the traditional offshoring destinations have started to demand better wages and working conditions in recent years, but Outsource For America has focused its efforts on tapping the resources of some of the most corrupt nations in the world. Fully committed to your early retirement, we guarantee a complete lack of workers' rights laws, safety regulations and child labor restrictions in all our global call centers. And for the demanding manager you can sit in your office in America and watch live webcams of workers making your products. We even put cams in the bathrooms. Added value, every time.
+0xE0EF6080=
+
+;0x3528AADC=Are employees beaten?
+0x3528AADC=
+
+;0xC4716D22=Are employees beaten? Answer - no more than usual. Working against the clock in constant fear of violent reprisals, all our employees are expected to field at least 100 calls an hour and local teams of union-busters are always on hand to swiftly quash any rumors of organized activity. By eradicating unnecessary costs such as health insurance and pension benefits, we can make an instantaneous impact on your revenue stream.
+0xC4716D22=
+
+;0xB6EBCDB6=The element of surprise.
+0xB6EBCDB6=
+
+;0xA48FAF2B=The secret to successful outsourcing is the element of surprise. Imagine their surprise when your workers show up and the doors are locked. Remind them that what doesn't kill you will make you stronger. Except for a few sexual diseases, but we could all stand to lose a little weight.  Outsource For America has years of experience in blindsiding middle management and in springing redundancies on your employees when they least expect it. When it eventually dawns on them that they've been Bangalored up the Khyber Pass, the locks will have been changed and their desk replaced by a switchboard modem. The next time they wear a suit and tie will be when they file for bankruptcy!
+0xA48FAF2B=
+
+;0x53D21D33=It just makes sense.
+0x53D21D33=
+
+;0x7EBEE410=Outsourcing makes sense. Why should Americans pay through the nose for their goods and services when a farmer halfway around the world will prepare your tax return, dial in your takeout order, process your radiology scan and advise you on real estate in Ohio for a couple of dollars a week? Remember: think short-term profits. By the time the near-flawless replicas of your products start appearing in stores at a quarter of the price, your source code is on Craplist and your customers' social security numbers are being sold to terrorists, a supermodel will be sucking you off in an island paradise. When all the doctors are bagging groceries, the lawyers are pumping gas and there's nobody left with the disposable income to buy the $20 DVD players and $100 laptops that your company is churning out, you will already be sipping cocktails on a luxury yacht in the South of France. You bankrolled free trade, America... don't pussy out on us now! Outsource today!       
+0x7EBEE410=
+
+;0xF331FB20=  Breaking The News...
+0xF331FB20=
+
+;0xEB9FE385=How do you tell a woman of 55 who has worked in manufacturing for 30 years that she has lost her job?
+0xEB9FE385=
+
+;0x5ECD06BD=By email, of course!        
+0x5ECD06BD=
+
+;0x21D92FD3=If you decide to lay off workers and move operations offshore, the golden rule is DON'T TELL THEM UNTIL THE LAST MINUTE. And never use the 'O' word. Euphemisms and corporate jargon should always be used in place of open references to Outsourcing. We also advise lots of hyphens. Don't use the C word. "Beat it C*#t" is not appropriate. It may make you feel manly, but don't do it. Please feel free to use the following template:       
+0x21D92FD3=
+
+;0xE4855407=Dear employee,         
+0xE4855407=
+
+;0x541F432C=As you know, we are all about raising the bar and pushing the envelope at (substitute company name). We have been doing some out-of-the-box thinking about our value proposition and firmly believe that the best way to re-energize our business model is to transition your skill-set to a better-aligned workflow-driven system. By de-layering our mid-to-low tier operations, re-tooling the labor allocation and sunsetting our mission-critical processes, we will be able to reinforce our results-focused commitment to future-proof cutting-edge products and services.         
+0x541F432C=
+
+;0x99BB9F4C=Just wanted to keep you in the loop and make sure that we are all singing from the same hymn sheet.         
+0x99BB9F4C=
+
+;0xF7F636AB=We thank you for your full cooperation in the training of your low-cost replacements.         
+0xF7F636AB=
+
+;0x6EADB5CF=Regards,         
+0x6EADB5CF=
+
+;0x54E3B28D=Your CEO.         
+0x54E3B28D=
+
+;0x9B5D8735=PS Beat it C*#t
+0x9B5D8735=
+

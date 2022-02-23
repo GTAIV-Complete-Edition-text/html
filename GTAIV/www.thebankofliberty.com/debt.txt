@@ -1,0 +1,51 @@
+﻿;0xE253C598=Identity Theft Policy
+0xE253C598=
+
+;0x6D402909=Kids Kredit
+0x6D402909=
+
+;0xB058CCFC=International Wire Transfers
+0xB058CCFC=
+
+;0x368B9352=Debt Consoldiation
+0x368B9352=
+
+;0xCC2A1722=Home Equity Loans
+0xCC2A1722=
+
+;0x6AA54E4F=Plastic Surgery Loans
+0x6AA54E4F=
+
+;0x88C3B8C4=Off-Shore Bank Accounts
+0x88C3B8C4=
+
+;0x97B7449C=Bachelor Party Loans
+0x97B7449C=
+
+;0xB7872DC7=Brokerage
+0xB7872DC7=
+
+;0x1E2E69A7=Debt Consolidation!
+0x1E2E69A7=
+
+;0x8CAD8D4F=Credit cards, store cards, mortgage payments... are you drowning in a sea of debt?  Have you spent the last of the Christmas money on cheap wine and lotto scratch cards?  Heroin problem spiraling out of control?  
+0x8CAD8D4F=
+
+;0x3F3F678C=Do you feel emasculated when your girlfriend has to pick up the dinner check?  Is the joint credit card maxed out on same-sex porn?
+0x3F3F678C=
+
+;0x8E8C1F0D=Don't worry. Bank of Liberty can wipe the slate clean TODAY by bundling all your debts into one huge loan with lower monthly payments, spread over a longer period, so you pay more.  
+0x8E8C1F0D=
+
+;0x7DA568C8=Contrary to popular belief, our most valued customers are not those who make their payments every month and never bounce checks, it's you!
+0x7DA568C8=
+
+;0x796BD637=Remember, those penalty fees are a lesson in life - just like the lesson our rich CEO gets from being spanked by a hairy biker on Tuesday nights.  Imagine starting from scratch with a zero balance on your credit cards and overdraft... you could be running up charges again by this afternoon! 
+0x796BD637=
+
+;0x3BEB86B4=Think short-term - you'll be earning much more money in a couple of years. Or the economy may tank.        
+0x3BEB86B4=
+
+;0x55F4BBAF=Bank of Liberty uses subliminal advertising throughout all its websites.
+0x55F4BBAF=
+

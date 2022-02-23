@@ -1,0 +1,102 @@
+﻿;0x04E72159=Username:
+0x04E72159=
+
+;0xF0D04777= Pychakilla 
+0xF0D04777=
+
+;0xB0BACC87=Sex:
+0xB0BACC87=
+
+;0x6246637D= Female 
+0x6246637D=
+
+;0x6C1F83B4=Location:
+0x6C1F83B4=
+
+;0x4C0732B5= Las Venturas 
+0x4C0732B5=
+
+;0xD0F33C72=Age:
+0xD0F33C72=
+
+;0x3F398D1F=Profession:
+0x3F398D1F=
+
+;0x98F2BD7D= College student 
+0x98F2BD7D=
+
+;0xCA6ED4BF=Appearance:
+0xCA6ED4BF=
+
+;0x6E2B41B9= Curly brown hair, pretty summer dresses, white pumps, girly smile, eyes of steel. 
+0x6E2B41B9=
+
+;0x0EEC57CE=Interests:
+0x0EEC57CE=
+
+;0x83798476= Pottery, poetry, civil war reenactments, animals 
+0x83798476=
+
+;0x408063E3=UPDATED - 8 DAYS AGO
+0x408063E3=
+
+;0xDEFCC461=HIIIIIIII!!    
+0xDEFCC461=
+
+;0x2FDBD1A1=I'm sitting in 
+0x2FDBD1A1=
+
+;0xEDA4AF16=Bean Machine Coffee
+0xEDA4AF16=
+
+;0xBCC0F44B=wired on expresso thinking that this is the happiest that I've ever been.  I never knew how having a blog would change my life.  To think, any man, 55, balding, can read my intimate thoughts.  Amazing!  Tomorrow Jack and I have been going out for 3 days.  I showed up at his work today with this huge fish that sings a song when you squeeze it.  Love is all-consuming.  Sometimes I feel that I love him so much that I shouldn't try to write it down here.  It's too fragile and perfect to be judged and picked apart by horny strangers.  Words cannot describe jhow I feel.  He's an amazing guy who makes me smile forever.  My friend shelly says I've lost site of reality.  Yeah right    
+0xBCC0F44B=
+
+;0xF3E244D0=A little sparrow is hopping along the wall outside the window and for a second I started to imagine it under a huge magnifying glass in the midday sun.  I must try to remember the breathing exericises that Dr. Carter taught me.    
+0xF3E244D0=
+
+;0x1CB408A5=And now for something completely different.  Exams SUCK THE BIG STATUE!! OMG.... I have to tell you that if I don't pass these I'm totally going to print out pictures of my ass and put them on the front door of every 
+0x1CB408A5=
+
+;0xE2E3D570=Burger Shot
+0xE2E3D570=
+
+;0x2F187AE3= in town.  Tomorrow  I have to take my phone back to get fixed.  IFSMA!  Lame ass mobile minute plans.
+0x2F187AE3=
+
+;0xD6090062=UPDATED - 9 DAYS AGO
+0xD6090062=
+
+;0x4D359523=The best things in life are the simplest, wouldn't you agree?  The sound of the ocean, the smell of freshly mown grass, money, the touch of a length of rope in your hands  
+0x4D359523=
+
+;0x4DA0AF76=The girls on the floor above threw a slumber party last night.  It was SUCH a cool night.  The guys kept phoning us and even sent a text message asking for a panty color poll at one point!  It was WILD!  I smoked my first jpoint and there was a big pillow fight at the end.  I might have got a bit carried away when I cracked that girl with the fire extinguisher but it was the most fun I ever had.    
+0x4DA0AF76=
+
+;0x31D7D03D=Who were we in high school?  How where we perceived by others?  If anyone knew me in high school, please send me a message saying what you thought of me back then.  Be brutally honest.  I won't get mad.    
+0x31D7D03D=
+
+;0x7094AD7B=And now for my heart report!!!  Jack is everything I ever dreamed of in a man.  Its amazing to be with someone who actually has a sex drive and knows how to smack me around.  For the record, Terry, its not normal and it doesn't happen to every guy!!!!  My love for Jack consumes me and I cant get him out of my head.  He came over to my room last night and I introduced him to my security blanket, Muffy.  I asked him over and over again if he would love me forever.  He's so cconsiderate and tried to sneak out of my room without waking me this morning but I caught him!!!! I deleted all the female numbers from Jack's cell phone when he was in the shower.  Why would he need those now that he has me? 
+0x7094AD7B=
+
+;0x89768992=UPDATED - 10 DAYS AGO
+0x89768992=
+
+;0x33FC9903=I might be suffocating right now.    
+0x33FC9903=
+
+;0xF920227F=Things with Jack are so serious. This is it.  I mean, I thought I knew what "it" was a million times, but this is like when you get on a bus and somebody looks you in the eye and tells you to go to the back and then as you do you have to look away, and there's someone behind you with headphones on and the cacophony of noises and beats and drums and horns and emotions and the front man screams out a song that fights into every pore every piece of your soul until it breaks in half with an earth shattering thud that resonates across the city, echoing, echoing.  Echoing.  Echoing.  Echoing.    
+0xF920227F=
+
+;0x34B9E8F1=I just left Jack 23 voicemails saying 'I love you more than the last time'.  I hope he knows how much I care.  I'll break out his car windows if he doesn't.      
+0x34B9E8F1=
+
+;0xAC4E203D=Good night all.  Im tiredus to the maximus.
+0xAC4E203D=
+
+;0x63A064A0=(PREVIOUS POSTS)
+0x63A064A0=
+
+;0x1E2C923C=(NEXT POSTS) 
+0x1E2C923C=
+

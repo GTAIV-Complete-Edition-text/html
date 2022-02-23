@@ -1,0 +1,24 @@
+﻿;0x2880763C=This is a meeting place for wooly womyn, shaggy sisters and
+0x2880763C=
+
+;0x5AED3FED=furry femals the world over!
+0x5AED3FED=
+
+;0x0CC03EA2=Sponsored by Grooming Undermines Natural Tendencies
+0x0CC03EA2=
+
+;0xA316A7AC=For more information, check out my blog at
+0xA316A7AC=
+
+;0x4A02FE34=fefighter2008.blogsnobs.org
+0x4A02FE34=
+
+;0x5272DC48=Coming soon!
+0x5272DC48=
+
+;0x58B594AC=This site is under construction while I finish
+0x58B594AC=
+
+;0xAA791C01=my degree.
+0xAA791C01=
+

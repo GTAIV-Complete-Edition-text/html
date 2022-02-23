@@ -1,0 +1,63 @@
+﻿;0x6F90A012=Pupil: Adele Gudride
+0x6F90A012=
+
+;0x60F6A8C2=Class of: 1995
+0x60F6A8C2=
+
+;0x39CBCCF6=High School: South  Slopes High  School
+0x39CBCCF6=
+
+;0xE5F8ED95=NICKNAME:
+0xE5F8ED95=
+
+;0xAD160A31=Funbags
+0xAD160A31=
+
+;0xB78A2011=BIO:
+0xB78A2011=
+
+;0x4152D2B5=I can't get enough of this website! It's amazing how many people from South Slopes High are registered! Well, I'm sure you're all asking yourselves the same question - what is Adele doing now?!!!! I'm in what you could call a complicated relationship. I've been married for three years but I've been having an affair with my husband's step dad for five. So I'm cheating on him and screwing his Mom over as well. We also all live together. Messy. What can I say? Life's too short! You've gotta do what makes you happy. I'm also kinda bi-curious - if any of the old South Slopes girls are still in the area and want to get drunk and fool around one night, drop me a line! I really like plugs!
+0x4152D2B5=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0xD7E7EF86=Oh my god! Do you have any idea how many times I've played that scenario over in my head?! You've got to get that stuff online. PLEASE!
+0xD7E7EF86=
+
+;0x8D193A04=- JP.
+0x8D193A04=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0xFCEF99EE=Hey Adele! I haven't seen you for years! How is your mole? I often think about our prom date! Let's have a drink some time. So much to catch up on! 
+0xFCEF99EE=
+
+;0xD4DD2276=-Tony.
+0xD4DD2276=
+
+;0x0D8A2738=REPLY FROM ADELE:
+0x0D8A2738=
+
+;0xE6CFC50D=Sorry, I really can't remember who you are.
+0xE6CFC50D=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0x3644F1B0=Come on, Adele!!! Don't play games with me. Not a day goes by when I don't think about you. I still cry when I masturbate. Don't give up on us. There can always be a second chance at first love. 
+0x3644F1B0=
+
+;0x22362DA4=-Tony x
+0x22362DA4=
+
+;0x0D8A2738=REPLY FROM ADELE:
+0x0D8A2738=
+
+;0xDCC4F018=You weren't my first love. You were my first premature ejaculation.
+0xDCC4F018=
+
+;0xADD9CB45=BACK TO MAIN PAGE 
+0xADD9CB45=
+

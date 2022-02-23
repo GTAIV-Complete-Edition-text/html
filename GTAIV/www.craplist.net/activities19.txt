@@ -1,0 +1,66 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x04915A94=>activities
+0x04915A94=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0xC2F12958=ACTIVITIES
+0xC2F12958=
+
+;0x6A14C9A1=Photography hobbyist wants to take pics - my services for yours!
+0x6A14C9A1=
+
+;0xFF150746=(Middle Park East)
+0xFF150746=
+
+;0xC667A9A9=Are you just out of high school and strapped for cash?  Set your sights higher than $6 an hour at Burger Shot!  Make your resume and personal ads stand out!  Whatever your goals in life, you won't get far without professional body shots.  If you're a young, entrepreneurial, stacked woman looking for her first break, my tasteful photos will help you get your foot on the ladder.  With the right angles and lighting, I can make even the most hideous dog look like a model... FREE OF CHARGE!!!!  Like a pre-capitalist economy, we will barter - your services for mine!  If you want to bring friends, I can do you all at the same time.  I'm only slightly overweight and pretty sure I am disease free, at least last time I checked.  I can come to you or host at my apartment in Middle Park East.  I have cable, a power shower and a well-stocked bar.  At the end of the shoot, you'll receive all the pictures on a CD in high res.  And a copy for me of course!  Send me an email if you're interested.  I can pick you up and my schedule is very flexible.  I'm 48 y/o, down to earth and fun to work with.  So let's trade! 
+0xC667A9A9=
+
+;0x15C34E53=PostingID: 4945888450
+0x15C34E53=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

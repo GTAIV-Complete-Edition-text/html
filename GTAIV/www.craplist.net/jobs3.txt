@@ -1,0 +1,69 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0xA197006B=> jobs
+0xA197006B=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0xCF9DBBBD=JOBS
+0xCF9DBBBD=
+
+;0x012700F5=Work for Bean Machine Coffee!  
+0x012700F5=
+
+;0x61D042F0=(Liberty City) 
+0x61D042F0=
+
+;0x57DB2B1C=No experience required. Bean Machine is always looking for unskilled, part-time shit-for-brains morons. We are not going to insult you with training. This is coffee, not rocket science. Don't worry; you'll soon learn the art of looking down your nose when someone orders a regular coffee or taking your sweet time with everything.  Join the biggest company in the world! We will hire anyone, so long as they look young. If you listen to emo music and have great tits, that's a plus, but a tattoo or facial piercing is preferred to give us that "edge." 
+0x57DB2B1C=
+
+;0x83E41F56=www.beanmachinecoffee.com
+0x83E41F56=
+
+;0xBA4EF9B2=PostingID: 424788858
+0xBA4EF9B2=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

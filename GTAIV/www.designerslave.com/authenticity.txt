@@ -1,0 +1,18 @@
+﻿;0xF596456B=RUNWAY SLAVES
+0xF596456B=
+
+;0xA6A66E86=STREET SLAVES
+0xA6A66E86=
+
+;0xC427CDB0=AUTHENTICITY
+0xC427CDB0=
+
+;0x23C709C3=Get real. Do you really think that you are going to get a $4000 Didier Sachs suit for $40 without getting on your knees and blowing half of Texas? You are poor. We know this. Occasionally you will find the genuine article on Designer Slave, handpicked from high-end stores by our street team in the dead of night. More commonly you will find the rejects from last season's sale bins. 
+0x23C709C3=
+
+;0x03AB3B79=Most of the time, however, you will find shady replicas with off-center or misspelled logos.  Fashion designers aren't stupid. They make you pay hundreds of dollars for a crappy t-shirt and then turn you into a walking billboard by emblazoning their logo on the front while they sit around in Ibiza blowing snort up each others hineys. Every year designers bring out a whole new range in different colors and with different accessories rendering your whole wardrobe redundant for at least a decade. What would you rather do? Line the pockets of a billionaire designer or put a few cents in the blistered hand of a Chinese child-worker?  
+0x03AB3B79=
+
+;0xCF87E552=The shadow economy of counterfeit fashion is booming. Is it safer to buy online than off a Triad in Chinatown or out of a trunk in Bohan? Don't be a moron. We can move stuff much more quickly over the internet. A knock-off is better than nothing. Just make sure that you can pull it off. You are unlikely to fool anyone when you turn up for your shift at Cluckin' Bell with a Didier Sachs handbag.
+0xCF87E552=
+

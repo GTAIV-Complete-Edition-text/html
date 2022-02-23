@@ -1,0 +1,66 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0xB56CC71B=>classes
+0xB56CC71B=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0x0561DA07=CLASSES
+0x0561DA07=
+
+;0xB65B5896=Are you having trouble keeping it up?
+0xB65B5896=
+
+;0x90FBC53D=(Middle Park)
+0x90FBC53D=
+
+;0xAE799371=Are you having trouble keeping it up?  Is it like flogging a dead horse?  Are you working your hips like a crack whore to no avail?  Besides trying some Mollis, Come to our hula hoop crash course in Middle Park this Saturday at 11 AM!  It's not as easy as it looks!  Like many things, everybody looks ridiculous hula hooping except for hot girls, but it's fun and great aerobic exercise.  All levels welcome.  Hoop with confidence!  Or realize that the sixties are over, the neo-cons won, and you have nothing to be free about at all. They're reading your email and the constitution is burnt to a crisp. 
+0xAE799371=
+
+;0x701E63B5=PostingID: 6100124577
+0x701E63B5=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

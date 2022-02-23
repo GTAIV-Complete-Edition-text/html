@@ -1,0 +1,24 @@
+﻿;0x4475AF1E=ABOUT
+0x4475AF1E=
+
+;0x3F846580=RULES
+0x3F846580=
+
+;0xDEFD137E=TONY PRINCE
+0xDEFD137E=
+
+;0x86A1AB25=RULES OF MAISONETTE 9
+0x86A1AB25=
+
+;0x2AD84D08=Dress Code is not something we worry about as we aren't some bunch of bridge and tunnel suburbanites. If you look wrong, we'll make that very clear.  
+0x2AD84D08=
+
+;0x4B888F6E=You must be over 21 or famous to party.
+0x4B888F6E=
+
+;0x533E57C8=The club is open 7 nights a week from when we feel like it until when we've had enough.
+0x533E57C8=
+
+;0x2C2E0524=A TONY PRINCE PRODUCTION
+0x2C2E0524=
+

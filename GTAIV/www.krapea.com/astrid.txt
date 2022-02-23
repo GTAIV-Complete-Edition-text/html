@@ -1,0 +1,48 @@
+﻿;0xAF24433B=Q. WHAT IS KRAPEA FURNITURE MADE OF?
+0xAF24433B=
+
+;0x832F32B1=A. Most of our furniture is made of particleboard, balsa wood or MDF. MDF releases formaldehyde into your home but this is the price you pay if you want to buy pseudo-modernist furniture for less than the cost of a round of drinks.
+0x832F32B1=
+
+;0x04E287DE=Q. I'VE ONLY HAD MY WARDROBE FOR SIX MONTHS AND IT'S FALLING APART!
+0x04E287DE=
+
+;0x074A89C7=A. It lasted six months??!!!!!! You should be our happiest customer. Congratulations. 
+0x074A89C7=
+
+;0x354A3659=Q. DO LINGONBERRIES REALLY EXIST?
+0x354A3659=
+
+;0x68D35F15=A. We love the fact that you Americans are so suspicious of the Lingonberry!
+0x68D35F15=
+
+;0xEC909F03=Q. WHY IS THERE NO CUSTOMER SERVICE? 
+0xEC909F03=
+
+;0x37E8C798=A. Life is suffering. We sacrifice everything to keep our prices low and customer focus is an obvious service that is surplus to requirement. Would you like us to send you some meatballs? There is a number you can call that eventually connects you to an automated voicemail. The message will tell you to Ask Astrid on our website. That's me, by the way.
+0x37E8C798=
+
+;0xE542BC75=Q. WHAT IS KRAPEA'S RETURN POLICY?
+0xE542BC75=
+
+;0xB7602A42=A. All our products are damaged, missing components or contain parts that do not fit together. The cruel irony is that we will not accept returns or exchanges if the box has been opened.
+0xB7602A42=
+
+;0xB16AAF04=Q. WHY CAN'T I ORDER ANYTHING ONLINE?
+0xB16AAF04=
+
+;0x563340F2=A. What?! And miss out on the store experience? Some items are available online but we only offer one piece from each of our ranges and double the price of everything under the guise of delivery charges. Anyway, you don't want delivery guys in your house. They always leave a steaming dump in your bed.
+0x563340F2=
+
+;0x7B6CE56E=Q. WHY DO YOU HAVE SUCH BIZARRE PRODUCT NAMES LIKE PLANKFOG, SLIPSHOD AND TOTTER?
+0x7B6CE56E=
+
+;0x675B70C8=A. We Swedes abuse vowels and consonants much like you Americans abuse prescription medicine. Most furniture names in the KRAPEA catalogue are Scandinavian slang for penis or an STD. We laugh and laugh thinking of Americans sleeping on their penis beds or herpes chairs. This gives us amusement, especially on days with only 3 hours of sunlight.
+0x675B70C8=
+
+;0xD196946D=Q. WHAT IS THAT WEIRD "CENTIMETER" WORD YOU KEEP MENTIONING?
+0xD196946D=
+
+;0xECCBC711=A. Spot the American.
+0xECCBC711=
+

@@ -1,0 +1,36 @@
+﻿;0x6F07AA55=Plague of Pigeons in the City.  These are the infection sites.
+0x6F07AA55=
+
+;0xC2954BC2=Back
+0xC2954BC2=
+
+;0xC72BE5C1=Posted by BirdNerd
+0xC72BE5C1=
+
+;0x4D4F6EA1=There's a plague coming!  Infected pigeons are all over the city and it's only a matter of time before it spreads to humans and we're all coughing out our pancreases and pus is pouring out from all our pores.  I've seen 200 diseased pigeons in Liberty.  Is it just a coincidence?  Come on!  Betta pharmaceuticals manufacture a pigeon flu vaccine, diseased pigeons arrive in Liberty City.  Connect the dots!  We're all gonna die just to push the Beta stock price higher on the BAWSAQ.  Someone needs to get rid of the pigeons.  Think of the children!
+0x4D4F6EA1=
+
+;0x9D2BEE7C=Posted by SoulSurvivor 
+0x9D2BEE7C=
+
+;0x06230E70=I'm never leaving my apartment again.  We're all going to catch Pigeon Flu and die!!!
+0x06230E70=
+
+;0x5B99EE32=Posted by Patriot68
+0x5B99EE32=
+
+;0x10ED476B=Thx. I hope someone gets those fuckers.
+0x10ED476B=
+
+;0x91C1E29F=Posted by GreenGodess
+0x91C1E29F=
+
+;0xCD49A0BD=Leave the pigeons alone.  They never did anything to anyone.  Is someone working on an organic, non animal tested cure?
+0xCD49A0BD=
+
+;0xC1ED26D4=Posted by RickyLG 
+0xC1ED26D4=
+
+;0xECE162F6=Pigeons speak to me... They send a message of love.
+0xECE162F6=
+

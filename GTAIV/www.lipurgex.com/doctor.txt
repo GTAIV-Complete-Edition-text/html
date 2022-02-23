@@ -1,0 +1,21 @@
+﻿;0xBCD972F2=Listen to him. He's a doctor.
+0xBCD972F2=
+
+;0x401AAA64="You see those chubby kids all the time, scarcely able to lift that last bacon-cheeseburger to their blubbery jowls. At Eugenics Incorporated International, we design perfect babies, but perfect babies can grow into imperfect adults. I recommend that my clients give Lipurgex to their bundle of joy at 2 years old, when obesity starts. You're never too young to start."
+0x401AAA64=
+
+;0x0A49A3FF=Dr. Stephen Von Singer
+0x0A49A3FF=
+
+;0x237D7B90=Why risk having a fat child?
+0x237D7B90=
+
+;0x38D89814=Visit 
+0x38D89814=
+
+;0x5AF57D29=EugenicsIncorporated.com
+0x5AF57D29=
+
+;0x2FFC6B6B= and design the perfect baby!
+0x2FFC6B6B=
+

@@ -1,0 +1,18 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x52433BD9=How To Get Involved
+0x52433BD9=
+
+;0x4FB4929D=Our Policy
+0x4FB4929D=
+
+;0x52433BD9=How To Get Involved
+0x52433BD9=
+
+;0x1E2734C1=Politics is a great way for you to give back to your country, and by give back, we mean money.  Or you could be one of those idiots with clipboards standing in the street, getting on everybody's nerves.  In general, though, they don't make much difference as people tend not to listen to people with so little going on in their lives that they like standing in the rain with a clipboard. The most effective way to involve yourself in politics is to make a donation to someone like me, a rich guy with a big heart who cannot be bought for as little money as you are likely to offer, unless you are, say, an oil company or a nuclear power station or something, in which case, I probably can be bought so give me a call.
+0x1E2734C1=
+
+;0x2A7A668C=Privacy Policy  RSS  Site Map
+0x2A7A668C=
+

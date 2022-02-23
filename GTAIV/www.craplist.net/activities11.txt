@@ -1,0 +1,75 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x04915A94=>activities
+0x04915A94=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0xC2F12958=ACTIVITIES
+0xC2F12958=
+
+;0xE594BDE9=Parents Against Tofu Eating (PÂTÉ)
+0xE594BDE9=
+
+;0x4D9D7798=(Berchem)
+0x4D9D7798=
+
+;0x7F78194F=We are sick of this!  Don't let vegetarianism steal our children!  Stop the madness before it tears our community apart!  Are you worried that your son or daughter might be abusing vegetables?  Are they pale and irritable?  Talking about how war might not be the answer?  Are they spending all their time on the toilet?  PÂTÉ will be meeting in the Berchem Cluckin' Bell at 3 PM this Sunday to talk through its world-renowned 12-step detox plan.  Vegaddiction affects the whole family.  It leads to liberalism.  Don't suffer in silence.  PÂTÉ is here to help.  Admitting you have a problem is the first step to recovery.  
+0x7F78194F=
+
+;0xD2B0E1AE=For more information, visit  
+0xD2B0E1AE=
+
+;0xAC02CE9D=www.loveyourmeat.com
+0xAC02CE9D=
+
+;0x73159499= . 
+0x73159499=
+
+;0xAC7F859E=PostingID: 4945804321
+0xAC7F859E=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

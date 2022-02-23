@@ -1,0 +1,60 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x1A55813C=Language of Love
+0x1A55813C=
+
+;0xBE9EF411=Wishful Drinking
+0xBE9EF411=
+
+;0x0077C37E=Beer Boogie
+0x0077C37E=
+
+;0xE50AC71E=Partners
+0xE50AC71E=
+
+;0xA1B68015=How Do You Know?
+0xA1B68015=
+
+;0xDAD39756=We all know that beer makes you sharp and insightful.          
+0xDAD39756=
+
+;0x345F2BD5=Email us your drunken pearls of wisdom!          
+0x345F2BD5=
+
+;0x0B46B25D="A stray dog really will eat anything that you vomit." 
+0x0B46B25D=
+
+;0x3EB9009F=- Jimbo, Las Venturas          
+0x3EB9009F=
+
+;0x31C24279="Never assume it's a 'she'."
+0x31C24279=
+
+;0xC18BF008=- Dave, Liberty City          
+0xC18BF008=
+
+;0xBACEFB1C="Insecure 40-year-old women can be vindictive bitches when you turn them down at 2 AM."
+0xBACEFB1C=
+
+;0xAB1BED29=- Sean, Los Santos          
+0xAB1BED29=
+
+;0x934E23C4="A grown man can have hours of fun with a supermarket cart." 
+0x934E23C4=
+
+;0x4BC76A10=- Steve, San Fierro          
+0x4BC76A10=
+
+;0x6A823BE9="Police officers don't take kindly to being tipped when they drop you off."
+0x6A823BE9=
+
+;0x84AA4EE3=- Suzie, Carcer City          
+0x84AA4EE3=
+
+;0xE0C9DC39="Never tell a doorman that 'he looks pretty when he's angry.'"
+0xE0C9DC39=
+
+;0x5E1D3201=- Deano, Carson General Hospital           
+0x5E1D3201=
+

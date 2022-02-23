@@ -1,0 +1,66 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x7DFD8D83=>sale&wanted
+0x7DFD8D83=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0x074F3216=SALE / WANTED
+0x074F3216=
+
+;0x31053A9A=Pump-action shotgun
+0x31053A9A=
+
+;0xA1E3CE06=(Northern Gardens)
+0xA1E3CE06=
+
+;0x17D834A5=Forget handguns.  There's nothing quite as satisfying or intimidating as the sound of a pump-action shotgun being racked.  They are fun, reliable and easy to use.  You can't miss!  Excellent condition - $250.  This would be a great first gun for somebody. 
+0x17D834A5=
+
+;0x89E32E12=PostingID: 4542563263
+0x89E32E12=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

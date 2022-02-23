@@ -1,0 +1,66 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x3EEFFC59=>services
+0x3EEFFC59=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0xC4E8DD35=SERVICES
+0xC4E8DD35=
+
+;0xACD20162=No questions asked storage
+0xACD20162=
+
+;0x14A20105=(East Island City)
+0x14A20105=
+
+;0xA42D0A2C=I've just cleaned out my basement.  Finally!  I never thought I'd get round to dumping all that shit in the park.  It turns out there's quite a decent space down there.  About 10x8x20.  I'm willing to rent it out for $200 a week, no questions asked.  I don't care what you put down there, so long as it doesn't smell or corrode my record collection.  It's a nice neighborhood and I'm a cop so this is as low-profile as it gets.  First come, first served. 
+0xA42D0A2C=
+
+;0xFF030B7F=PostingID: 262056239
+0xFF030B7F=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

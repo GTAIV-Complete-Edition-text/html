@@ -1,0 +1,15 @@
+﻿;0xF596456B=RUNWAY SLAVES
+0xF596456B=
+
+;0xFE002F52=STREET SLAVES 
+0xFE002F52=
+
+;0xC427CDB0=AUTHENTICITY
+0xC427CDB0=
+
+;0x6AD322F5=Look Pedestrian 
+0x6AD322F5=
+
+;0xC1C5E0CF=Sub Urban has cornered the market in expensive hippy clothing. Check out our witty T-shirts for $15 and vintage pre-ripped jeans for $35!! Sub Urban cornered the market in ripping off talented artists and designers by stealing their work and putting it on T-shirts. We're about to do the same. All stock must go today!! 
+0xC1C5E0CF=
+

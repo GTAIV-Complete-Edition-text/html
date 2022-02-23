@@ -1,0 +1,15 @@
+﻿;0xFAE35A08=Hobbies: Alchemy, fire dancing, ventriloquism 
+0xFAE35A08=
+
+;0x48E59092=Favorite quote "Tomorrow is yesterday.  Time is an illusion.  We are all one."
+0x48E59092=
+
+;0x3888D941=More than just a creepy white guy who smells of curried onions and wild berry cognac, Morningwood's Founder and CEO, Guru Parindra Chakkalakkal has come a long way since signing the Sex Offender Registry back in 2002.  Born Kevin Watts in Flint County he changed his name after undergoing a 'spiritual conversion' during a week spent back-packing in India and decided to reject the trappings of modern society by opening a holistic wellness center that charges $300 for a hot bath.  He still walks with a limp as a result of his first and only experiment with yogic flying and mostly talks in a mock Swiss accent.  Although he has no formal training beyond a Reiki CD-ROM he got free with the Sunday newspaper, he likes to wear a white coat and calls himself 'doctor'.  He will shower with you.
+0x3888D941=
+
+;0xBE7F5679=Hobbies: Sufi whirling, snake charming, telepathy
+0xBE7F5679=
+
+;0x75339381=Don't be fooled by her dreadlocks and personal hygiene; Betty is Morningwood's head esthetician and an accomplished colonic irrigator.  Batshit crazy, Betty describes herself as a Neo-Gypsy Swedenborgianist and claims to be able to make the sun set using the power of her mind.  Before joining Morningwood, Betty ran a cult for 15 years with her ex-husband, who also happens to be her brother and uncle.  She trained for three days at the prestigious Online School of Esoteric Healing and is a certified shaman in the state of San Andreas.  She has incorrectly predicted the end of the world 19 times.
+0x75339381=
+

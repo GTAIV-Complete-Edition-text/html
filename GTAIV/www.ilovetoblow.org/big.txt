@@ -1,0 +1,39 @@
+﻿;0xD2C8C28E=home
+0xD2C8C28E=
+
+;0xCED71285=interesting
+0xCED71285=
+
+;0x1B0897A4=facts
+0x1B0897A4=
+
+;0x848A9B39=in the
+0x848A9B39=
+
+;0x4BC7BC46=news
+0x4BC7BC46=
+
+;0x831229FF=big instruments
+0x831229FF=
+
+;0x01C7882B=for small men
+0x01C7882B=
+
+;0xC8163241=the didge
+0xC8163241=
+
+;0xA847E0A9=shop
+0xA847E0A9=
+
+;0x8CECE564=big instruments for little men
+0x8CECE564=
+
+;0x884AFD9B=Size does matter!  How many times have you heard that?  Well, a man who plays a mandolin is a sissy.  The man with his mouth around a 4 foot pipe knows - nothing assuages the feelings of sexual inadequacy like the power of a huge horn between the thighs! 
+0x884AFD9B=
+
+;0xE782D4AA=We specialize in giant phallic musical instruments for men with cocks like cashew nuts.  Check out our wide range of didgeridoos, contrabass saxophones and alpenhorns. 
+0xE782D4AA=
+
+;0xA19D3745=Girth guaranteed.
+0xA19D3745=
+

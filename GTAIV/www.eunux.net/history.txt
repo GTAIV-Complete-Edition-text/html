@@ -1,0 +1,15 @@
+﻿;0x8426542D=Eunux was created back in the early 1990's somewhere in the freezing backwaters of Europe by a teenage visionary called Eunus, who worked on code all day and all night, while tending to his parents' livestock.
+0x8426542D=
+
+;0xB96A321A=Eunus was a visionary who saw a gap in the operating system market. Commercial OS publishers had based their entire business model on the foolish assumption that the vast majority of consumers buy a computer to send emails, download music, edit photos and surf porn. In Eunus's more advanced mind, To$$ OS and  
+0xB96A321A=
+
+;0xBABD70B1=FRUIT
+0xBABD70B1=
+
+;0xBE848069= had completely overlooked a whole cross-section of society: Sad middle-aged men who love to take things apart, 13-year-old social misfits who need something to fill the void between blogging and masturbating, and sadomasochists who love to delay operation of their computer as long as possible.
+0xBE848069=
+
+;0x02D9D43A=It remains unclear whether Eunux was an attempt at a global communist conspiracy or whether Eunus just realized that it wasn't good enough to sell but, rather than charge hundreds of dollars for his product like any self-respecting American, Eunus made the radical decision to give it away for free. And so the dream of the open source movement was born, just like the Messiah, forlorn and in a manger.
+0x02D9D43A=
+

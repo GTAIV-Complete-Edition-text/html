@@ -1,0 +1,66 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0xB56CC71B=>classes
+0xB56CC71B=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0x0561DA07=CLASSES
+0x0561DA07=
+
+;0x95F1055B=Tantric sex - learn from the master!
+0x95F1055B=
+
+;0xA3905DD6=(Little Bay)
+0xA3905DD6=
+
+;0x41425429=I am a self-trained Tantra practitioner.  I listen to Crow in every session.   I teach a range of techniques to stop guys from shooting their load before the party is over.  Too many dudes just wanna get in there, dump their hate paste and then get out.  It all goes back to needing to jerk off quickly as a kid so your mom didn't catch you.  Slow it down, man.  That's not what chicks want.  You need to control your release.  I can enter a woman and lie there for days.  Sometimes I sleep, sometime I eat, sometimes I do a crossword puzzle.  Sometimes I relieve myself.  It's not about sex - it's about reaching a new fucking plane of awareness.  Tantric sex is perfect for people with a lot of time on their hands.  If you're unemployed like me, you should definitely try it.  Don't be a three-thrust wonder, go on a journey with Donnie. 
+0x41425429=
+
+;0x5361CE97=PostingID: 61001237814
+0x5361CE97=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

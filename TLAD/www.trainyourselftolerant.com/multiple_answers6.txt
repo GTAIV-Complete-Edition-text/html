@@ -1,0 +1,48 @@
+﻿;0xA9FB1518=Everybody in your office should take this course but, let's be honest, sensitivity training is aimed primarily at white, heterosexual males who must be made to pay for the sins of their ancestors.
+0xA9FB1518=
+
+;0x3365F2A5=Gary, a co-worker, is dealing weed.  Do you...
+0x3365F2A5=
+
+;0x3D4B6ED5=A)...notify HR immediately demanding that punitive action be taken?
+0x3D4B6ED5=
+
+;0x3F767220=ANSWER - Yeah, rat out a drug dealer.
+0x3F767220=
+
+;0x057FF31E=You're brilliant, aren't you? Please, be our guest.  When Gary blows your brains out in the parking garage after work, your DNA won't be passed on and threaten future generations.
+0x057FF31E=
+
+;0x2921C00D=B)...threaten to report him if he doesn't kick you an ounce?
+0x2921C00D=
+
+;0xF4D321B7=ANSWER - Could work, but very tricky.
+0xF4D321B7=
+
+;0x5C86418D=And if you're going to go - go big.  Ask for a quarter pound at least.
+0x5C86418D=
+
+;0x4D6272B6=C)...steal it out of his desk when he's at lunch, knowing he can't report it?
+0x4D6272B6=
+
+;0x83004840=ANSWER - Brilliant idea.
+0x83004840=
+
+;0xB764D3C0=That is until he sets up a webcam and then you are in some major shit.
+0xB764D3C0=
+
+;0x268477B7=Drug dealers don't play.
+0x268477B7=
+
+;0x85726A7E=D)...roll with Gary and some hot coworkers after work, knowing that high chicks always give it up?
+0x85726A7E=
+
+;0x72C7FA0B=ANSWER - This is the safe bet.
+0x72C7FA0B=
+
+;0xFBDA641E=Drug dealers ALWAYS get laid. It's half the reason they do it - for the attention.
+0xFBDA641E=
+
+;0x661FA92A=That and it pays really well.
+0x661FA92A=
+

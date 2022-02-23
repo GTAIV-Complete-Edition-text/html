@@ -1,0 +1,21 @@
+﻿;0x9B05D0DF=Product: The Black Pill 
+0x9B05D0DF=
+
+;0x4384CA18=Quantity: 60 capsules
+0x4384CA18=
+
+;0xA29E4DB9=Our price: $36.99
+0xA29E4DB9=
+
+;0x83C7D749=Are you stuck in a rut?  Do you feel overwhelmed and undervalued?  Nothing recharges the batteries and gets your life back on track like a blackout.  Take a break from yourself for a few weeks with the Black Pill.  You won't know what you did but you will spend a lifetime piecing it back together.  One minute, you're sitting at your desk, surfing porn and wondering what happened to all your hopes and dreams, the next, it's ten days later and you're fighting naked with wild dogs on a beach in Venezuela.    Live the adventure.  Get into the black.   
+0x83C7D749=
+
+;0x6FEAE585=Major credit cards accepted.
+0x6FEAE585=
+
+;0x93D0CCD8=All purchases are non-refundable.
+0x93D0CCD8=
+
+;0x246A54CE=All liabilities are denied.
+0x246A54CE=
+

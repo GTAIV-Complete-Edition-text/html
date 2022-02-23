@@ -1,0 +1,66 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x7DFD8D83=>sale&wanted
+0x7DFD8D83=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0x074F3216=SALE / WANTED
+0x074F3216=
+
+;0x2990D048=Broken air guitar for sale
+0x2990D048=
+
+;0xF35E3A41=(Lancaster)
+0xF35E3A41=
+
+;0x778E9C66=It used to be my signature move!  The headbang, the windmill, the slide across the floor on my knees.  Chicks loved it!  Then it all fell apart.  I don't know how it happened.  It doesn't even look like a guitar any more.  People just stare at me like I can't dance.  I've tried everything, even the air ukulele, but I can't get it to work.  Hopefully, you'll have better luck.  If you can fix it, it will get you a lot of ass. 
+0x778E9C66=
+
+;0xE512CC2E=PostingID: 4542563991
+0xE512CC2E=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

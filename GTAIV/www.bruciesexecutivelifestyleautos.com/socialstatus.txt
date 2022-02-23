@@ -1,0 +1,9 @@
+﻿;0x81848AB6=Come on! Scrape yourself off the bottom of the Z-list barrel. Life is all about status. Everyone on the scene in Liberty City knows Brucie. I'm the ultimate VIP, a promoter's wet dream.
+0x81848AB6=
+
+;0x9BE11E75=People want me in their clubs because I attract attention. Flashing the cash is essential. Spend, spend, spend! Ever seen that guy who walks to the front of every line, gets ushered to a private table, drinks Chateau de Buff and spends the whole night surrounded by porn stars? That's me. That could be you.
+0x9BE11E75=
+
+;0x54AFBDB8=Let Brucie show you how a big player rolls. 
+0x54AFBDB8=
+

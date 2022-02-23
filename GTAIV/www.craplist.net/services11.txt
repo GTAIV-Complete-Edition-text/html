@@ -1,0 +1,75 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x3EEFFC59=>services
+0x3EEFFC59=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0xC4E8DD35=SERVICES
+0xC4E8DD35=
+
+;0x28DF61B8=Not ready to outsource?  Try hoaxsourcing!
+0x28DF61B8=
+
+;0x3CB14960=(America)
+0x3CB14960=
+
+;0x19CAD095=Not ready to outsource?  Well, nothing fires up productivity more than the prospect of losing the house and car!  As part of our hoaxsourcing services, we will send in some ringers - usually Indian and Chinese guys in suits - to loiter behind desks and whisper in corner offices for a week.  Rampant worker insecurity guaranteed!  
+0x19CAD095=
+
+;0xA723890C=For this and other cost-cutting ideas, visit  
+0xA723890C=
+
+;0x1813E6D1=www.outsourceforamerica.com
+0x1813E6D1=
+
+;0x73159499= . 
+0x73159499=
+
+;0xE4FE57AF=PostingID: 262053650
+0xE4FE57AF=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

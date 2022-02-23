@@ -1,0 +1,72 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x7DFD8D83=>sale&wanted
+0x7DFD8D83=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0x074F3216=SALE / WANTED
+0x074F3216=
+
+;0x383E7058=Shoddi bed from Krapea.  Brand new - $5
+0x383E7058=
+
+;0x0CB47C64=(Fort Side)
+0x0CB47C64=
+
+;0x284B69DA=I give up.  I've already lost 30 hours of my life and it's just not worth it.  I bought the new Shoddi bed from Krapea last week but I can't put it together!!!!  I knew it was too good to be true for $20!  I'm pretty sure that most of the parts are the wrong size or missing but it is difficult to tell from the pictorial assembly instructions.  I feel like such an idiot but I can't take it any more.  Life's too short and I feel like I'm losing my mind.  I tried getting help on  
+0x284B69DA=
+
+;0xC1E50373=www.krapea.com
+0xC1E50373=
+
+;0x70A62177=  but that bitch Astrid kept telling me that they do not accept returns or exchanges if the box has been opened.  I want all this bamboo-effect plastic out of my house. 
+0x70A62177=
+
+;0x6A9FD7B2=PostingID: 454672215
+0x6A9FD7B2=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

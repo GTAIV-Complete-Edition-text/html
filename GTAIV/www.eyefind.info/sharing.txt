@@ -1,0 +1,63 @@
+﻿;0x3E65A141=SHARE WITH STRANGERS 
+0x3E65A141=
+
+;0x0E371409=ADVERTISING
+0x0E371409=
+
+;0xEEE216D3=A THOUSAND WORDS
+0xEEE216D3=
+
+;0x388C41F0=Photo sharing is epic. It is the future. Swapping. Imagine. With strangers!
+0x388C41F0=
+
+;0x98317F6B=www.a-thousand-words.net
+0x98317F6B=
+
+;0x57420337=ELECTRIC TIT
+0x57420337=
+
+;0x514C1EE5=Join the video sharing revolution! The world's most visited website!
+0x514C1EE5=
+
+;0xCFBD1BF9=www.electrictit.com
+0xCFBD1BF9=
+
+;0x6309FBB1=MY ROOM ONLINE
+0x6309FBB1=
+
+;0x793CBFD5=A place for anonymous friends. Clothing and spelling optional.
+0x793CBFD5=
+
+;0xE6ADF989=www.myroomonline.net
+0xE6ADF989=
+
+;0x22801820=FRIENDS WITHOUT FACES
+0x22801820=
+
+;0xD195B3ED=Do you remember the glory days, before the Internet, when people used to spend time writing and corresponding?
+0xD195B3ED=
+
+;0x0C87F694=www.friendswithoutfaces.net
+0x0C87F694=
+
+;0x80A4858C=HORNY HIGH SCHOOL REUNIONS
+0x80A4858C=
+
+;0x8E938BD3=Sleep with the girls you couldn't get at 17!
+0x8E938BD3=
+
+;0xA6105A70=www.hornyhighschoolreunions.com
+0xA6105A70=
+
+;0x7F77F272=BLOGSNOBS
+0x7F77F272=
+
+;0x52FE9850=Blogsnobs lets you share your life, chronicle your darkest secrets, express your dreams, plot to kill your wife, connect with the lonely, the lascivious and the lethargic. It is your journal - here for the world to read.
+0x52FE9850=
+
+;0xBCA57EE3=www.blogsnobs.org
+0xBCA57EE3=
+
+;0x074A6822=BACK
+0x074A6822=
+

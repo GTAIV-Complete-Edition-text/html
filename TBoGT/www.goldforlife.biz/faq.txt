@@ -1,0 +1,45 @@
+﻿;0x10B8C84E=HOME
+0x10B8C84E=
+
+;0x2D7F6D58=FAQs
+0x2D7F6D58=
+
+;0x2718EC8F=BUY GOLD NOW
+0x2718EC8F=
+
+;0x1C3EACB6=How is gold measured? 
+0x1C3EACB6=
+
+;0xE9FF8009=Gold is measured in troy ounces. Troy is from Helen of Troy, the daughter of Zeus who was rumored to sleep with anyone for a gold coin. An ounce is about 8 eighths.
+0xE9FF8009=
+
+;0x7F9ADBD8=How is gold sold? 
+0x7F9ADBD8=
+
+;0xB66C48E0=Gold bars are the most popular, especially for egomaniacs; however we also sell gold bullion, which is similar to soup. Gold coins are gaining notoriety among aging video game enthusiasts.
+0xB66C48E0=
+
+;0x64D9B8E4=Does the price of gold ever go down? 
+0x64D9B8E4=
+
+;0x3A3ABC0A=No. It never has. Unlike paper, gold doesn't grow on trees or come out of the ground.
+0x3A3ABC0A=
+
+;0x3A2C33ED=Why are they called precious metals? 
+0x3A2C33ED=
+
+;0xC795C2A8=Because people who own gold coins tend to hide in dark rooms playing with them muttering "my precious".
+0xC795C2A8=
+
+;0x0F9CCF6C=Can I have gold in my IRA? 
+0x0F9CCF6C=
+
+;0x083F9D31=Yes, but you don't get to hold or ever see the gold. It's kept in a depository in your name. Once you are 59 1/2 you can take delivery of it, but by then you'll be senile and so riddled with confusion from multiple strokes that you won't remember you even own it.
+0x083F9D31=
+
+;0xF0BBE017=Why don't countries back their currency with gold any longer? 
+0xF0BBE017=
+
+;0xA58D9541=Because it's much easier to have money be truly worthless.
+0xA58D9541=
+

@@ -1,0 +1,21 @@
+﻿;0x9A154C6C=Product: Bubox
+0x9A154C6C=
+
+;0x9D72C94E=Quantity: 100 units
+0x9D72C94E=
+
+;0x603F540F=Our price: $300
+0x603F540F=
+
+;0x652A3826=You've heard of injecting botulism so that you can lock your eyebrows and speak like a bad ventriloquist for a few weeks.  Well, have you ever thought of injecting the bubonic plague?  Bubox is the new cosmetic treatment that is taking Vinewood by storm.  Shoot a dose of Bubox into your cheek and soon all your droops and wrinkles will be miraculously replaced with blistered black patches and scaly blotches.  Nobody will be able to pinpoint your age, at least for the 12-24 hours that you will be alive.  Don't grow old gracefully.  Pay thousands of dollars to fill your face full of lethal toxins instead.    
+0x652A3826=
+
+;0x6FEAE585=Major credit cards accepted.
+0x6FEAE585=
+
+;0x93D0CCD8=All purchases are non-refundable.
+0x93D0CCD8=
+
+;0x246A54CE=All liabilities are denied.
+0x246A54CE=
+

@@ -1,0 +1,21 @@
+﻿;0x46DC51B5=Product: Giggle Cream
+0x46DC51B5=
+
+;0x3BF12363=Quantity: 5 canisters
+0x3BF12363=
+
+;0x66CD991C=Our price: $20
+0x66CD991C=
+
+;0xAB75C89F=Because dessert should be funny!  Giggle Cream was all the rage in the 1980's but it is now banned in the USA following a spate of lethal accidents.  Well, don't let the FDA legislate your fun!  We have a stockpile of Giggle Cream that we are very eager to get off the premises as soon as possible.  One stray cigarette and Tijuana could be razed to the ground.  Propel yourself into the laughter zone with whipped cream and nitrous oxide.  Get high and eat munchies at the same time with Giggle Cream!  
+0xAB75C89F=
+
+;0x6FEAE585=Major credit cards accepted.
+0x6FEAE585=
+
+;0x93D0CCD8=All purchases are non-refundable.
+0x93D0CCD8=
+
+;0x246A54CE=All liabilities are denied.
+0x246A54CE=
+

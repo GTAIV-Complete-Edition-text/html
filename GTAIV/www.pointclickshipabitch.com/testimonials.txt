@@ -1,0 +1,93 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x0EAC1F07=Browse
+0x0EAC1F07=
+
+;0xDBFA1DE3=Shipping
+0xDBFA1DE3=
+
+;0x20F64111=Payment
+0x20F64111=
+
+;0x880CB8A1=Testimonials
+0x880CB8A1=
+
+;0x880CB8A1=Testimonials
+0x880CB8A1=
+
+;0x915F38C6=Money can't buy you love?  These people would disagree...Take a look at some of our success stories.
+0x915F38C6=
+
+;0xFEF06DA5=Love, Passion, and Family
+0xFEF06DA5=
+
+;0x47D3AA68=Yana is amazing!  She insists that it is customary for Russian couples to sleep in separate beds and try to set each other on fire, at least that's what she told me when I awoke in flames.  I chose her for the 'passion for sexual experimentation' listed in her profile, but it's early days!  She has thrown herself into the local community and spends two or three nights a week in jail or with her tennis coach, Mario, working to keep in tip-top shape for her husband!  A couple of months ago, her mother and two brothers arrived and set up a meth lab and Internet gambling site.  It's a bit of a squeeze in the condo but we have found a way to make it work.
+0x47D3AA68=
+
+;0x0F7F09FE=- Joe, 53
+0x0F7F09FE=
+
+;0x2DD6BC81=Making Connections...in Life, Marriage and Values
+0x2DD6BC81=
+
+;0x4F7FB270=I have found love.  And it was waiting for me halfway around the world in a war-ravaged mountain village.  Hey, fate moves in mysterious ways.  After my second wife accused me of being a chauvinistic control freak, I killed her and began to think that I was fishing in the wrong pond.  I mean, I'm just a stand-up guy who likes his dinner on the table and his socks balled in a particular way.  I am so lucky to have found Svetlana.  It was mind-blowing to discover on PointClickShipABitch.com that there were women out there with the same marriage values as me!  I make the money so you shut up.  It took some time for us to reach a position of understanding - she slips out of the cuffs all the time - but Svetlana has grown into her role and we are very happy together.  Thank you!
+0x4F7FB270=
+
+;0xBAC63646=- Brian, 46
+0xBAC63646=
+
+;0x740189A9=Get a Career Boost
+0x740189A9=
+
+;0x8836204F=You guys saved my neck!  And the respect of my fellow workers.  When I qualified for the corporate weekend in Hawaii last year, I knew that I needed arm candy and fast, man!  You don't move up the food chain at a large office if you're nailing a fat ugly woman.  I needed something special to impress the big cheeses, if you know what I mean!  One visit to PointClickShipABitch.com and a Croatian supermodel was ringing my doorbell the following day!
+0x8836204F=
+
+;0xA0A3B54D=- Jimbo, 28
+0xA0A3B54D=
+
+;0x93271426=Age Is Just a Number
+0x93271426=
+
+;0x67FFAC57=You should have seen their faces at the croquet club when I turned up with Irina.  Thank you PointClickShipABitch.com.
+0x67FFAC57=
+
+;0xAD1C5459=- Ronald, 89
+0xAD1C5459=
+
+;0x252F5721=A Smarter Investment...Put Your Money Where Your Heart Is
+0x252F5721=
+
+;0xC547C569=A couple of years ago, I had reached rock bottom.  Single, dead-end job and the wrong side of 40.  My life had descended into a downward spiral of cheap takeout, backstreet hookers and scotch before breakfast.  Little did I know that I could actually buy a girl...that is to say, I could invest my money in a premium compatibility service designed to deliver a perfect match.  Katya has given me a new lease on life.  You're only as old as the woman you feel!  And right now I'm feeling up a 19 year old girl who can't speak English!
+0xC547C569=
+
+;0x03421D4C=- Evan, 44
+0x03421D4C=
+
+;0x96E31A68=Find a Partner to Share Your Life
+0x96E31A68=
+
+;0x910A8A1B=I had always been skeptical of dating sites and marriage agencies until I discovered PointClickShipABitch.com.  When I first spoke to Tatyana, it was a revelation to realize that we were both looking for the same thing - to escape a miserable existence.  Admittedly, mine was a life of lonely nights spent pleasuring myself to re-runs of Swap Meet and hers a life of relentless persecution in a damp urban slum...but essentially our goals were aligned.  I've never looked back!
+0x910A8A1B=
+
+;0xD78BCA6F=- Jeff, 37
+0xD78BCA6F=
+
+;0x6B2FE39C=You'll Keep Coming Back
+0x6B2FE39C=
+
+;0x51576133=I'm already on my third girl from PointClickShipABitch.com.  I don't even marry them any more!  Once you go Russian, there's no going back!  I think Napoleon said that.          
+0x51576133=
+
+;0xDE30FD04=- Greg, 32
+0xDE30FD04=
+
+;0x1973810E=A Better Life...For Both of You
+0x1973810E=
+
+;0x6A113BD0=Finally, what I've always wanted. A sophisticated, elegant European lady, who is grateful every time I don't send Cossacks into her village to kill her entire family. This is REAL domestic bliss, folks. Try it.
+0x6A113BD0=
+
+;0x677547AA=- Isaac, 43
+0x677547AA=
+

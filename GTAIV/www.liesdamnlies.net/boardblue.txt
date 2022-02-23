@@ -1,0 +1,147 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x0CC122CF=> Discussion Forums
+0x0CC122CF=
+
+;0xCB2825DA= Discussion forums links
+0xCB2825DA=
+
+;0x60854DB4=World domination conspiracies
+0x60854DB4=
+
+;0x55DF0714=The mullet connection!
+0x55DF0714=
+
+;0xFD910832=Cybernetics and mass surveillance
+0xFD910832=
+
+;0x1AF6F7BB=The All Seeing Eye is watching you...
+0x1AF6F7BB=
+
+;0xB6D62AFE=Brainwashing and mind control
+0xB6D62AFE=
+
+;0xF3353255=Planning notes so you will know.
+0xF3353255=
+
+;0x25013734=Is there anybody out there?
+0x25013734=
+
+;0x6C844346=Aliens and UFO's
+0x6C844346=
+
+;0x9923E42F=Smoke and mirrors
+0x9923E42F=
+
+;0x3D8FBEB8=The real truth about Pluto.
+0x3D8FBEB8=
+
+;0x6F2E6571=Women
+0x6F2E6571=
+
+;0xF084B531=The ultimate conspirators?
+0xF084B531=
+
+;0x3D52522A=Poisoning our future leaders
+0x3D52522A=
+
+;0x96793E98=What the food and drink companies are not telling you!
+0x96793E98=
+
+;0xFB98537D=Forum: Cybernetics and mass surveillance
+0xFB98537D=
+
+;0x1AF6F7BB=The All Seeing Eye is watching you...
+0x1AF6F7BB=
+
+;0xEF857086=Postings
+0xEF857086=
+
+;0x44AD44FF=Read New
+0x44AD44FF=
+
+;0xF0C79167=Post
+0xF0C79167=
+
+;0x6EA3E4EB=Name: SkullandBones 
+0x6EA3E4EB=
+
+;0xDA5174F4=Location: Las Venturas        
+0xDA5174F4=
+
+;0xF9F85E39=Hi - I have loved this site for a long time. First time poster. Typing one handed. Not! LOL! Listen, I know it sounds crazy, but I was tagged with a human-implantable tracking device as a baby in the 1970s. My brothers had natural births at home but I was delivered in the hospital. Whilst they both have high-flying careers and beautiful families, my life has been defined by a spiral of drug abuse and manic depression. All my friends turned on me in high school and since then I have been sacked repeatedly from dead-end jobs and dumped by every ugly girl who was medicated enough to sleep with me. Everyone I meet tries to fuck with my head. I have the sensation of being followed constantly and every time I take a crap I feel like there is someone watching FROM INSIDE THE BOWL. I thought that I had finally rid myself of the evil spychip when I cut off my left hand a couple of years ago but the mind games have got worse. Can anyone help? Was this not prophesied in the Bible? Whose laughing now? Not ME!!!          
+0xF9F85E39=
+
+;0xE8827AEF=Name: Taos Hum
+0xE8827AEF=
+
+;0x73A27210=Location: Vice City
+0x73A27210=
+
+;0xBA7175E1=I hate to disappoint you, Skull, but the Book of Richard states that we will receive the number of the beast on our right hand. I guess that your piano-playing days are over, dude.          
+0xBA7175E1=
+
+;0x9A8B400E=Name: Bildeberg
+0x9A8B400E=
+
+;0xA155258F=Location: San Fierro        
+0xA155258F=
+
+;0xECA741C4=A program of mass surveillance is underway in our homes. I am convinced that a number of big companies are locked into a conspiracy with the government to install bugging devices in their products. I am particularly suspicious of those plug-in air fresheners that my mother buys... why do they need to be attached to the electricity supply? Lavender is a scent of social control.           
+0xECA741C4=
+
+;0x7B2E7DEC=Name: Chupacabra
+0x7B2E7DEC=
+
+;0xAC26DB22=Location: Liberty City        
+0xAC26DB22=
+
+;0xE91979E3=Let me guess, Bildeberg. You're a live-at-home virgin who still masturbates over his mother. Exercise videos and professional wrestling excite you but you're too much of a pussy to come out so masquerading as a misunderstood new-age goth. You use conspiracy theories as a defense mechanism to hide from the horrific truth that you are already dead inside... etc. etc. Close to the mark?          
+0xE91979E3=
+
+;0xE8827AEF=Name: Taos Hum
+0xE8827AEF=
+
+;0x73A27210=Location: Vice City
+0x73A27210=
+
+;0xD489997F=Wow, where's all the rage come from Chupacabra! Chill out, brother! Thinngs are dreadful, but that doesn't make them terminal. LMFAO.          
+0xD489997F=
+
+;0x7B2E7DEC=Name: Chupacabra
+0x7B2E7DEC=
+
+;0x80A484E2=Location: Liberty City
+0x80A484E2=
+
+;0x41E702DA=Sorry, I gave up rehab yesterday... I'm really loaded on antis.           
+0x41E702DA=
+
+;0x9A8B400E=Name: Bildeberg
+0x9A8B400E=
+
+;0xA155258F=Location: San Fierro        
+0xA155258F=
+
+;0x889D6249=I thought that you guys understood. I'm running the bath... this is Bildeberg signing off one last time...          
+0x889D6249=
+
+;0x7B2E7DEC=Name: Chupacabra
+0x7B2E7DEC=
+
+;0x2073B5B6=Location: Liberty City       
+0x2073B5B6=
+
+;0x8D43B78E=Shit, I was only messing with you, Bildeberg.           
+0x8D43B78E=
+
+;0x7B2E7DEC=Name: Chupacabra
+0x7B2E7DEC=
+
+;0x2073B5B6=Location: Liberty City       
+0x2073B5B6=
+
+;0xB2B69CEF=Are you there, Bildeberg?          
+0xB2B69CEF=
+

@@ -1,0 +1,27 @@
+﻿;0x4D15EA96=TOM GOLDBERG Esq
+0x4D15EA96=
+
+;0x4B7DC889=PATRICK LIGNER Jr Esq
+0x4B7DC889=
+
+;0x04F148B9=DICK SHYSTER Esq
+0x04F148B9=
+
+;0x09443306=TOM GOLDBERG Esq  
+0x09443306=
+
+;0x47A0781F=Mr. Goldberg should be credited as much for his human rights and charity work as he is for his considerable successes within the legal industry.  
+0x47A0781F=
+
+;0x527372FD=Often functioning as a legal expert on Weazel News and quoted in the Daily Globe on many occasions, Mr. Goldberg has become the voice of the 'little guy' in Liberty City and throughout America.  
+0x527372FD=
+
+;0x072B35A6=When not working on cases with GL&S, the majority of Mr. Goldberg's time is spent working with Goldberg's Guys - his charity dedicated to teaching the disadvantaged young boys of Liberty City to swim.  "When I see the look in those kids eyes when they're kicking their little legs around, it's all worthwhile." Tom Goldberg: Humanitarian, Moral Compass, Attorney with Goldberg Ligner and Shyster.  
+0x072B35A6=
+
+;0xC3436B00=goldberg@goldberglignerandshyster.com            
+0xC3436B00=
+
+;0x1EB6AC60=GL&S, All Rights Reserved . Privacy Statement . Contact Info
+0x1EB6AC60=
+

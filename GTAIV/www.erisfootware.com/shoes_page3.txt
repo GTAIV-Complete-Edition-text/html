@@ -1,0 +1,15 @@
+﻿;0x0C629A9B=Raising More Than Your Game
+0x0C629A9B=
+
+;0xE6BDFFFC=The sneaker for women with more in the back.  A mule-style shoe with a massive wedge heel, the BADONKADONK packs some serious junk in the trunk.  Affectionately known as 'slip-offs'.  You'll love to see these in the air.
+0xE6BDFFFC=
+
+;0xF3771405=Special Offer - $150!! 
+0xF3771405=
+
+;0xED147BBF= DECIPHERING THE LINGO
+0xED147BBF=
+
+;0x9B780572= CLICK HERE FOR A MESSAGE FROM ERIS FOUNDER, PETER VASSAL
+0x9B780572=
+

@@ -1,0 +1,21 @@
+﻿;0x068F13BB=Product: Hingmyralgan
+0x068F13BB=
+
+;0xE1616949=Quantity: 90 capsules
+0xE1616949=
+
+;0x67CFD946=Our price: $35
+0x67CFD946=
+
+;0x061DFF6B=Kick your nervous system into gear with Hingmyralgan.  Hingmyralgan takes your pain away in seconds and makes even the shittiest TV show seem like the best thing you've ever watched.  Chug a couple of beers and you'll be more drunk than the bride's mother at a shotgun wedding.    
+0x061DFF6B=
+
+;0x6FEAE585=Major credit cards accepted.
+0x6FEAE585=
+
+;0x93D0CCD8=All purchases are non-refundable.
+0x93D0CCD8=
+
+;0x246A54CE=All liabilities are denied.
+0x246A54CE=
+

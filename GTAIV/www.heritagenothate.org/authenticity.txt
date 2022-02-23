@@ -1,0 +1,30 @@
+﻿;0x30266B3D=If you think this is just camping out with your buddies, think again. The cornerstone of historical reenactment is excessive bickering over authenticity and we take things very seriously.
+0x30266B3D=
+
+;0x42DF1A93=We are firmly committed to portraying this defining moment in America's long and illustrious history as accurately as possible.  Heritage Not Hate isn't a hobby - it's a lifestyle:    
+0x42DF1A93=
+
+;0x1A86D5F1=Attendance at our weekly events is obligatory unless you have a doctor's note for gout, dysentery or malaria.  
+0x1A86D5F1=
+
+;0x46FE54D6=Understand this is about the North dictating to the South how we should live our lives.  Just think of the anti-smoking and helmet laws.   That's exactly how people felt 100 years ago when they were told they couldn't own people. 
+0x46FE54D6=
+
+;0x07EC3101=You must have the right uniform and equipment.  No trinkets or polyester clothes made in Taiwan.  No propane stoves, airbeds or zippers.  If you want slapdash, go join a medieval reenactment group. This is about authenticity.  
+0x07EC3101=
+
+;0xD9DE576B=We will beat you for wearing a wrist watch and if we catch you using toilet paper, we will make sure that you are 'killed' within the first five minutes of battle and have to spend the next two days lying motionless in the sun while dogs eat your eyeballs.  
+0xD9DE576B=
+
+;0x1D039C7F=We expect you to sleep in canvas tents with straw on the floor and to live on salted meat and corn meal - no sneaking a Heartstopper from Burger Shot.  A Confederate soldier had his leg amputated with a rusty bayonet last year for ordering in a Chinese banquet.  
+0x1D039C7F=
+
+;0x12C7BF3F=You must purge yourself of all knowledge of modern life, including this website.  
+0x12C7BF3F=
+
+;0x8E773BC7=While we will chalk some historical errors down to inexperience, we will always point them out publicly and encourage the rest of the group to ridicule you for the duration of the weekend.     
+0x8E773BC7=
+
+;0xA5779EF7=Remember:  to reenact authentically is to truly be alive.
+0xA5779EF7=
+

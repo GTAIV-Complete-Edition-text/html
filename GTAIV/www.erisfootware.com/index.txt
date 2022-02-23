@@ -1,0 +1,9 @@
+﻿;0xCEE223D3=Are you ready to compete? Do the slogans above mean anything to you?  Have you got what it takes to be a winner? Do you want to stagger through life or swagger through life with pristine shoes?  
+0xCEE223D3=
+
+;0xC43A1FD5=There is a reason that people look down on you.
+0xC43A1FD5=
+
+;0xDC615EF0=It's not because you're short.
+0xDC615EF0=
+

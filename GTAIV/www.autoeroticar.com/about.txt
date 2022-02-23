@@ -1,0 +1,24 @@
+﻿;0x6B986F9E=ABOUT US 
+0x6B986F9E=
+
+;0x88E8D394=AutoEroticar was set up in 2007 to cater to a very special market; people who are smart enough to realize the important connection between sexual drive and the car you drive. 
+0x88E8D394=
+
+;0xB32DD14C=IF YOU ARE AN AUTOEROTICAR CUSTOMER:
+0xB32DD14C=
+
+;0x141CED43=You shave with the Excelsior Extreme 9 razor.
+0x141CED43=
+
+;0x85E62BD5=You consume only the most heart-palpitating energy drinks.
+0x85E62BD5=
+
+;0x1E358412=You don't trust anything that wasn't created today for the world of tomorrow because you're always in the driving seat. 
+0x1E358412=
+
+;0x290734D1=Everything you do says 'sleep with me' and you know your car should be no different.
+0x290734D1=
+
+;0xE4833A79=We know that when your hand's on that stick, anything could happen - let's make it happen together.
+0xE4833A79=
+

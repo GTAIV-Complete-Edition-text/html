@@ -1,0 +1,39 @@
+﻿;0x04E72159=Username:
+0x04E72159=
+
+;0x7102EB6D= LiberatedWoman
+0x7102EB6D=
+
+;0xB0BACC87=Sex:
+0xB0BACC87=
+
+;0xF33C2C22= Hot female     
+0xF33C2C22=
+
+;0x6C1F83B4=Location:
+0x6C1F83B4=
+
+;0x09EA7F71= Liberty City
+0x09EA7F71=
+
+;0xD0F33C72=Age:
+0xD0F33C72=
+
+;0x3F398D1F=Profession:
+0x3F398D1F=
+
+;0x2FDB69C4= Party girl/blogger     
+0x2FDB69C4=
+
+;0xCA6ED4BF=Appearance:
+0xCA6ED4BF=
+
+;0x04478F24= Petite, strawberry blonde, killer legs, perfect tits, blow-job lips     
+0x04478F24=
+
+;0x0EEC57CE=Interests:
+0x0EEC57CE=
+
+;0xDC0DE019= Married men, shoes, little dogs, cocktails, surgery, working out     
+0xDC0DE019=
+

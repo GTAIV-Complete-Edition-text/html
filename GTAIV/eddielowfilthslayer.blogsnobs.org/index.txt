@@ -1,0 +1,39 @@
+﻿;0x04E72159=Username:
+0x04E72159=
+
+;0xE0C794C5= Eddielowfilthslayer     
+0xE0C794C5=
+
+;0xB0BACC87=Sex:
+0xB0BACC87=
+
+;0x10CF1FEE= Male     
+0x10CF1FEE=
+
+;0x6C1F83B4=Location:
+0x6C1F83B4=
+
+;0x97F18879= Dukes, Liberty City     
+0x97F18879=
+
+;0xD0F33C72=Age:
+0xD0F33C72=
+
+;0x3F398D1F=Profession:
+0x3F398D1F=
+
+;0xFD2ACF76= Street Cleaner     
+0xFD2ACF76=
+
+;0xCA6ED4BF=Appearance:
+0xCA6ED4BF=
+
+;0x3B222CB2= ???       
+0x3B222CB2=
+
+;0x0EEC57CE=Interests:
+0x0EEC57CE=
+
+;0x29A89E46= filleting, skinning, embalming    
+0x29A89E46=
+

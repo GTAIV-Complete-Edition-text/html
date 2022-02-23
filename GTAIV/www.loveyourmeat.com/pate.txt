@@ -1,0 +1,63 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x7AA3A3ED=PATE
+0x7AA3A3ED=
+
+;0xA237BF2F=Vegan Problems?
+0xA237BF2F=
+
+;0xD0407932=PATE - Parents Against Tofu Eating
+0xD0407932=
+
+;0xF67F986D=Recent studies have shown that, alongside drugs and guns, vegetarianism is the primary cause of societal breakdown in our inner cities.  One day your son is 14 and giving up meat seems like a great way to get laid, the next he's stopped washing, grown dreadlocks, and is hanging out at Now & Zen.  The twitching curtains from the neighbors, the wry smirks from work colleagues, the disgusted sneers from the trashman... it's easy to overlook the devastating impact that vegetarianism can have on the rest of the family.  Thanksgiving, picnics, BBQs, hot dogs at the game... everything you hoped and planned for suddenly lost in the bottom of a wheatgrass shot.          
+0xF67F986D=
+
+;0xE22918F8=Here are some of the common signs that your child might be abusing vegetables or sleeping with a zombie:
+0xE22918F8=
+
+;0x280C9438=-
+0x280C9438=
+
+;0x9D722B53=Sallow complexion          
+0x9D722B53=
+
+;0x280C9438=-
+0x280C9438=
+
+;0x94B3A782=Breath like dank sewage          
+0x94B3A782=
+
+;0x280C9438=-
+0x280C9438=
+
+;0x2E5B45D7=Pus-laden milkstache          
+0x2E5B45D7=
+
+;0x280C9438=-
+0x280C9438=
+
+;0xF7BACD1C=Propensity for peaceful demonstrations          
+0xF7BACD1C=
+
+;0x280C9438=-
+0x280C9438=
+
+;0x609D144E=Grimy, sloganed T-shirts (e.g. 'Give Peas A Chance')          
+0x609D144E=
+
+;0x280C9438=-
+0x280C9438=
+
+;0xF9578BC3=Juggling/Unicycle-riding          
+0xF9578BC3=
+
+;0x8D8DF2AB=Don't let vegetarianism steal the souls and bowels of our future leaders!
+0x8D8DF2AB=
+
+;0xAD2A70A2=PATE's world-renowned 12-step detox has proven success in the treatment of vegaddicts.  Starting with aversion therapy (force-feeding okra, kale, celeriac etc.), our program gradually weans the victim back onto meat, from gravy to small pieces of cold turkey, from veal to haggis, from steak tartar to ortolan.  Patients are then moved to a halfway steakhouse before being released back into the community.          
+0xAD2A70A2=
+
+;0x0442ABF7=Vegetarianism tears families apart, one grain of brown rice at a time.  Don't suffer in silence - we can help today.
+0x0442ABF7=
+

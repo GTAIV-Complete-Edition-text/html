@@ -1,0 +1,45 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x244E8099=Specials
+0x244E8099=
+
+;0xAD935D05=Cup Sizes
+0xAD935D05=
+
+;0xC46A285A=Franchising Opportunities
+0xC46A285A=
+
+;0x951A1C18=Buy Our Coffees
+0x951A1C18=
+
+;0x0910409E=Caffeine Is Not a Drug
+0x0910409E=
+
+;0x8512F7FC=Become a Rep
+0x8512F7FC=
+
+;0xC14112B2=10 Reasons to Boycott 
+0xC14112B2=
+
+;0xF275475D=Your Local Coffeehouse
+0xF275475D=
+
+;0x270C6897=Bean Machine's drinks are served in the following cup sizes:
+0x270C6897=
+
+;0xCFAAE0AA=Medio:  24 oz.
+0xCFAAE0AA=
+
+;0x56D8D915=Enorme:  32 oz.
+0x56D8D915=
+
+;0x910CA80B=Colossale:  80 oz.
+0x910CA80B=
+
+;0x1C17EB2F=Look, here is the reality:  our patience is hanging by a very thin thread.  We provide you with a faux-bohemian environment in which to escape the emptiness of your miserable lives and we tolerate you nursing a ghetto latte all day, taking up seats while fleecing the free WiFi.  All we request in return is that you order your drinks using the Italian-Columbian terminology above.  Is that too much to ask?
+0x1C17EB2F=
+
+;0xBDAC065D=We created this ridiculous lingo to give you morons the illusion of a cosmopolitan lifestyle but you insist on throwing it back in our face.  We don't care if you think that it makes no sense.  If you're too stupid to grasp the fact that 'Medio' means 'Small', then drink your coffee at Burger Shot.  Please note that any attempts to order 'small, 'medium' or 'large' will be met with a derisory snicker and a booger floater.  You've been warned.        
+0xBDAC065D=
+

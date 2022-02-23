@@ -1,0 +1,9 @@
+﻿;0xFC11A306=The following note was scrawled on a scrap of paper that he managed to slip to his lawyer:
+0xFC11A306=
+
+;0x84501E1D="To my darling fans. For five years now I have been incarcerated in a loathsome Bali prison. Every day I am beaten on my hands and knees and forced to share a cramped dark cell with up to 15 other men. But there are also downsides to my imprisonment. The food is diabolical and all my requests for a glass of port after dinner have been met with a swipe to the back of the knees. I sleep in a pool of urine on a concrete floor and I wash in an open sewer. If Nanny could see me now!!! I am a man of simple pleasures and it's the little things that I miss the most. Two lions rutting on an open plain, the smell of sweat and gunpowder in the morning air, the thwack of leather on willow... and how is the USA surviving without my radio show?
+0x84501E1D=
+
+;0xD9F8F3E2=The combination of sunshine, narcotics and anonymity is a heady aphrodisiac and I long to be free again, to travel the world in the pursuit of pleasure and high jinks, to be at one with nature! The desperate plight of young impressionable boys in third-world countries stirs a feeling deep within me and I feel duty-bound to continue my humanitarian works at whatever cost. The world needs me! You need me! James Pedeaston is not meant to be caged! Please help. I hope that these few words are enough to spur you to action. The Wild Traveler will return!!"
+0xD9F8F3E2=
+

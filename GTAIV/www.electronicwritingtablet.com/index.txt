@@ -1,0 +1,36 @@
+﻿;0x38263E69=Lovers of pen-based computing! 
+0x38263E69=
+
+;0x2BFA5085=You are not alone! 
+0x2BFA5085=
+
+;0xEC22820D=Welcome to electronicwritingtablet.com, 
+0xEC22820D=
+
+;0x0810AB83=the website for Tablet PC enthusiasts!
+0x0810AB83=
+
+;0x2B5023EB=Tablet PCs are the future. They have been the next big thing for 30 years! Tablet PCs work just like traditional pen and paper except they cost $2,000 and require electricity. They are heavier than a TV, more expensive than a laptop and come with a full 15 minutes of battery time. Who wants to use one of those fiddly little PDAs when you can lug a flat-screen monitor around on your back? Who wants to type 90 words a minute when you can spend twice as long writing them onto a computer screen with a digital pen and a system that doesn't recognize your handwriting? Why scrawl a girl's number on the back of a cigarette packet when you can impress her by taking ten minutes to boot up your electronic clipboard? Why type an email when you can convert it into meaningless gibberish with handwriting-recognition software?  
+0x2B5023EB=
+
+;0x642D75A7=Every few years, Facade and Fruit unveil a new pen computer, and every time, it tanks in the marketplace. What is wrong with people? What is the fascination with a 19th century typewriter keyboard? QWERTY EATS ASS! Since when did cost, size, speed and efficiency become such driving factors for modern consumers? Don't they want to draw funny pictures and send them to their friends? We are tired of hearing that digital writing is dead! This is a call to arms! The Tablet PC community has been ridiculed for too long! Make a stand against the QWERTY luddites! Spread the word! Write through the hand cramps!  
+0x642D75A7=
+
+;0x9F395126=Hold your stylus with pride! 
+0x9F395126=
+
+;0x9ED4CA5D=Send a message to EWT from your Tablet PC!
+0x9ED4CA5D=
+
+;0xBDCB692B="I dove my net Target AC! I hosed do wring my grubby gash on a crap of pauper bull now I wriggle it one me orbital toboggan and pull it off at the store. Penetrating! Keep me roasted with the latest tables!"
+0xBDCB692B=
+
+;0xC1D7CF52=Gerry, Liberty City
+0xC1D7CF52=
+
+;0xE56017C9="I am very ashamed to admit that I am writing this message from a TW@ internet cafe. I seem to have lost the cordless pen for my Panoramic HeavyPad, rendering the device totally useless! Has anyone got a spare? Nobody makes them any more!!"
+0xE56017C9=
+
+;0x65BB8EE8=Lionel, Los Santos
+0x65BB8EE8=
+

@@ -1,0 +1,21 @@
+﻿;0x2C619B1E=Product: Blissikin 
+0x2C619B1E=
+
+;0x4384CA18=Quantity: 60 capsules
+0x4384CA18=
+
+;0x65CD9789=Our price: $27
+0x65CD9789=
+
+;0x51964D12=Everything's starting to sag.  Incontinence and impotence are just around the corner.  Nobody listens to you.  You hate your job, you haven't had sex in years and it finally dawns on you that you're never going to be rich and famous.  It's bleak, but don't let your mid-life crisis drag you down.  Don't ruin yourself by quitting your job to run a youth camp in Guatemala.  And, whatever you do, don't get a nose stud. You will look like a prick.  Blissikin is the new wonder pill for the over 40's set that is guaranteed to keep you away from the edge of the abyss.  It's cheaper than leather pants, plastic surgery, strip clubs, a convertible or divorce.    
+0x51964D12=
+
+;0x6FEAE585=Major credit cards accepted.
+0x6FEAE585=
+
+;0x93D0CCD8=All purchases are non-refundable.
+0x93D0CCD8=
+
+;0x246A54CE=All liabilities are denied.
+0x246A54CE=
+

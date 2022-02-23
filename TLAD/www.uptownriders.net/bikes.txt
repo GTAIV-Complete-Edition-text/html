@@ -1,0 +1,42 @@
+﻿;0xEC7F0608=BATI 801
+0xEC7F0608=
+
+;0xD0A896EE=A cutting edge race-replica, this bike features a 1000cc liquid cooled in-line 4 cylinder engine which produces over 180bhp through a 6 speed gearbox to its 200 section rear race spec rubber. Its thoroughbred components ensure a nigh on 200mph limit can be reached easily whilst its 320mm dinner plate sized brake discs bring things to a stop on mo' fuckin' dime. The single sided rear swingarm perfectly shows off its lightweight alloy rear wheel while the Underseat exhaust makes sure your bitch's ass stay warm!
+0xD0A896EE=
+
+;0xA5F6FFAE=BATI 801R
+0xA5F6FFAE=
+
+;0x02DA4DA5=The ultimate Italian stallion! A rare as shit and $$$ version of the 801, this got an even more out there 195bhp block to propel it to past warp 20, motherfuckers!!! Lightweight alloys and carbon fiber make this faster than its street version too. This one will ensure everyone else plays catch-up!
+0x02DA4DA5=
+
+;0xD443B084=DOUBLE T
+0xD443B084=
+
+;0x25A57B40=Modern street bike for the soldiers, this 900cc in-line 4 produces 170bhp. It dominated the market 'til the 801 showed on the scene. Still a capable weapon in the right hands - its agility and availability mark it out as a true modern classic. User-friendly and reliable, this 180mph rocket has few vices and is still lighter than most of its $$$ rivals!
+0x25A57B40=
+
+;0xFE5A4C3E=DOUBLE T DRAG
+0xFE5A4C3E=
+
+;0x34079D98=Created as much for Sunset Strip as the drag-strip, this lowered and stretched version of the Double T with chrome bling and custom paintwork. Cruise on it at 10 mph or dial it up to a ton. Its 900cc tuned road engine turns out 20bhp more than the standard model.
+0x34079D98=
+
+;0xD5714678=Anything more than straight lines and the long drag inspired bike will struggle, you hear?
+0xD5714678=
+
+;0x364A6B45=HAKUCHOU
+0x364A6B45=
+
+;0xF6DD501B=The grand tourer to top them all! Able to blaze coast to coast with ease thanks to its 1300cc monster. 200bhp "bullet train" engine and wind tunnel developed bodywork this bike is the one to choose!! The Hakuchou is a King mother fucking missile. Twisties might tie this bitch in a knot though. Keep it straight lining on this beast.
+0xF6DD501B=
+
+;0xB286340D=HAKUCHOU DRAG
+0xB286340D=
+
+;0xAD67A3E1=The true "King of Bling". This ultra long and lowered chromed behemoth is capable of blistering acceleration thanks to its drag-inspired swingarm and race prepped engine turning out in the region of 250bhp.
+0xAD67A3E1=
+
+;0xB4CE70FF=Form over function however means that you might struggle to bring it back down again - the single front 330mm brake disc aint gonna clam this bitch easy. At least the crowds who gather to see the wreckage will enjoy the un-interrupted view of the chromed front wheel! Yeah!
+0xB4CE70FF=
+

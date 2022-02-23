@@ -1,0 +1,18 @@
+﻿;0x4216FD09=CLUB HISTORY
+0x4216FD09=
+
+;0xB864A2F1=It was 1964 when eight US marines met in Hanoi. They bonded over a love of hookers, horse, motorcycles, and eighty sixin' Charlie. The boys couldn't figure what to do when the napalm ran out and it was time to haul ass out the jungle. Until, that is, one of 'em had the bright idea of startin' a motorcycle club. Thinkin' about all the brothers they'd sent home in bags, they called it The Lost.
+0xB864A2F1=
+
+;0x95CC2437=Thousands of broken bikes, jealous old ladies, dirty needles, and pissed off limp-dick civilians later the Lost MC stands strong.
+0x95CC2437=
+
+;0x6456C410=We've seen some hard times - Brothers turning snitch. Brothers getting killed. Brothers being taken down on bogus charges. But we're still here. We've cut out all the weekend warriors and checkbookers, we're strippin' our shit to pure kick-ass, die-for-The-Lost brothers. FUCK YEAH!!
+0x6456C410=
+
+;0x85A978F8=After viewing use back arrow to return
+0x85A978F8=
+
+;0xB2F30780=LATEST PERSONAL ADS
+0xB2F30780=
+

@@ -1,0 +1,96 @@
+﻿;0x04E72159=Username:
+0x04E72159=
+
+;0xCA82BE5D= DarkSoulLock     
+0xCA82BE5D=
+
+;0xB0BACC87=Sex:
+0xB0BACC87=
+
+;0x10CF1FEE= Male     
+0x10CF1FEE=
+
+;0x6C1F83B4=Location:
+0x6C1F83B4=
+
+;0xFD9FFBE2= Carcer City     
+0xFD9FFBE2=
+
+;0xD0F33C72=Age:
+0xD0F33C72=
+
+;0x3F398D1F=Profession:
+0x3F398D1F=
+
+;0x4226302E= Deadend jobs     
+0x4226302E=
+
+;0xCA6ED4BF=Appearance:
+0xCA6ED4BF=
+
+;0x9CC1A438= Purple hair, eyeliner, tight black pants, flouncy shirt, spikes, chains.     
+0x9CC1A438=
+
+;0x0EEC57CE=Interests:
+0x0EEC57CE=
+
+;0x886921E3= Death metal, furries, gaming, conspiracy theories    
+0x886921E3=
+
+;0x8865EE44=UPDATED - 5 MINUTES AGO
+0x8865EE44=
+
+;0xCF468175=I really have amazing taste in music.      
+0xCF468175=
+
+;0xBF938121=UPDATED - 2 DAYS AGO
+0xBF938121=
+
+;0x1EB3CC1D=I am so tired that I am hallucinating and there is a baby crawling across the ceiling.  I really have to do some research about what the human body can endure.  Pain, I've figured that out.  I know all about it.   My father came this weekend which is another reason why I didn't get a lot of sleep.  What an appetite on that guy.  I have to cover up all my tattoos and pretend that we actually have something in common.  Great.  He got wounded in the war.  Big deal.  I'd love to have another piece of metal in me.  Nothing works in this house.  The VHS player is broken.  I KNOW THERE ARE DVDS STUPID BUT ALL MY COOL SHIT IS ON VHS.  Plus dvds are so, digital.  Analog is so much warmer.  Plus I like the worn aged look.  My job at the print shop is shit.  The $50s I printed look like shit.  And I laminated some black and white pictures of me crying in the meat aisle at the grocery store today.  Bitter art teachers suck, cause she said that it wasn't expressive enough.  What do you want me to do?  Roll around in the meat case?  Death doesn't even phase people anymore.  I have to go drink some more of that wretched black tea I bought at the health food store.  If my probation officer finds out what I did this weekend I'm farked.    
+0x1EB3CC1D=
+
+;0x1DF3C0DF=UPDATED - 4 DAYS AGO
+0x1DF3C0DF=
+
+;0xA82848F9=Today is screwing me over hard, man.  First I got my wang stuck in a finger puppet when I was beating off over the TV guide.  Then my ferret died.  Rodents are so inspiring.  I held him until he went limp in my arms and then threw him in the trash.  Everything I touch seems to die, especially since I've been brewing meth. So many things seem to end in my trembling hands.  Like my teeth.  Maybe I am meant to be alone in this world.  I'm picking up a load of speed tonight.  Hopefully it will kill me.    
+0xA82848F9=
+
+;0x7FDA5DC5=UPDATED - 6 DAYS AGO
+0x7FDA5DC5=
+
+;0xB513F923=This medication is NOT WORKING!!  I have a permanenmt headache from all the noise in this house. GOD DAMN IT!!  Constant banging and screaming.  That stupid kid I abducted will not shut up.  Why does the volume need to be at 35??!!!
+0xB513F923=
+
+;0x843F9AF1=AAAGHHHHHIMGOINGTOKILLHIMINHISFUCKINGSLEEP!!!!      
+0x843F9AF1=
+
+;0xFE11606C=UPDATED - 7 DAYS AGO
+0xFE11606C=
+
+;0x1CEB7872=Woot!  I just got my phase 8 Beta badge and am leading the crew into a fierce battle.  My mod privileges have been restored, and I'm going to alliance then horde, and sell off my extra stuff.  I was the guide, then claimed phat lewt.  I'm like, who gives a rats ass about alot of stam when you can get 987233 agi?  This dwarf and orc trided to get me to go to the plaguelands and I'm not a big fan of the dwarf race.  They're lazy and talk funny, just like in real life, but some idiot hit me with a love sickness thing and I woke up with an undead warlock and a boil on my Johnny.  A gang of elf hunters tried to get me to Kermaggus, and the Firetnewog lair is full of a fuggin Orc lab technician who is sewing goblin parts together.  I'm going to come back and trade some Eforan slaves.  I'm tired of slave women anyway, and leet lewt means I have to pay attention to lewt, you know? 
+0x1CEB7872=
+
+;0x616E7773=This isn't a game
+0x616E7773=
+
+;0xF18D7290=.  It's my life.    
+0xF18D7290=
+
+;0xD6090062=UPDATED - 9 DAYS AGO
+0xD6090062=
+
+;0x79E0CC9E=I've just been reading some of the other blogs on this site.  Bloggers are so sad.  Have you people got nothing better to do than write about your pathetic little lives?!!  Are you dumb enough to belive that  anybody gives a shit that your boyfriend dumped you or your vacumm cleaner is broken? Do you really think that you're going to achieve some closure, some kind of fucking epiphany by sharing the sordid details of your miserable existence with some anonymous weirdo masturbrating in his parents basement??!!  It makes me sick. It takes all my strength just to stop myseld from hunting you down and breaking every bone in your body.  Face up to it.  You're alone and you're going to die soon.  Losers.  You don't deserve blogs.
+0x79E0CC9E=
+
+;0xF3025C42=I'm thinking of getting a custommade starshaped implant under one of my eyes.  Anyone got any thoughts?  
+0xF3025C42=
+
+;0x990843E5=Still no news on the kettle, btw.  
+0x990843E5=
+
+;0x86CA456D=This ferret is useless.  All it wants to do is sleep.  I'm going to slip some e-cola in its bowl.  That should perk up the scrawny runt.    
+0x86CA456D=
+
+;0x63A064A0=(PREVIOUS POSTS)
+0x63A064A0=
+

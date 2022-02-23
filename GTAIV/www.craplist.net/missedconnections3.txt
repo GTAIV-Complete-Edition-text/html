@@ -1,0 +1,57 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x6520FC0D=>missed connections
+0x6520FC0D=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0x0CE017A1=women seeking men
+0x0CE017A1=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x9F41091F=men seeking men
+0x9F41091F=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x5496CAB5=men seeking women
+0x5496CAB5=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0x0E776B53=MISSED CONNECTIONS 
+0x0E776B53=
+
+;0xD70341CF=Jenn, class of '87, Washington Beach High, WHERE ARE YOU NOW?
+0xD70341CF=
+
+;0x05204770=(Liberty City)
+0x05204770=
+
+;0xBB9B37AF=Why didn't you answer my calls?  I went to your house and they told me you'd moved.  20 years I've been trying to find you!  I bumped into that weird kid with the missing septum the other day (he's a doctor now!) and he mentioned he'd seen you in Liberty City?  I was hoping to track you down on  
+0xBB9B37AF=
+
+;0xA6105A70=www.hornyhighschoolreunions.com
+0xA6105A70=
+
+;0x6B99900F=  but all I got were cruel comments from losers jealous of my success!  Please get in touch.  We can start again.  I'll pay your Dad back all the money.  I'm rich now!  A few shrewd business moves in the late 1990s and I was able to surf the dotcom wave into some serious 7-figure action.  The houses, the cars, the women - I've got it all.  And to think you said I'd never amount to anything!  I am a different person now with the same love.  I'm not going to give up, Jenn.  Don't let the magic die.    I'll kill you in your sleep when I find you.  
+0x6B99900F=
+
+;0xA3F9451F=PostingID: 882031423
+0xA3F9451F=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

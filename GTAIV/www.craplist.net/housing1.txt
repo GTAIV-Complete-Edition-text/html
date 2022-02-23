@@ -1,0 +1,75 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x3B0CB221=>
+0x3B0CB221=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0xF152F95C=HOUSING
+0xF152F95C=
+
+;0x9BC83D05=Who wants to hunker down in my bunker?
+0x9BC83D05=
+
+;0x509622BF=(Charge Island)
+0x509622BF=
+
+;0x2C339F1E=My isolation bunker is finished!  It is a cozy but functional space: bedroom, living room, bathroom (with rudimentary plumbing), blast ceiling, Geiger counter, and a masturbatorium.  I have board games, a record player and enough instant noodles to last three years (which should be long enough, by my calculations).  It has its own water well and small solar-powered generator, cleverly disguised as a bird table.  I've done the best I can with the time available to me.  Oh, and we recycle human waste.
+0x2C339F1E=
+
+;0x5E89D8E4=There is room for three people but you have to move quickly.  I have to limit you to a single backpack so please choose your belongings wisely.  Some air freshener might be a good idea.  I'm leaving my wife behind so I need at least one woman of child-bearing age.  Save yourselves.  They are coming.  We haven't got long.  I am battening down the hatches at 11:06 tomorrow morning.   
+0x5E89D8E4=
+
+;0xB46FA72D=www.liesdamnlies.net 
+0xB46FA72D=
+
+;0xFAAC7163=PostingID: 962021546
+0xFAAC7163=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

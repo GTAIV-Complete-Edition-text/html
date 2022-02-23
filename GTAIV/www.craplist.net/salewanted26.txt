@@ -1,0 +1,66 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0x7DFD8D83=>sale&wanted
+0x7DFD8D83=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0xE407107D=jobs
+0xE407107D=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0x074F3216=SALE / WANTED
+0x074F3216=
+
+;0x949EADA7=I need conjunctivitis by tomorrow!
+0x949EADA7=
+
+;0xB5247920=(Middle Park West)
+0xB5247920=
+
+;0x71611DA9=I phoned in sick this morning after a crazy night on the liqs.  I still feel loaded now!  I'm starting to think those pills weren't aspirin.  I was hoping to leave a quick message with my secretary but that bitch of an intern patched me straight through to my boss.  He started firing questions at me and, for some unknown reason, I blurted out that I had conjunctivitis!  IDIOT!  Why couldn't I just have said a sore throat or a migraine?!!!  Anyway, it's done now and I need to find someone in Liberty City with conjunctivitis TODAY!  I've missed five days this month and they're starting to get very suspicious and threatening a drug test.  I've heard it's pretty contagious so this shouldn't take too long.  I'll pay you $200.  Not bad for a few germs!  
+0x71611DA9=
+
+;0xCB57A393=PostingID: 4682786332
+0xCB57A393=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

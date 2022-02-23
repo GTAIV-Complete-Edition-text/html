@@ -1,0 +1,108 @@
+﻿;0xE253C598=Identity Theft Policy
+0xE253C598=
+
+;0x6D402909=Kids Kredit
+0x6D402909=
+
+;0xB058CCFC=International Wire Transfers
+0xB058CCFC=
+
+;0x368B9352=Debt Consoldiation
+0x368B9352=
+
+;0xCC2A1722=Home Equity Loans
+0xCC2A1722=
+
+;0x6AA54E4F=Plastic Surgery Loans
+0x6AA54E4F=
+
+;0x88C3B8C4=Off-Shore Bank Accounts
+0x88C3B8C4=
+
+;0x97B7449C=Bachelor Party Loans
+0x97B7449C=
+
+;0xB7872DC7=Brokerage
+0xB7872DC7=
+
+;0xECABC59C=Bank of Liberty FLEECA Credit and Debit Cards, offering the highest APR of any card available.
+0xECABC59C=
+
+;0xA40C052B=The more you spend, the 
+0xA40C052B=
+
+;0x6EA5E5B2=more fees you pay.
+0x6EA5E5B2=
+
+;0xBE39A32D=Earn us points for 
+0xBE39A32D=
+
+;0x4F5BC3C0=airfare, hotels, 
+0x4F5BC3C0=
+
+;0x381B9BA7=and more...
+0x381B9BA7=
+
+;0x6BD0D216=We pledge to forge a relationship with our customers that will last a lifetime.  That is why all our most attractive products are designed to lock you in to a soul-destroying cycle of debt until the day you die.
+0x6BD0D216=
+
+;0xE15EA3EF=Checking Accounts
+0xE15EA3EF=
+
+;0xF3076DE4=Open a Checking Account at Bank of Liberty.  At 0.4% interest, can you really afford to put your hard-earned money anywhere else?  ATM withdrawals are only $5 or more, at participating branches.  Enjoy how easy and simple it is to pay to spend your own money.
+0xF3076DE4=
+
+;0xEBE14425=Stay Current
+0xEBE14425=
+
+;0x897FA269=Keep your details up-to-date!  Click here to amend your online profile and change the stuff a Nigerian hacker has edited on your account.  How do you expect us to bombard you day after day with pre-approved 25% interest credit cards if we have the wrong address?! 
+0x897FA269=
+
+;0x4294D58B=Please note that all personal data and banking transactions will be shared with government institutions, selected advertising sponsors and meth head identity thieves, or your money back.
+0x4294D58B=
+
+;0x6E68D5F3=At Your Service... By Phone
+0x6E68D5F3=
+
+;0x125BD9E6=Suspect fraudulent activity on your account?  Dial our automated phone service.
+0x125BD9E6=
+
+;0xB3503142=Calls $2 per minute, OFF  PEAK. Prices may vary.
+0xB3503142=
+
+;0x5EB05175=Take Control of Debt
+0x5EB05175=
+
+;0xB8EBAADB=In debt up to your eyeballs?  Please call customer "service" to speak to one of our indifferent offshore customer service representatives.
+0xB8EBAADB=
+
+;0x498ADE6F=Calls $5 per minute, prices may vary, at participating branches.
+0x498ADE6F=
+
+;0x65D1F662=Bank Alerts Via Email
+0x65D1F662=
+
+;0x21F1F05C=Keep a grip on your finances by signing up for Banking Alerts!
+0x21F1F05C=
+
+;0x285E1ADD=Bank of Liberty will send you an email alert five days after a missed payment or overdraft breach.
+0x285E1ADD=
+
+;0x6A20071D=Late fees and over-the-limit fees are charged at $30 per day, aside from on Thursday when we send a man around to your house who will torture and kill your family, for kicks, and charge you $50 for the privilege, at participating branches only. Prices may vary. Bank of Liberty operates in accordance with FDA, FTC and FIB regulations. Usually. 
+0x6A20071D=
+
+;0x7ED23830=Bank of Liberty Profits Rise By a Record 78%
+0x7ED23830=
+
+;0xF990531E=Bank of Liberty Forced to Raise Fees
+0xF990531E=
+
+;0xF0F5105E=Increased competition and low interest rates have meant that it is harder than ever for Bank of Liberty to clean up by lending you money.  We also have some big bonuses to pay in Corporate Finance.  Solution: higher fees!
+0xF0F5105E=
+
+;0xCE124C2B=Late fees, over-the-limit fees, telephone payment fees, address change fees, oxygen fees, balance transfer fees, international check fees, bank service fees, overdraft fees, annual fees, ATM fees and all the hidden charges that you never even see will be increased by 5%. This truly is banking freedom. Capitalism really has a friendly face, especially around here at bonus time. 
+0xCE124C2B=
+
+;0x55F4BBAF=Bank of Liberty uses subliminal advertising throughout all its websites.
+0x55F4BBAF=
+

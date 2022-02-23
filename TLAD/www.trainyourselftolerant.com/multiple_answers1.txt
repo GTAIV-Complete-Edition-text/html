@@ -1,0 +1,57 @@
+﻿;0x520CD564=Everybody in your office should take this course but, let's be honest, sensitivity training is aimed primarily at white, heterosexual males who must be made to pay
+0x520CD564=
+
+;0xE7805839=for the sins of their ancestors.
+0xE7805839=
+
+;0x31C36973=A co-worker emails you a video clip of a woman having sex with a donkey.
+0x31C36973=
+
+;0x1ECF38FB=Do you...
+0x1ECF38FB=
+
+;0xAC1B8DAD=A)...notify HR immediately, demanding that punitive action be taken?
+0xAC1B8DAD=
+
+;0xB773BCD6=ANSWER - Wow - you're a narc.
+0xB773BCD6=
+
+;0x659AF10A=If you need to report something, take the coward's route and do it anonymously.  Remember: the stench of the rat can never be washed off. Neither can a woman's perfume, so burn your clothes.
+0x659AF10A=
+
+;0xAE7BAD48=B)...save it to a folder on your hard drive, delete the email and then send a mock- indignant reply to cover your back?
+0xAE7BAD48=
+
+;0x49BB3163=ANSWER - Sly.  You'll go far.
+0x49BB3163=
+
+;0x76097395=The office politics game isn't rocket science.  Unless you work in aerospace engineering, that is.  Even then rocket scientists suck.  Look how many people they've turned into intergalactic hamburger.  Well done guys, well done.  Anyway, it's amazing how many people still haven't grasped the very basic fact that anything they write in an email can come back to haunt them.
+0x76097395=
+
+;0xCCEB9E67=ISPs, search engines, teenage hackers, the government, YOUR EMPLOYER... somebody, somewhere has an eye on the crap that you blindly pump out into cyberspace every day.  Always make sure that you have a safety net and always slip IT a $100 around Christmas to keep their yaps shut.
+0xCCEB9E67=
+
+;0x7F50812F=C)...forward to your whole department with the subject heading,"Nice Ass"?
+0x7F50812F=
+
+;0xE7BBAD18=ANSWER - Absolutely.
+0xE7BBAD18=
+
+;0xB628BCE8=If everyone has it on their computer, it's not a crime. Every team has at least one self-righteous old hag or ambitious young upstart just waiting for an opportunity to throw you to the lions.  If they object, use photo-retouching software to put their face on a porn star and put the picture up in the kitchen.
+0xB628BCE8=
+
+;0x0077CB37=D)...go straight to the restroom and masturbate furiously while the image
+0x0077CB37=
+
+;0x613CFB3C=is still fresh in your mind?
+0x613CFB3C=
+
+;0x968E9E5E=ANSWER - Yeah, now you're talking.
+0x968E9E5E=
+
+;0x12EFB339=But what is the excitement of going to the bathroom?
+0x12EFB339=
+
+;0x0F01E985=Try to rub one out in your cubicle without anyone noticing. That adds a whole new level of naughtiness. And if you are caught, claim that it's workplace stress and file for disability payments.
+0x0F01E985=
+

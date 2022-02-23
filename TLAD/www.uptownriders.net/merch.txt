@@ -1,0 +1,111 @@
+﻿;0x7117AECF=STREET SWEEPER TEE
+0x7117AECF=
+
+;0xBFFE44BD=Street Sweeper Tee Put the baddest gun on the street right on your chest. Fully Auto, bitches.
+0xBFFE44BD=
+
+;0x3E37CF93=BULLETPROOF TEE
+0x3E37CF93=
+
+;0xA08A538D=This ain't a bulletproof vest, but it looks like one. Try not to get hit out there people.
+0xA08A538D=
+
+;0xD6FD775F=I FUCKED YOUR BITCH TEE
+0xD6FD775F=
+
+;0xB35D4430=I Fucked Your Bitch tee If you want everyboy to know it, wear this shirt.
+0xB35D4430=
+
+;0xB85D7D13=UPTOWN RIDERS POLO
+0xB85D7D13=
+
+;0xD015AB33=Because the Middle Park East punks ain't the only ones who can look preppy. Rock this UR polo.
+0xD015AB33=
+
+;0x5463E59D=UPTOWN RIDERS MOTORCYCLE BODY ARMOR
+0x5463E59D=
+
+;0xEAF88F09=Look like a Republican Space Ranger while pulling some sick shit on your bike.
+0xEAF88F09=
+
+;0x8C7610A4=UPTOWN RIDERS BIKE JACKET
+0x8C7610A4=
+
+;0x4E467EBB=Mean and green leathers in association with Bati Motorcycles and Sprunk soda.
+0x4E467EBB=
+
+;0xF7155660=UR DECALS, DECALS, DECALS
+0xF7155660=
+
+;0x1FCC111A=Decals, Decals, Decals You want to ride in the Uptown Rider style, buy these decals to make your bike look the shit. Comes in Uptown Rider, 
+0x1FCC111A=
+
+;0x645CB74C=Sprunk
+0x645CB74C=
+
+;0x75D3961B= ,and snake skin.
+0x75D3961B=
+
+;0x2B3977F1=UPTOWN RIDERS HINTERLANDS
+0x2B3977F1=
+
+;0xCAAF44D7=Genuine Hinterland boots with Uptown Riders logo and UR rubber sole. Leave the Uptown stamp on a punks head.
+0xCAAF44D7=
+
+;0x14879311=UPTOWN RIDERS SWEAT
+0x14879311=
+
+;0xA9415B52=Just remember to pop that hood before you do some bad shit. The cameras are watching!
+0xA9415B52=
+
+;0xD4B0FAB2=UPTOWN RIDERS STUNT VIDEO
+0xD4B0FAB2=
+
+;0xBA0C9FC9=Watch the Uptown Riders do what they do best, pull sick stunts on their bikes. All filmed in and around Liberty City. Features two of the UR's best young guns - Malc and DeSean.
+0xBA0C9FC9=
+
+;0x316BADFD=UPTOWN RIDERS LATEX GLOVES
+0x316BADFD=
+
+;0x08F00095=Because no one wants to leave no prints at the scene. Mother fuckers!
+0x08F00095=
+
+;0xB8A306F8=UPTOWN RIDERS STORE
+0xB8A306F8=
+
+;0x886F1F0A=We also got Uptown Rider hats, vests, jeans, pants, kicks, coats, helmets - whatever you want! Just give us a holla and we'll get that shit to you.
+0x886F1F0A=
+
+;0x698B6436=COMING SOON TO THE UPTOWN RIDERS STORE
+0x698B6436=
+
+;0x86F86B0A=UPTOWN RIDERS BED LINEN
+0x86F86B0A=
+
+;0x4473EE45=Cozy up to your bitches in the Uptown Rider style. Comes in cotton, satin, and silk.
+0x4473EE45=
+
+;0xFF6089FE=UPTOWN RIDERS - THE BOOK, MOVIE AND VIDEO GAME
+0xFF6089FE=
+
+;0xF6B55075=The story of how we rose to the top of Liberty City. Just need to get someone to make that shit. We are speaking to some of the biggest names in entertainment.
+0xF6B55075=
+
+;0x341BE210=UPTOWN RIDERS DOUBLE ENDER
+0x341BE210=
+
+;0x6BF47664=To keep your stable busy while you're out riding your bike. Just make sure they put a video of that shit on the Internet.
+0x6BF47664=
+
+;0xCDFB8DDB=UPTOWN RIDERS DIAPERS
+0xCDFB8DDB=
+
+;0x7EC317D7=Because the Uptown Riders got baby mammas all over the place, we need the young 'uns to rock the logo. UR 4 life!
+0x7EC317D7=
+
+;0x1AA1A7E1=UPTOWN RIDERS PARTY SET
+0x1AA1A7E1=
+
+;0x15A3C5E8=We don't roll with none of that crack and meth shit, but we got you a big old UR bong and some glasses to drink premium cognac from.
+0x15A3C5E8=
+

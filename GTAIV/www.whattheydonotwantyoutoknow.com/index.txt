@@ -1,0 +1,78 @@
+﻿;0x0A1CC720= Discussion Topic
+0x0A1CC720=
+
+;0x12EFA186= Starter
+0x12EFA186=
+
+;0xE4CBE44F= Plague of Pigeons in the City.  These are the infection sites.
+0xE4CBE44F=
+
+;0xC8032297= BirdNerd
+0xC8032297=
+
+;0xAFDD5693= The hidden weapons that the mayor wants you to find.
+0xAFDD5693=
+
+;0xEBE9F99A= LibertyLove
+0xEBE9F99A=
+
+;0x48FF9400= Health is a gift from space. Worship the worm.
+0x48FF9400=
+
+;0x08FBC2DD= HealthyEater
+0x08FBC2DD=
+
+;0x3A15FC5F= Sick freaks to avoid. 
+0x3A15FC5F=
+
+;0x9DF6E32E= SaneJane
+0x9DF6E32E=
+
+;0x097F94FD= Make sure you've got armor.  Be ready to fight the Aliens!
+0x097F94FD=
+
+;0x16A1C688= Patriot68
+0x16A1C688=
+
+;0x9AE25C18= Text Message Cars.  I know you're all crazy, but 
+0x9AE25C18=
+
+;0xB4E0C8CD=are you crazy any enough to take some cars?
+0xB4E0C8CD=
+
+;0xF70A6469= Stevie
+0xF70A6469=
+
+;0xA46DB69D= Government spying with Window Cleaning Platforms.
+0xA46DB69D=
+
+;0x09A83764= TheAuditor
+0x09A83764=
+
+;0x44932859= Fun with Friends.
+0x44932859=
+
+;0xF5BC62D2= EddieLow
+0xF5BC62D2=
+
+;0xB2E31B2B= Jump to a new level of spirituality.
+0xB2E31B2B=
+
+;0xEC249CC3= Trooth
+0xEC249CC3=
+
+;0x91B3FA6B= Vehicles appear out of thin air and I 
+0x91B3FA6B=
+
+;0xA167084B=haven't even been sniffed any glue today.
+0xA167084B=
+
+;0x5F960D9A= MathsGeek
+0x5F960D9A=
+
+;0xEE14EE57= Glitches in the network, dial a number and life will change.
+0xEE14EE57=
+
+;0x5F960D9A= MathsGeek
+0x5F960D9A=
+

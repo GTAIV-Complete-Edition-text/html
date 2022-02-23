@@ -1,0 +1,39 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x244E8099=Specials
+0x244E8099=
+
+;0xAD935D05=Cup Sizes
+0xAD935D05=
+
+;0xC46A285A=Franchising Opportunities
+0xC46A285A=
+
+;0x951A1C18=Buy Our Coffees
+0x951A1C18=
+
+;0x0910409E=Caffeine Is Not a Drug
+0x0910409E=
+
+;0x8512F7FC=Become a Rep
+0x8512F7FC=
+
+;0xC14112B2=10 Reasons to Boycott 
+0xC14112B2=
+
+;0xF275475D=Your Local Coffeehouse
+0xF275475D=
+
+;0x55C3BF9A=How can something that suppresses hunger, increases levels of dopamine, causes rapid flow of thought and produces rambling, incoherent speech be considered a drug?  How can anything grown in Central America be addictive?  This is just evil propaganda from the health food industry, a desperate marketing gimmick to sell more fruit smoothies and granola bars and make you shit corn.  Drugs are nasty, illegal things that come in little plastic bags.  Have you ever seen a guy lying in the gutter injecting cappuccino into his eyeball or a coffee whore blasting java beans through a glass pipe?  
+0x55C3BF9A=
+
+;0x70497236=90% of adults in the USA consume caffeine on a daily basis for a reason:  you cannot function without it.  Scientists have proven that without coffee, the body just wants to lie around yelling at the TV and inappropriately enjoying reruns of Just the Five of Us.
+0x70497236=
+
+;0x14438B8B=Ever tried multi-tasking without coffee?  It's impossible, especially for men.  Some people drink coffee, others shop for shoes, others go barebacking; we all get our kicks in different ways but that does not make them drugs.  Isn't caffeine just a natural bean extract?  What's the big deal?  If coffee had been discovered today, it would no doubt be touted as a ground-breaking herbal brain tonic by the same people who are trying to brainwash you into swapping your double-espresso for a carrot juice.
+0x14438B8B=
+
+;0x1EDA7DFB=Caffeine isn't a drug; it's a survival tool that cuts through fatigue like a Samurai sword and stops you from crashing your car after a night on the cocktails.          
+0x1EDA7DFB=
+

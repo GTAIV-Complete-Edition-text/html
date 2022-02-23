@@ -1,0 +1,36 @@
+﻿;0xF9981CA0=TAGS
+0xF9981CA0=
+
+;0x037787CD=Assign tags to your photos. Perfect for hopeless losers who like to spend days categorizing, alphabetizing and organizing their online galleries. Tags also help users to narrow down their search (e.g. drunk + woman + beer bottle trick).  
+0x037787CD=
+
+;0x38CCC722=CAPTIONS
+0x38CCC722=
+
+;0x30C273D8=Captions like "Ooops! I don't think he wanted to do that!" are so funny! They are also a great tool to enable girls with low self-esteem to fish for compliments by posting hot pictures of themselves under the line "Ugggh! I look so fat in this photo!" To tell her she's fat, see Comments, below. 
+0x30C273D8=
+
+;0xFF598CD7=COMMENTS
+0xFF598CD7=
+
+;0x51BBEEBB=Get idiots to critique your art! Feedback makes you feel loved! 
+0x51BBEEBB=
+
+;0x57DED9A9=A Thousand Words 
+0x57DED9A9=
+
+;0x020D300E= has been designed so that attention-seeking introverts can repeatedly post bulletins begging strangers to comment on their photos. This is particularly popular with teenage  spelling anarchists who are trigger-happy with the CAPSLOCK key:  
+0x020D300E=
+
+;0xFC8783A2=COMMENT MY NU PIXX PLZ!!! WHAT U THINK? KEEP OR  DELETE? ILL COMMENT URS IF U COMMENT MINE!
+0xFC8783A2=
+
+;0x2EF3F79E=Have a voice! Vent your spleen! Tell that woman her baby is hideous! Tell that undeveloped girl you want to be inside her! Riddle people with self-doubt by picking apart their flaws. You'll feel so much better about yourself.  
+0x2EF3F79E=
+
+;0x0CB36E83=PHOTO EDITING
+0x0CB36E83=
+
+;0x2C7C2585=A picture says a thousand words but also adds ten pounds and exposes all the flaws that your psyche suppresses as a defense mechanism when you look in the mirror. Smooth over that bald stump that was an arm before the accident, pencil in that cleavage, blitz that acne, melt away that cellulite, beef up that crotch. Use a sepia effect - it appears more artsy-fartsy and makes ugly people look better. Do fun things like transpose your mom's head onto a porn star's body and send it to your local newspaper. The possibilities of photo editing are endless. Essential for egomaniacs who like to crop friends out of photos in order to focus attention on themselves.
+0x2C7C2585=
+

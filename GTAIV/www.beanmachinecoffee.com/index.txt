@@ -1,0 +1,48 @@
+﻿;0x244E8099=Specials
+0x244E8099=
+
+;0xAD935D05=Cup Sizes
+0xAD935D05=
+
+;0xC46A285A=Franchising Opportunities
+0xC46A285A=
+
+;0x951A1C18=Buy Our Coffees
+0x951A1C18=
+
+;0x0910409E=Caffeine Is Not a Drug
+0x0910409E=
+
+;0x8512F7FC=Become a Rep
+0x8512F7FC=
+
+;0xC14112B2=10 Reasons to Boycott 
+0xC14112B2=
+
+;0xF275475D=Your Local Coffeehouse
+0xF275475D=
+
+;0xB39293E9=Do you feel restless, irritable and paranoid?  Has your morning been dominated by panic attacks, mood swings, outbursts at strangers and psychotic behavior?  Must be time for another coffee!  Coffee is an ancient extract that the Mayans used to stay focused when sacrificing virgins. Or so we tell ourselves. We actually don't know.  Unlike the Mayans, you are never more than 500 yards away from a Bean Machine coffee shop and we are always on hand to pump up your heart rate and send you on your way with a smile on your face and a burning need to piss every ten minutes. It's the end point of civilization.
+0xB39293E9=
+
+;0xEA33B4EF=The perma-grin of a glassy-eyed barista after eight espressos, the noise of teeth-grinding and leg-tapping mingled with putrid soft jazz, the grainy photos of smiling plantation workers, the warm feeling when a disgruntled teenager calls you by the name scrawled on the side of a plastic cup... Our coffee shops are so much more than just great places to take a crap and surf online auctions:  they are a lifestyle choice for the status-conscious consumer - the kind of go-getter who really cares about his beverage choice, because the rest of life is completely pointless.  Carry your paper cup like a badge of honor on the subway.  Show your co-workers you mean business by ingesting 20 ounces of caffeine.  Nothing screams "upwardly-mobile sophisticate" like a logoed polystyrene yuppie bucket of muddy brown water.
+0xEA33B4EF=
+
+;0x2F2C8455=We depend on you; you depend on caffeine.  Customer satisfaction is a top priority at Bean Machine Coffee and we are dedicated to providing efficient and courteous service at all times, except if there is a line, or when there isn't.  Just don't ask us to wash out your personal mug or we will turn on you in a heartbeat.  We know from watching you clawing at the window and twitching nervously at the counter every morning that your coffee is important and we pledge to serve every drink within three minutes or sack one of our minimum-wage employees on the spot. Or both.
+0x2F2C8455=
+
+;0x482AEAB7=Bean Machine prides itself on its global presence - some of the most romantic and authentic places now have identical Bean Machine locations.  Going abroad is terrifying enough without having to deal with strange-tongued barbarians who stare at you blankly when you yell at them for a vanilla macchiato no soy hold the masculinity.  From Denver to Dhaka, we are firmly committed to creating a uniform, unwavering, singular global experience for all coffee drinkers.  Each of our coffee shops is identical in layout and decor so that you can stand in the same snaking assembly line and sit in the same maroon armchair wherever you are in the world, sheltered from the hideous threat of foreign culture that lurks around every corner.      
+0x482AEAB7=
+
+;0x5DFB7637=Pick up a Bean Machine Day Pass at a store near you.  Buy 9 coffees over the course of a day and we will give you the 10th for free!
+0x5DFB7637=
+
+;0x0B07BF9B=Bean Machine opens coffee houses at Machu Picchu and the Taj Mahal! Next stop, Everest. 
+0x0B07BF9B=
+
+;0x2F12DF62=No experience required.  Bean Machine is always looking for unskilled, part-time workers, primarily because all our staff turns over every three weeks.  We prefer to use the term 'friends' rather than 'employees' and 'protectors' rather than 'managers'.  We find that this helps to foster the illusion of a warm, fuzzy working environment and masks the exploitation at the core of our business model.  We are not going to insult you with training.  This is coffee, not rocket science.  Don't worry; you'll soon learn the art of looking down your nose when someone orders a regular coffee. 
+0x2F12DF62=
+
+;0xBECB7FD6=Join the biggest company in the world!  We will hire anyone, so long as they look young.  If you listen to emo music and have great tits, that's a plus, but a tattoo or facial piercing is preferred to give us that "edge."          
+0xBECB7FD6=
+

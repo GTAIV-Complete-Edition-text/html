@@ -1,0 +1,72 @@
+﻿;0xC009611D=Princess Robot Bubblegum and the Kitty Lover Shiny Bikini
+0xC009611D=
+
+;0xE70F7A53=Ninja Super Party Time Dimensional Dragon Hole
+0xE70F7A53=
+
+;0x689ACFED=Now on DVD!
+0x689ACFED=
+
+;0xDB032E22=Includes commentary track from the Korean animators who put the show together. Must speak Korean to understand.
+0xDB032E22=
+
+;0x8930A79C=Also includes scenes cut from the movie due to taste/ethnic slurs
+0x8930A79C=
+
+;0xCCDB8E5C=Including used Princess Robot Bubblegum lacy undergarments!
+0xCCDB8E5C=
+
+;0x2DC9980E=*not really worn by Princess Robot Bubblegum.
+0x2DC9980E=
+
+;0x81A9113C=Princess Robot Bubblegum Vests
+0x81A9113C=
+
+;0x72ADBF32=Sold Out!
+0x72ADBF32=
+
+;0xB0326B57=Princess Robot Bubblegum talking blowup doll.
+0xB0326B57=
+
+;0x32BDC71C=Now discounted to $199!
+0x32BDC71C=
+
+;0x8092A494=Saki brand Sake
+0x8092A494=
+
+;0xB0A76843=Celebrate the way Saki would
+0xB0A76843=
+
+;0xA969B1BE='Drink it in one go!'
+0xA969B1BE=
+
+;0x0260E776=Princess Robot Bubblegum Sleeping Pills.
+0x0260E776=
+
+;0xFA204823=Video Game Update
+0xFA204823=
+
+;0x2D2A2C9D=Princess Robot Bubblegum LXVII - Repressed Destiny Sparkle for hand helds is the best RPG ever.
+0x2D2A2C9D=
+
+;0x743603A4=So great that it's pirated 4 to 1!
+0x743603A4=
+
+;0xC0538FC1=When you bang on the door to the temple, remove PRB's clothes before the Count answers.
+0xC0538FC1=
+
+;0x6A1794E4=Stop PRB from cutting herself when she cries or her health
+0x6A1794E4=
+
+;0x352A0EB7=will go down.
+0x352A0EB7=
+
+;0x04283223=The game is in real time! When it's PRB's time of the month she will act erratically and lash out at friends, causing  them damage and making them not want to join quests with you. Hide in the Cavern until her time passes.
+0x04283223=
+
+;0xCDF126DA=If you do not collect every amulet, you will have to start the game over and replay every mission. Aren't Japanese games  awesome fun?
+0xCDF126DA=
+
+;0xDF451B14=On the boss mission, stick the sword in his nutsack, flash him by pressing Down, Down, Up, Left, Left, Down, Down, Up, Left and Right within three seconds. If you perform this incorrectly it will break your handheld and you will have to buy a new one.
+0xDF451B14=
+

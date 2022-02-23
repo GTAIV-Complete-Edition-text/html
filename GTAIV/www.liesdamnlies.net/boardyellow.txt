@@ -1,0 +1,126 @@
+﻿;0x52F50EAE=Home
+0x52F50EAE=
+
+;0x0CC122CF=> Discussion Forums
+0x0CC122CF=
+
+;0xCB2825DA= Discussion forums links
+0xCB2825DA=
+
+;0x60854DB4=World domination conspiracies
+0x60854DB4=
+
+;0x55DF0714=The mullet connection!
+0x55DF0714=
+
+;0xFD910832=Cybernetics and mass surveillance
+0xFD910832=
+
+;0x1AF6F7BB=The All Seeing Eye is watching you...
+0x1AF6F7BB=
+
+;0xB6D62AFE=Brainwashing and mind control
+0xB6D62AFE=
+
+;0xF3353255=Planning notes so you will know.
+0xF3353255=
+
+;0x25013734=Is there anybody out there?
+0x25013734=
+
+;0x6C844346=Aliens and UFO's
+0x6C844346=
+
+;0x9923E42F=Smoke and mirrors
+0x9923E42F=
+
+;0x3D8FBEB8=The real truth about Pluto.
+0x3D8FBEB8=
+
+;0x6F2E6571=Women
+0x6F2E6571=
+
+;0xF084B531=The ultimate conspirators?
+0xF084B531=
+
+;0x3D52522A=Poisoning our future leaders
+0x3D52522A=
+
+;0x96793E98=What the food and drink companies are not telling you!
+0x96793E98=
+
+;0xD999EE28=Forum: Smoke and mirrors
+0xD999EE28=
+
+;0x3D8FBEB8=The real truth about Pluto.
+0x3D8FBEB8=
+
+;0xEF857086=Postings
+0xEF857086=
+
+;0x44AD44FF=Read New
+0x44AD44FF=
+
+;0xF0C79167=Post
+0xF0C79167=
+
+;0xF10717BF=Name: ChemTrail
+0xF10717BF=
+
+;0xAC26DB22=Location: Liberty City        
+0xAC26DB22=
+
+;0x9BBA6645=Is anyone else freaked out by the demotion of Pluto to the number 134340? Television teaches us that when a race comes close to discovering the truth about our existence it is eliminated by a huge death ray housed within a top-secret galactic satellite. Look at what happened to the Incas! Could it be Pluto? Look at the facts: Pluto has never been visited by a spacecraft, rotates in the opposite direction to the other planets and has a decidedly eccentric orbit. No coincidence that it was named after the god of the underworld. This is a deliberate ploy to deflect attention from Pluto and to denigrate its image. Our affection for the solar system stems from school and childhood but nobody is going to care about a disgusting little dwarf planet...          
+0x9BBA6645=
+
+;0xA82D02E5=Name: Apollo11
+0xA82D02E5=
+
+;0xDA5174F4=Location: Las Venturas        
+0xDA5174F4=
+
+;0xDB227BBE=Great to finally find someone more paranoid than me!          
+0xDB227BBE=
+
+;0xDDFF9B24=Name: Bermuda Triangle
+0xDDFF9B24=
+
+;0x9181EA10=Location: Vice City        
+0x9181EA10=
+
+;0xEB251549=Am I the only one turned on by this? Anyone want to go into a private chat room?          
+0xEB251549=
+
+;0x4790E926=Name: Anon
+0x4790E926=
+
+;0x2AAB3D27=Pilates is the beginning of the end of life as we know it. Discuss.          
+0x2AAB3D27=
+
+;0xF3E3575E=Name: Big Foot
+0xF3E3575E=
+
+;0x37C9358A=Location: Los Santos
+0x37C9358A=
+
+;0xABACB836=Anyone know of any good cults in the Los Santos area? Always a cheap way to get drunk and laid. The last group I joined all committed suicide last week.          
+0xABACB836=
+
+;0xEE6C7667=Name: Majestic12
+0xEE6C7667=
+
+;0xAC26DB22=Location: Liberty City        
+0xAC26DB22=
+
+;0x2196FE2C=The lies of NASA. Have you noticed that NASA is an anagram of SATAN... well, nearly. The T is silent. I know it.          
+0x2196FE2C=
+
+;0xDEB43354=Name: Speed Freak
+0xDEB43354=
+
+;0x80A484E2=Location: Liberty City
+0x80A484E2=
+
+;0x3D028737=Are you that naked Chinese man who follows me wherever I go? When will you stop haunting my dreams?          
+0x3D028737=
+

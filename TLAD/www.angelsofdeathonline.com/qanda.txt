@@ -1,0 +1,36 @@
+﻿;0x8F0D27C2=Why are all your members white?
+0x8F0D27C2=
+
+;0x9A0C5EA1=The AOD don't have a policy of excluding members of any of the inferior races, it's just none of them have ever been able to get through our rigorous selection process. In order to become a prospect and then a fully patched member of the Angels of Death, you have to pass a series of tests of your intelligence, character and fortitude. So far, only white men have stood up to our strict standards.
+0x9A0C5EA1=
+
+;0xCC027E41=I've read a lot about the Angels of Death, are 
+0xCC027E41=
+
+;0x249C12E8=you really maniacs?
+0x249C12E8=
+
+;0x31F9B1DA=Now, unless you've read material officially sanctioned by the Angels of Death Motorcycle Club, you haven't read shit. Plenty of crazy ex-cops try to write stuff about alleged illegal activities club members commit to cash in on the love that the American People have for the AODMC. It's all just scare mongering and money grubbing. There's never been a rat or an undercover in the AOD, anyone who tells you otherwise is full of shit. If you want the real story please buy one of our officially sanctioned and TRUE accounts.
+0x31F9B1DA=
+
+;0x2C354328=Where is my nearest charter?
+0x2C354328=
+
+;0xF9A261C0=If you're in the USA and you don't know where your nearest charter is, you must have your head up your ass. Look around.
+0xF9A261C0=
+
+;0x81C4FBB7=How can I join the Angels of Death?
+0x81C4FBB7=
+
+;0xFEA6A62F=If you're asking this question, then you probably ain't member material. The AOD is more than just a club, it's a lifestyle. If you don't know where your ass ends and your bike begins, maybe you're ready. But the road to being in the AOD is a long and weary one, and if you ain't ready then don't begin to walk it.
+0xFEA6A62F=
+
+;0x813FF26B=What's this we've heard in the news about 
+0x813FF26B=
+
+;0xCE8DAFDC=a war with the Lost MC?
+0xCE8DAFDC=
+
+;0x1AFD5634=The news media has been lying to the American People since the founding fathers signed the Declaration of Independence. Look at the unfairness with which they treat our President. Anyway, the Lost MC are a bunch of criminals who ain't fit to lick the grease from an AOD cam shaft, let alone go to war with us. We in the Angels of Death are a group of upstanding citizens who have come together over a mutual love of motorcycles. There's no war because there's no contact between the two clubs.
+0x1AFD5634=
+

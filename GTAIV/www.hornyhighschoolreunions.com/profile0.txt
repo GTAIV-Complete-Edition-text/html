@@ -1,0 +1,45 @@
+﻿;0x70B5B953=Pupil: Barry Fralewick 
+0x70B5B953=
+
+;0xBF3458A8=Class of: 2000
+0xBF3458A8=
+
+;0x75062A4C=High School: Castle  Garden High  School
+0x75062A4C=
+
+;0xE5F8ED95=NICKNAME:
+0xE5F8ED95=
+
+;0x26E4AEEC=Dipso
+0x26E4AEEC=
+
+;0xB78A2011=BIO:
+0xB78A2011=
+
+;0x05B4AA85=Hello! Any Castle Gardeners out there from the class of 2000? I woke up in a dumpster the morning after our graduation party and don't remember anything! Nobody has spoken to me since. What did I do? Who has my clothes? I knew that vodka gelatin bowl was a mistake. I blame that bastard Jerkins. This has been tearing me up for years now. I have a complete blackout...my last memory was trying to make out with Jugs Julie (sorry Julie - I misinterpreted your facial tic as a come-on). If anybody knows what happened, please send me a message. Come on - it can't be that bad?????
+0x05B4AA85=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0x92B47F85=Dipso. You are an asshole. Remember urinating on the DJ and blowing the sound system? Remember running around trying to hug people covered in your own filth? Remember rolling on the floor yelling "who wants to taste my hot load?" And that's just the tip of the iceberg. It got a lot worse. You are a fucking loser.
+0x92B47F85=
+
+;0x4D4573CA=Oh, and one more thing. Even if you hadn't ruined the last night of high school for 150 people, nobody would have spoken to you anyway. We all hated you. And you will NEVER meet your son. EVER. 
+0x4D4573CA=
+
+;0xF93D3A5C=- Anon.
+0xF93D3A5C=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0xAA8E31C4=Message: Ha ha! I remember Jugs Julie! The Wicked Twitch of the East! It looked like she was trying to bite her ear off! Mind you, the girl certainly was stacked! Facial ticks make me horny!
+0xAA8E31C4=
+
+;0x96A35FA6=- Ricky
+0x96A35FA6=
+
+;0xADD9CB45=BACK TO MAIN PAGE 
+0xADD9CB45=
+

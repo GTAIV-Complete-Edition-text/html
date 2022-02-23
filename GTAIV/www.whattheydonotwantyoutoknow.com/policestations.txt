@@ -1,0 +1,6 @@
+﻿;0x196FE774=All The LCPD Restarts Are Here 
+0x196FE774=
+
+;0xC2954BC2=Back
+0xC2954BC2=
+

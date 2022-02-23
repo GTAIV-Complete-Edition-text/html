@@ -1,0 +1,36 @@
+﻿;0xD18292B4=Pupil: Lincoln Atwood
+0xD18292B4=
+
+;0x65F6B0A1=Class of: 1998
+0x65F6B0A1=
+
+;0x56D494B4=High School: Graysford  Academy
+0x56D494B4=
+
+;0xE5F8ED95=NICKNAME:
+0xE5F8ED95=
+
+;0x732A0F1B=NONE
+0x732A0F1B=
+
+;0xB78A2011=BIO:
+0xB78A2011=
+
+;0x53E5EA50=Everything was going great after high school. I found a good job as a mechanic, moved in with my girlfriend and started to plan for a family. Then I got bombed on whisky and PCP one night and ended up holding up a liquor store. Seemed like a good idea at the time! Now I'm three years into a life sentence at the Alderney State Correctional Facility. I am sharing a cell (and all too often a bed) with a psychotic biker called Digger who makes me shave my legs. I am trying to stay positive and it would be great to hear from some of my old high school buddies. Sometimes it's hard to remember what life was like before I became Digger's bitch. Please write to me or come visit! Bring cigarettes if you can. Hope you're all well. 
+0x53E5EA50=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0xEBDA597C=You got life for holding up a liquor store?
+0xEBDA597C=
+
+;0xE0AC1E7C=REPLY FROM LINCOLN :
+0xE0AC1E7C=
+
+;0x89DEDC06=I also shot a cop.
+0x89DEDC06=
+
+;0xADD9CB45=BACK TO MAIN PAGE 
+0xADD9CB45=
+

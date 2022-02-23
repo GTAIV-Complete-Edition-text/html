@@ -1,0 +1,228 @@
+﻿;0xD13FB5CD=Animal lovers! The following pets are all up for adoption. Remember: a pet is for life, not just for lonely, drunken nights.
+0xD13FB5CD=
+
+;0x4408D0C7=Name: Bazooka
+0x4408D0C7=
+
+;0x81B8E2E4=Animal: Shetland Pony
+0x81B8E2E4=
+
+;0x287CFCD0=Sex: Male
+0x287CFCD0=
+
+;0xCA460383=Age: 14
+0xCA460383=
+
+;0xC9BDA308=This spunky little fellow will bring a smile to your face. He certainly gives as good as he gets.  Boundless energy. You can ride him all day. Comes with suspension harness. Don't worry - this is perfectly safe. Take no notice of the Catherine the Great urban myth.
+0xC9BDA308=
+
+;0x164EFDF7=Name: Fudge
+0x164EFDF7=
+
+;0x19931C72=Animal: Gerbil
+0x19931C72=
+
+;0x287CFCD0=Sex: Male
+0x287CFCD0=
+
+;0x5426EC65=Age: 1
+0x5426EC65=
+
+;0x5F6AF700=Fudge is a boisterous young chap with a kind of a naughty side.  One cardboard tube and you've got yourself one heck of a Saturday night in!  Lots of stamina.  Comfortable with confined spaces.
+0x5F6AF700=
+
+;0x73512077=Name: Bridget
+0x73512077=
+
+;0x7CF1E3AE=Animal: Pygmy Goat
+0x7CF1E3AE=
+
+;0xD07E1799=Sex: Female
+0xD07E1799=
+
+;0x5B26F76A=Age: 8
+0x5B26F76A=
+
+;0x8643EE43=Bridget's previous owner died with her in his arms.  She is shy but really opens up when she starts to trust.  You have to watch the quiet ones!  Not a fussy eater - will put anything in her mouth.
+0x8643EE43=
+
+;0xE288FB00=Name: Misty
+0xE288FB00=
+
+;0xBB4CF4CB=Animal: Rabbit
+0xBB4CF4CB=
+
+;0xD07E1799=Sex: Female
+0xD07E1799=
+
+;0x4F26E486=Age: 4
+0x4F26E486=
+
+;0x7E9A8721=Misty used to be a magician's rabbit but, like so many of us, was ditched for a younger model.  Her previous owner taught her some mind-blowing tricks.  She is talented in ways you can only imagine.  Likes being dressed up.  
+0x7E9A8721=
+
+;0xF0FB68D5=Name: Debit & Credit
+0xF0FB68D5=
+
+;0x8A2C011C=Animal: Golden Retriever
+0x8A2C011C=
+
+;0xD07E1799=Sex: Female
+0xD07E1799=
+
+;0x4D26E160=Age: 6
+0x4D26E160=
+
+;0xE307E1B5=Man's best friend with benefits!  These Golden Retriever twins are no dumb blondes.  They are dying to be your bitches.  This affectionate pair love toys and will do anything for a juicy bone.
+0xE307E1B5=
+
+;0x61F09354=Name: Lulu
+0x61F09354=
+
+;0x8FBED416=Animal: Sheep
+0x8FBED416=
+
+;0xD07E1799=Sex: Female
+0xD07E1799=
+
+;0x5C26F8FD=Age: 9
+0x5C26F8FD=
+
+;0x28A8D03F=Lulu grew up on a farm in Montana.  Her previous owner was very sad to see her go but cited 'irreconcilable differences'.  They had grown apart in recent years.  A bit of a deviant.  Gets down and dirty with the best of them.  Shaved.
+0x28A8D03F=
+
+;0x0D59AAC6=Name: Chantelle
+0x0D59AAC6=
+
+;0x18B57F75=Animal: Dolphin
+0x18B57F75=
+
+;0xD07E1799=Sex: Female
+0xD07E1799=
+
+;0xCF460B62=Age: 13
+0xCF460B62=
+
+;0x25427174=Recently retired from a headlining act at the Glory Hole Theme Park, Chantelle is extremely intelligent and well-trained.  She can whip off a swimsuit in two seconds flat!  Very familiar with human contact.  Gentle but imaginative.  Not a hair on her body.  Over sized blow-hole.
+0x25427174=
+
+;0xB12DFF54=Name: Roxy
+0xB12DFF54=
+
+;0x5DC81DEE=Animal: Gibbon
+0x5DC81DEE=
+
+;0xD07E1799=Sex: Female
+0xD07E1799=
+
+;0x5E3E9DBA=Age: 22
+0x5E3E9DBA=
+
+;0x6AF32F3F=Roxy is the gibbon who keeps on givin'!  She likes to swing and is completely double-jointed.  If you are looking for something a bit different, Roxy is your girl.  She looks like a little hairy toddler.  Warning: she's a screamer!
+0x6AF32F3F=
+
+;0xC065DA4E=Name: Banjo
+0xC065DA4E=
+
+;0xD40292D3=Animal: Gray Squirrel
+0xD40292D3=
+
+;0x287CFCD0=Sex: Male
+0x287CFCD0=
+
+;0x5126E7AC=Age: 2
+0x5126E7AC=
+
+;0x8AC77C49=There's never a dull moment when Banjo's around!  This frisky squirrel is always the center of attention.  He is not house-trained so please be aware that he is likely to shower you with more than just affection.  All depends on what you are into.  Responds well to heavy petting.
+0x8AC77C49=
+
+;0x3B9B3C61=Name: Stella
+0x3B9B3C61=
+
+;0xFEAA15BC=Animal: Llama
+0xFEAA15BC=
+
+;0xD07E1799=Sex: Female
+0xD07E1799=
+
+;0xCD46083C=Age: 11
+0xCD46083C=
+
+;0xD20AE164=This ex-Danish movie star is a bit of a diva!  Stella is high maintenance and needs TLC around the clock but she is a girl with a lot of experience.  You won't be a burden to this pack animal!
+0xD20AE164=
+
+;0x9E43B63C=Name: Attaboy
+0x9E43B63C=
+
+;0xC6CF8206=Animal: Great Dane
+0xC6CF8206=
+
+;0x287CFCD0=Sex: Male
+0x287CFCD0=
+
+;0x5026E619=Age: 5
+0x5026E619=
+
+;0x9A35E6B9=This stud is the perfect companion for the single woman.  It doesn't take much to get Attaboy drooling!  Well-built and muscular, this guy is ripped!  As soon as you see him in his leather collar, you won't be able to resist.  He is very loyal and protective.  Be wary of bringing other people into the relationship.
+0x9A35E6B9=
+
+;0x5A59EDED=Name: Pierre
+0x5A59EDED=
+
+;0x7BAF7501=Animal: Pig
+0x7BAF7501=
+
+;0x287CFCD0=Sex: Male
+0x287CFCD0=
+
+;0x5B26F76A=Age: 8
+0x5B26F76A=
+
+;0x9DDFCCC5=Get ready for the corkscrew effect!  This male chauvinist pig likes his pot-belly rubbed and his dinner ready on time.  Excellent personal hygiene.
+0x9DDFCCC5=
+
+;0xD22C6A2E=Name: Juanita
+0xD22C6A2E=
+
+;0xA9B3F69B=Animal: Donkey
+0xA9B3F69B=
+
+;0xD07E1799=Sex: Female
+0xD07E1799=
+
+;0xCA460383=Age: 14
+0xCA460383=
+
+;0x15801550=Juanita used to be a real favorite down in Tijuana.  She loves quiet nights in and walks along the beach.  Very submissive.  Used to taking the odd slap now and again.
+0x15801550=
+
+;0x46BE3B86=Name: Maxwell
+0x46BE3B86=
+
+;0xA962CECB=Animal: Russian Tortoise
+0xA962CECB=
+
+;0x287CFCD0=Sex: Male
+0x287CFCD0=
+
+;0x5C26F8FD=Age: 9
+0x5C26F8FD=
+
+;0xC8C064AF=You can't hurry love!  With his extra long neck, Maxwell is a little freak!  He's slow but methodical.  Someone you can grow old with.  A keeper.
+0xC8C064AF=
+
+;0x7BFEE345=Name:  Hercules
+0x7BFEE345=
+
+;0x78B6A097=Animal: Stallion
+0x78B6A097=
+
+;0x287CFCD0=Sex: Male
+0x287CFCD0=
+
+;0x5D3E9C27=Age: 21
+0x5D3E9C27=
+
+;0x8C4CAD26=If you like them big and black, this used stallion is the one for you.  He's past his prime but aren't we all?    Used to the whip and likes it rough.  Well-endowed and full of attitude, Hercules is truly a force to be reckoned with.  Girls, this powerful animal will bring a tear to your eye.  Then he'll kick your ass.
+0x8C4CAD26=
+

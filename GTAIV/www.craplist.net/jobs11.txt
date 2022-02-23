@@ -1,0 +1,72 @@
+﻿;0x2BB28C94=LIBERTY CRAP LIST
+0x2BB28C94=
+
+;0xA197006B=> jobs
+0xA197006B=
+
+;0xC3F57F47=[ POST ]
+0xC3F57F47=
+
+;0x69D4F298=activities
+0x69D4F298=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x702DA6A7=classes
+0x702DA6A7=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD96A9E35=services
+0xD96A9E35=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x71036CBC=housing
+0x71036CBC=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0xD141F921=lost & found
+0xD141F921=
+
+;0x2958A881=| 
+0x2958A881=
+
+;0x3F951FF4=sale/wanted
+0x3F951FF4=
+
+;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
+0x22C0A9F1=
+
+;0xCF9DBBBD=JOBS
+0xCF9DBBBD=
+
+;0x51E27725=Burger Shot is hiring!!   
+0x51E27725=
+
+;0x05204770=(Liberty City)
+0x05204770=
+
+;0x7A0D3C76=High school dropouts, crack moms, migrant workers, fine art graduates, parolees, YOU! Calling all disadvantaged groups! Work for Burger Shot! We will employ you when nobody else will! We even hire people rejected by Wigwam Burger. All work is part-time and we do not pay overtime. Most employees last about three weeks. If you make it past a month, we will promote you to Service Expert (no pay raise). We will give you some nominal training, like how to over-salt food so that people buy more drinks. After all, we don't want to lose our federal tax breaks. To find out more about what it's like to work for one of the biggest companies in the world, visit 
+0x7A0D3C76=
+
+;0xF97C643A=www.burgershot.net
+0xF97C643A=
+
+;0x7AEECD22=Join Burger Shot today!
+0x7AEECD22=
+
+;0x4DAEAB5E=PostingID: 424325688
+0x4DAEAB5E=
+
+;0x7A1FA60A=About CRAP
+0x7A1FA60A=
+
+;0x73D5A30D=. Privacy Policy . Contact Us
+0x73D5A30D=
+

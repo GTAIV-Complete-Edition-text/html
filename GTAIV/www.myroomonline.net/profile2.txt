@@ -1,0 +1,240 @@
+﻿;0x04E72159=Username:
+0x04E72159=
+
+;0xF34781A0=damagedwisd0m
+0xF34781A0=
+
+;0xD0F33C72=Age:
+0xD0F33C72=
+
+;0xC456436E=Gender:
+0xC456436E=
+
+;0x928EF299=female
+0x928EF299=
+
+;0x1522FED4=Hometown:
+0x1522FED4=
+
+;0xFD66976D=Montgomery, Red County
+0xFD66976D=
+
+;0xF5AF3FFB=Relationship Status:
+0xF5AF3FFB=
+
+;0x7F2346E9=single
+0x7F2346E9=
+
+;0xA83327DE=Here for: 
+0xA83327DE=
+
+;0xEC14C35C=to talk to the world
+0xEC14C35C=
+
+;0x3F398D1F=Profession:
+0x3F398D1F=
+
+;0x00313120=student
+0x00313120=
+
+;0x837868DF=Likes:
+0x837868DF=
+
+;0xC5DDFEFF=books, chocolate, politics, cheese
+0xC5DDFEFF=
+
+;0xC962002D=Dislikes:
+0xC962002D=
+
+;0xF10F097C=everybody in my school, sluts, my life
+0xF10F097C=
+
+;0x80983B99=Strengths:
+0x80983B99=
+
+;0x406D7DEC=intelligence, maturity beyond my years
+0x406D7DEC=
+
+;0xE51189B4=Weaknesses:
+0xE51189B4=
+
+;0xC0EDD420=eating too much cheese, social interaction
+0xC0EDD420=
+
+;0x834639B4=Best Physical Feature: 
+0x834639B4=
+
+;0x04187FA9=hands
+0x04187FA9=
+
+;0x918E3581=Drink of choice:
+0x918E3581=
+
+;0x8C6B1256=Milkshake with butter
+0x8C6B1256=
+
+;0x91683F03=Drug of choice:
+0x91683F03=
+
+;0xEA27458C=don't do drugs like the rest of the LOSERS in my school
+0xEA27458C=
+
+;0x8B390C71=Weapon of choice:
+0x8B390C71=
+
+;0xEBE1EB62=biting sarcasm
+0xEBE1EB62=
+
+;0x34F1F1A1=Shaved or natural?
+0x34F1F1A1=
+
+;0xBBC9BBBD=Shower or grower?
+0xBBC9BBBD=
+
+;0x26BF8E02=Do you have a nickname for your genitals?
+0x26BF8E02=
+
+;0x23380584=DISGUSTING!!!!
+0x23380584=
+
+;0x23380584=DISGUSTING!!!!
+0x23380584=
+
+;0x23380584=DISGUSTING!!!!
+0x23380584=
+
+;0x542F5FC0=How many sexual partners have you had?
+0x542F5FC0=
+
+;0x82D4E616=When did you last have sex?
+0x82D4E616=
+
+;0x1EE80A40=How often do you masturbate? 
+0x1EE80A40=
+
+;0x3197E112=None.  Have you seen me?
+0x3197E112=
+
+;0x03A3AD1E=never have probably never will
+0x03A3AD1E=
+
+;0x66C58C19=never. Mom say ill go to hell if I do
+0x66C58C19=
+
+;0x3B8B80E7=Ever had sex with anything not human?  
+0x3B8B80E7=
+
+;0x2C1E4D92=One word to describe you:
+0x2C1E4D92=
+
+;0x4683E37A=What makes you happy?  
+0x4683E37A=
+
+;0x23380584=DISGUSTING!!!!
+0x23380584=
+
+;0xD5B9D33F=perspicacious
+0xD5B9D33F=
+
+;0x3D8C033E=blogging
+0x3D8C033E=
+
+;0xA20926C3=Finish this sentence. "I wish...
+0xA20926C3=
+
+;0x5573F634=I wasn't such a hideous beast
+0x5573F634=
+
+;0x7F8CB059=Hello world.  My names samantha or sam or sammy you can take your pick.  The boys at school all write saMANtha on my books when im not looking.  I am not a man.  Its not my fault my mothers greek some guys like girls with sideburns.  I have hair Im trying to save up for electrolysis but i keep spending all my money on cherry pops and zebra bars.  Im so fat.  Im a disgusting pig.  I blame my parents they just fed me on cheese and butter and mayo.  The closest thinng I ever got to a vegetable was a french fry. I think Im addicted to cheese I put it on everything even my cereal.  Ever had Biglogs with edam?  Mmmmmmmm.  Kind of ironic that half the world is starving and the other half is on a dietsomrthing to think about.  I tried to start running at school but all the boys kept shouting earthquake at me.  No boy wants me.  Im the weird nerdy blubber girl who smells like raw chicken.  My shirts have pitstains. The janitor greets me with pelvic thrusts every morning but hes 50 and i think hes retarded.  Where are all the normal guys?  Not in this town, that's for sur.  I just want somebody to like me for who I am.  Somebody REAL.
+0x7F8CB059=
+
+;0x65A20F5A=I hate the girls at my school.  Maybe if they spent more time lerning to spell and less time getting knocked up by inbred monobrowed jocks who look stunted from all the roids and cigarettes, they might just have a chance of getting out of this town and actually making something of their lives.  Yeah right.  They're too drunk and stupid to see that there is a whole world of opportunity out there.  Instead theyll have three kids by the time they're 21 and live off welfare or work in the factory or supermarket just like their moms.
+0x65A20F5A=
+
+;0x83B4EDD0=I hate my private parts.  I want to saw my legs off.  My neighbor is a grandmother at 32 - give it another 15 years and the three of them'll all be out clubbing together and arguing over whose turn it is to blow the bouncer.  Not me.  I'm getting out of here as soon as I can.  Im going to be a journalist or politician or something like that and then one day ill come back here all slim and beautful and ill spit in their faces.  It will take an act of a magician as I am ugly as a doorknob.  They wont even recognize me butt ill walk into Burger shot throw money on the floor and ask them to clean that shit up.  I pity them.  AND YES I KNOW YOUR ALL READING THIS!  Those of you who can read that is.  You think I don't see what you write about me???  I know you call me rhino and misstache and say that I only read books cos I cant get laid.  Well fuck you.  Just because I actually have an OPINION.  Just because there is more to my life than reality tv shows, boys, brushing my teeth and meth.  I've seen your lame myroom profiles.  You get one opportunity to tell the world your story and what do you do?  Tell people what you had for lunch and how you cried at Popping and post pictures pof yourself in cheap nylon underwear so strangers will tell you your hot.  Don't come crying to me when you get pedo'd.  Fucking morons.  I hope you all die.
+0x83B4EDD0=
+
+;0xCD491DAF=festerrot99
+0xCD491DAF=
+
+;0xC1BF5679=i wish my moustache was as thick as yours me and the boyz r going to save up and buy u an excelsior extreme 9 hahahahahaha!!!!
+0xC1BF5679=
+
+;0xA1B689C1=pervertedconundrum
+0xA1B689C1=
+
+;0x2B505FC5=COMMENT MY PIC OR DIE SLUT!!!!  It took me 2000 tries before I got it right.
+0x2B505FC5=
+
+;0x68935FB4=broadsword17
+0x68935FB4=
+
+;0x1AC1BDF8=ur dead at skool tomorrow
+0x1AC1BDF8=
+
+;0x07A953AC=scratchyhand852
+0x07A953AC=
+
+;0xB6B19AA7=Fuk off and read a book saMANtha. I pwn u.
+0xB6B19AA7=
+
+;0x3009BE5F=slavishwink01
+0x3009BE5F=
+
+;0x7B0F81E9=try a fucking salad for once in your life
+0x7B0F81E9=
+
+;0xA1B689C1=pervertedconundrum
+0xA1B689C1=
+
+;0xD44A1A9D=Comment my pix, you bitch!!!
+0xD44A1A9D=
+
+;0xCA8396C3=mischievouspastor
+0xCA8396C3=
+
+;0xA34AFD16=baby I can handle all of it msg me plz
+0xA34AFD16=
+
+;0x4F23E055=aquaticgent2
+0x4F23E055=
+
+;0xD7019C22=If u think ur so fat why do u keep posting pics in ur underwear??????
+0xD7019C22=
+
+;0x83FE542F=weepingstarfish3
+0x83FE542F=
+
+;0x054E8419=sammy theres a party tonight and ur invited NOT!!!!!!!!!!!
+0x054E8419=
+
+;0x3AD7F506=thoughtfulwhore
+0x3AD7F506=
+
+;0x7207BA93=skool suks
+0x7207BA93=
+
+;0xBD97D669=poignantdominatrix23
+0xBD97D669=
+
+;0xEDFDA3A3=need another girl 4 tuna melt u interested?
+0xEDFDA3A3=
+
+;0xCD491DAF=festerrot99
+0xCD491DAF=
+
+;0x99CA5B99=R u made of cookie dough
+0x99CA5B99=
+
+;0xEE76638F=tinybullock1975
+0xEE76638F=
+
+;0x6CD92E18=Im touching myself
+0x6CD92E18=
+
+;0xA1B689C1=pervertedconundrum
+0xA1B689C1=
+
+;0xF40839DE=New pix!!   TELL ME WAT U THINK!!!!
+0xF40839DE=
+

@@ -1,0 +1,3 @@
+﻿;0x79AA0FFE=Walk for two minutes in any direction or head to your nearest high school/hospital cafeteria.
+0x79AA0FFE=
+

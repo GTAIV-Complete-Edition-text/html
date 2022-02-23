@@ -1,0 +1,18 @@
+﻿;0x0A3C2658=An exhibition of the work of the Aesthetic Minimalist, Philips Van Der Philip.  The Dutchman has been widely praised for making the subject matter of his paintings as unrecognizable as possible.  Van Der Philip's blank canvas, entitled 'Nothing', sold to a private collector last year for $120 million and has been described by critics as "a metaphor for the nihilistic decadence of modern society." 
+0x0A3C2658=
+
+;0xF7861457=Critical commentary: "It is very powerful. You may get drowsy while looking at his work. This is the correct response. You are communing with yourself in a very organic way. Meditate on life RIGHT NOW."
+0xF7861457=
+
+;0xE3C4B027=Life is about math, and nothing runs your brain in circles like trying to wrap your head around the concept of pi.  Adam Biggs has made his life's work the circle.  A selection of paintings from the world-renowned artist, Adam Biggs, will be on display at the Randolf Art Center for the next month.  Biggs achieved cult-like status for his paintings of circles during the 1950's and 1960's and is considered to be the father of the Abstract Literalist movement.  In one of his rare interviews, Biggs explained that, "A circle, by its very nature, is perfect and the quest of every artist should be to strive for circles, the mystery of what's on the other side of that circle.  A whole theme park exists to this concept.  If I try to paint a picture of a bird that is as true to reality as possible and it dies, it will inevitably be imperfect.  If I paint the bird as a circle, however, it takes on a perfect ring of fire in the loins of my soul." 
+0xE3C4B027=
+
+;0x747BEDF5=Critical commentary: "Biggs is a fascinating man - he has explored concepts most of us do not understand with great sensitivity - he did not understand them either and this is very apparent from his work. It makes it profound."
+0x747BEDF5=
+
+;0xB8160956=Galveston Avenue between Obsidian Street and Nickel Street 
+0xB8160956=
+
+;0x60D9270F=Middle Park West, Algonquin
+0x60D9270F=
+

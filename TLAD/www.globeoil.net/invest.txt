@@ -1,0 +1,36 @@
+﻿;0x861A2C51=We power the chainsaws that clear land for a bright new condominium complex.
+0x861A2C51=
+
+;0x32C1BC3F=We power the generators that provide emergency light during a prison riot. 
+0x32C1BC3F=
+
+;0xDE5567AD=We power the helicopters that keep peace by neutralizing villages of threats.
+0xDE5567AD=
+
+;0x7873A693=We power communities in Nigeria by employing local militia to protect our pipelines.
+0x7873A693=
+
+;0xC2D70110=We power the trucks that carry goods across America, often jackknifing and killing families in station wagons.
+0xC2D70110=
+
+;0x19CC0186=We power the SUV that mom takes her kids to school in, before stopping at a sleazy hotel to fuck her husband's best friend.
+0x19CC0186=
+
+;0xC5E95252=We power the factories that mass produce the soda cans and plastic bottles that end up floating in the river.
+0xC5E95252=
+
+;0xD057E057=We power the slaughterhouse that provides food for your family.
+0xD057E057=
+
+;0xDB1C21D8=We power the crematorium that incinerates your handsy stepdad once and for all.
+0xDB1C21D8=
+
+;0x0CEA3418=We power the airplanes that carry cocksucker executives to golf retreats in tropical locations.
+0x0CEA3418=
+
+;0x60B1FD13=We power the Congressmen who further our policy agenda.
+0x60B1FD13=
+
+;0x81329B0A=We are ruthless in maximizing value for our shareholders.  By investing in Globe Oil, you can be part of a movement that began in 1908 with the invention of the internal combustion engine and continues to this day.  The technology hasn't changed much - because that would change the revenue structure at Globe Oil.  That's why our special Emerging Technologies Team identifies revolutionary inventors in the field of Energy Science, and as soon as one discovers how to run a car on water, they are summarily executed and never heard from again.
+0x81329B0A=
+

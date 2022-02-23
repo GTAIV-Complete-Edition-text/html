@@ -1,0 +1,39 @@
+﻿;0x65E4247E=Cluckin' Bell has the best TV commercials ever.  Have you seen them?  And what great food.  They are always careful to keep the secret ingredient of their tasty batter - salt - under wraps.  It is amazing how they managed to take one of the world's healthiest meats and turn it into a lethal death trap.  Forget avian flu - Cluckin Bell's deep-fried carrion has been killing people for decades.  A visit to Cluckin' Bell leaves a thin film of grease and dirt all over your body that takes days to wash off... and that's why we love it.  Stop off for a Mighty Cluck.  Only 99c!  That's cheaper than water!   Or try the Stuffed Pollo Todo Frito.  It's an entire chicken stuffed with mashed potatoes and gravy then deep fried!  Awesome.     
+0x65E4247E=
+
+;0x006388FD=Algonquin
+0x006388FD=
+
+;0xA67F0F37=Drusilla's
+0xA67F0F37=
+
+;0x388007ED=Super Star Café
+0x388007ED=
+
+;0xC6E1A607=Lucky Winkle's
+0xC6E1A607=
+
+;0x81C941D4=Broker
+0x81C941D4=
+
+;0x266BA4BB=69th Street Diner
+0x266BA4BB=
+
+;0x0746BE68=Comrades Bar
+0x0746BE68=
+
+;0x51717FFB=Homebrew Café
+0x51717FFB=
+
+;0xDAE5F56B=Dukes
+0xDAE5F56B=
+
+;0x31E52A46=Steinway Beer Garden
+0x31E52A46=
+
+;0x3EB137E5=Alderney
+0x3EB137E5=
+
+;0x4E1D7285=Mr. Fuks Rice Box
+0x4E1D7285=
+

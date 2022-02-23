@@ -1,0 +1,24 @@
+﻿;0x819F32A3=Reinforce positive playtime, family values and
+0x819F32A3=
+
+;0x35342032=gender roles with the Gender Role Doll.
+0x35342032=
+
+;0xCA2845AE=The Gender Role Doll provides an enjoyable way for your sons and daughters to learn about what it means to be part of a healthy, traditional family unit: a meek, submissive wife and an aggressive, dominant husband trapped in a joyless marriage who have awkward sex once a month in the missionary position and suppress all their true emotions for fear of offending an all-seeing celestial being.
+0xCA2845AE=
+
+;0x4E770151=A MESSAGE FROM
+0x4E770151=
+
+;0xE67C317A=LIBERTY CITY DEPUTY MAYOR, BRYCE DAWKINS
+0xE67C317A=
+
+;0x127B8EC7="I endorse the Gender Role Doll whole-heartedly.  We must protect our children from the gender-bending depravity that is turning our young men and women into a nation of androgynous, tattooed namby-pampies with metal spikes through their genitals.  Terrorists never dared to attack our shores before.
+0x127B8EC7=
+
+;0x8B08442E=Now they see us as weak.
+0x8B08442E=
+
+;0x7C40FA6B=A futile battle of the sexes over the past few decades has allowed degenerate behavior and immorality to thrive.  Everywhere they look, our children are surrounded by men with shaved legs and women with strap-on penises. This is what happens when you try to deny nature. These days being pro-family is seen as something shameful but I know how I live my life and I know how I want my children to live theirs. It's time that we started raising proud little Americans again."
+0x7C40FA6B=
+

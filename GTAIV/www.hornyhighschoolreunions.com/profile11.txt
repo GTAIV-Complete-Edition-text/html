@@ -1,0 +1,57 @@
+﻿;0x0316DEDC=Pupil: Randy Fox
+0x0316DEDC=
+
+;0xC2345D61=Class of: 2003
+0xC2345D61=
+
+;0x2996FB34=High School: Boar  Corner High  School
+0x2996FB34=
+
+;0xE5F8ED95=NICKNAME:
+0xE5F8ED95=
+
+;0x732A0F1B=NONE
+0x732A0F1B=
+
+;0xB78A2011=BIO:
+0xB78A2011=
+
+;0xEB9B4612=There is no sugar-coating this. I've made such a mess of my life. I live alone. I have no career to speak of. Ever since that psychotic bitch tampered with my brake fluid and I crashed into the mini-mart, it has been one disaster after another. What has happened to me? The years haven't been kind. Every night I sit at home eating noodles and drinking mouthwash until I pass out in my own vomit. I would kill myself but I'm too much of a coward. 
+0xEB9B4612=
+
+;0x2F543AC0=Does anybody want to meet up for a drink?
+0x2F543AC0=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0x77F6D297=Randy! I can't believe you're on this website! You can't even begin to understand how devastated I was when you took out that restraining order against me. How many times do I have to tell you I'm sorry??? I was young, I was in love. I am a different person now. I am lots of different people. I'm at college and I even have a 
+0x77F6D297=
+
+;0x60BCABF1=blog
+0x60BCABF1=
+
+;0xD6E6046A=. I still wear a lock of your hair around my neck. Please don't shut me out again, Randy. I've started hurting animals again. I need you. Nobody will ever love you as much as me.
+0xD6E6046A=
+
+;0xF65A267F=- Amber xxxxxxxxxxxxxxxxxxxxxxx
+0xF65A267F=
+
+;0x0D864C31=REPLY FROM RANDY :
+0x0D864C31=
+
+;0x9A2EF49F=Just leave me alone. And leave my family alone. You've caused enough problems to last a lifetime. I will walk with a limp for the rest of my life because of you.
+0x9A2EF49F=
+
+;0xDEF8095A=MESSAGE:
+0xDEF8095A=
+
+;0x51BD6E52=You dumped me on my birthday. I will kill you on yours. 
+0x51BD6E52=
+
+;0xB040D5CB=- Amber.
+0xB040D5CB=
+
+;0xADD9CB45=BACK TO MAIN PAGE 
+0xADD9CB45=
+

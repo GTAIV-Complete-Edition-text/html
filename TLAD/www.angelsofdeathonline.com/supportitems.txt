@@ -1,0 +1,36 @@
+﻿;0xDAB68FB7=Only fully patched members of the Angels of Death can wear our colors, but any civilians can buy club support items with our insignia on them. It's a way of showing your support and admiration for the AOD. Wear our name with pride. All customers are subject to racial screening.
+0xDAB68FB7=
+
+;0xDF61A6DD=Latest Stock Additions:
+0xDF61A6DD=
+
+;0x1899F974=Hot as Hell Bed Linen
+0x1899F974=
+
+;0x61AD4585=Keep warm this season with AOD eiderdowns and electric bed spreads. (Both items are highly flammable. Keep away from open flames. The AODMC accepts no liability for accidents.)
+0x61AD4585=
+
+;0x559535E1=Angel of Life by Arnie Lester with Fred M. Nelson
+0x559535E1=
+
+;0x50177C57=Soon to be made into a Vinewood motion picture, this is a gripping account of a Chapter President in the Angels of Death. Arnie Lester explains how his errant youth and love for motorcycles made him the community worker he is today.
+0x50177C57=
+
+;0x2014EAEB=AOD Dildo
+0x2014EAEB=
+
+;0x2ACA406E=Ever wanna get fucked by an AOD, but all the brothers in the bar are too drunk and old to get it up? Here's the solution! Modeled on AOD Road Captain Joe Jon Johnson's johnson. Legal Warning: Only for use on females and fully patched members doing long stretches in the Big House.
+0x2ACA406E=
+
+;0x296B8CC3=A.O.D. Diapers
+0x296B8CC3=
+
+;0x591F7A3A=Encourage your child to be an outlaw from the start with the AOD Baby Change Unit.
+0x591F7A3A=
+
+;0x65B67972=Biker Party Set
+0x65B67972=
+
+;0x6E200983=Beer mug, shot glass, bong, and meth pipe. All in hard-wearing shatter-proof glass stamped with the famous Angels of Death insignia. Angels of Death accepts no responsibility for the consumption of illegal substances with the AOD Party Set. Drink responsibly. Cannabis and methamphetamine sold separately.
+0x6E200983=
+

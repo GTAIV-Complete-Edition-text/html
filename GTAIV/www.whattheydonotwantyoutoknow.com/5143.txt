@@ -1,0 +1,84 @@
+﻿;0x9B07DEAC= Vehicles appear out of thin air and I haven't even been 
+0x9B07DEAC=
+
+;0x00584DEE= sniffing any glue today!
+0x00584DEE=
+
+;0xC2954BC2=Back
+0xC2954BC2=
+
+;0xBEBC14F4=Posted by MathsGeek
+0xBEBC14F4=
+
+;0xA6F331B0=We're all in a computer and there's no escaping that fact.  We're living in the future and every person is hard wired to a cell phone network where calls and text messages are powered off brain synapses.  I found a way to hack the system and take advantage of a glitch in the network code.
+0xA6F331B0=
+
+;0x6FEA3FAF=Hit these numbers on your cell and vehicles materialize out of the ether.  Life as we know it is over, people.  Liberty City is no more real than the massively multiplayer games my Mom yells at me for staying up all night with.  I'm never taking out the trash or walking the dog again.
+0x6FEA3FAF=
+
+;0x995C5A42=If you want a Cognoscenti, call:
+0x995C5A42=
+
+;0xC8114A9D=CAR-555-0142
+0xC8114A9D=
+
+;0x909455A3=Want a Sanchez bike, call:
+0x909455A3=
+
+;0x72AFCE68=MBK-555-0150
+0x72AFCE68=
+
+;0xF33423C3=Get yourself an FIB Buffalo:
+0xF33423C3=
+
+;0x2E075DD3=CAR-555-0100
+0x2E075DD3=
+
+;0xE5F5E5DE=Hook up a Turismo by calling:
+0xE5F5E5DE=
+
+;0xC31142BE=CAR-555-0147
+0xC31142BE=
+
+;0x48E9F3D1=Want an NRG900?  Then call this number:
+0x48E9F3D1=
+
+;0xF0BBCDB5=MBK-555-0100
+0xF0BBCDB5=
+
+;0x905BA92A=Get yourself a super fast Comet here:
+0x905BA92A=
+
+;0xB10A6AA3=CAR-555-0175
+0xB10A6AA3=
+
+;0x80855D90=Everyone loves to SuperGT. Get one here:
+0x80855D90=
+
+;0xC20CC3FD=CAR-555-0168
+0xC20CC3FD=
+
+;0x7DB0FDCA=Get your hands on this chopper:
+0x7DB0FDCA=
+
+;0xCC56BFF6=FLY-555-0100
+0xCC56BFF6=
+
+;0x409445EF=You don't need land with a Jetmax. Call:
+0x409445EF=
+
+;0x5CD6BAED=WET-555-0100
+0x5CD6BAED=
+
+;0x2E46A961=Posted by MeowMeow
+0x2E46A961=
+
+;0x85AFE6F6=Does this actually work?!
+0x85AFE6F6=
+
+;0x1F4C3713=Posted by JohnnyXXX
+0x1F4C3713=
+
+;0xD23378CD=Get a life!
+0xD23378CD=
+

@@ -1,0 +1,12 @@
+﻿;0xE68F1511=RUNWAY SLAVES 
+0xE68F1511=
+
+;0xA6A66E86=STREET SLAVES
+0xA6A66E86=
+
+;0xC427CDB0=AUTHENTICITY
+0xC427CDB0=
+
+;0x20CB4480=Men's Bull Emic suits! $150 and under! If they were good enough for the German military, they are good enough for you! Only available in burgundy and lilac. Rare item! Limited stock!
+0x20CB4480=
+

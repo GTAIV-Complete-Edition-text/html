@@ -1,0 +1,45 @@
+﻿;0xE253C598=Identity Theft Policy
+0xE253C598=
+
+;0x6D402909=Kids Kredit
+0x6D402909=
+
+;0xB058CCFC=International Wire Transfers
+0xB058CCFC=
+
+;0x368B9352=Debt Consoldiation
+0x368B9352=
+
+;0xCC2A1722=Home Equity Loans
+0xCC2A1722=
+
+;0x6AA54E4F=Plastic Surgery Loans
+0x6AA54E4F=
+
+;0x88C3B8C4=Off-Shore Bank Accounts
+0x88C3B8C4=
+
+;0x97B7449C=Bachelor Party Loans
+0x97B7449C=
+
+;0xB7872DC7=Brokerage
+0xB7872DC7=
+
+;0x223825BA=International Wire Transfers: Slower and more expensive than mailing the cash!
+0x223825BA=
+
+;0xDE327526=Whether you're bailing your teenage son out of a sticky situation in a Thai she-male sex den or buying a kidney from an executed Chinese prisoner, Bank of Liberty can move your money around the world, no questions asked. 
+0xDE327526=
+
+;0xFCCEB71F=We promise to send it to an account with a number that is the same or similar to the one you give us.        
+0xFCCEB71F=
+
+;0x2FD04D74=We use fixed foreign exchange rates to ensure maximum dollar erosion.  An additional 20% will be stripped from the transfer value in commission charges... our guys have to get paid. 
+0x2FD04D74=
+
+;0x210702C5=Prices may vary. At participating branches during certain office hours only. This service not open to women.
+0x210702C5=
+
+;0x55F4BBAF=Bank of Liberty uses subliminal advertising throughout all its websites.
+0x55F4BBAF=
+

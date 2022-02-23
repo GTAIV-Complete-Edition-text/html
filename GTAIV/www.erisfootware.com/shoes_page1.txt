@@ -1,0 +1,21 @@
+﻿;0xAC5D8545=Stand Out From The Crowd 
+0xAC5D8545=
+
+;0x9C4D79C2=Eris is redefining the limits of taste with the new NDanger range. The NDanger is a Japanese-designed golf, tennis, ten-pin bowling shoe hybrid crafted from the rarest animal pelts in the world today.  Available in Giant Panda, Snow Leopard and Black Lemur, this luxury sports shoe features ivory eyelets, eaglet aglets and laces made from braided gorilla hair.  A shoe for the true Eristocrat.  Live dangerously.  Be the hunter, not the prey.
+0x9C4D79C2=
+
+;0x217BDA5C=$20,000!
+0x217BDA5C=
+
+;0xC855F8A9= Limited availability! Extreme limited edition.
+0xC855F8A9=
+
+;0x946F1259=This line will be reissued in five years as the Eris Xtinct. 
+0x946F1259=
+
+;0xED147BBF= DECIPHERING THE LINGO
+0xED147BBF=
+
+;0x9B780572= CLICK HERE FOR A MESSAGE FROM ERIS FOUNDER, PETER VASSAL
+0x9B780572=
+

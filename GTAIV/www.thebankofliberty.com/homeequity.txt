@@ -1,0 +1,45 @@
+﻿;0xE253C598=Identity Theft Policy
+0xE253C598=
+
+;0x6D402909=Kids Kredit
+0x6D402909=
+
+;0xB058CCFC=International Wire Transfers
+0xB058CCFC=
+
+;0x368B9352=Debt Consoldiation
+0x368B9352=
+
+;0xCC2A1722=Home Equity Loans
+0xCC2A1722=
+
+;0x6AA54E4F=Plastic Surgery Loans
+0x6AA54E4F=
+
+;0x88C3B8C4=Off-Shore Bank Accounts
+0x88C3B8C4=
+
+;0x97B7449C=Bachelor Party Loans
+0x97B7449C=
+
+;0xB7872DC7=Brokerage
+0xB7872DC7=
+
+;0xAE9245AD=Home Equity Loans: Live Beyond Your Means!
+0xAE9245AD=
+
+;0x454A8C32=Ever heard of doubling down?  It works in Las Venturas.  Enjoy the comfort of borrowing money for the second time whilst putting your family home at risk.  
+0x454A8C32=
+
+;0xBFC789FC=Double jeopardy means that you can buy the SUV, call girl or yacht you have always wanted.  Balloon payments, negative amortization... don't concern yourself with all the so called trendy buzzwords.  
+0xBFC789FC=
+
+;0xEFAFB55B=Just know that a balloon payment usually involves swallowing a lot of them full of horse to make extra money to pay off your bills.  All you need to know is that Bank of Liberty offers low monthly payments that don't even cover the interest!        
+0xEFAFB55B=
+
+;0xAF3F1520=A penalty charge of 15% of principal will be applied for any attempts to overpay or get out of the loan early. Unless we don't like you, in which case we will send you a gift of your mother's left foot. 
+0xAF3F1520=
+
+;0x55F4BBAF=Bank of Liberty uses subliminal advertising throughout all its websites.
+0x55F4BBAF=
+

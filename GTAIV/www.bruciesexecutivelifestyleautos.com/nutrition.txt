@@ -1,0 +1,45 @@
+﻿;0x8CFEEC63=I pride myself on being able to list out the calorie count of every item on a restaurant menu and I often do this to impress girls on dates. To achieve Brucie-like proportions, you are going to need the right diet.
+0x8CFEEC63=
+
+;0xFB338A37=BREAKFAST - 
+0xFB338A37=
+
+;0x7129E04C=20 Egg Whites
+0x7129E04C=
+
+;0x9E7B07B5=MID-MORNING - 
+0x9E7B07B5=
+
+;0x415FBF9D=16oz. Steak
+0x415FBF9D=
+
+;0x3A64A940=LUNCH - 
+0x3A64A940=
+
+;0xAD01E748=2 Roast Chickens
+0xAD01E748=
+
+;0x56845261=MID-AFTERNOON - 
+0x56845261=
+
+;0x415FBF9D=16oz. Steak
+0x415FBF9D=
+
+;0x5B0D89BA=DINNER - 
+0x5B0D89BA=
+
+;0x0AD50A95=Green Salad
+0x0AD50A95=
+
+;0x52FA09F7=DRINKS - 
+0x52FA09F7=
+
+;0x721BB518=Protein Shake.
+0x721BB518=
+
+;0x8E18582D=No exceptions, no excuses. I took this girl out last night, a stacked little hardbody with blow-job lips. She ordered spaghetti alfredo and I dumped her on the spot. There's no room in my life for a chick who is going to stuff herself with carbs.
+0x8E18582D=
+
+;0x2BE6FDFB=Even if she is 18.
+0x2BE6FDFB=
+

@@ -1,0 +1,12 @@
+﻿;0xF596456B=RUNWAY SLAVES
+0xF596456B=
+
+;0xA6A66E86=STREET SLAVES
+0xA6A66E86=
+
+;0xC427CDB0=AUTHENTICITY
+0xC427CDB0=
+
+;0x3B494A42=Curbcrawler is taking skate fashion back to the street! Deliberately-distressed t-shirts are so easy to rip off! We are unloading all our old crap for $5 an item! Clothes so ragged that your mom will never notice when you drop a hot rock! 
+0x3B494A42=
+

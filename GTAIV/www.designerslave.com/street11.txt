@@ -1,0 +1,12 @@
+﻿;0xF596456B=RUNWAY SLAVES
+0xF596456B=
+
+;0xFE002F52=STREET SLAVES 
+0xFE002F52=
+
+;0xC427CDB0=AUTHENTICITY
+0xC427CDB0=
+
+;0x87A83219=Ranch invented jeans, so they know what they are doing. It just keeps getting cheaper! Buy stonewash 80s-look Ranch jeans for just $5. Look like a cowboy for less than the cost of a pack of cigarettes! Jeans were originally made for people who actually work for a living, but now they are for people like you.
+0x87A83219=
+

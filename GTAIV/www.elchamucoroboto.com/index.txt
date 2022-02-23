@@ -1,0 +1,63 @@
+﻿;0x491685FC=It's the robotic future from south of the border!    
+0x491685FC=
+
+;0x72300623=The illegal immigrant mower who's also a robot!  
+0x72300623=
+
+;0x6103703E=Some pronounce it El Cham-ooo-koe!  
+0x6103703E=
+
+;0x8322AC89=Others call it El cham-mucho!  
+0x8322AC89=
+
+;0x221D1266=Either way, this little devil is packing a lot of robot!  
+0x221D1266=
+
+;0xAF8CE484="I used to pick up illicit gardeners at the house cheapo - illicit men you would pay for a few hours of hard work and then they'd return to the parking lot where they'd drink and sing songs.  But then the conservatives cracked down on our freedoms. Now, I've got the next best thing. El Chamuco Roboto - you little devil!"
+0xAF8CE484=
+
+;0xF3206E20="Americans don't want this job. Trust me, I've tried several American gardeners and they charge too much and only go for about 15 minutes. I need to feel taken care of - a man that can take charge with a leaf blower, make my castle look beautiful, then mow my lawn for an hour while I drink daiquiris by the pool. My husband loves El Chamuco Roboto - no more coming home to find a stranger trimming my bushes."
+0xF3206E20=
+
+;0x593347A5=Lindsay Thomas
+0x593347A5=
+
+;0xF7C175BF=Los Santos
+0xF7C175BF=
+
+;0x20934F9B=Sarah Chenten
+0x20934F9B=
+
+;0x3EB137E5=Alderney
+0x3EB137E5=
+
+;0x96B44172=El Chamuco Roboto comes with 
+0x96B44172=
+
+;0x7EC0A885=6 DIFFERENT ATTACHMENTS!
+0x7EC0A885=
+
+;0x0CD50B77=It edges, clips, and mows SPECIAL DESIGNS, LIKE:
+0x0CD50B77=
+
+;0xF181AFDB=El Chamuco Roboto comes with a     
+0xF181AFDB=
+
+;0x54E7AA3D=speaker system to play Mexican     
+0x54E7AA3D=
+
+;0x4A7E7370=favorites while it mows your lawn!    
+0x4A7E7370=
+
+;0x78721119=Your life will never will feel empty     
+0x78721119=
+
+;0x42CF4516=and devoid of meaning again!     
+0x42CF4516=
+
+;0x364CF26B=Includes engine and exterior lubricants!    
+0x364CF26B=
+
+;0x9AADD607=ORDER TODAY! 
+0x9AADD607=
+

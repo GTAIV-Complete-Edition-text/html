@@ -1,0 +1,27 @@
+﻿;0x3061477D=Text Message Cars.  I know you're all crazy, but are you 
+0x3061477D=
+
+;0x6CA4066C= crazy enough to take some cars?
+0x6CA4066C=
+
+;0xC2954BC2=Back
+0xC2954BC2=
+
+;0xF769E70B=Posted by Stevie
+0xF769E70B=
+
+;0xD2F74E2C=Yo.  I don't know if this is the right place to post this shit, but I seen a few cars I really like around town.  I'm not saying, like, steal them or nothing.  I'm just saying I'd really like to find that shit under the tree in late December.  Know what I'm saying?  I pay heavily for this shit!
+0xD2F74E2C=
+
+;0x129F187E=Posted by Phil1988 
+0x129F187E=
+
+;0x01D74AE7=I think you're on the wrong forum, man.
+0x01D74AE7=
+
+;0x5B99EE32=Posted by Patriot68
+0x5B99EE32=
+
+;0x0A333751=WTF?!  I'm calling the LCPD.
+0x0A333751=
+

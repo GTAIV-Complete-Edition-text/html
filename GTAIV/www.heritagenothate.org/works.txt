@@ -1,0 +1,9 @@
+﻿;0xCB066C9E=Civil War reenactment couldn't be easier.  Simply pick your side - North or South.  Do you look better in blue or gray?
+0xCB066C9E=
+
+;0x8479D8DC=We are short on Northern re-enactors at the moment as everybody wants to be Southern, for some reason.  Then decide on infantry, cavalry, artillery, etc.  Note: if you are in the cavalry you must bring a horse.  Otherwise, it's like showing up to a tennis match without a racquet.  And please don't expect to come straight in as Ulysses S. Grant or Robert E. Lee.  The best parts are reserved for the reenactment veterans and we want to see you wipe your ass with your hand and eat a few rats before you move up the ranks.      
+0x8479D8DC=
+
+;0x8D7CE19D=Some battles are fully scripted; others are complex games of charging into a field, raping the locals, stealing the booze, getting drunk and setting homes on fire.  All members operate under a strict code of conduct:  if somebody points a gun at you, you MUST go down and play dead.   
+0x8D7CE19D=
+

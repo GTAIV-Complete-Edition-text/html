@@ -1,0 +1,21 @@
+﻿;0x4475AF1E=ABOUT
+0x4475AF1E=
+
+;0x3F846580=RULES
+0x3F846580=
+
+;0xDEFD137E=TONY PRINCE
+0xDEFD137E=
+
+;0x968D8487=ABOUT TONY PRINCE
+0x968D8487=
+
+;0x39F59CE4=Tony Prince, the legendary "Gay Tony", grew up in Dukes, as a young boy he wandered to the Humboldt River and dreamed of living on the other side so he would no longer be considered bridge and tunnel and as soon as he went to college, his dream came true. Ignoring school, he spent the middle part of the 1980s working the cloakroom and then the door at the legendary Elephant, until that closed down following a fire. Tony's next venture was the classic rave venue PUDDLE, based famously in a converted mortuary. Unfortunately, the tax man decided Tony was having too good a time and the club was closed and Tony narrowly avoided jail. Next he opened his first gay club, Thunder, which itself evolved into 2 Backed Beast. After this was shut down by the city, he returned to the gay scene with Hercules, which has now been open for ten years. 
+0x39F59CE4=
+
+;0x6609193D=At the same time, he catered to the heterosexual crowd with the now legendary DEATH BY MACHINES. After DEATH BY MACHINES burned down, Tony was briefly banned from opening any new venues, before he opened Maisonette 9 in 2003. As Tony says, in his inimicable style, "I do it for the love, that and the easy money, access to drugs and ability to suck up to famous people."
+0x6609193D=
+
+;0x2C2E0524=A TONY PRINCE PRODUCTION
+0x2C2E0524=
+

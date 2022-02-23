@@ -1,0 +1,12 @@
+﻿;0x5E4F6850=A year's supply of injectable steroids with 12 clean needles. Pump a load into your boy once a month and within 3 months you'll have turned him into a snarling brute. Beware, he may try to hump things!
+0x5E4F6850=
+
+;0x19D2E7AC=Buy the deluxe juice plan and we'll give you a free home-injections kit. The deluxe option is the only serious choice for the father who really cares about his boy. A 12 month supply of steroids that you can inject into your son safely, thanks to the skills you'll learn from our simple, one page instruction guide and practice kit.  We'll send you 13 used needles and an orange so you can get some practice before you stab it into your boy.
+0x19D2E7AC=
+
+;0x8AD36202=The basic plan gives you a 6 month supply of oral steroids.  These are very easy to hide in your son's food so nobody will notice anything until he grows muscles the size of melons and starts developing tits.
+0x8AD36202=
+
+;0xD46317F6=With the deluxe candy plan, you buy a 6 month supply and we give you 6 months extra - free.  The deluxe pills are coated in a luxurious, brightly-colored sugar coating so your kid will think it's candy.  There's never been a better way to slip it to your boy orally. 
+0xD46317F6=
+
