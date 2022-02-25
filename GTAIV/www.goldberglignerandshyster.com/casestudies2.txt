@@ -11,31 +11,31 @@
 0x2871A93C=
 
 ;0x94A16EF8=Patterson vs Pirate Music
-0x94A16EF8=
+0x94A16EF8=Patterson与Pirate Music之争
 
 ;0x5845021B=Date: 
 0x5845021B=
 
 ;0x47EE3BEB=Case brought in 2004
-0x47EE3BEB=
+0x47EE3BEB=2004年提起的案件
 
 ;0xDAB2AB70=Settlement: 
 0xDAB2AB70=
 
 ;0x02476DB6=Dismissed due to lack of 'common sense'
-0x02476DB6=
+0x02476DB6=由于缺乏 "常识 "而被驳回
 
 ;0x977A3968=Sometimes a case comes around that just grabs your heart. When we were contacted by the Pattersons about their son Nick, we knew that no matter the lack of 'evidence' available, our law firm could not turn our backs.
-0x977A3968=
+0x977A3968=有时一起案子能令人动容。当Patterson一家就他们的儿子Nick的问题与我们联系时，我们知道，即便缺乏可用的 "证据"，我们的律师事务所也不能置之不理。
 
 ;0x58651CF2=Nick had been a promising student who dropped out of school to do nothing but stay in his room conducting imaginary orchestras - a sickening charade as his thirteen hamsters were forced into military fatigue costume, armed with teeny tiny imitation assault weapons and made to simulate warfare as he played Wagner at high volume. The cause of this was clear - popular music - even if it was popular over 100 years ago.
-0x58651CF2=
+0x58651CF2=Nick曾是一个很有前途的学生，他辍学后什么也不做，只呆在房间里指挥臆想中的管弦乐队 - 这是场病态的戏，他的13只仓鼠被迫穿上军用作战服，装备着迷你的仿制攻击性武器。当他高音量播放瓦格纳歌剧时，它们被强迫模拟战争。罪魁祸首显而易见 - 流行音乐 - 即便这是100多年前流行的。
 
 ;0x94BAA478=Nick's fascination with Wagnerian operas clearly caused his  withdrawal from society, and the Pattersons rightly took action before he did something illegal. Despite GL&S not winning the case, we attracted a great deal of media attention for a cause we fervently believe in -ourselves - while nearly bankrupting a national company.
-0x94BAA478=
+0x94BAA478=Nick对瓦格纳歌剧的痴迷显然造成了他与社会的脱节，Patterson一家在他做出违法行为之前采取了正确的行动。尽管GL&S没能打赢官司，但我们坚信的事业 - 我们自己 - 吸引了大量的媒体关注，我们也差点让一家全国性公司破产。
 
 ;0xBB85DF73=GL&S maintains that pop culture and indeed even Wagnerian operas influence those with possible violent tendencies and, despite warning stickers, can still make it into the hands of children.  What happens when they go from opera to Nietzsche? Don't ban weapons, ban pixels, and we're working on that. 
-0xBB85DF73=
+0xBB85DF73=GL&S坚持认为，流行文化，甚至瓦格纳歌剧都会影响那些可能有暴力倾向的人，尽管有警告标签，它们仍然可能落入儿童手中。当他们从歌剧转向尼采的时候会怎么样？不要禁止武器，要禁止数字媒体，我们正在为此努力。
 
 ;0x1EB6AC60=GL&S, All Rights Reserved . Privacy Statement . Contact Info
 0x1EB6AC60=
