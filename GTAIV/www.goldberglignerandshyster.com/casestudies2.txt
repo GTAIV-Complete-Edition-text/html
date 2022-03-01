@@ -17,7 +17,7 @@
 0x5845021B=
 
 ;0x47EE3BEB=Case brought in 2004
-0x47EE3BEB=于2004年结案
+0x47EE3BEB=2004年提起的案件
 
 ;0xDAB2AB70=Settlement: 
 0xDAB2AB70=
