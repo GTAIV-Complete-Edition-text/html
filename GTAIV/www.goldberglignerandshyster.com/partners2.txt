@@ -8,19 +8,19 @@
 0x04F148B9=
 
 ;0xAF8A09B1=PATRICK LIGNER Jr Esq  
-0xAF8A09B1=初级律师 PATRICK LIGNER
+0xAF8A09B1=律师 PATRICK LIGNER Jr
 
 ;0x45E0C856=Mr. Ligner has been dedicated to the bettering of society since an early age.  He came to prominence after bankrupting the law school he had recently graduated from with only one lawsuit.  
-0x45E0C856=Ligner先生从小就致力于改善社会。 他仅凭一场诉讼就使他刚从中毕业不久的法学院破产，从而开始崭露头角。 
+0x45E0C856=Ligner先生从小就致力于改善社会。刚毕业的他初露锋芒，仅凭一场诉讼就使自己的法学院母校破产。
 
 ;0xFCFE61B2=After this achievement, he went on to construct cases against his undergraduate college, high school, and elementary school.  With a well known name and reputation to be reckoned with, Mr. Ligner became a co-founder and partner in one of the most respected law firms in Liberty City - Goldberg Ligner and Shyster.  
-0xFCFE61B2=继这一成就之后，他发起了针对其本科院校、高中和小学的诉讼。 名声大噪的Ligner先生成为了自由城最受尊敬的律师事务所之一 - Goldberg Ligner and Shyster的联合创始人和合伙人。 
+0xFCFE61B2=继这一成就之后，他又针对自己曾就读的大学、中学、小学发起诉讼。名声大噪的Ligner先生成为了GLS律所——自由城最受尊敬的律师事务所之一——的联合创始人和合伙人。 
 
 ;0x48ED6CC3=Recently he has taken a sabbatical from practicing law to promote his new book, 'Five Easy Ways to Spot a Lawsuit: Rudimentary Case Construction.'  'Five Easy Ways' was a fixture on the Liberty Tree Bestseller List and a Weazel News Book of the Week.  
-0x48ED6CC3=最近，他从法律实践中抽出时间来宣传他的新书《发起诉讼的五种简单方法：初步案俐构建》。这本书蝉联于《Liberty Tree》畅销书榜，并被《Weazel News》评为周度之书。
+0x48ED6CC3=最近，他从法律实践中抽出时间来宣传他的新书《发起诉讼的五种简单方法：初步案例构建》。这本书长期占据Liberty Tree畅销书排行榜，还登上了Weazel新闻的每周图书推荐。
 
 ;0x59E0D19A=GL&S now welcomes Mr. Ligner back into the fold as a full time attorney.   
-0x59E0D19A=Ligner先生现在重回全职律师的行列，GL&S对此表示欢迎。
+0x59E0D19A=Ligner先生现在重回全职律师的行列，GLS对此表示欢迎。
 
 ;0x6AE1B293=ligner@goldberglignerandshyster.com
 0x6AE1B293=

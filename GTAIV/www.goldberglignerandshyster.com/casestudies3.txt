@@ -11,28 +11,28 @@
 0x2871A93C=
 
 ;0xC11A8DDC=LCPD vs Rusty Brown's
-0xC11A8DDC=LCPD与Rusty Brown's之争
+0xC11A8DDC=LCPD与Rusty Brown之争
 
 ;0x5845021B=Date: 
 0x5845021B=
 
 ;0x49EE3F11=Case brought in 2006
-0x49EE3F11=2006年提起的案件
+0x49EE3F11=于2006年结案
 
 ;0xDAB2AB70=Settlement: 
 0xDAB2AB70=
 
 ;0x1E409299=Accused ordered to pay out $400,000 in compensatory vouchers
-0x1E409299=被告被勒令支付40万美元的赔偿凭证
+0x1E409299=勒令被告支付价值40万美元的补偿代金券
 
 ;0x53E66683=It's an old cliché; the fat cop with a donut. But we don't shy away from a cliché at GL&S, and that's what's kept us at the top. When we were approached by one precinct about the impact that Rusty Brown's donuts were having on their productivity, we delved deeper into the two-dozen box of lies and found a city-wide conspiracy.
-0x53E66683=拿着甜甜圈的臃肿警察是一个老生常谈的话题了。但在GL&S，我们从不回避陈词滥调，这也是我们一直处于行业龙头的原因。在一所警局向我们反映Rusty Brown's甜甜圈影响他们工作效率的问题后，我们深入探究了那两打充斥谎言的包装盒，并揭发了一起波及全市的阴谋。
+0x53E66683=拿着甜甜圈的肥胖警察是一个老生常谈的话题了。但我们GLS律所从不回避陈词滥调，这也是我们一直处于行业龙头的原因。在一所警局向我们反映Rusty Brown甜甜圈影响他们工作效率的问题后，我们深入探究了那个充斥着谎言的24只装包装盒，并揭发了一起波及全市的阴谋。
 
 ;0x5BE35B7F=For years, Rusty Brown's had waged chocolate-covered war on our brave police force, leaving many long-serving officers too bloated and surly to react appropriately to even the smallest infraction of the law.  
-0x5BE35B7F=多年来，Rusty Brown's对我们勇敢的警察队伍发动了一场巧克力大战，导致许多长期任职的警察过于臃肿和粗暴，以至于无法合理处理最轻微的违法行为。
+0x5BE35B7F=多年来，Rusty Brown甜甜圈一直在向我们英勇的警察队伍发射糖衣炮弹，导致许多长期任职的警察过于笨重粗暴，甚至无法合理处理最轻微的违法行为。
 
 ;0xA8444C4A=We proved that through using a relentless campaign that included  the constant opening of new franchises, the development of an impossibly tempting array of new flavors and the offering of  price savings for bigger boxes, Rusty Brown's, with full knowledge and forethought, fattened up our front-line crime fighters and made us all more vulnerable in the war on terror. 
-0xA8444C4A=我们证明了Rusty Brown's发起的一场持续的行动，其包括不断开设新的特许经营店，开发一系列极其诱人的新口味，以及为大份装提供价格优惠。他们利用专业知识和老谋深算，养肥了我们前线打击犯罪的战士，使我们所有人在反恐战争中更处于弱势。
+0xA8444C4A=Rusty Brown甜甜圈不断开设新的分店，开发了一系列极其诱人的新品，还提供了价格更加优惠的大份装。我们证明了这一连串行动早有预谋，意在养肥我们打击犯罪第一线的战士，使我们所有人在反恐战争中更加脆弱。
 
 ;0x1EB6AC60=GL&S, All Rights Reserved . Privacy Statement . Contact Info
 0x1EB6AC60=
