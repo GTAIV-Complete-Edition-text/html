@@ -1,23 +1,23 @@
 ﻿;0x4D15EA96=TOM GOLDBERG Esq
-0x4D15EA96=
+0x4D15EA96=律师 TOM GOLDBERG
 
 ;0x4B7DC889=PATRICK LIGNER Jr Esq
-0x4B7DC889=
+0x4B7DC889=律师 PATRICK LIGNER Jr
 
 ;0x04F148B9=DICK SHYSTER Esq
-0x04F148B9=
+0x04F148B9=律师 DICK SHYSTER
 
 ;0x09443306=TOM GOLDBERG Esq  
-0x09443306=
+0x09443306=律师 TOM GOLDBERG
 
 ;0x47A0781F=Mr. Goldberg should be credited as much for his human rights and charity work as he is for his considerable successes within the legal industry.  
-0x47A0781F=
+0x47A0781F=Goldberg先生在人权和慈善方面的工作，以及他在法律界取得的巨大成功，都应该得到肯定。 
 
 ;0x527372FD=Often functioning as a legal expert on Weazel News and quoted in the Daily Globe on many occasions, Mr. Goldberg has become the voice of the 'little guy' in Liberty City and throughout America.  
-0x527372FD=
+0x527372FD=Goldberg先生经常在Weazel新闻上担任特邀法律专家，环球日报也多次援引他的观点，他已经成为自由城乃至全美「小人物」的代言人。
 
 ;0x072B35A6=When not working on cases with GL&S, the majority of Mr. Goldberg's time is spent working with Goldberg's Guys - his charity dedicated to teaching the disadvantaged young boys of Liberty City to swim.  "When I see the look in those kids eyes when they're kicking their little legs around, it's all worthwhile." Tom Goldberg: Humanitarian, Moral Compass, Attorney with Goldberg Ligner and Shyster.  
-0x072B35A6=
+0x072B35A6=不处理事务所的案件时，Goldberg先生把大部分时间都花在了「Goldberg的小伙伴」上。这是他的慈善组织，致力于教自由城的困难男童游泳。「当我看到正在踢动小腿的孩子们的眼神时，一切都值得了。」Tom Goldberg：人道主义者，道德模范，GLS律所的合伙律师。
 
 ;0xC3436B00=goldberg@goldberglignerandshyster.com            
 0xC3436B00=

@@ -1,41 +1,41 @@
 ﻿;0x06D2535F=CASE STUDY 1
-0x06D2535F=
+0x06D2535F=参考案例1
 
 ;0x07D254F2=CASE STUDY 2
-0x07D254F2=
+0x07D254F2=参考案例2
 
 ;0x08D25685=CASE STUDY 3
-0x08D25685=
+0x08D25685=参考案例3
 
 ;0x2871A93C=Name: 
-0x2871A93C=
+0x2871A93C=名称：
 
 ;0xF3236347=Mark Eastman
-0xF3236347=
+0xF3236347=Mark Eastman
 
 ;0x2D1BC830=Position: 
-0x2D1BC830=
+0x2D1BC830=职位：
 
 ;0x5FF711BA=C.E.O Betta Pharmaceuticals
-0x5FF711BA=
+0x5FF711BA=贝塔制药CEO
 
 ;0x5845021B=Date: 
-0x5845021B=
+0x5845021B=日期：
 
 ;0xF876DB54=7th of July 2001
-0xF876DB54=
+0xF876DB54=2001年7月7日
 
 ;0xDAB2AB70=Settlement: 
-0xDAB2AB70=
+0xDAB2AB70=裁判结果：
 
 ;0x2A43D804=Undisclosed seven figure sum, resignation from all company boards.
-0x2A43D804=
+0x2A43D804=未披露的七位数金额，从所有公司董事会辞职。
 
 ;0x2987A31B=Mark Eastman started as a clerk at a drug store and through hard work and perseverance beat a bout with cancer at the age of 30 and went on to become CEO of one of the largest pharmaceutical companies in the world.  He won multiple humanitarian awards for bringing Mollis to market in the late nineties and solved the problem of juvenile erectile dysfunction globally.  Named "the untouchable CEO" in the Liberty Tree (Sept. 15th 2000), Eastman gives a percentage of his money to charity and has three girls and a wife. Goldberg, Ligner and Shyster saw this as a challenge.  Taking down a prize such as this was a top goal.
-0x2987A31B=
+0x2987A31B=Mark Eastman从药店店员起家，通过不懈的努力，他在30岁时战胜了癌症，之后成为了全世界最大的制药公司之一的首席执行官。九十年代末，他将Mollis推向市场，在全球范围内解决了青少年勃起功能障碍的问题，因此赢得了多项人道主义奖项。Eastman将自己的一部分财产捐给慈善机构，并有三个女儿和一位妻子，在2000年9月15日的Liberty Tree报道中被称为「无可非议的CEO」。GLS律所将此视为挑战，拿下这样一位大人物是我们的首要目标。
 
 ;0xB9DB7408=After thorough investigation, our attorneys were able to find certain accounting irregularities pertaining to Eastman's student loan payments. From this cornerstone, a case was constructed that toppled him from his position of power and made a name for the GL&S team.  His wife divorced him and one of his three daughters has reportedly turned to prostitution.
-0xB9DB7408=
+0xB9DB7408=经过彻底的调查，我们的律师发现Eastman的学生贷款还款中存在会计违规行为。在此基础上，我们向他发起诉讼，迫使其从董事会下台，并为GLS团队赢得了声誉。他的妻子最终选择了离婚，传言他的一个女儿去卖淫了。
 
 ;0x1EB6AC60=GL&S, All Rights Reserved . Privacy Statement . Contact Info
 0x1EB6AC60=
