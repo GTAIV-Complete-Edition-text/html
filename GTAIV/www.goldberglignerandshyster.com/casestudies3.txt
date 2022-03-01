@@ -17,7 +17,7 @@
 0x5845021B=
 
 ;0x49EE3F11=Case brought in 2006
-0x49EE3F11=于2006年结案
+0x49EE3F11=2006年提起的案件
 
 ;0xDAB2AB70=Settlement: 
 0xDAB2AB70=
