@@ -1,27 +1,27 @@
 ﻿;0x8C19277A=U.S. NEWS 
-0x8C19277A=
+0x8C19277A=美国新闻
 
 ;0x330168F1=VIEWS
-0x330168F1=
+0x330168F1=观点
 
 ;0xA603FC4E=POLITICS
-0xA603FC4E=
+0xA603FC4E=政治
 
 ;0x9CB5B78B=BUSINESS
 0x9CB5B78B=
 
 ;0x40FEBCA2=GUNS
-0x40FEBCA2=
+0x40FEBCA2=枪械
 
 ;0x75596030=PATRIOT
-0x75596030=
+0x75596030=爱国者
 
 ;0xA5DAE654=LOCAL WEATHER
-0xA5DAE654=
+0xA5DAE654=本地天气
 
 ;0xA6DF84F7=This material may not be published, broadcast, rewritten, or redistributed.
-0xA6DF84F7=
+0xA6DF84F7=本站内容严禁转载、刊印、改写、分发
 
 ;0x689B5B16=All rights reserved. All news delayed 13hrs.
-0x689B5B16=
+0x689B5B16=版权所有　全部新闻均有13小时的延迟
 
