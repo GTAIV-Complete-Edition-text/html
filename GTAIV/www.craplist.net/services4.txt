@@ -1,66 +1,6 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3EEFFC59=>services
-0x3EEFFC59=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xC4E8DD35=SERVICES
-0xC4E8DD35=
-
-;0x6EE4C188=TOPLESS TAX RETURNS!!!
-0x6EE4C188=
-
-;0x2A5A990A=(Alderney)
-0x2A5A990A=
-
-;0x514532EA=Tax time is the worst time.  Tax law is ridiculously complicated and, if you get it wrong, you could miss out on a windfall or end up with a huge bill to help Uncle Sam buy shitty rest stop trash cans and bombs.   Filing a tax return is a long, tedious, stressful process.  That's all about to change!  We promise to maximize your bottom line... TOPLESS!  Our team of qualified female accountants is on call 24/7 to get you through tax season or help you organize your finances with a smile on your face!  Time flies when you're having fun.  Email us now for a brochure and/or initial consultation.  We put the tits in tax!  And we're tax deductible. 
+﻿;0x514532EA=Tax time is the worst time.  Tax law is ridiculously complicated and, if you get it wrong, you could miss out on a windfall or end up with a huge bill to help Uncle Sam buy shitty rest stop trash cans and bombs.   Filing a tax return is a long, tedious, stressful process.  That's all about to change!  We promise to maximize your bottom line... TOPLESS!  Our team of qualified female accountants is on call 24/7 to get you through tax season or help you organize your finances with a smile on your face!  Time flies when you're having fun.  Email us now for a brochure and/or initial consultation.  We put the tits in tax!  And we're tax deductible. 
 0x514532EA=
 
 ;0xA5D56B7B=PostingID: 262058325
 0xA5D56B7B=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

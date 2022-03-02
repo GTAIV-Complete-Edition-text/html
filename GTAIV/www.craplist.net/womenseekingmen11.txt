@@ -1,37 +1,4 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x9D8C3A25=>women seeking men
-0x9D8C3A25=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3A8FADC1=missed connections
-0x3A8FADC1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x0AEAFDB3=WOMEN SEEKING MEN 
-0x0AEAFDB3=
-
-;0x0BB65B21=Are you good at math but bad with girls? - 15
+﻿;0x0BB65B21=Are you good at math but bad with girls? - 15
 0x0BB65B21=
 
 ;0x8092D5A8=(Fortside)
@@ -45,10 +12,4 @@
 
 ;0xDADFB72B=PostingID: 562030070
 0xDADFB72B=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

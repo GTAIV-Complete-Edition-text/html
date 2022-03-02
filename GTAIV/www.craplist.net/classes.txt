@@ -1,44 +1,8 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0xB56CC71B=>classes
+﻿;0xB56CC71B=>classes
 0xB56CC71B=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
 
 ;0x69D4F298=activities
 0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
 
 ;0x0561DA07=CLASSES
 0x0561DA07=
@@ -88,18 +52,9 @@
 ;0xB65B5896=Are you having trouble keeping it up?
 0xB65B5896=
 
-;0x0B2515CB= (Middle Park)
-0x0B2515CB=
-
 ;0xE284EC72=Over-40's breakdancing class!!!
 0xE284EC72=
 
 ;0x9438C533= (South Bohan)          
 0x9438C533=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

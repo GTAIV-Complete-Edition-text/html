@@ -1,55 +1,4 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0xB56CC71B=>classes
-0xB56CC71B=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x0561DA07=CLASSES
-0x0561DA07=
-
-;0xD77CDA8E=Motivational Seminar - Get your game together with Bruce Kibbutz!
-0xD77CDA8E=
-
-;0x4ACC8311=(Broker)
+﻿;0x4ACC8311=(Broker)
 0x4ACC8311=
 
 ;0xCC6BE129=Can you imagine waking up every morning and wanting to look at yourself for hours in the mirror?  The nineties were the age of the New Man.  Now it's time for the Ultimate Man.  A man with a blog, a PDA, 20-inch rims, a 10-inch cock, the perfect body and the rock star lifestyle.  You want it all, you deserve it all.
@@ -66,10 +15,4 @@
 
 ;0x90CC7E14=PostingID: 610024001
 0x90CC7E14=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

@@ -1,54 +1,6 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3B0CB221=>
-0x3B0CB221=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x0CE017A1=women seeking men
-0x0CE017A1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3A8FADC1=missed connections
-0x3A8FADC1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xED3DC20D=MEN SEEKING MEN 
-0xED3DC20D=
-
-;0xBA0E5829=Straight married guy wants same - nsa, v discreet
-0xBA0E5829=
-
-;0x0C864C7F=(Lower Easton)
-0x0C864C7F=
-
-;0x19A98C26=Don't get me wrong.  I'm as hetero as they come. Or more so. I love women and beer and sports.  I just want something different, something to rock my world.  All my wife does these days is lie there like a sack of potatoes.  I'm bored of lap dancers and coke whores.  Let's get a hotel room, drink some wine and play around.  You must be married and straight.  If we're both straight then it's not gay.  I'm 39 5'11" 175lb, in good shape and a big Liberty City Rampage fan. 
+﻿;0x19A98C26=Don't get me wrong.  I'm as hetero as they come. Or more so. I love women and beer and sports.  I just want something different, something to rock my world.  All my wife does these days is lie there like a sack of potatoes.  I'm bored of lap dancers and coke whores.  Let's get a hotel room, drink some wine and play around.  You must be married and straight.  If we're both straight then it's not gay.  I'm 39 5'11" 175lb, in good shape and a big Liberty City Rampage fan. 
 0x19A98C26=
 
 ;0x09E03A74=PostingID: 562036972
 0x09E03A74=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

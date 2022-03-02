@@ -1,29 +1,5 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x6520FC0D=>missed connections
+﻿;0x6520FC0D=>missed connections
 0x6520FC0D=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x0CE017A1=women seeking men
-0x0CE017A1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0x2958A881=| 
-0x2958A881=
 
 ;0x0E776B53=MISSED CONNECTIONS 
 0x0E776B53=
@@ -49,20 +25,11 @@
 ;0x26ADA367=I wolf-whistled as you were crossing the road, you got knocked down by a truck
 0x26ADA367=
 
-;0x0D07F383= (Port Tudor) 
-0x0D07F383=
-
 ;0x1E5B72CE=Were you on the bus from Chinatown to Lancaster last night at around 1 AM? 
 0x1E5B72CE=
 
-;0x8A12C5B5= (Lancaster) 
-0x8A12C5B5=
-
 ;0x25978B57=Our eyes met, my wife hit me
 0x25978B57=
-
-;0xD5F670E7= (BOABO) 
-0xD5F670E7=
 
 ;0x53B27568=Sorry for checking out your 13-year-old daughter
 0x53B27568=
@@ -73,9 +40,6 @@
 ;0xE4CE007B=Indian girl in the park - why did you run?
 0xE4CE007B=
 
-;0xD5CE7F3A= (Presidents City) 
-0xD5CE7F3A=
-
 ;0xEAF73F55=You're a hot flight attendant, I was drunk
 0xEAF73F55=
 
@@ -85,18 +49,6 @@
 ;0x73E4A449=I kicked your dog, you spat in my face
 0x73E4A449=
 
-;0xCC397AA3= (Lower Easton) 
-0xCC397AA3=
-
 ;0xE2E5F5AD=Were you walking along Iron Street in The Triangle this morning?
 0xE2E5F5AD=
-
-;0x09751FE5= (Colony Island) 
-0x09751FE5=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

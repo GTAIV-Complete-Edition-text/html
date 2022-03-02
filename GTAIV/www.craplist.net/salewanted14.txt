@@ -1,55 +1,4 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x7DFD8D83=>sale&wanted
-0x7DFD8D83=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x074F3216=SALE / WANTED
-0x074F3216=
-
-;0x0C7660B0=For sale:  bunch of self-help books
-0x0C7660B0=
-
-;0xB3F2F94F=(Fishmarket South)
+﻿;0xB3F2F94F=(Fishmarket South)
 0xB3F2F94F=
 
 ;0x0608B8A2=I've bought every self-help book under the sun over the past couple of years.  By my calculations, I should be rich, famous and good-looking by now.  Or at least happy.  But I'm still overweight, I still earn minimum wage, I still hate my parents, I'm still lame in bed... nothing ever changes.  The closest I get to self-help is a dirty magazine and a box of tissues.  I've tried meditation, Chakra dancing and starting a diary.  I've de-cluttered my home storage and chanted "I am empowered" into the bathroom mirror.  At some point, you have to admit defeat.  Time to get real.  Positive thinking gives you false hope.  I was so much happier as a pessimist.  Email me for title list and prices.  I want to lose them asap so I can get back to focusing on the slow march towards death. 
@@ -57,10 +6,4 @@
 
 ;0x2A338AA5=PostingID: 454672669
 0x2A338AA5=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

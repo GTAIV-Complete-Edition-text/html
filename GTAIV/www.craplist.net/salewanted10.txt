@@ -1,58 +1,4 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x7DFD8D83=>sale&wanted
-0x7DFD8D83=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x074F3216=SALE / WANTED
-0x074F3216=
-
-;0x41B8C3FE=Meth lab for sale
-0x41B8C3FE=
-
-;0x83F53686=(Steinway)
-0x83F53686=
-
-;0x2C8E4D9D=Start your own business!  Anybody can make meth!  It's like a 6th grade chemistry experiment.  Meth is alchemy for the 21st century - you are turning cough medicine into gold.  I've made a lot of money over the past couple of years but it's time for a change.  I want to take some time off, play some golf and maybe try my hand at a little human trafficking.  I figure that I can always come back to meth.  Ever since I blew up my 2-year-old daughter, all the fun's gone out of it.  There's only so long you can live with blacked-out windows and the smell is driving me insane.  Not to mention the red stains on my hands! 
+﻿;0x2C8E4D9D=Start your own business!  Anybody can make meth!  It's like a 6th grade chemistry experiment.  Meth is alchemy for the 21st century - you are turning cough medicine into gold.  I've made a lot of money over the past couple of years but it's time for a change.  I want to take some time off, play some golf and maybe try my hand at a little human trafficking.  I figure that I can always come back to meth.  Ever since I blew up my 2-year-old daughter, all the fun's gone out of it.  There's only so long you can live with blacked-out windows and the smell is driving me insane.  Not to mention the red stains on my hands! 
 0x2C8E4D9D=
 
 ;0x7A5BFD68=It's a great little lab that will slot nicely into the corner of any room in the house.  
@@ -126,10 +72,4 @@
 
 ;0xDAAC6A9B=PostingID: 454673365
 0xDAAC6A9B=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

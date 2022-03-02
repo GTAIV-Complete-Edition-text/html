@@ -1,32 +1,14 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3B0CB221=>
-0x3B0CB221=
-
-;0x9F41091F=men seeking men
+﻿;0x9F41091F=men seeking men
 0x9F41091F=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
 
 ;0x0CE017A1=women seeking men
 0x0CE017A1=
 
-;0x2958A881=| 
-0x2958A881=
-
 ;0x5496CAB5=men seeking women
 0x5496CAB5=
 
-;0x2958A881=| 
-0x2958A881=
-
 ;0x3A8FADC1=missed connections
 0x3A8FADC1=
-
-;0x2958A881=| 
-0x2958A881=
 
 ;0xED3DC20D=MEN SEEKING MEN 
 0xED3DC20D=
@@ -39,9 +21,6 @@
 
 ;0x34AD183B=Can you come to my house in the next hour?  THIS IS URGENT!
 0x34AD183B=
-
-;0xCA01DF1C= (Willis)
-0xCA01DF1C=
 
 ;0xC804BBBC=I've rented out a limo - going to cruise round looking big-time
 0xC804BBBC=
@@ -60,10 +39,4 @@
 
 ;0xFD1A51FC= (Steinway) 
 0xFD1A51FC=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

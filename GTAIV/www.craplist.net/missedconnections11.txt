@@ -1,51 +1,6 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x6520FC0D=>missed connections
-0x6520FC0D=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x0CE017A1=women seeking men
-0x0CE017A1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x0E776B53=MISSED CONNECTIONS 
-0x0E776B53=
-
-;0xE2E5F5AD=Were you walking along Iron Street in The Triangle this morning?
-0xE2E5F5AD=
-
-;0x911652C1=(Colony Island)
-0x911652C1=
-
-;0x56DE6565=You:  blonde business woman talking on her cell phone.  Me:  the guy chasing birds with vomit all over his t-shirt.  I'm sure that you smiled at me?  I've sobered up now and would love to see you again.  Nothing to lose, that's what I always say!  
+﻿;0x56DE6565=You:  blonde business woman talking on her cell phone.  Me:  the guy chasing birds with vomit all over his t-shirt.  I'm sure that you smiled at me?  I've sobered up now and would love to see you again.  Nothing to lose, that's what I always say!  
 0x56DE6565=
 
 ;0xA464F692=PostingID: 882056720
 0xA464F692=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

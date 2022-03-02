@@ -1,55 +1,4 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0xB56CC71B=>classes
-0xB56CC71B=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x0561DA07=CLASSES
-0x0561DA07=
-
-;0xE284EC72=Over-40's breakdancing class!!!
-0xE284EC72=
-
-;0x71221EF9=(South Bohan)
+﻿;0x71221EF9=(South Bohan)
 0x71221EF9=
 
 ;0x299260FC=The 80's are never over in Liberty City.  You can find breakdancers in the subways popping and locking.  Everybody's tried to bust out the robot once or twice at a wedding and many still have the scars from a drunken attempt at a jackhammer.  After completing our 4-week intensive course, you will be able to break with the best of them.  Flares, flips, floats, kicks, freezes, drops... we will teach you it all.  Breakdancing is the perfect party trick to have in your arsenal.  Imagine how you'll be able to impress your kids' friends at sleepovers!  "Take that, bitches!!!!", you'll yell as you do the centipede.  You're never too old to hop around on one arm or spin on your head.  Classes start a week from Thursday.  Please note that we will ask you to sign an extensive waiver. 
@@ -57,10 +6,4 @@
 
 ;0x4A173873=PostingID: 6100124030
 0x4A173873=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

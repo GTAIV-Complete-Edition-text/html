@@ -1,52 +1,4 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0xA197006B=> jobs
-0xA197006B=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xCF9DBBBD=JOBS
-0xCF9DBBBD=
-
-;0x259EAF51=Does your child need a new friend?  Call Tranny Manny Nanny! 
+﻿;0x259EAF51=Does your child need a new friend?  Call Tranny Manny Nanny! 
 0x259EAF51=
 
 ;0x717918E4=(Normandy) 
@@ -60,10 +12,4 @@
 
 ;0x47703C6C=PostingID: 424779632
 0x47703C6C=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

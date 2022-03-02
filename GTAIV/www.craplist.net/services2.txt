@@ -1,55 +1,4 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3EEFFC59=>services
-0x3EEFFC59=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xC4E8DD35=SERVICES
-0xC4E8DD35=
-
-;0x864EB878=Think yourself hot with hypnosis
-0x864EB878=
-
-;0x753ABFC5=(Chinatown)
+﻿;0x753ABFC5=(Chinatown)
 0x753ABFC5=
 
 ;0xC342EA8B=Were you beaten with the ugly hammer at birth?  Does the sight of you naked make people heave?  Being ugly is so much worse than being fat - it's out of your control.  God hates you but we don't. Your only option is to spend thousands of dollars to go under the knife and turn yourself into a freak.  Unfortunately, breast enlargement is all that plastic surgery is good for.  Society dictates that unless they are rich or famous, ugly people must mate within their own kind or, occasionally, with a paralytic person from outside the species. It's a bleak picture but there is a glimmer of hope.  Hypnosis!  Think of how great it is to reprogram your mind!  It's brainwashing!  Look at how happy viewers of Weazel News are.  I am an experienced hypnotist and ventriloquist with three years experience on the cabaret circuit.  I have an extremely high success rate and most of my clients need just one session (which is why it is so expensive).  I can brainwash even the most hideous brown-bagger into feeling fuckable.
@@ -57,13 +6,4 @@
 
 ;0x3F032C86=You've already developed a great personality to over-compensate for your aesthetic failings.  Take the next step.  Think yourself hot!!!  Email me for prices and appointments. 
 0x3F032C86=
-
-;0x12AE656B=PostingID: 262058202
-0x12AE656B=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

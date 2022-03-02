@@ -1,55 +1,4 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0xA197006B=> jobs
-0xA197006B=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xCF9DBBBD=JOBS
-0xCF9DBBBD=
-
-;0xB280DF7B=Bikini waxer for over-size spa
-0xB280DF7B=
-
-;0xC3C8EC6B=(Lancet) 
+﻿;0xC3C8EC6B=(Lancet) 
 0xC3C8EC6B=
 
 ;0x932A3673=Do you like ripping out your own hair?  Try doing it to others!  It's awesome.  Have you got what it takes to give a Brazilian to a 400lb woman with a smile on your face?  Plus-size waxing requires skill and sensitivity.  If you think you're the right person for the job, drop us a note and we will send you a few photos of our regulars so you have a better idea of what you're getting yourself into.  You'll get to touch women in private places and give them pain! 
@@ -57,10 +6,4 @@
 
 ;0xFC0D1B2B=PostingID: 4248795
 0xFC0D1B2B=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

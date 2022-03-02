@@ -1,58 +1,4 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3EEFFC59=>services
-0x3EEFFC59=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xC4E8DD35=SERVICES
-0xC4E8DD35=
-
-;0xF3855F34=Is your partner starting to get suspicious?  Do you need an alibi?
-0xF3855F34=
-
-;0x61D042F0=(Liberty City) 
-0x61D042F0=
-
-;0x55CC102B=Are you looking to take your affair to the next level?  Are your stories starting to wear thin?  Stop bumbling around with feeble excuses.  Don't rely on your drunken buddies to get their story straight.  Leave your dirty work to the professionals. Golf Lovers Online is a full-service cover-up company offering airtight alibis to the adulterers of America.  Golf has been helping men stray from the fold for centuries.  We keep your indiscretions discreet.  
+﻿;0x55CC102B=Are you looking to take your affair to the next level?  Are your stories starting to wear thin?  Stop bumbling around with feeble excuses.  Don't rely on your drunken buddies to get their story straight.  Leave your dirty work to the professionals. Golf Lovers Online is a full-service cover-up company offering airtight alibis to the adulterers of America.  Golf has been helping men stray from the fold for centuries.  We keep your indiscretions discreet.  
 0x55CC102B=
 
 ;0xB0F799DC=Visit  
@@ -66,10 +12,4 @@
 
 ;0xE23BBA0E=PostingID: 262059875
 0xE23BBA0E=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

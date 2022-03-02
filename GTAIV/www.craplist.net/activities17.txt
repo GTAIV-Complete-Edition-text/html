@@ -1,55 +1,4 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x04915A94=>activities
-0x04915A94=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xC2F12958=ACTIVITIES
-0xC2F12958=
-
-;0xD63B55D4=Support group for straight adult men who love boy bands
-0xD63B55D4=
-
-;0xF5C17AEF=(South Slopes)
+﻿;0xF5C17AEF=(South Slopes)
 0xF5C17AEF=
 
 ;0x53DF5DC2=You don't need to be ashamed any longer!  There is nothing wrong with watching young androgynous males dancing in sleeveless tees.  There is nothing wrong with listening to manufactured formulaic pop songs about the angst of teenage love.  It doesn't make you a pervert.
@@ -60,10 +9,4 @@
 
 ;0x73A130AA=PostingID: 4945899103
 0x73A130AA=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

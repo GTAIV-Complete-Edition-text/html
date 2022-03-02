@@ -1,40 +1,4 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x6520FC0D=>missed connections
-0x6520FC0D=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x0CE017A1=women seeking men
-0x0CE017A1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x0E776B53=MISSED CONNECTIONS 
-0x0E776B53=
-
-;0x53B27568=Sorry for checking out your 13-year-old daughter
-0x53B27568=
-
-;0x9A0CF946=(Easton)
+﻿;0x9A0CF946=(Easton)
 0x9A0CF946=
 
 ;0xDB177216=You were a guy (early 40s) in a black turtleneck standing in line at the Bean Machine Coffee in Star Junction with your daughter (early teens) last Thursday.  You clocked me checking her out big time.  I even shook my head and mouthed 'wow' to myself as I ran my eyes hungrily over her tanned, lithe body.  Busted!  The expression in your eyes said it all - hatred mingled with disappointment and understanding.  I don't know what I was thinking.  I felt disgusted with myself, especially later that evening.  Anyway, I just wanted to say that I'm sorry.  The last thing any father wants to see is some drunk guy drooling over his daughter.  So why do you let her wear shorts that don't ever cover her hard little ass?!!!!  
@@ -45,10 +9,4 @@
 
 ;0xCB6696AC=PostingID: 882035314
 0xCB6696AC=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

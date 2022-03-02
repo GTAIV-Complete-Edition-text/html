@@ -1,34 +1,4 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3B0CB221=>
-0x3B0CB221=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x0CE017A1=women seeking men
-0x0CE017A1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3A8FADC1=missed connections
-0x3A8FADC1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x1FD2E5AF=MEN SEEKING WOMEN 
+﻿;0x1FD2E5AF=MEN SEEKING WOMEN 
 0x1FD2E5AF=
 
 ;0x5791EC30=Free massage - non-sexual!
@@ -76,9 +46,6 @@
 ;0xFA3741E5=Do you want to watch me crack one off?
 0xFA3741E5=
 
-;0xADCA5119= (Acter) 
-0xADCA5119=
-
 ;0x5105DFA7=I need a pretend girlfriend for Friday night - 29
 0x5105DFA7=
 
@@ -87,9 +54,6 @@
 
 ;0x3E3CD175=Mother and daughter for menage a trois????
 0x3E3CD175=
-
-;0x32C571F1= (The Triangle) 
-0x32C571F1=
 
 ;0x1A06B77E=No more Mr. Nice Guy
 0x1A06B77E=
@@ -111,13 +75,4 @@
 
 ;0xD754869C=Unemployed pot smoker seeks high-powered career woman - 33
 0xD754869C=
-
-;0x09E7237C= (Schottler) 
-0x09E7237C=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

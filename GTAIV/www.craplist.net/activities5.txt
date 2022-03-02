@@ -1,55 +1,4 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x04915A94=>activities
-0x04915A94=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xC2F12958=ACTIVITIES
-0xC2F12958=
-
-;0xA06DF764=COED TRAMPOLINE CLUB NEEDS GIRLS!
-0xA06DF764=
-
-;0x83F53686=(Steinway)
+﻿;0x83F53686=(Steinway)
 0x83F53686=
 
 ;0xD752F5E1=Remember when you were a kid and you were jumping on the trampoline and you came down on the metal rim and hit your nuts so hard you wanted to die?  Trampolining is fun and anybody can do it!  It's a great stress reliever and it's fun to sing religious hymns and hit those high notes as you come down on the rim.  You can watch girls jump up and down then rack yourself to oblivion to atone.  Our casual coed runs every Monday at 8 PM.  Come and join the party!   
@@ -63,10 +12,4 @@
 
 ;0xCC8243F3=PostingID: 494534417
 0xCC8243F3=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

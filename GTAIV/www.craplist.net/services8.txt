@@ -1,66 +1,6 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3EEFFC59=>services
-0x3EEFFC59=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xC4E8DD35=SERVICES
-0xC4E8DD35=
-
-;0x9D165BBC=I need an exterminator!
-0x9D165BBC=
-
-;0x0CB47C64=(Fort Side)
-0x0CB47C64=
-
-;0x4C9AE530=My apartment is infested with insects.  They're everywhere!!!!!!  I can't sleep, I can't eat.  They crawl all over me, eating away at my skin.  I can't stop scratching   I can't get rid of them.  And I think my roommate's trying to kill me.  It's a nightmare.  I've called out two exterminators in the last week but they were fucking amateurs.  Trees.  Swat teams.  Pool of blood.  What? Who are you?  I kept screaming "I'm covered in them" but they just looked at me like I was some kind of lunatic.  I can't take much more of this.  I need somebody to deal with this TODAY.  I can't pay you but I've got a massive bag of tina. 
+﻿;0x4C9AE530=My apartment is infested with insects.  They're everywhere!!!!!!  I can't sleep, I can't eat.  They crawl all over me, eating away at my skin.  I can't stop scratching   I can't get rid of them.  And I think my roommate's trying to kill me.  It's a nightmare.  I've called out two exterminators in the last week but they were fucking amateurs.  Trees.  Swat teams.  Pool of blood.  What? Who are you?  I kept screaming "I'm covered in them" but they just looked at me like I was some kind of lunatic.  I can't take much more of this.  I need somebody to deal with this TODAY.  I can't pay you but I've got a massive bag of tina. 
 0x4C9AE530=
 
 ;0x9BB00390=PostingID: 262056498
 0x9BB00390=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

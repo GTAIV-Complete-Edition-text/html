@@ -1,46 +1,4 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3B0CB221=>
-0x3B0CB221=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x0CE017A1=women seeking men
-0x0CE017A1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3A8FADC1=missed connections
-0x3A8FADC1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x7B578CD5=MEN SEEKING WOMEN
-0x7B578CD5=
-
-;0xD754869C=Unemployed pot smoker seeks high-powered career woman - 33
-0xD754869C=
-
-;0xEA767626=(Schottler)
-0xEA767626=
-
-;0x6EF29342=Unemployed heavy pot smoker seeks high-powered career woman for long-term relationship.  How many times do you hear people say that opposites attract???  I watch talk shows all day and I'm telling you - it's a lot!!  Think about it.  You'll never feel that you're in competition with me.  You'll never have to worry about me working late.  You'll always have the upper hand.  I'll be at your place during the day to deal with deliveries.  Most guys are intimidated by a successful woman but I have no issues with a chick who earns more money than me.  Given that I earn no money whatsoever, a decent chunk of the female race fall into that category.  I don't cook or clean but I'm extremely low maintenance - a place to crash, a fridge full of food, a small allowance and I'm one very happy camper.  Two workaholics do not make for a good relationship.  I'll bring some lethargy back into your life.  I'm a slim 34yo swm with dreadlocks, a goatee and no goals.  Wanna meet me for ice cream this week?  My schedule is very flexible.   
+﻿;0x6EF29342=Unemployed heavy pot smoker seeks high-powered career woman for long-term relationship.  How many times do you hear people say that opposites attract???  I watch talk shows all day and I'm telling you - it's a lot!!  Think about it.  You'll never feel that you're in competition with me.  You'll never have to worry about me working late.  You'll always have the upper hand.  I'll be at your place during the day to deal with deliveries.  Most guys are intimidated by a successful woman but I have no issues with a chick who earns more money than me.  Given that I earn no money whatsoever, a decent chunk of the female race fall into that category.  I don't cook or clean but I'm extremely low maintenance - a place to crash, a fridge full of food, a small allowance and I'm one very happy camper.  Two workaholics do not make for a good relationship.  I'll bring some lethargy back into your life.  I'm a slim 34yo swm with dreadlocks, a goatee and no goals.  Wanna meet me for ice cream this week?  My schedule is very flexible.   
 0x6EF29342=
 
 ;0x444478D8=You buy the ice cream. 
@@ -48,10 +6,4 @@
 
 ;0x9C602309=PostingID: 698008189
 0x9C602309=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

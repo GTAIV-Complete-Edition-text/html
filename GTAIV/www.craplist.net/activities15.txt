@@ -1,55 +1,4 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x04915A94=>activities
-0x04915A94=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xC2F12958=ACTIVITIES
-0xC2F12958=
-
-;0x3A9B033F=Failing police officer needs people to stage a crime.  $$$$
-0x3A9B033F=
-
-;0x7876FC5D=(Purgatory)
+﻿;0x7876FC5D=(Purgatory)
 0x7876FC5D=
 
 ;0x0D1D097C=Ever since Mayor Ochoa's crackdown on crime in Liberty City, my precinct has been handing out some aggressive arrest targets.  It's a nightmare.  I didn't sign up for all the dangerous stuff.  I'm more of a man about town - a people person.  I give directions to tourists, I ask hobos not to eat out of the trashcans, I let children play with my gun.  I've got no chance of catching some young punk with half of Colombia coursing through his veins.  It takes me all my time to get up a flight of stairs.  I'm consistently the worst-performing officer in my squad and, if I don't take drastic action, I'll be working security at Binco by the end of the year.
@@ -66,10 +15,4 @@
 
 ;0x71A12D84=PostingID: 4945899101
 0x71A12D84=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

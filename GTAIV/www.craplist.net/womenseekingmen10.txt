@@ -1,41 +1,5 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x9D8C3A25=>women seeking men
-0x9D8C3A25=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3A8FADC1=missed connections
-0x3A8FADC1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x0AEAFDB3=WOMEN SEEKING MEN 
-0x0AEAFDB3=
-
-;0x3DF2949B=Are you looking for a beautiful, nubile wife...?
+﻿;0x3DF2949B=Are you looking for a beautiful, nubile wife...?
 0x3DF2949B=
-
-;0x61D042F0=(Liberty City) 
-0x61D042F0=
 
 ;0x1409669D=...or at least someone to clean up around the house and give you hand release? 
 0x1409669D=
@@ -48,10 +12,4 @@
 
 ;0x5CE2C268=PostingID: 562030004
 0x5CE2C268=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 
