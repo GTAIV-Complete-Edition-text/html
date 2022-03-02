@@ -1,21 +1,21 @@
 ﻿;0x24EADA9A=TIRED OF HOLDING YOUR BREATH,
-0x24EADA9A=
+0x24EADA9A=厌倦了苦苦等待，
 
 ;0xA0CAB33B=WAITING FOR THE RIGHT CAR TO COME ALONG?
-0xA0CAB33B=
+0xA0CAB33B=希望遇到自己心仪的车型？
 
 ;0xF19BD9B7=Welcome to AutoEroticar - you've made the right choice.
-0xF19BD9B7=
+0xF19BD9B7=欢迎光临AutoEroticar，您来对地方了。
 
 ;0x946721D1=AutoEroticar vehicles aren't for just anyone. Our customers want the best of everything and need a ride with thrust, power, potency, style and sass - performance is everything.
-0x946721D1=
+0x946721D1=AutoEroticar的车可不是大路货。我们的客户追求全方面的极致，推力、马力、效率、外型，缺一不可。表现就是一切。
 
 ;0xE73D383A=Feel free to cruise around the site and check out our taut bodies; run your eyes over our perfect curves and high-maintenance finish - we know you'll be begging to buy.
-0xE73D383A=
+0xE73D383A=在站内四处转转吧，看看我们的靓车。让目光扫过这些完美的曲线和精心保养的抛光，您一定会管不住手的。
 
 ;0x92D7FE29=We assure customers that our automobiles have only the highest quality rim jobs, lube jobs and waxes - there is absolutely no junk in our trunks.
-0x92D7FE29=
+0x92D7FE29=我们可以向客户保证，本店销售的车都采用了顶级的轮毂、润滑油和抛光蜡，我们的车里绝无垃圾。
 
 ;0xFEB4B0D0=We aim to satisfy all your urges. You'll be going from 0 to Sexy in no time at all...
-0xFEB4B0D0=
+0xFEB4B0D0=您的需求就是我们的要求。弹指之间，您就能掌握性感的秘诀。
 

@@ -62,7 +62,7 @@
 0x6D381948=
 
 ;0x7EB66ECF=Life suddenly got quick!
-0x7EB66ECF=
+0x7EB66ECF=生活突然快了起来！
 
 ;0xE4783D2A=www.bleeter.biz
 0xE4783D2A=
