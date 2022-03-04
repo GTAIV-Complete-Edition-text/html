@@ -5,8 +5,8 @@
 0xD836A792=
 
 ;0xCC8C713F=This is extremely embarrassing.  I have my member stuck in a ketchup bottle.  There was this great show on Weazel this afternoon.  That guy Jeremy, man, I got horny, I grabbed the nearest thing.  I'm not proud of myself right now, let me tell you.  It's a jumbo-size bottle, by the way.  I've tried everything but it keeps getting worse.  It looks like a crime scene down there.  I thought that mayonnaise might help to grease the wheels but I just ended up with more swelling and some rancid thousand island.  I'm too ashamed to call my friends and I'm certainly not going to the hospital.  I've never felt pain like this.  Is anybody in or near Willis?  Can you help me out?  My wife gets home in less than an hour! 
-0xCC8C713F=
+0xCC8C713F=实在太尴尬了，我的伙计卡在番茄酱瓶子里了。事情要从今天下午Weazel电视台的电视节目说起，看着电视上的Jeremy，天，我发情了，就随手拿了个东西过来。我一点都不高兴，真的，虽然那是个特大号的瓶子。我想尽了一切办法，但还是拿不下来。屋子里现在跟杀了人一样。本想着涂点蛋黄酱润个滑，结果搞得下面更肿了，还弄了摊腐臭的千岛酱出来。实在不好意思叫朋友帮忙，又不想去医院。这是我这辈子最痛的一次。有住在Willis附近的人吗？你能来帮帮我吗？再过一个小时我老婆就回家了！
 
 ;0x04D366A2=PostingID: 562036989
-0x04D366A2=
+0x04D366A2=帖子ID：562036989
 
