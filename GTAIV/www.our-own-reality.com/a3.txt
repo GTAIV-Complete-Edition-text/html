@@ -1,33 +1,33 @@
-﻿;0xDD4AF0A6=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals, 
-0xDD4AF0A6=
+;0xDD4AF0A6=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals, 
+0xDD4AF0A6=搞臭你心爱的明星！八卦、蜚语、丑闻、
 
 ;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
-0x5E1A6427=
+0x5E1A6427=分手、崩溃、争吵......以及一切我们可以偷拍到的秘密！
 
 ;0x1FF0E45F=The whirlwind romance that has filled your empty little lives with some vestige of meaning the past six days is over already.  Samantha Muldoon's marriage to hedge fund mogul, Kirk Simplex, lasted just twenty minutes!!!  The wedding cost a reported 50 million dollars and all thirteen of Muldoon's adopted children attended in costumes from their native countries.  A-Z List magazine paid the couple fifteen million dollars for exclusive photo rights.  She has issued the following statement:  "We'd barely pulled out of the parking lot when he started messing around with my CD changer and picking his teeth with a cocktail stick.  We got into a huge fight and I just handbrake-turned the car and drove straight back for an annulment.  We might have been drunk but I knew right there and then he wasn't the right man for me."
-0x1FF0E45F=
+0x1FF0E45F=在过去的六天里，那充斥了你虚无生命的浪漫旋风席卷而去，只留下了些微可供回忆的残骸。Samantha Muldoon与对冲基金大亨Kirk Simplex的婚姻仅仅只持续了20分钟就结束了！！！据报道，举办这场婚礼花了大概5000万美金，Muldoon收养的13个孩子也都穿着本国服饰出席。《A-Z List》杂志为了获得婚礼照片的独家刊载权而向这对新婚夫妇支付了1500万美金。她在事后发表了如下声明：“当他搞乱我的CD换碟机，还用鸡尾酒橄榄签在我面前剔牙的时候，我们就吵架吵到几乎没能从停车场出来。于是我直接开着车漂移掉头去把婚给退了。我们可能确实都喝了点酒，不过那时我忽然很清楚的知道无论是在现在还是未来，他都不可能是我的良配了。”
 
 ;0x072C4301=This is Muldoon's fourth marriage, none of which have lasted a month.  Her debauched bachelorette parties have become the most sought-after events on the celebutante social calendar.
-0x072C4301=
+0x072C4301=算上这次，Muldoon已经经历了四段婚姻，并且没有一段能坚持超过一个月。而她在每次婚前举办的那些放荡单身派对已经成为了娱乐圈各位名流社交日历上最受欢迎的活动。
 
 ;0xDCDC1AF3=This is huge!!!  Rich bitch, January Natasha Vasquez, was spotted WALKING DOWN THE STREET BY HERSELF in San Fierro yesterday afternoon.  Eyewitnesses told us that she looked pale and reflective so we are going to pick out the worst photo and speculate that she is cheating on her boyfriend.  Remember: you heard it here first.  Isn't it great to be focusing on this instead of the millions of people sitting in filth and starving to death?  You're the most important person in the world.  Never forget it.
-0xDCDC1AF3=
+0xDCDC1AF3=劲爆消息！！！January Natasha Vasquez，也就是那个有钱的婊子，昨天下午被人发现独！自！走！在！San Fierro的街头。据目击者称她看起来面色苍白且心事重重，因此我们打算先拍下她最狼狈的样子然后作出不负责任的合理猜测：她在背着男友偷腥。记住：你在这里才能听到第一手的小道消息，而且这里人讲话又好听，难道不比跟其他芸芸众生挤坐在污秽中等死强得多？你是这世界上最重要的人。永远别忘记这一点。
 
 ;0x34181C06=- BREAKING NEWS: Von Crastenburg Sex Tape!!!
-0x34181C06=
+0x34181C06=号外：Von Crastenburg性爱录像流出！！！
 
 ;0x3EE4D7E2=- Is it December for January?
-0x3EE4D7E2=
+0x3EE4D7E2=January迎来她生命的寒冬了吗？
 
 ;0x9EED7F4E=- King or Queen? Secret Royal Family Hermaphrodite Shocker!!!
-0x9EED7F4E=
+0x9EED7F4E=国王还是皇后？令人震惊的秘密：皇室家族成员是双性人！！！
 
 ;0x841286AE=- Wardrobe malfunction turns bloody!!!
-0x841286AE=
+0x841286AE=剧场机械故障酿成血腥惨剧！！！
 
 ;0xE03A82FB=- Muldoon marriage over in 20 minutes!!!
-0xE03A82FB=
+0xE03A82FB=Muldoon的婚姻在20分钟内结束！！！
 
 ;0x8115291D=- Celebrity sighting!!!
-0x8115291D=
+0x8115291D=明星出没！！！
 
