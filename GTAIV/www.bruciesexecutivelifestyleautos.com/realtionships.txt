@@ -1,33 +1,34 @@
 ﻿;0x6E535933=It's not rocket science.
-0x6E535933=
+0x6E535933=这不难理解。
 
 ;0x06EA0F3C=Q. Why  do most men never meet the woman of their dreams?
-0x06EA0F3C=
+0x06EA0F3C=问：为什么大多数男人从未遇到他们的梦中情人？
 
 ;0x7ED2BDE9=A. Stop dreaming and start living. Beautiful women only sleep with fat, bald or ugly men if they are 1) rich or 2) famous.
-0x7ED2BDE9=
+0x7ED2BDE9=答：认清形势，放弃幻想。漂亮女人才不会和又胖又秃又丑的男人上床呢，除非他有钱或有名。
 
 ;0x2BA1AE28=Q. Why is the divorce rate so high?
-0x2BA1AE28=
+0x2BA1AE28=问：为什么离婚率这么高？
 
 ;0x3459E1C3=A. Because men are marrying women who do not live up to the porn ideal. Marry someone who cares about the things that matter to you - success, superficiality, good looks, and material possessions.
-0x3459E1C3=
+0x3459E1C3=答：因为男人娶了不符合他们色情需求的女人。和一个在乎对你来说重要的事物的人结婚—成功、名利、靓丽外表和物质财富。
 
 ;0x137399C7=Q. Why does Brucie only date blonde models with fake breasts?
-0x137399C7=
+0x137399C7=问：为什么Brucie只和有假胸的金发模特约会？
 
 ;0xB1E4912B=A. Because I can.
-0xB1E4912B=
+0xB1E4912B=答：因为我可以这样做。
 
 ;0x0117DBD3=Imagine what would happen to your life if you were rich, famous and good-looking! More pussy than you can shake a stick-shift at, that's what. Women love having their reproductive organs waved at by a stick. Believe me, it worked for our ancestors and it works now. Welcome to my world. I'm a winner. Are you?
-0x0117DBD3=
+0x0117DBD3=想象一下，如果你有钱、有名、漂亮，你的生活会发生什么变化？逼多到你操不过来，就是这样。女人喜欢她们的生殖器官被大棍挥舞，
+相信我，我们的祖先是这样，现在也一样。欢迎来到我的世界。我是个赢家。你是吗?
 
 ;0xFC0B6146=Don't settle for second best. Don't kid yourself that you can be happy with droopy tits and cottage cheese thighs.
-0xFC0B6146=
+0xFC0B6146=不要退而求其次。别骗自己说下垂的奶子和疲软的大腿能让你满意。
 
 ;0xD235B7E9=I know I can't.
-0xD235B7E9=
+0xD235B7E9=反正我是不会对此满意的。
 
 ;0x54CEE16B=Let Brucie show you how a pimp rolls.
-0x54CEE16B=
+0x54CEE16B=让Brucie来教你怎么当好皮条客。
 

@@ -1,9 +1,9 @@
 ﻿;0x81848AB6=Come on! Scrape yourself off the bottom of the Z-list barrel. Life is all about status. Everyone on the scene in Liberty City knows Brucie. I'm the ultimate VIP, a promoter's wet dream.
-0x81848AB6=
+0x81848AB6=来嘛！别再呆在末流明星的底层了。人生要的就是地位。在自由城每个人都认识Brucie。我是终极VIP，是推广者的梦中人。
 
 ;0x9BE11E75=People want me in their clubs because I attract attention. Flashing the cash is essential. Spend, spend, spend! Ever seen that guy who walks to the front of every line, gets ushered to a private table, drinks Chateau de Buff and spends the whole night surrounded by porn stars? That's me. That could be you.
-0x9BE11E75=
+0x9BE11E75=人们想要我走进他们的会所，因为我能吸引注意力。炫耀金钱是必不可少的。花钱，花钱，花钱！见过那个不用排队，被招待进包房，喝壮阳酒，整夜都被色情明星包围着的人吗？那人就是我。你也能这样。
 
 ;0x54AFBDB8=Let Brucie show you how a big player rolls. 
-0x54AFBDB8=
+0x54AFBDB8=让Brucie来教你成功人士是如何生活的。
 
