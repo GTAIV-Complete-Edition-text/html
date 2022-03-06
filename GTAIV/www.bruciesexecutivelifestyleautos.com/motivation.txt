@@ -14,5 +14,5 @@
 0x9BEBADD0=如果你不相信自己，请相信我。我能激励你。
 
 ;0x5FE8744E=Self-esteem is my drug. I show men what they can be and women what they can have. Carry a picture of me in your wallet and take a look whenever you feel your fat ass drawn to a slice of pizza, an item of non-branded clothing, or a fuel efficient car.
-0x5FE8744E=我的制胜法宝是自尊心。我向男人展示他们能成为什么，向女人展示他们能拥有什么。在你的钱包里放一张我的照片，每当你觉得要颓废地看上一片比萨，一件地摊货衣服或一辆节能车时，就看一眼照片。
+0x5FE8744E=我的制胜法宝是自尊心。我向男人展示他们能成为什么，向女人展示她们能拥有什么。在你的钱包里放一张我的照片，每当你觉得要颓废地看上一片比萨，一件地摊货衣服或一辆节能车时，就看一眼照片。
 
