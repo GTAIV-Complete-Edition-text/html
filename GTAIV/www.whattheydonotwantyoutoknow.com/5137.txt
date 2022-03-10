@@ -1,18 +1,18 @@
 ﻿;0xAB67BAEB=Sick freaks to avoid.
-0xAB67BAEB=
+0xAB67BAEB=小心猥琐怪。
 
 ;0xC2954BC2=Back
-0xC2954BC2=
+0xC2954BC2=返回
 
 ;0xC6732710=Posted by SaneJane
-0xC6732710=
+0xC6732710=发布者：SaneJane
 
 ;0xE79EEB91=Perverts! Perverts! Perverts!  That's all this city is made up of - filthy perverts!  Can't people keep to themselves and leave the rest of us alone!  I try not to leave my apartment, but when I do have to go out to get more ammunition, vitamin supplements, or laxative I want to be left in peace.  Sick pervert freaks have tried to engage me in conversation and steal my soul.  They are at these places.  AVOID AT ALL COSTS!
-0xE79EEB91=
+0xE79EEB91=变态！变态！变态！这城里全是猥琐的变态！大家就不能互相离远点好好独处吗？除非不得不去买子弹、维他命和泻药的情况下，我已经尽力不出家门了。我就想好好呆着。猥琐变态总是来搞你，和你搭话，把你的魂勾飞。他们就在这些地方。不管怎样，一定要小心！
 
 ;0xF04DCD44=Posted by EddieLow 
-0xF04DCD44=
+0xF04DCD44=发布者：EddieLow 
 
 ;0x12DE8832=Mommy told me not to talk to strangers. Yucky, filthy, disgusting strangers.
-0x12DE8832=
+0x12DE8832=妈妈教我不要搭理讨厌、猥琐、恶心的陌生人。
 

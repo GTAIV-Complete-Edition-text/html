@@ -1,84 +1,84 @@
 ﻿;0x9B07DEAC= Vehicles appear out of thin air and I haven't even been 
-0x9B07DEAC=
+0x9B07DEAC=绝对不是吸嗨看走了眼，
 
 ;0x00584DEE= sniffing any glue today!
-0x00584DEE=
+0x00584DEE=车子就这样凭空变了出来！
 
 ;0xC2954BC2=Back
-0xC2954BC2=
+0xC2954BC2=返回
 
 ;0xBEBC14F4=Posted by MathsGeek
-0xBEBC14F4=
+0xBEBC14F4=发布者：MathsGeek
 
 ;0xA6F331B0=We're all in a computer and there's no escaping that fact.  We're living in the future and every person is hard wired to a cell phone network where calls and text messages are powered off brain synapses.  I found a way to hack the system and take advantage of a glitch in the network code.
-0xA6F331B0=
+0xA6F331B0=我们深陷在电脑里，这没得洗。人们生活在未来世界，利用手机网络连接起来，用脑力打电话发短信。我找到了一个办法来黑入这个系统，并利用了代码里的漏洞。
 
 ;0x6FEA3FAF=Hit these numbers on your cell and vehicles materialize out of the ether.  Life as we know it is over, people.  Liberty City is no more real than the massively multiplayer games my Mom yells at me for staying up all night with.  I'm never taking out the trash or walking the dog again.
-0x6FEA3FAF=
+0x6FEA3FAF=用你的手机拨打以下号码，车子就会凭空出现。旧生活到此结束了，朋友们。自由城也没比通宵打的游戏真实到哪里去。我再也不出门丢垃圾遛狗了。
 
 ;0x995C5A42=If you want a Cognoscenti, call:
-0x995C5A42=
+0x995C5A42=如果你想要一辆Cognoscenti，拨打：
 
 ;0xC8114A9D=CAR-555-0142
-0xC8114A9D=
+0xC8114A9D=CAR-555-0142
 
 ;0x909455A3=Want a Sanchez bike, call:
-0x909455A3=
+0x909455A3=想要一辆Sanchez摩托车，拨打：
 
 ;0x72AFCE68=MBK-555-0150
-0x72AFCE68=
+0x72AFCE68=MBK-555-0150
 
 ;0xF33423C3=Get yourself an FIB Buffalo:
-0xF33423C3=
+0xF33423C3=搞一辆FIB的Buffalo：
 
 ;0x2E075DD3=CAR-555-0100
-0x2E075DD3=
+0x2E075DD3=CAR-555-0100
 
 ;0xE5F5E5DE=Hook up a Turismo by calling:
-0xE5F5E5DE=
+0xE5F5E5DE=呼叫一辆Turismo，拨打：
 
 ;0xC31142BE=CAR-555-0147
-0xC31142BE=
+0xC31142BE=CAR-555-0147
 
 ;0x48E9F3D1=Want an NRG900?  Then call this number:
-0x48E9F3D1=
+0x48E9F3D1=想要NRG900吗？那就打这个号码：
 
 ;0xF0BBCDB5=MBK-555-0100
-0xF0BBCDB5=
+0xF0BBCDB5=MBK-555-0100
 
 ;0x905BA92A=Get yourself a super fast Comet here:
-0x905BA92A=
+0x905BA92A=用这个搞一辆超快的Comet：
 
 ;0xB10A6AA3=CAR-555-0175
-0xB10A6AA3=
+0xB10A6AA3=CAR-555-0175
 
 ;0x80855D90=Everyone loves to SuperGT. Get one here:
-0x80855D90=
+0x80855D90=大家都喜欢SuperGT吧。用这个搞一辆：
 
 ;0xC20CC3FD=CAR-555-0168
-0xC20CC3FD=
+0xC20CC3FD=CAR-555-0168
 
 ;0x7DB0FDCA=Get your hands on this chopper:
-0x7DB0FDCA=
+0x7DB0FDCA=来开直升机吧：
 
 ;0xCC56BFF6=FLY-555-0100
-0xCC56BFF6=
+0xCC56BFF6=FLY-555-0100
 
 ;0x409445EF=You don't need land with a Jetmax. Call:
-0x409445EF=
+0x409445EF=有一艘Jetmax的话，就不用上岸了。拨打：
 
 ;0x5CD6BAED=WET-555-0100
-0x5CD6BAED=
+0x5CD6BAED=WET-555-0100
 
 ;0x2E46A961=Posted by MeowMeow
-0x2E46A961=
+0x2E46A961=发布者：MeowMeow
 
 ;0x85AFE6F6=Does this actually work?!
-0x85AFE6F6=
+0x85AFE6F6=真的有用吗？
 
 ;0x1F4C3713=Posted by JohnnyXXX
-0x1F4C3713=
+0x1F4C3713=发布者：JohnnyXXX
 
 ;0xD23378CD=Get a life!
-0xD23378CD=
+0xD23378CD=找点事做吧！
 

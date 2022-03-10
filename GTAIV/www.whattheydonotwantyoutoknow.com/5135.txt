@@ -1,24 +1,24 @@
 ﻿;0x5F32407D=The hidden weapons that the mayor wants you to find.
-0x5F32407D=
+0x5F32407D=市长想让你找到藏在城里的武器。
 
 ;0xC2954BC2=Back
-0xC2954BC2=
+0xC2954BC2=返回
 
 ;0x6C2A2788=Posted by LibertyLove
-0x6C2A2788=
+0x6C2A2788=发布者：LibertyLove
 
 ;0xB934B4B7=Mayor Ochoa and all them fat cats in city hall is trying to get us to kill each other.  He talks about gun control and all that shit but he really want a war on the streets of Liberty.  There's a subsonic message that goes out in the night.  "Kill!  Kill!  Kill!"  I been able to hear it ever since I got hit in the head by a taxi.  Mayor Ochoa also been hiding guns all over the city as well.  I been following him around in the night seeing where he done it.  He wears a big black cloak and he hovers like 6 inches off the ground. You don't believe me, check it out.  He want a war.
-0xB934B4B7=
+0xB934B4B7=Ochoa市长和市政厅里的那帮肥猪要把我们害死了。他嘴上说的是控枪，心里想的是开枪，一到晚上到处都是咻咻咻的子弹声，就算是脑袋被出租车撞开了花，都还能听到。Ochoa市长还在城里藏了不少枪。我晚上跟踪他，看到他藏枪的地方了。他穿着大黑斗篷，贴地飞行。你要是不信，那就去看看吧。他想打仗。
 
 ;0x4551C656=Posted by Patriot68 
-0x4551C656=
+0x4551C656=发布者：Patriot68
 
 ;0x10BF895B=God bless the 2nd Amendment!  Are you a lefty loon or a Pinko or something!  Every man woman and child in this city needs a gun!
-0x10BF895B=
+0x10BF895B=感谢宪法第二修正案！你是左撇子还是左倾派啊！城里的男女老少都需要枪！
 
 ;0x89C7AAB6=Posted by LCFelon 
-0x89C7AAB6=
+0x89C7AAB6=发布者：LCFelon 
 
 ;0x54B19E19=Thx for the info.
-0x54B19E19=
+0x54B19E19=谢谢你的消息。
 

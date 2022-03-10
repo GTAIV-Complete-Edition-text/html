@@ -1,36 +1,36 @@
 ﻿;0x6F07AA55=Plague of Pigeons in the City.  These are the infection sites.
-0x6F07AA55=
+0x6F07AA55=鸽子在全城引发瘟疫，以下是受感染区域。
 
 ;0xC2954BC2=Back
-0xC2954BC2=
+0xC2954BC2=返回
 
 ;0xC72BE5C1=Posted by BirdNerd
-0xC72BE5C1=
+0xC72BE5C1=发布者：BirdNerd
 
 ;0x4D4F6EA1=There's a plague coming!  Infected pigeons are all over the city and it's only a matter of time before it spreads to humans and we're all coughing out our pancreases and pus is pouring out from all our pores.  I've seen 200 diseased pigeons in Liberty.  Is it just a coincidence?  Come on!  Betta pharmaceuticals manufacture a pigeon flu vaccine, diseased pigeons arrive in Liberty City.  Connect the dots!  We're all gonna die just to push the Beta stock price higher on the BAWSAQ.  Someone needs to get rid of the pigeons.  Think of the children!
-0x4D4F6EA1=
+0x4D4F6EA1=疫情来袭！城里都是带病的鸽子，什么时候传染给人类只是时间的问题了。我们的胰腺都要咳出来了，毛孔里也流着脓。我在自由城见到了200只生病的鸽子，这仅仅只是巧合吗？Betta制药公司研发了一款鸽瘟疫苗，而鸽子也在来自由城的路上了。看看这些地方吧！我们危在旦夕，只能在BAWSAQ把Betta公司的股价再抬高点。需要有人出来把鸽子赶走，为我们的后代考虑考虑吧！
 
 ;0x9D2BEE7C=Posted by SoulSurvivor 
-0x9D2BEE7C=
+0x9D2BEE7C=发布者：SoulSurvivor
 
 ;0x06230E70=I'm never leaving my apartment again.  We're all going to catch Pigeon Flu and die!!!
-0x06230E70=
+0x06230E70=再也不出门了，我们要得鸽瘟死掉啦！！！
 
 ;0x5B99EE32=Posted by Patriot68
-0x5B99EE32=
+0x5B99EE32=发布者：Patriot68
 
 ;0x10ED476B=Thx. I hope someone gets those fuckers.
-0x10ED476B=
+0x10ED476B=谢谢，真希望谁能把这些鸽子解决了。
 
 ;0x91C1E29F=Posted by GreenGodess
-0x91C1E29F=
+0x91C1E29F=发布者：GreenGodess
 
 ;0xCD49A0BD=Leave the pigeons alone.  They never did anything to anyone.  Is someone working on an organic, non animal tested cure?
-0xCD49A0BD=
+0xCD49A0BD=离鸽子远点，它们没啥用。有人是做有机非生物试验治疗的吗？
 
 ;0xC1ED26D4=Posted by RickyLG 
-0xC1ED26D4=
+0xC1ED26D4=发布者：RickyLG
 
 ;0xECE162F6=Pigeons speak to me... They send a message of love.
-0xECE162F6=
+0xECE162F6=鸽子说话了...它们说爱我们。
 

@@ -1,6 +1,6 @@
 ﻿;0xC2462814=You Want Body Armor? It's Here!
-0xC2462814=
+0xC2462814=需要护甲吗？这里有！
 
 ;0xC2954BC2=Back
-0xC2954BC2=
+0xC2954BC2=返回
 

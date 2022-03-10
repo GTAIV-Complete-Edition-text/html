@@ -1,27 +1,27 @@
 ﻿;0xCFD9379F=Make sure you've got armor.  Be ready to fight the Aliens!
-0xCFD9379F=
+0xCFD9379F=保证自己穿好了护甲，准备和外星人开战！
 
 ;0xC2954BC2=Back
-0xC2954BC2=
+0xC2954BC2=返回
 
 ;0x4551C656=Posted by Patriot68 
-0x4551C656=
+0x4551C656=发布者：Patriot68
 
 ;0xC2954BC2=Back
-0xC2954BC2=
+0xC2954BC2=返回
 
 ;0x84838480=They're coming!  It's only a matter of time before the extra terrestrials come to rape our women and enslave our children.  Who will they attack first?  It ain't gonna be those smoothie drinking yoga monkeys in Los Santos or those buck-toothed bad tippers on the other side of the pond that we saved in WWII.  No, it'll be Liberty City that these six-eyed, fork-tongued, biphallic outlanders come to pillage.  I'm ready.  There's armor hidden all over the Greater Liberty City Area in preparation.  Here's hoping it can stop a lazer powered death ray.
-0x84838480=
+0x84838480=它们来了！新的陆地生物强奸我们的女人，奴役我们的孩子，已经只是时间问题了。谁会是第一个受害者？不是洛圣都那些喝果汁做瑜伽的，也不是二战时期我们在太平洋对岸救的那些大龅牙的铁公鸡，而是自由城！这些六只眼睛、舌头分叉，长着翅膀的地外生物要来抢劫了。我准备好了，以下是在整个自由城内储藏好的护甲，希望它能扛住致命的死亡射线。
 
 ;0x46C9C10E=Posted by SoleSurvivor 
-0x46C9C10E=
+0x46C9C10E=发布者：SoleSurvivor
 
 ;0xBFAADD26=When are they attacking?  Help!
-0xBFAADD26=
+0xBFAADD26=他们啥时打过来？救命！
 
 ;0x129F187E=Posted by Phil1988 
-0x129F187E=
+0x129F187E=发布者：Phil1988
 
 ;0x541E6223=Armor?  Awesome!
-0x541E6223=
+0x541E6223=护甲？牛逼啊！
 

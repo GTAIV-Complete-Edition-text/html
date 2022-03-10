@@ -1,18 +1,18 @@
 ﻿;0xC4CBBBA9=Jump to a new level of spirituality.
-0xC4CBBBA9=
+0xC4CBBBA9=跳出新境界。
 
 ;0xC2954BC2=Back
-0xC2954BC2=
+0xC2954BC2=返回
 
 ;0x296925A3=Posted by Trooth 
-0x296925A3=
+0x296925A3=发布者：Trooth
 
 ;0x3F967AFA=Screw these city planners trying to keep us down, man. Speed limits and white lines in the middle of the road and all that shit are just there to impede our consciousness and stop us from living our lives. I mean, who the fuck can tell me that this is a one way street or I can't turn fucking left here? Expand your horizons, man. Take off from the street and attain true enlightenment. These are some places I found to jump from the bureaucrats' road makings and get some air. Especially good on high power blotter acid or peyote.
-0x3F967AFA=
+0x3F967AFA=给城市做规划的真是操他妈的，就想着控制我们。路上又是限速，又是画线的啥的，只会影响思考，真是不让人活了。我的意思是，谁他妈有资格规定这是单行道？凭啥这里又不能左转了？开点眼界吧，哥们。在街道上起飞，去获得真正的启蒙吧。我找到的这些地方，可以从狗官们做的路上飞起来，呼吸新鲜空气。配合正宗的「邮票」或者「仙人掌」效果更好。
 
 ;0x6C2A2788=Posted by LibertyLove
-0x6C2A2788=
+0x6C2A2788=发布者：LibertyLove
 
 ;0x60960E10=Nice one, man.  Thx for the info.
-0x60960E10=
+0x60960E10=真不错，哥们。感谢你的消息。
 
