@@ -1,5 +1,5 @@
 ﻿;0x505AF536=Is your hairline receding as quickly as your waistline is expanding? These days there are no excuses for being ugly. Last year, I spent over $100,000 on calf implants, a hair transplant and a set of veneers made from imported Chinese porcelain. I think that the results speak for themselves. My cock-job was the best $20,000 I ever spent. Remember - girth and mirth rhyme for a reason.
-0x505AF536=你的发际线后退的速度和腰围膨胀的速度一样快吗？这年头，长得丑已经没有借口了。去年，我花了10万多美元，做了腓部移植，头发种植和一套由中国进口瓷器制成的贴面。我觉得效果不言自明。在我老二上花的那2万美元是最值的。记住--腰围小了，才能开启快乐人生。
+0x505AF536=你的发际线后退的速度和腰围膨胀的速度一样快吗？这年头，长得丑已经没有借口了。去年，我花了10万多美元，做了腓部移植，头发种植和一套由中国进口瓷器制成的贴面。我觉得效果不言自明。在我老二上花的那2万美元是最值的。记住—腰围小了，才能开启快乐人生。
 
 ;0xE9BA61D5=Cosmetic surgery allows you to be anyone you want.
 0xE9BA61D5=整形手术能让你成为任何你想成为的人。

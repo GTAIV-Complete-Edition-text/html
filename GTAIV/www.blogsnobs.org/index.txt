@@ -1,5 +1,5 @@
 ﻿;0x3F27CFB1=BLOGS RECENTLY UPDATED:
-0x3F27CFB1=
+0x3F27CFB1=最近更新的博客:
 
 ;0x1D3EBB0F=FeFighter2008
 0x1D3EBB0F=
@@ -17,10 +17,10 @@
 0xC2914F19=
 
 ;0x487D36F0=Male
-0x487D36F0=
+0x487D36F0=男
 
 ;0x8865EE44=UPDATED - 5 MINUTES AGO
-0x8865EE44=
+0x8865EE44=发表于 5 分钟前
 
 ;0xFC393EDF=I really have amazing taste in music... 
 0xFC393EDF=
@@ -29,25 +29,25 @@
 0x1D3EBB0F=
 
 ;0xE986A6C1=INDEPENDENT WOMON
-0xE986A6C1=
+0xE986A6C1=独立女性
 
 ;0x09758B37=UPDATED - 1 DAY AGO
-0x09758B37=
+0x09758B37=发表于 1 天前
 
 ;0x3B10ED5F=Can you believe it?!! I got sacked from work last week. SEXIST PIGS!!! My boss said that he was sorry to see me go but he could not condone naked vogueing at an office function, especially with children present... 
 0x3B10ED5F=
 
 ;0x00D788EF=LiberatedWoman
-0x00D788EF=
+0x00D788EF=自由女性
 
 ;0xA9338234=Hot female
-0xA9338234=
+0xA9338234=辣妹
 
 ;0x89E6E728=UPDATED - 23 DAYS AGO
-0x89E6E728=
+0x89E6E728=发表于 23 天前
 
 ;0x751F7B38=I'm spring cleaning today in my booty shorts, just because I can. My neighbor came round earlier to borrow some milk and was checking me out so badly...
-0x751F7B38=
+0x751F7B38=今天我没事做，就穿着热裤来了个春季大扫除。几天前邻居问我借了些牛奶，借的时候还不忘细细打量我一番...
 
 ;0xA1574F52=Inyapuper
 0xA1574F52=
@@ -56,7 +56,7 @@
 0x487D36F0=
 
 ;0x10263027=UPDATED - 2 HOURS AGO
-0x10263027=
+0x10263027=发表于 2 小时前
 
 ;0x8DB5E631=OH MY GOD!!! Lisa is going to be here - in San Fierro - for some LARPing festival and she wants to me meet me!! I am so excited and nervous. I can't wait to pretend we're being invaded by goblins...
 0x8DB5E631=
@@ -65,10 +65,10 @@
 0x84D9C9D1=
 
 ;0xD8A26CB9=Female
-0xD8A26CB9=
+0xD8A26CB9=女
 
 ;0xAAE037C3=UPDATED - 1 HOUR AGO
-0xAAE037C3=
+0xAAE037C3=发表于 1 小时前
 
 ;0xF0D1A3BB=Nobody reads your blog Melissa. And I'll tell you why. First off, you can't spell worth a shit. It's not teh. It's "the." And you mispronounce everything in real life too. It's not Jeeeeeeuuuum. It's gym...
 0xF0D1A3BB=
@@ -80,7 +80,7 @@
 0xD8A26CB9=
 
 ;0x7D3A9088=UPDATED - 3 HOURS AGO
-0x7D3A9088=
+0x7D3A9088=发表于 3 小时前
 
 ;0x115503CD=Sorry for not updating for so long but I've been dying of a broken heart. I'm hurt. I'm lost. I'm crying. I'm wet. Even pottery club cannot lift my spirits...
 0x115503CD=
@@ -92,10 +92,10 @@
 0x487D36F0=
 
 ;0x9411DE0F=UPDATED - 20 MINUTES AGO
-0x9411DE0F=
+0x9411DE0F=发表于 20 分钟前
 
 ;0x076332EC=Nobody enters the house. EVER. Except for Boo Boo Wilkins, of course. Here kitty kitty. He killed a bird today and I ejaculated...
-0x076332EC=
+0x076332EC=没人进过我家。从来没有。当然，除了Boo Boo Wilkins。过来，猫咪猫咪。今天他杀了一只小鸟，我射精了...
 
 ;0x58D1A613=Big Dog
 0x58D1A613=
@@ -104,7 +104,7 @@
 0x487D36F0=
 
 ;0xBF938121=UPDATED - 2 DAYS AGO
-0xBF938121=
+0xBF938121=发表于 2 天前
 
 ;0x3764862A=I'm new to this blogging thing. 
 0x3764862A=

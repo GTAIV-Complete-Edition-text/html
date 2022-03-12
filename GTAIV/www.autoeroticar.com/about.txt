@@ -1,24 +1,24 @@
 ﻿;0x6B986F9E=ABOUT US 
-0x6B986F9E=
+0x6B986F9E=关于我们
 
 ;0x88E8D394=AutoEroticar was set up in 2007 to cater to a very special market; people who are smart enough to realize the important connection between sexual drive and the car you drive. 
-0x88E8D394=
+0x88E8D394=AutoEroticar成立于2007年，服务于一类极其特殊的人群：那些意识到车子越好乘客的性欲就越强的聪明人。
 
 ;0xB32DD14C=IF YOU ARE AN AUTOEROTICAR CUSTOMER:
-0xB32DD14C=
+0xB32DD14C=如果您是AUTOEROTICAR的目标客户：
 
 ;0x141CED43=You shave with the Excelsior Extreme 9 razor.
-0x141CED43=
+0x141CED43=您只用Excelsior Extreme 9剃须刀。
 
 ;0x85E62BD5=You consume only the most heart-palpitating energy drinks.
-0x85E62BD5=
+0x85E62BD5=您只喝心跳加速作用最强的能量饮料。
 
 ;0x1E358412=You don't trust anything that wasn't created today for the world of tomorrow because you're always in the driving seat. 
-0x1E358412=
+0x1E358412=您只会选创造于当下，服务于未来的产品，因为方向永远由您把握。
 
 ;0x290734D1=Everything you do says 'sleep with me' and you know your car should be no different.
-0x290734D1=
+0x290734D1=您所做的一切都在暗示「跟我上床」，您的车也不能例外。
 
 ;0xE4833A79=We know that when your hand's on that stick, anything could happen - let's make it happen together.
-0xE4833A79=
+0xE4833A79=当您用手握住那根杆子时，一切皆有可能。让我们一起创造奇迹。
 

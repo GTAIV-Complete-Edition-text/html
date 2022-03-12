@@ -1,18 +1,18 @@
 ﻿;0xC9E38C48=OFFICIAL WEBSITE OF:
-0xC9E38C48=
+0xC9E38C48=自由城警察局
 
 ;0xF11B6D5F=LIBERTY CITY POLICE DEPARTMENT
-0xF11B6D5F=
+0xF11B6D5F=官方主页
 
 ;0x47DBA203=Crime is at an all-time low in Liberty City.  It's the perfect time to join the Liberty City Police Department.  The LCPD has been cited by many as the number one police force in the world, especially by foreign tourists with the gall to ask a drunk angry cop for directions.  Build a career rifling through people's bags on the subway, arresting and imprisoning protestors, getting into high speed car chases, and marching in parades.
 0x47DBA203=
 
 ;0x3971273E=JOIN THE LCPD TODAY
-0x3971273E=
+0x3971273E=现在就加入LCPD吧
 
 ;0x408BB378=2008 CITY OF LIBERTY, 
-0x408BB378=
+0x408BB378=2008 自由城 
 
 ;0x55247B78=DATABASE
-0x55247B78=
+0x55247B78=数据库
 

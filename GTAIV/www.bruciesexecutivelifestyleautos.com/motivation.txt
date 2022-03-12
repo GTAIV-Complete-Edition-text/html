@@ -1,18 +1,18 @@
 ﻿;0x211FF872=Motivation is my middle name. Bruce Motivation Kibbutz. You think I'm joking but I had it changed legally last year.
-0x211FF872=
+0x211FF872=动力（motivation）是我的中间名。Bruce Motivation Kibbutz。你以为我在开玩笑，但我去年已经合法地改了。
 
 ;0x629648B2=I also have G tattooed on my left buttock and D on my right buttock to remind me that I am 
-0x629648B2=
+0x629648B2=我还在左臀上纹了G，在右臀上纹了D，来提醒我自己我
 
 ;0x3218B183=GENETICALLY DIFFERENT
 0x3218B183=
 
 ;0x431F73A9=. Every morning I touch my toes, look through my legs and see GOD reflected in the full-length mirror. Powerful.
-0x431F73A9=
+0x431F73A9=。每天早上当我弯下腰碰我脚趾的时候，我能从我两腿之间看到落地镜里上帝（GOD）的倒影。太神奇了。
 
 ;0x9BEBADD0=If you can't believe in yourself, believe in me. I inspire.
-0x9BEBADD0=
+0x9BEBADD0=如果你不相信自己，请相信我。我能激励你。
 
 ;0x5FE8744E=Self-esteem is my drug. I show men what they can be and women what they can have. Carry a picture of me in your wallet and take a look whenever you feel your fat ass drawn to a slice of pizza, an item of non-branded clothing, or a fuel efficient car.
-0x5FE8744E=
+0x5FE8744E=我的制胜法宝是自尊心。我向男人展示他们能成为什么，向女人展示她们能拥有什么。在你的钱包里放一张我的照片，每当你觉得要颓废地看上一片比萨，一件地摊货衣服或一辆节能车时，就看一眼照片。
 
