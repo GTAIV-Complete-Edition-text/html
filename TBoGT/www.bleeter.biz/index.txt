@@ -1,105 +1,105 @@
 ﻿;0x8BB1C559=Popular Bleets: 
-0x8BB1C559=
+0x8BB1C559=当前热门：
 
 ;0x7720A0A4=Al Di Napoli : Princess Bubble Gum : Brown Streak 
-0x7720A0A4=
+0x7720A0A4=Al Di Napoli : Princess Bubble Gum : Brown Streak 
 
 ;0xAF69558B=What is Bleeter?
-0xAF69558B=
+0xAF69558B=布特是什么？
 
 ;0x180C084B=It's life, suddenly made for everyone...
-0x180C084B=
+0x180C084B=是生活，突然间来到人们头上...
 
 ;0xE321594F=It's microblogging! Imagine getting text messages from people you barely know about shit nobody cares about. Life suddenly got interesting!    
-0xE321594F=
+0xE321594F=发布特了！想象一下，一个你并不认识，也不关心的人，发了一条布特。生活突然有趣！
 
 ;0x856CF166=It's reality TV without pictures, and it stars a bunch of boring people. Life suddenly got quick!    
-0x856CF166=
+0x856CF166=这是一场真人秀，只是没有画面，主演是一群无聊的人。生活突然加速！
 
 ;0xBEC8CF95=Bleeter is viral, and the internet has taught us that things with viruses can be a lot of fun. Life suddenly got dangerous!    
-0xBEC8CF95=
+0xBEC8CF95=布特是一种病毒，网上没有病毒，就少了许多乐子。生活突然危险！
 
 ;0x3654326B=Microblogging is like drugs. They're no fun to do by yourself and it's only fun if all your friends are on it. And pretty soon you'll hate all your friends and their tedious outbursts. Life suddenly flat-lined.
-0x3654326B=
+0x3654326B=布特就像毒品。自己搞没意思，只有和朋友在一起才好玩。很快，朋友变得讨厌起来，大家无病呻吟。生活突然平淡。
 
 ;0xEA71CF9F=Your life is boring and trivial. Share it. Life suddenly got about punishing others!    
-0xEA71CF9F=
+0xEA71CF9F=你的日常无聊又琐碎。发出来吧。生活突然给人一拳！
 
 ;0x57A55884=Bleeter lets you actively invade your privacy so that there are no barriers and you don't have any piece of yourself left. Life suddenly got communal, like showers! 
-0x57A55884=
+0x57A55884=你在布特上开自己的盒。门户大开，什么都没给自己留下。生活突然被公之于众，就像在澡堂！
 
 ;0xC21303C9=Bleeter lets you leave dickish comments to celebrities. Life suddenly got about showing these jumped up jerks who's boss!    
-0xC21303C9=
+0xC21303C9=布特让你可以在大咖的评论区里嘴臭。生活突然让这帮自大狂看到谁才是爹！
 
 ;0xE8B36289=If you have no sense of self and have to prattle on about every little thing in your life, Bleeter is for you. Life suddenly got a little bit crazy!    
-0xE8B36289=
+0xE8B36289=如果你自己已经麻木，不管什么鸡毛蒜皮都要说出来，布特适合你。生活突然有些疯狂！
 
 ;0xA6871B2D=How do we make money?
-0xA6871B2D=
+0xA6871B2D=我们怎么盈利？
 
 ;0x7012721B=We aren't interested in that. We are like many social networking sites - founded by young assholes who get really popular, then cash out and sell it to old assholes at big media companies who quickly learn they've bought a site that will be obsolete as soon as the next social media fad comes in and that's life!
-0x7012721B=
+0x7012721B=我们对钱不感兴趣。如同很多社交网站一样，都是由受人欢迎的小混蛋创立，接着是变现，卖给大公司的老混蛋。这时新的社交热潮到来，他们才发现网站已经过时了。这就是生活！
 
 ;0x97D5CEEA=Here are some great recent bleets from our great community of bleeters!
-0x97D5CEEA=
+0x97D5CEEA=以下是布特社区的热门动态！
 
 ;0x78F8C482=tilly_008
-0x78F8C482=
+0x78F8C482=tilly_008
 
 ;0x26977BF9=Oh my god when I get home I am so going to blog about my new haircut
-0x26977BF9=
+0x26977BF9=天，一回到家我就想发一发我的新发型
 
 ;0x15C123D5=Rosana_jangle
-0x15C123D5=
+0x15C123D5=Rosana_jangle
 
 ;0x8DA7B3FC=Bored at home. Thinking of swallowing a fistful of pills
-0x8DA7B3FC=
+0x8DA7B3FC=在家真无聊。寻思磕一把药
 
 ;0xAA5B7E38=ButterflyRimmer
-0xAA5B7E38=
+0xAA5B7E38=ButterflyRimmer
 
 ;0x886CD36A=I have piles!
-0x886CD36A=
+0x886CD36A=我得了痔疮！
 
 ;0xBB69E101=PabloPizza
-0xBB69E101=
+0xBB69E101=PabloPizza
 
 ;0xD16902E0=I am not racist! I can't believe this driver is calling me that! It's freedom of speech
-0xD16902E0=
+0xD16902E0=我才不是种族主义！真不敢相信这个开车的这么说我！这就是言论自由吗
 
 ;0x9ED7C2C7=m4d_man
-0x9ED7C2C7=
+0x9ED7C2C7=m4d_man
 
 ;0xFA688CFF=I just got a Prince Albert! Pic to follow
-0xFA688CFF=
+0xFA688CFF=刚搞了件双排扣大衣！下面上图
 
 ;0x55048DD5=Liberty_Queen
-0x55048DD5=
+0x55048DD5=Liberty_Queen
 
 ;0x8CD1ECC3=Aren't wills the best thing about parents?
-0x8CD1ECC3=
+0x8CD1ECC3=爹妈最好的东西不是遗嘱吗？
 
 ;0x60125674=LosSantosSlim
-0x60125674=
+0x60125674=LosSantosSlim
 
 ;0x64955DBC=My cat just got hit by a car
-0x64955DBC=
+0x64955DBC=我的猫被车撞了
 
 ;0xD17326DC=AMA_Starbager
-0xD17326DC=
+0xD17326DC=AMA_Starbager
 
 ;0x8BAECDB2=That Melanie Little is totally using her wheelchair to get attention. I bet that car accident didn't really paralyze her.
-0x8BAECDB2=
+0x8BAECDB2=Melanie Little简直就是坐在轮椅上卖惨。我敢说这车还是撞得太轻了。
 
 ;0xBF9EC8CF=Kinja_buddy
-0xBF9EC8CF=
+0xBF9EC8CF=Kinja_buddy
 
 ;0x6748269A=My neighbors are totally having a three way. Posting pictures in a sec...
-0x6748269A=
+0x6748269A=我邻居在搞3P。马上上图...
 
 ;0xB0DE5C59=Aesthetic_blah
-0xB0DE5C59=
+0xB0DE5C59=Aesthetic_blah
 
 ;0x2926CB8F=Tee hee. Jst killt hkr
-0x2926CB8F=
+0x2926CB8F=科科。鲨了她8
 
