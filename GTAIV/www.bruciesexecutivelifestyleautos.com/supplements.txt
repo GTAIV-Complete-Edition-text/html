@@ -1,12 +1,12 @@
 ﻿;0x16196D54=Think outside the botox!
-0x16196D54=别再只用肉毒杆菌素了！
+0x16196D54=别被肉毒杆菌蒙蔽双眼！
 
 ;0xBD9F9640=Don't get me wrong. Stuffing your face with paralyzing chemicals rocks! I use it every week. It gives you that permanent expression of startled awe, which is great for poker games. But paralyzing your facial muscles is only going to get you so far along the road to becoming the ultimate male specimen.   
-0xBD9F9640=不要误会我。在面部充满麻痹性的化学物质确实有效！我每周都这样用。它能让你永远保持惊愕敬畏的表情，这在打扑克时很有用。但要想成为终极男性模范，瘫痪你的面部肌肉还远远不够。
+0xBD9F9640=别误会了，往脸上打麻痹性的化学物质确实有效！我每周都在打。它能让你永远保持惊诧敬畏的表情，打扑克时也很有用。但要想成为终极男性，光是瘫痪面部肌肉还远远不够。
 
 ;0xF9839BB1=Everyone likes some juice in the morning! Twice a day I inject myself with a stacked combination of supplements and growth hormones. My real secret weapon, though, is bull shark testosterone. It's like putting a nitrous injection in a moped! Every day my workouts get harder and harder and I remain undefeated on the Broker underground cage-fighting scene. Experts have predicted that I will live to 160. Personally, I think this is a conservative estimate.  
-0xF9839BB1=大家都喜欢在早上来点汁水！我每天两次给自己注射大量的营养素和生长激素的混合物。不过，我真正的秘密武器是牛鲨睾丸素。这就像给助动车装上氮气加速一样！我的锻炼强度日益增加，我在Broker的地下格斗场里始终无懈可击。专家预测我能活到160岁。我个人认为这是一个保守的估计。
+0xF9839BB1=大家都喜欢在早上来点汁水！我每天两次给自己注射大量的营养素和生长激素的混合物。不过，我真正的秘密武器是牛鲨睾酮。简直是给助动车装上了氮气加速！我的锻炼强度日益增加，我在Broker的地下格斗场里始终无人能挡。专家预测我能活到160岁，而我觉得这还只是保守估计。
 
 ;0x75884157=You have to put oil in your car. Steroids keep you young, on the edge, aggressive. Bad breath, high blood pressure and vicious mood swings are a small price to pay for physical perfection. Who cares that I need a catheter to urinate when I can make love for 9 hours straight? I am as close as a human can get to being immortal and invincible.
-0x75884157=车是得加油的。类固醇能让你保持年轻，保持极限，保持斗志。口臭、高血压和剧烈情绪波动只是在追求完美身体的过程中所付出的小代价。当我可以连续9小时做爱时，谁会在乎我需要导尿管来排尿？我是最永垂不朽和所向披靡的人类。
+0x75884157=车是得加油的。类固醇能让你保持年轻，保持极限，保持斗志。口臭、高血压和剧烈的情绪波动只是追求完美身体的微小代价。如果我能连续9小时金枪不倒，必须靠导尿管排尿又怎样？我是接近永生和无敌的人类。
 
