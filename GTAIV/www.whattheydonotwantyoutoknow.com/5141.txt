@@ -1,5 +1,5 @@
 ﻿;0x5AC6405B=Fun with Friends.
-0x5AC6405B=和朋友出来玩吧。
+0x5AC6405B=和朋友出来玩吧
 
 ;0xC2954BC2=Back
 0xC2954BC2=返回
@@ -8,13 +8,13 @@
 0x5311580C=发布者：EddieLow
 
 ;0x434853FE=Liberty City is great.  People come together here and walk around together and do things together like bowling, and eating and breeding.  It's nice for them to have friends and lovers and slaves.  I watch them do things and sometimes I follow them back to their places and we have fun together there.  Boo Boo Wilkins likes to eat lungs, and hearts and eyes.  She's a hungry little thing.  I look after her.  Getting friends together is sometimes better than going jogging by yourself.  More people = more fun.  Here is where I have found people enjoying themselves together.
-0x434853FE=自由城真不错。人们一起出门聚一聚，逛一逛，一起打保龄球，一起吃饭，一起繁衍。大家都有朋友，情人和奴人，这是很不错的。我看着人们活动，有时候还跟着他们回家，然后我们一起玩。Boo Boo Wilkins喜欢吃肺，心脏和眼睛。这小可爱总是吃不饱，我照顾着她。和朋友一起聚一聚，有时候比独自去慢跑好多了。人越多=快乐越多。我找到的这些是大家喜欢聚会的地方。
+0x434853FE=自由城真不错。人们一起出门聚一聚，逛一逛，一起打保龄球，一起吃饭，一起繁育。大家都有朋友、情人和奴隶，真好啊。我看着人们活动，有时候还跟着他们回家，然后一起玩耍。Boo Boo Wilkins喜欢吃肺、心脏、眼睛。这小可爱总是吃不饱，我照顾着她。和朋友聚一聚，有时候比独自去慢跑好多了。人越多 = 快乐越多。这些是我找到的大家喜欢聚会的地方。
 
 ;0x2E46A961=Posted by MeowMeow
 0x2E46A961=发布者：MeowMeow
 
 ;0xF40C3602=So, these are places that you can hang out with friends?  I think you're on the wrong forum.  You should be writing for Peepthatshit or something.
-0xF40C3602=所以，这些地方是可以去和朋友聚会的吗？你发错地方了吧，应该发到像Peepthatshit论坛之类的地方。
+0xF40C3602=所以，这些是可以和朋友聚会的地方吗？你走错论坛了吧，应该发到像「就看一眼」旅游攻略之类的地方。
 
 ;0x5B99EE32=Posted by Patriot68
 0x5B99EE32=发布者：Patriot68
