@@ -1,30 +1,30 @@
 ﻿;0xD8CFCFE5=Look, we know the United States of Europe is a terrifying place - a patchwork of third-world backwaters where the pop music is cheesy, American has-been stars are treated like gods, the cars are small and you have to pay a toothless crone to take a shit in a squat hole. The men kiss, the women don't shave and the children drink wine.
-0xD8CFCFE5=
+0xD8CFCFE5=我们知道欧罗巴联合国是个哈人的地方————第三世界的集合，流行音乐俗气，美国人明亮耀眼，如同神一般被对待。车子很小，你得付钱给一个没牙老太婆才能在一个洞上蹲着拉屎。男人互吻，女人不剃毛，小孩还喝酒。
 
 ;0xF491CA2E=When not on strike, Europeans are paralytic by 10 AM, take a three-hour lunch and then spend their afternoons sleeping or sitting around in cafes whining about lost empires. And if you're looking to travel to Europe during the summer, beware. The entire continent gets 3 months paid leave from work - so the place is a madhouse.  It is quite evident that those with a healthy workaholic manner got out 300 years ago.
-0xF491CA2E=
+0xF491CA2E=不罢工的时候，欧洲人早上十点还迷迷糊糊，花三小时吃完午饭后在下午不少睡觉就是坐在咖啡馆怀念祖上的帝国。而你如果想夏天去欧洲旅游的话，当心。整个欧洲能带薪休假三个月————结果就是那里一团糟。显然健康热爱劳动的精神三百年前就丢掉了。
 
 ;0xCDA5D5FF=One thing that surprises many Americans when they travel abroad is that not everybody loves a superpower. The filthy streets of Europe are full of chain-smoking clodhoppers who will think nothing of murdering you in your sleep just for being a freedom lover.
-0xCDA5D5FF=
+0xCDA5D5FF=有一件让很多美国人吃惊的事就是他们出国旅游时不是人人都爱强权。穷酸的街道上满是烟鬼小丑，他们就算在你睡觉时候杀了你内心都毫无波澜只是因为热爱自由。
 
 ;0x94CC4247=The wily Europeans have come up with some devious ploys designed to throw the hapless American tourist into a spiral of disorientation and paranoia from the moment he sets foot on foreign soil:
-0x94CC4247=
+0x94CC4247=狡猾的欧洲人想出了一些狡猾的策略，旨在让这位不幸的美国游客从踏上异国他乡的那一刻起，就陷入迷失方向和偏执的漩涡：
 
 ;0xE85A04DA=They change the time so that you think that you have arrived for dinner but end up having breakfast and feeling like you are hung over. And their breakfast is awful. You are hard pressed to find decent bacon or gravy.
-0xE85A04DA=
+0xE85A04DA=他们改了时间结果你以为你要来吃晚饭结果吃了早饭还觉得跟被吊起来一样。而且他们的早饭就是垃圾。太难找到能吃的培根或肉酱了。
 
 ;0x62A54B97=They have 31 months out of the year - but only 12 days a month.  Don't be alarmed when you arrive and it's 27-12-08.
-0x62A54B97=
+0x62A54B97=他们一年有31个月，但一个月只有12天。当你来了以后看见27月12日08年不要大惊小怪。
 
 ;0xE940C979=They measure everything in illogical multiples of 10; trust us - we had a call girl say she only weighs 100 but when you open the door she's a blubbery beast.
-0xE940C979=
+0xE940C979=他们测量什么都用不合逻辑的10进制，相信我们————有一个女生说她体重只有100但你开门就会发现那就是辆虎式坦克。
 
 ;0x4C26BC19=They use an incomprehensible system to estimate weather temperature; you dress up in gloves and a scarf when you hear that it's 30 degrees, only to discover everyone is sunbathing.
-0x4C26BC19=
+0x4C26BC19=他们使用无法理解的一套系统测量气温。当你听到外面30度时戴上手套围着围巾，结果发现外面烈日炎炎。
 
 ;0x981F2306=Traveling in Europe can be a minefield, LITERALLY. The American Travel Guide is here to arm you with the information that you need to neatly sidestep the pitfalls, blunders and faux pas (a phrase stolen by the French) that plague the average traveler.
-0x981F2306=
+0x981F2306=你需要巧妙地避开困扰普通旅行者的陷阱，错误和faux pas（被法国人偷走的短语）。
 
 ;0x81050D86=The best piece of advice that the American Travel Guide can give you is - STAY AT HOME! There's a reason you don't own a passport. Why would you want to fly halfway around the world to get insulted by socially-awkward savages who will spit in your food and steal your camera when you can get all the European culture that you need delivered to your door faster than a fire truck right here in the US of A? Relax. Kick off your Derriere shoes, put your feet up on your Krapea table, order a deep-pan from Pizza This, take a slurp of your Bean Machine gunkaccino, crack open a Piswasser and engage in some hand-to-gland combat to the finest Russian adult entertainment. You don't need to leave America to know that it's the greatest country in the world!
-0x81050D86=
+0x81050D86=美国人旅游指南能给你的最有含金量的建议就是————呆在家里！这就是你没有护照的原因。你为啥会想要飞越半个世界去被社交尴尬，偷你食物和相机的野蛮人羞辱呢？更不要说你足不出户就能比US他妈的A的消防车到你家门口还快的速度了解欧洲文化呢？踢开你的Derriere鞋，把脚放到Krapea桌子上，从Pizza This点一份大份披萨，喝一口Bean Machine的贡卡齐诺，打开一罐尿汤啤，然后对着俄罗斯极品黄色内容手冲吧。你不必出国才知道你在世界上最伟大的国家！
 
