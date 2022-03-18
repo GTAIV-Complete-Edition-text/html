@@ -1,9 +1,9 @@
 ﻿;0x911652C1=(Colony Island)
-0x911652C1=
+0x911652C1=(Colony岛)
 
 ;0xA0BAA5EC=My husband and I found a bachelor in our front yard this morning.  He is handcuffed, dressed as a French maid and has GROOM written across his forehead in lipstick.  He seems very disoriented.  What did you do to him????  All he has said so far is "It was a dude".  Please come to collect him.  My in-laws arrive in a couple of hours.  Let's hope his eyebrows grow back before the wedding. 
-0xA0BAA5EC=
+0xA0BAA5EC=我和丈夫今早在门口院子里找到了一个学士。他铐着手铐，穿着女仆装，脑门上用口红写着GROOM (译注：可作新郎、男仆解释)。他好像有点神志不清。你对他做了什么啊？？？？他只说了一句「是那哥们」。请你过来接他。过几个小时我的公公婆婆就要来我家了。希望他的眉毛能在婚礼前长出来。
 
 ;0x0916374E=PostingID: 620025654
-0x0916374E=
+0x0916374E=帖子ID：620025654
 

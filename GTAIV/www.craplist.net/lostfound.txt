@@ -1,41 +1,41 @@
 ﻿;0xA1FC5AB3=LOST & FOUND 
-0xA1FC5AB3=
+0xA1FC5AB3=失物寻物
 
 ;0xDBC24838=LOST dwarf crocodile, answers to the name of Betty
-0xDBC24838=
+0xDBC24838=丢了一只侏儒鳄，喊她Betty会有反应
 
 ;0x1D6C7E7B=Lost 2 WEEKS!
-0x1D6C7E7B=
+0x1D6C7E7B=丢失的两周
 
 ;0x8A12C5B5= (Lancaster) 
 0x8A12C5B5=
 
 ;0x21F07F91=Lost cell phone with compromising photos
-0x21F07F91=
+0x21F07F91=手机丢了，内有隐私照片
 
 ;0xE9B21AFF= (Westminster) 
 0xE9B21AFF=
 
 ;0x13FC61A6=Lost:  will to live
-0x13FC61A6=
+0x13FC61A6=丢失：生的念想
 
 ;0xADCA5119= (Acter) 
 0xADCA5119=
 
 ;0x6F65C275=FOUND:  Bachelor
-0x6F65C275=
+0x6F65C275=招领：学士
 
 ;0x09751FE5= (Colony Island) 
-0x09751FE5=
+0x09751FE5= (Colony岛) 
 
 ;0x5C6D1321=Lost wedding ring last night - HELP!!!!!!!!!!
-0x5C6D1321=
+0x5C6D1321=昨晚丢了婚戒，救命！！！！！！！！！！
 
 ;0x998C5A24= (Algonquin) 
 0x998C5A24=
 
 ;0x0A8B504E=Found:  fat baby
-0x0A8B504E=
+0x0A8B504E=招领：大胖小子
 
 ;0xC70D15DC= (Northern Gardens) 
 0xC70D15DC=
