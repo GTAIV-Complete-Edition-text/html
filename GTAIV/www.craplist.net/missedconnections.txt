@@ -1,54 +1,54 @@
 ﻿;0x6520FC0D=>missed connections
-0x6520FC0D=
+0x6520FC0D=>寻人
 
 ;0x0E776B53=MISSED CONNECTIONS 
-0x0E776B53=
+0x0E776B53=寻人
 
 ;0x16DE996D=To the hobo who put his hand up my skirt in Cluckin' Bell
-0x16DE996D=
+0x16DE996D=在铛铛钟把手伸进我的裙底的流浪汉收
 
 ;0x52D4BF8D= (Hove Beach)
 0x52D4BF8D=
 
 ;0x1305E238=To the girl I had the one-night-stand with
-0x1305E238=
+0x1305E238=和我一夜情的姑娘收
 
 ;0xD5F670E7= (BOABO) 
 0xD5F670E7=
 
 ;0xD70341CF=Jenn, class of '87, Washington Beach High, WHERE ARE YOU NOW?
-0xD70341CF=
+0xD70341CF=华盛顿海滩高中87届的Jenn，你　在　哪　呢？
 
 ;0xF352E4C2= (Liberty City) 
-0xF352E4C2=
+0xF352E4C2= (自由城) 
 
 ;0x26ADA367=I wolf-whistled as you were crossing the road, you got knocked down by a truck
-0x26ADA367=
+0x26ADA367=我在你过马路的时候吹了声口哨，你被卡车撞飞了
 
 ;0x1E5B72CE=Were you on the bus from Chinatown to Lancaster last night at around 1 AM? 
-0x1E5B72CE=
+0x1E5B72CE=昨晚1点左右，你在从唐人街到Lancaster的公交车上吗？
 
 ;0x25978B57=Our eyes met, my wife hit me
-0x25978B57=
+0x25978B57=眼神相会的那一刻，我被老婆打了
 
 ;0x53B27568=Sorry for checking out your 13-year-old daughter
-0x53B27568=
+0x53B27568=之前一直盯着你女儿看，对不起
 
 ;0x0AF72EBC= (Easton) 
 0x0AF72EBC=
 
 ;0xE4CE007B=Indian girl in the park - why did you run?
-0xE4CE007B=
+0xE4CE007B=公园里的印第安姑娘，你跑什么啊？
 
 ;0xEAF73F55=You're a hot flight attendant, I was drunk
-0xEAF73F55=
+0xEAF73F55=你是性感的空姐，我当时喝醉了
 
 ;0x24DF3BC4= (Cerveza Heights) 
 0x24DF3BC4=
 
 ;0x73E4A449=I kicked your dog, you spat in my face
-0x73E4A449=
+0x73E4A449=踢了你的狗，你扇了我一巴掌
 
 ;0xE2E5F5AD=Were you walking along Iron Street in The Triangle this morning?
-0xE2E5F5AD=
+0xE2E5F5AD=今早你走过了Triangle区的Iron街吗？
 

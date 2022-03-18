@@ -1,9 +1,9 @@
 ﻿;0xEFB0019D=(Port Tudor) 
-0xEFB0019D=
+0xEFB0019D=(Tudor港)
 
 ;0x3D5D2F8C=Blonde girl, mini skirt, knee boots, red tee.  You were crossing Traeger Road in Port Tudor last Friday morning.  You had a folder under your arm and looked in a rush.  I was the guy with the ponytail who whistled and shouted 'yeah baby'.  You turned and looked like you were about to shout something back when an Uder Milken truck knocked you about six feet in the air.  I waited with you until the ambulance arrived.  As you slipped out of consciousness, I'm sure that you winked at me.  Fate works in mysterious ways.  Drop me a line if you see this.  Hope that you're back on your feet soon. 
-0x3D5D2F8C=
+0x3D5D2F8C=金发妹，迷你裙，长筒靴，红短袖。上周五早上，你在Tudor港的Traeger路过马路，胳膊夹着一个文件夹，好像很急的样子。我绑着马尾辫，对你吹了口哨、喊了声「耶，宝贝！」你转过身，好像想对我喊话，结果就被Uder Milken的货车撞飞了。把你送上救护车后我才走的。神志不清的时候，我敢说你的眼睛一定在对我放电。命运真是难以捉摸啊。看见这个帖子就联系我吧。祝你早日康复。
 
 ;0xBB930FF4=PostingID: 882035523
-0xBB930FF4=
+0xBB930FF4=帖子ID：882035523
 

@@ -1,6 +1,6 @@
 ﻿;0x37F775F9=You were the blond girl in the blue dress on the corner of Emerald Street and Bismarck Avenue at about 10 PM last night.  I think that we had a moment.  Want to meet up?  Don't bring that little rat-dog with you - I don't like the way it looks at me. 
-0x37F775F9=
+0x37F775F9=昨晚10点，Emerald街和Bismarck大道的路口，有一位穿着蓝色长裙的金发姑娘。我们共度了一段时光。想再见一次面吗？别带那条小狗过来，我不喜欢它看我的眼神。
 
 ;0x624CED69=PostingID: 882056493
-0x624CED69=
+0x624CED69=帖子ID：882056493
 

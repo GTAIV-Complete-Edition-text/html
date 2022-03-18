@@ -1,6 +1,6 @@
 ﻿;0x56DE6565=You:  blonde business woman talking on her cell phone.  Me:  the guy chasing birds with vomit all over his t-shirt.  I'm sure that you smiled at me?  I've sobered up now and would love to see you again.  Nothing to lose, that's what I always say!  
-0x56DE6565=
+0x56DE6565=你：当时正在聊电话的金发女强人。我：衣服上全是呕吐物的家伙，在追赶小鸟。你一定对我笑了吧？我现在酒醒了，想再见你一次。我经常说的一句话：已经没有可以失去的了。
 
 ;0xA464F692=PostingID: 882056720
-0xA464F692=
+0xA464F692=帖子ID：882056720
 

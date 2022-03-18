@@ -1,9 +1,9 @@
 ﻿;0x848D1C2F=Our eyes met, my wife hit me  
-0x848D1C2F=
+0x848D1C2F=眼神相会的那一刻，我被老婆打了
 
 ;0xC4E412A1=You were a pretty French brunette on the Statue of Happiness tour last Sunday in a white button down, jeans and sexy high heels.  I was the guy in the Hinterland sweatshirt with the ugly redheaded kid who kept picking his nose.  Our eyes met, you smiled and my wife split my lip with her umbrella.  If you're still in Liberty City, I'd love to see you again.  We need to be very discreet.  She knows everything and I'm wearing a tracking bracelet. 
-0xC4E412A1=
+0xC4E412A1=上周日，你在幸福女神像观光，留着漂亮的法国棕发，穿着白衬衫、牛仔裤和性感的高跟鞋。我是那个穿着Hinterland运动衫，带着一个抠鼻子的红发丑小鬼的人。与你眼神相会的那一刻，你对我微微一笑，然后老婆的雨伞就划开了我的嘴唇。如果你还在自由城，我们可以再见一次面吗？一定要非常谨慎。我老婆什么都知道，她给我戴了追踪手环。
 
 ;0xB7F65B3C=PostingID: 882035444
-0xB7F65B3C=
+0xB7F65B3C=帖子ID：882035444
 
