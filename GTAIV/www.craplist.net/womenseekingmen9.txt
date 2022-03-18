@@ -8,7 +8,7 @@
 0xFE4A653E=抱抱小动物
 
 ;0x897BC1C2= is a pet rescue center in the heart of Alderney City.  Companionship, loyalty, subservience, girth... everybody looks for something different in a soul-mate.  From large dogs to small rodents; from farmyard animals to exotic imports, we will work to find the best match for you.  Adopt an animal today!  They have a lot of love to give.  
-0x897BC1C2=是位于Alderney市中心的一家宠物救助中心。陪伴、忠诚、顺从、项圈...每个人对灵魂伴侣都有着不同的需求。从大狗到鼠鼠，从田园品种到进口品种，我们会为你找到最好的对象。现在就领养一只小动物吧！它们能给你海量的爱。
+0x897BC1C2=是位于Alderney市中心的一家宠物救助中心。陪伴、忠诚、顺从、项圈... 每个人对灵魂伴侣都有着不同的需求。从大狗到鼠鼠，从田园品种到进口品种，我们会为你找到最好的对象。现在就领养一只小动物吧！它们能给你海量的爱。
 
 ;0x61E2CA47=PostingID: 562030001
 0x61E2CA47=帖子ID：562030001
