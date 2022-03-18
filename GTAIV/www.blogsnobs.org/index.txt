@@ -5,13 +5,13 @@
 0x1D3EBB0F=
 
 ;0xD37D1850=Blogsnobs lets you share your life, chronicle your darkest secrets, express your dreams, plot to kill your wife, connect with the lonely, the lascivious and the lethargic. It is your journal - here for the world to read.      
-0xD37D1850=
+0xD37D1850=你可以在Blogsnobs分享你的生活点滴，记录你内心深处的秘密，说出你昨晚的怪梦，谋划杀妻，还能与孤独者、淫荡者和嗜睡者共同交流。这是你的个人日志——全世界人都能读到。
 
 ;0x434B8D68=The world revolves around blogs. Blogs are more important than journalism. Because they're about you and your feelings. We fill the Intertubes with pointless musings about life, politics and love from attention-seeking narcissists with far too much time on their hands.      
-0x434B8D68=
+0x434B8D68=地球绕着博客转。它比新闻都重要，毕竟博客关注的是你和你的感受。它为那些吃饱了撑着的自恋狂创造了渠道，向网络倾倒人生与爱情的无病呻吟和键盘政治，博人眼球。
 
 ;0x47772A60=Just like how people get married when their relationship starts to get boring, so too do people start blogs when they run out of things to say. Tell the world about your scintillating daily routine. Communicate your perceptive views on life. Take a picture of the asschowder you made after last night's all-you-can-eat Indian buffet. Kid yourselves that millions of total strangers are going to be interested in what you had for lunch. The blogosphere matters.        
-0x47772A60=
+0x47772A60=一如婚姻是爱情的坟墓，写博客的人没活了也是如此。向世界展示你闪闪发光的日常生活吧。用你独到的见解锐评。拍下昨晚煮的炸厨房大餐。骗自己会有几百万人对你今天吃什么感兴趣。不能没有博客圈。
 
 ;0xC2914F19=DarkSoulLock
 0xC2914F19=
