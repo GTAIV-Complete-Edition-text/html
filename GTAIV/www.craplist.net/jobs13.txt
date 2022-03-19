@@ -2,8 +2,8 @@
 0xC3C8EC6B=
 
 ;0x932A3673=Do you like ripping out your own hair?  Try doing it to others!  It's awesome.  Have you got what it takes to give a Brazilian to a 400lb woman with a smile on your face?  Plus-size waxing requires skill and sensitivity.  If you think you're the right person for the job, drop us a note and we will send you a few photos of our regulars so you have a better idea of what you're getting yourself into.  You'll get to touch women in private places and give them pain! 
-0x932A3673=
+0x932A3673=你喜欢给自己脱毛吗？也给别人做个脱毛试试吧！感觉超棒的。你有面对180kg的女人依然微笑服务完成脱毛的能力吗？给大号女性脱毛需要技巧和关怀。如果你觉得自己能够胜任，给我们发个消息。我们会发你一些常客的照片，让你更加了解自己即将面对怎样的客户。你会触碰女性的私处，让她们痛苦！
 
 ;0xFC0D1B2B=PostingID: 4248795
-0xFC0D1B2B=
+0xFC0D1B2B=帖子ID：4248795
 

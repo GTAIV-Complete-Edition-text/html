@@ -1,15 +1,15 @@
 ﻿;0x259EAF51=Does your child need a new friend?  Call Tranny Manny Nanny! 
-0x259EAF51=
+0x259EAF51=你家孩子需要新朋友吗？联系Tranny Manny Nanny吧！
 
 ;0x717918E4=(Normandy) 
 0x717918E4=
 
 ;0x86F36FB3=I want to play with your kids!!!!!  Loving male nanny with 36 years experience watching children, mainly from behind trees!  I'm a father figure and a mother figure!  I can help your daughter with her mascara and throw a football around with your son.  I can make an exquisite table arrangement but I can also get the top off even the most stubborn jar of mayonnaise.  I cover all the bases.  Aside from dress-down Fridays, I wear my hair up and go with a very conservative, matronly look.  
-0x86F36FB3=
+0x86F36FB3=我想陪你的孩子玩！！！！！有爱的男妈妈，36年看娃经验，基本是在树后面看的！既能当爹又能当妈！我可以帮你女儿涂睫毛膏，替你儿子抛足球。文能巧手制桌花，武能大力拧瓶盖。面面俱到包您满意。遇到随性打扮的周五，我会绑起头发，打扮得更加保守母性。
 
 ;0xBA753ED2=Extremely competitive rates. 
-0xBA753ED2=
+0xBA753ED2=费用巨划算。
 
 ;0x47703C6C=PostingID: 424779632
-0x47703C6C=
+0x47703C6C=帖子ID：424779632
 

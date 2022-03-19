@@ -1,9 +1,9 @@
 ﻿;0xB5247920=(Middle Park West)
-0xB5247920=
+0xB5247920=(中心公园西)
 
 ;0x56EE737E=It happens to all great bloggers at some point in their lives.  The fountain of creativity dries up. Six days after I started it, my blog has lain idle, frozen in time, left to drift the online seas like a ship without a captain.  SHIT!!!!!  You see what I mean!  Even my metaphors aren't working and nobody does metaphor like me.  I can't disappoint my fans.  It crushes me to think of them sitting there forlornly clicking the refresh button, desperate for some kind of update.  I don't know what's wrong with me.  I've got an amusing incident from the grocery store and a great rant about microwaves that I just can't articulate.  I'm like a summer flower that... oh, fuck it, it's just not happening!!  I have come to the conclusion that the only solution is to find a muse.  BLOGS ARE REALLY IMPORTANT and I need to tell you about every moment I have!  If you're an attractive female with some free time over the next couple of weeks, please send me an email.  Your main task as a muse will be to big me up and marvel at my genius.  $50 per day. 
-0x56EE737E=
+0x56EE737E=不管是多伟大的博客主，人生中总会有灵感耗尽的时候。写了六天之后，我的博客就躺平了，时光停滞，就像一艘没有船长的船一样，在网络这片大海上漂荡。妈的！！！！！懂我意思了吧！比喻可是我的拿手绝活，结果现在连比喻都写不好了。我不能让粉丝失望。一想到他们坐在电脑前，痴痴地点着刷新键等我更新，我就压力山大。我也不知道自己是怎么了。明明有杂货店的趣事和微波炉的批判可以写，但就是写不出来。我就像是夏天的花... 哦，操了，就是写不出来！！最终我的结论是，需要一个灵感源泉。博　客　很　重　要！我一定要把生活分享给你们！如果你是魅力十足的女性，而且之后几周有空的话，请用邮件联系我。作为灵感源泉，你的主要任务就是吹捧我、为我的才智惊叹。一天$50。
 
 ;0x6D11B745=PostingID: 425588324
-0x6D11B745=
+0x6D11B745=帖子ID：425588324
 
