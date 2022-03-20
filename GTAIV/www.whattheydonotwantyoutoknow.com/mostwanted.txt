@@ -1,6 +1,6 @@
 ﻿;0xCDAD224D=Liberty's Most Wanted! 
-0xCDAD224D=
+0xCDAD224D=自由城通缉犯！
 
 ;0xC2954BC2=Back
-0xC2954BC2=
+0xC2954BC2=返回
 

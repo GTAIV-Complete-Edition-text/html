@@ -1,6 +1,6 @@
 ﻿;0x2CC85A33=Drop Off Points!
-0x2CC85A33=
+0x2CC85A33=下车点！
 
 ;0xC2954BC2=Back
-0xC2954BC2=
+0xC2954BC2=返回
 
