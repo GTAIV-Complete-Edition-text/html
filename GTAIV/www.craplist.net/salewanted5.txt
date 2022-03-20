@@ -1,9 +1,9 @@
 ﻿;0x4680590F=For sale: broken chair, slice of pepperoni pizza, three empty wine bottles, leather boot and dead cat.  I have named this piece 'Sinister Dawn'.  Critics have hailed it as "one of the most important works of our time", "a snapshot of modern society in all its grotesque splendor" and "a bold evocation of the disintegration of moral values and the futility of man's existence".  
-0x4680590F=
+0x4680590F=出售：破椅子、一片意式香肠披萨、三个空酒瓶、皮靴、死猫。我称这一作品为「噩兆黎明」。评论家则将此颂为「当代最重要的艺术作品之一」「现代社会怪状的缩影」「对道德崩塌与无力个人的呼唤」。
 
 ;0xF9A3D5CE=Reduced to $4,000,000 for a quick sale.   
-0xF9A3D5CE=
+0xF9A3D5CE=急出，自刀到$4,000,000。
 
 ;0xB561C484=PostingID: 454679476
-0xB561C484=
+0xB561C484=帖子ID：454679476
 

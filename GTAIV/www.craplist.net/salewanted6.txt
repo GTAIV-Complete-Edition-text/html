@@ -2,14 +2,14 @@
 0x38848CB5=
 
 ;0x0FBEEFFC=I can't believe they're back in style!  The last time I wore pump-ups I was double-dropping white doves and dancing with my shirt off.  Does anybody have a pair of the limited edition in size 9?  I checked on  
-0x0FBEEFFC=
+0x0FBEEFFC=居然又流行起来了！上一次穿PUMP UP的时候，我还在嗑着摇头丸裸着上身跳舞。有人有42码的限定款吗？我在
 
 ;0xB4A605E3=www.erisfootware.com
 0xB4A605E3=
 
 ;0xCE3DF6B3=  and they've sold out.  I'll show my kids their dad is still hip! 
-0xCE3DF6B3=
+0xCE3DF6B3=看过了，官网断货了。我会向孩子们证明他们的爸爸依然时髦！
 
 ;0xA7F3D11D=PostingID: 454679332
-0xA7F3D11D=
+0xA7F3D11D=帖子ID：454679332
 
