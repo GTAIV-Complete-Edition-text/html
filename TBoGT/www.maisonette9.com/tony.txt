@@ -1,21 +1,21 @@
 ﻿;0x4475AF1E=ABOUT
-0x4475AF1E=
+0x4475AF1E=关于我们
 
 ;0x3F846580=RULES
-0x3F846580=
+0x3F846580=本店守则
 
 ;0xDEFD137E=TONY PRINCE
 0xDEFD137E=
 
 ;0x968D8487=ABOUT TONY PRINCE
-0x968D8487=
+0x968D8487=关于Tony Prince
 
 ;0x39F59CE4=Tony Prince, the legendary "Gay Tony", grew up in Dukes, as a young boy he wandered to the Humboldt River and dreamed of living on the other side so he would no longer be considered bridge and tunnel and as soon as he went to college, his dream came true. Ignoring school, he spent the middle part of the 1980s working the cloakroom and then the door at the legendary Elephant, until that closed down following a fire. Tony's next venture was the classic rave venue PUDDLE, based famously in a converted mortuary. Unfortunately, the tax man decided Tony was having too good a time and the club was closed and Tony narrowly avoided jail. Next he opened his first gay club, Thunder, which itself evolved into 2 Backed Beast. After this was shut down by the city, he returned to the gay scene with Hercules, which has now been open for ten years. 
-0x39F59CE4=
+0x39F59CE4=Tony Prince，诨名「基佬Tony」，在Dukes长大，小的时候他在Humboldt河边闲逛，希望自己可以住在对岸，这样子才不会被看作是乡巴佬。一上大学，他的梦想就实现了。他无心学习，80年代中期，他在著名夜店「Elephant」的衣帽间和门卫岗工作过。后来夜店失火倒闭了。接着，Tony创业，创立的正是经典迪厅「PUDDLE」，因修建在改造的太平间上闻名。可惜的是，收税的觉得Tony过得太好，把店查封了，Tony差点就进了监狱。然后，Tony开了他的第一家同性恋酒吧，名为「Thunder」，后改名为「2 Backed Beast」。后来这家店又被政府关停，再开的店名为「大力神」，一直营业至今有10年。
 
 ;0x6609193D=At the same time, he catered to the heterosexual crowd with the now legendary DEATH BY MACHINES. After DEATH BY MACHINES burned down, Tony was briefly banned from opening any new venues, before he opened Maisonette 9 in 2003. As Tony says, in his inimicable style, "I do it for the love, that and the easy money, access to drugs and ability to suck up to famous people."
-0x6609193D=
+0x6609193D=与此同时，他为异性恋群体开办了口口相传的夜店「DEATH BY MACHINES」，后来店里发生火灾倒闭了。一直到2003年开办「9号豪宅」前，政府禁止Tony开办新的迪厅。他本人打肿脸充胖子地说道，「我干这行是因为热爱，赚钱也快，又能嗑药又能跪舔大明星」。
 
 ;0x2C2E0524=A TONY PRINCE PRODUCTION
-0x2C2E0524=
+0x2C2E0524=由Tony Prince制作
 

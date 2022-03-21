@@ -1,24 +1,24 @@
 ﻿;0x4475AF1E=ABOUT
-0x4475AF1E=
+0x4475AF1E=关于我们
 
 ;0x3F846580=RULES
-0x3F846580=
+0x3F846580=本店守则
 
 ;0xDEFD137E=TONY PRINCE
 0xDEFD137E=
 
 ;0x86A1AB25=RULES OF MAISONETTE 9
-0x86A1AB25=
+0x86A1AB25=9号豪宅入店守则
 
 ;0x2AD84D08=Dress Code is not something we worry about as we aren't some bunch of bridge and tunnel suburbanites. If you look wrong, we'll make that very clear.  
-0x2AD84D08=
+0x2AD84D08=本店对于穿着打扮的要求比较宽松，因为来客都不是睡桥底住隧道的人。如果你穿得不合适，我们会向你解释清楚。
 
 ;0x4B888F6E=You must be over 21 or famous to party.
-0x4B888F6E=
+0x4B888F6E=除非你特别有名，否则你的年龄必须大于21岁。
 
 ;0x533E57C8=The club is open 7 nights a week from when we feel like it until when we've had enough.
-0x533E57C8=
+0x533E57C8=本店晚上开门，全年无休，一切解释权归本店所有。
 
 ;0x2C2E0524=A TONY PRINCE PRODUCTION
-0x2C2E0524=
+0x2C2E0524=由Tony Prince制作
 
