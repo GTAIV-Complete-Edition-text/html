@@ -5,7 +5,7 @@
 0x0E371409=广告
 
 ;0x9BA74530=BURGER SHOT
-0x9BA74530=
+0x9BA74530=吃得饱汉堡
 
 ;0x6C8852C7=Burger Shot is a shining emblem of the American way, the American meal, and the American lifestyle. 
 0x6C8852C7=吃得饱汉堡是美国人方方面面的最佳代表。

@@ -2,11 +2,11 @@
 0xF5C17AEF=
 
 ;0x53DF5DC2=You don't need to be ashamed any longer!  There is nothing wrong with watching young androgynous males dancing in sleeveless tees.  There is nothing wrong with listening to manufactured formulaic pop songs about the angst of teenage love.  It doesn't make you a pervert.
-0x53DF5DC2=
+0x53DF5DC2=再也不用感到羞耻了！看雌雄莫辨的年轻小子穿无袖衫跳舞无罪。听流水线出品的青涩爱情流行歌无罪。做这些事又不代表自己是变态。
 
 ;0x88C96B25=A healthy obsession with boy bands is the most natural thing in the world and it should never stop.  It shouldn't be a dirty little secret.  If you keep hiding it from your friends and family, it will eventually destroy you.  Society won't change until you stand up and are counted.  Join our support group on Tuesday nights and meet lots of other men just like you.  At the end of each session, we run through some choreographed routines from your favorite bands (don't try to kid us that you don't know them all!).  It's all about learning to accept who you are.  Hold your head up high! 
-0x88C96B25=
+0x88C96B25=被男团迷住可是再自然不过了，没必要放弃的。也不应该对此大惊小怪不敢示人。如果你一直跟朋友和家人遮遮掩掩，还会渐渐毁掉自己。你不起来发声，社会绝不会自己改变。周三晚上来参加我们的互助会吧，这里有很多和你一样的人。活动结束之前，我们还会看一些你喜欢的团的演出片段(别装了，总有你认识的团吧！)关键的是接受现在的自我。昂首挺胸吧！
 
 ;0x73A130AA=PostingID: 4945899103
-0x73A130AA=
+0x73A130AA=帖子ID：4945899103
 

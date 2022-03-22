@@ -2,8 +2,8 @@
 0xB0806363=
 
 ;0x0D2AC3BF=Men on the pitch, women in the clubhouse!  Just because you're a 250lb man who takes it hard on the field, doesn't mean that you can't appreciate the touch of a chiffon blouse or the elegance of a stiletto heel on your face after the whistle blows.  There's no better feeling than breaking a guy's nose and then walking up to him in an Enema mini-dress and feather boa half an hour later!  Join a winning team!  Straight men only.   
-0x0D2AC3BF=
+0x0D2AC3BF=赛场上的男人，更衣室的女人！两百多斤的男人不仅可以在赛场上出力，赛后同样也可以体验雪纺上衣的触感和细高跟的优雅。先把他的鼻子打歪，半小时后再穿上Enema牌的迷你裙和毛绒围脖去看他，实在太美妙了！加入胜者组吧！只收直男。
 
 ;0xC06A9850=PostingID: 494533215
-0xC06A9850=
+0xC06A9850=帖子ID：494533215
 

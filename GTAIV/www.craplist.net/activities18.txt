@@ -1,12 +1,12 @@
 ﻿;0xB6EBAD69=Good pool player needed to hustle drunk tourists  
-0xB6EBAD69=
+0xB6EBAD69=找个台球高手，一起赚醉酒游客的钱
 
 ;0x05204770=(Liberty City)
-0x05204770=
+0x05204770=(自由城)
 
 ;0xE8B50E58=My brother and I have been making $100-$200 a night hustling tourists in Irish bars, but he's just won an all-expenses-paid trip to the Alderney State Correctional Facility.  That's what happens when you get careless.  Anyway, I need a new partner.  Hustling is a great way to make some extra cash and it's fun screwing over foreigners, especially Floridians.  You need to be able to handle your drink and must be good with a blade.  You also need to be shit-hot at pool.  Some of those English kids can give us a run for our money.  Contact me for a trial this weekend.  If you beat me, I will fuck you up. 
-0xE8B50E58=
+0xE8B50E58=靠着在爱尔兰酒吧跟游客赌台球，我哥和我一晚上能赚一两百块。但我哥最近中了大奖，去Alderney州立监狱公费旅游了。一不小心是会这样的。总之，我需要找一个新搭档。赌台球是赚外快的好办法，而且搞外地人心态很有趣的，特别是佛罗里达人。你的酒量必须够好，得会打架，台球技术必须够硬。有些英国小子还能从我们这儿赢钱。事先联系，这周周末我们打几局比比看。打赢我了我弄死你。
 
 ;0x0EBBD036=PostingID: 4945886594
-0x0EBBD036=
+0x0EBBD036=帖子ID：4945886594
 

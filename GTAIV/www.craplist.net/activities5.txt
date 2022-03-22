@@ -2,14 +2,14 @@
 0x83F53686=
 
 ;0xD752F5E1=Remember when you were a kid and you were jumping on the trampoline and you came down on the metal rim and hit your nuts so hard you wanted to die?  Trampolining is fun and anybody can do it!  It's a great stress reliever and it's fun to sing religious hymns and hit those high notes as you come down on the rim.  You can watch girls jump up and down then rack yourself to oblivion to atone.  Our casual coed runs every Monday at 8 PM.  Come and join the party!   
-0xD752F5E1=
+0xD752F5E1=还记得小时候在蹦床上玩耍，结果蛋先着地痛不欲生吗？蹦床超有趣的，轻轻松松就能上手！不仅可以释放压力，还能边蹦边唱赞美诗，快要触网的时候来个高音。更能看着姑娘蹦上蹦下，让你为涌上来的负罪感赎罪。每周一晚上8点是男女混场，一起来狂欢吧！
 
 ;0x9A74FC4C=Lenny and Pete
-0x9A74FC4C=
+0x9A74FC4C=Lenny和Pete
 
 ;0x32952DDA=P.S. Please send photos.  Some weight restrictions apply. 
-0x32952DDA=
+0x32952DDA=PS：先发照片。我们有体重限制。
 
 ;0xCC8243F3=PostingID: 494534417
-0xCC8243F3=
+0xCC8243F3=帖子ID：494534417
 
