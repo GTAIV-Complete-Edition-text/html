@@ -26,5 +26,5 @@
 0x981F2306=你需要巧妙地避开困扰普通旅行者的陷阱，错误和faux pas（被法国人偷走的短语）。
 
 ;0x81050D86=The best piece of advice that the American Travel Guide can give you is - STAY AT HOME! There's a reason you don't own a passport. Why would you want to fly halfway around the world to get insulted by socially-awkward savages who will spit in your food and steal your camera when you can get all the European culture that you need delivered to your door faster than a fire truck right here in the US of A? Relax. Kick off your Derriere shoes, put your feet up on your Krapea table, order a deep-pan from Pizza This, take a slurp of your Bean Machine gunkaccino, crack open a Piswasser and engage in some hand-to-gland combat to the finest Russian adult entertainment. You don't need to leave America to know that it's the greatest country in the world!
-0x81050D86=美国人旅游指南能给你的最有含金量的建议就是————呆在家里！这就是你没有护照的原因。你为啥会想要飞越半个世界去被社交尴尬，偷你食物和相机的野蛮人羞辱呢？更不要说你足不出户就能比US他妈的A的消防车到你家门口还快的速度了解欧洲文化呢？踢开你的Derriere鞋，把脚放到Krapea桌子上，从Pizza This点一份大份披萨，喝一口Bean Machine的贡卡齐诺，打开一罐尿汤啤，然后对着俄罗斯极品黄色内容手冲吧。你不必出国才知道你在世界上最伟大的国家！
+0x81050D86=美国人旅游指南能给你的最有含金量的建议就是————呆在家里！这就是你没有护照的原因。你为啥会想要飞越半个世界去被社交尴尬，偷你食物和相机的野蛮人羞辱呢？更不要说你足不出户就能比US他妈的A的消防车到你家门口还快的速度了解欧洲文化呢？踢开你的Derriere鞋，把脚放到Krapea桌子上，从Pizza This点一份大份披萨，喝一口冰的咖啡的贡卡齐诺，打开一罐尿汤啤，然后对着俄罗斯极品黄色内容手冲吧。你不必出国才知道你在世界上最伟大的国家！
 
