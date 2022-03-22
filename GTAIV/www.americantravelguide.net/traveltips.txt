@@ -1,60 +1,60 @@
 ﻿;0x4B34C8E3=It's very important to not be concerned about local customs and cultures when traveling abroad. These people are behind the times and need to learn. The American Travel Guide prides itself on stripping away the stereotypes and sweeping generalizations that characterize so many of the existing guidebooks to Europe.
-0x4B34C8E3=
+0x4B34C8E3=出国旅游无视当地风俗文化是重要的。那些人落后于时代需要学习。美国人旅行指南以扫清现有欧洲旅游指南存在的刻板印象和分类为傲。
 
 ;0x7A21D958=We have compiled some guidelines for Americans in Europe to minimize the impact of culture shock and facilitate communication with the primitive natives:
-0x7A21D958=
+0x7A21D958=我们已经整理了一些帮助美国人最小化那些文化冲击的影响和促进与野蛮人交流的建议。
 
 ;0x56D15072=In Bulgaria, shaking the head means yes and brushing a man's penis means no. A bit like drunken women at frat parties.
-0x56D15072=
+0x56D15072=在保加利亚，摇头表示yes而弹男人的阴茎表示no。就像基佬派对上的醉酒女人一样。
 
 ;0xE9A73846=ALWAYS travel in large groups.
-0xE9A73846=
+0xE9A73846=总是群体活动。
 
 ;0x6791C074=Stick to resort destinations and bus tours.
-0x6791C074=
+0x6791C074=待在度假村和巴士巡游。
 
 ;0x7C6C6FA4=Take as many photos as possible, especially of poor people.
-0x7C6C6FA4=
+0x7C6C6FA4=尽可能多的拍照片。尤其是拍穷人。
 
 ;0xB40E8B86=Never ask a local person for directions. They do not understand the concept of blocks.
-0xB40E8B86=
+0xB40E8B86=永远别问当地人方向。他们没有街区的概念。
 
 ;0xC3397006=STAY ON THE BUS.
-0xC3397006=
+0xC3397006=待 在 巴 士 上。
 
 ;0x512D01E0=The dinner attire in all European restaurants is: baseball hat (worn indoors at all times), t-shirt, shorts, white socks, sneakers/flip-flops, fanny pack/money belt.
-0x512D01E0=
+0x512D01E0=所有欧洲餐厅的晚餐服装是：棒球帽（始终在室内佩戴），T恤，短裤，白袜子，运动鞋/人字拖，腰包/钱带。
 
 ;0xC0FD6C5C=Europeans love to 'queue'. Remember, because we won the war for them, Americans NEVER have to stand in line. Just talk loudly and push your way to the front.
-0xC0FD6C5C=
+0xC0FD6C5C=欧洲人喜欢“排队”，因为我们为他们赢得了战争。所以美国人 从 不需要排队。只需要大喊大叫挤上前就行了。
 
 ;0x7F437924=If you do end up waiting a long time to be served in a shop or restaurant, take the proprietor aside and explain to him how to run a business.
-0x7F437924=
+0x7F437924=如果你在商店或餐厅等了很久的话，别管店主，教他怎么做生意。
 
 ;0x2A7E38EA=Do not watch the foreign news! You will find events reported from an alarming number of different viewpoints. All you need to know is that America is a shining benevolent force in a world of darkness and evil.
-0x2A7E38EA=
+0x2A7E38EA=别看外国新闻！你会发现事见会被从海量不同的视角报道。你要知道的就是美国是这黑暗邪恶世界的灯塔就是了。
 
 ;0x49E73164=Everyone knows everyone else in Europe, without fail. If you meet a family from Vienna on vacation in the USA, for example, be sure to mention their names to every person you come across in Germany.
-0x49E73164=
+0x49E73164=欧洲人人都互相认识。比如，如果你在美国见到一个从维也纳度假的家庭，向你在德国见到的每一个人提起他们的名字。
 
 ;0x8575AD9E=Pointing and staring are widely accepted practices in Europe.
-0x8575AD9E=
+0x8575AD9E=指指点点和凝视在欧洲是被接受的。
 
 ;0xAFBB5BFF=Try to share your political and/or religious views with as many people as possible.
-0xAFBB5BFF=
+0xAFBB5BFF=将你的政治/宗教观点向尽可能多的人分享。
 
 ;0xBA5677C5=Chanting U-S-A is a great way to make friends.
-0xBA5677C5=
+0xBA5677C5=说U-S-A牛逼是交朋友的好办法。
 
 ;0xE304B814=Remember to laugh at the funny way that people sound when they try to speak English.
-0xE304B814=
+0xE304B814=当人们说英语时，记得嘲笑他们可笑的口音。
 
 ;0xBB2CE08D=European women are always grateful for advice and help when you lecture them on how to bring up their kids.
-0xBB2CE08D=
+0xBB2CE08D=欧洲女人会对你告诉他们如何养育孩子的建议和帮助感激不尽的。
 
 ;0x3BC2EA15=The standard greeting in Europe is a slap on the back often accompanied by a cry of 'buddy!' The standard farewell is a high-five.
-0x3BC2EA15=
+0x3BC2EA15=欧洲标准的问候是拍背并大叫一声“老铁！”，标准的告别是击掌。
 
 ;0x4C8BEE6E=Europeans are obsessed by all things American so talking up your personal wealth, status and power is a good way to endear yourself and a superb icebreaker. They love blue jeans there, take your old ones with you to sell.
-0x4C8BEE6E=
+0x4C8BEE6E=欧洲人全方位地跪舔美国人，所以破冰时就说说你的财富，地位和权力。他们喜欢蓝色的牛仔裤，所以带上你的旧裤子卖给他们。
 
