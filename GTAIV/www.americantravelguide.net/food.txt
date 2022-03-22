@@ -11,7 +11,7 @@
 0xD0135455=欧洲人会不惜代价地毒害美国游客。以下是一些需要注意的诡计：
 
 ;0x4FD0B2FD=They will attempt to persuade you to spread a sticky, black yeast extract on your toast in the morning. It looks like chocolate spread but is in fact devil spawn diarrhea. Everything and anything in the UK is a pudding... Yorkshire pudding, Christmas pudding, black pudding. You never know whether you're going to get a dessert or a lump of congealed animal blood. Most of their traditional dishes sound like sordid sexual encounters: bubble-and-squeak, spotted dick, toad-in-the-hole, plum duff. Do not be fooled and do not drink the warm beer.
-0x4FD0B2FD=他们会劝你把黑不溜秋的，黏了吧唧的酵母酱涂到你的早餐吐司上。这玩意儿看起来像巧克力，但实际上是传播腹泻的恶魔。在英国什么都能做成布丁......约克郡布丁，圣诞布丁，黑布丁......你根本不知道你拿到的是甜点还是一坨凝固的动物血液。他们不少的传统菜肴听起来就像猥琐的性交体位：炸马铃薯和洋白菜（一种向菊花里呕吐和拳交的搞基动作），葡萄干布丁（斑点鸡巴），布丁香肠（阴茎过小而无法碰到阴道壁），圣诞布丁（男同性恋）。千万不要被骗了，还有不要喝温啤酒。
+0x4FD0B2FD=他们会劝你把黑不溜秋的，黏了吧唧的酵母酱涂到你的早餐吐司上。这玩意儿看起来像巧克力，但实际上是传播腹泻的恶魔。在英国什么都能做成布丁......约克郡布丁，圣诞布丁，黑布丁......你根本不知道你拿到的是甜点还是一坨凝固的动物血液。他们不少的传统菜肴听起来就像猥琐的性交体位：炸马铃薯和洋白菜（一种向菊花里呕吐和拳交的搞基动作），葡萄干布丁（梅毒），布丁香肠（阴茎过小而无法碰到阴道壁），圣诞布丁（男同性恋）。千万不要被骗了，还有不要喝温啤酒。
 
 ;0x4550B454=You're expecting a bowl of Big Logs cereal for breakfast and they arrive with a plate of herring and eel. Sick.
 0x4550B454=早餐时你期待一碗Biglogs麦片，结果来了一盘鲱鱼和鳗鱼。恶心。
