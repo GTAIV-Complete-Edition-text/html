@@ -1,51 +1,51 @@
 ﻿;0xCB8D4BE9=Most European countries still speak in the barbaric tongues of pre-1776 civilization.
-0xCB8D4BE9=
+0xCB8D4BE9=许多欧洲国家仍然说着1776年前的未开化语言。
 
 ;0xF6874A1B=A form of pidgin English is spoken in the city of England, often used to depict villains in Vinewood movies.
-0xF6874A1B=
+0xF6874A1B=英格兰的城市讲一种杂种英语，通常凭此能认出好麦坞的反派。
 
 ;0x51DE25D6=We strongly recommend that you strive to avoid direct contact with the local yokels wherever possible. However, if you are forced into a situation where conversation with a European becomes necessary, these three steps will stand you in good stead:
-0x51DE25D6=
+0x51DE25D6=我们强烈建议无论在哪里都避免与当地的乡巴佬直接接触。不过如果你有时候不得不和一个欧洲人说话的话，如下三个技巧可以帮助你：
 
 ;0xE0AA6E99=Hold tightly onto your wallet
-0xE0AA6E99=
+0xE0AA6E99=紧紧抓住你的钱包不放
 
 ;0x2DB238BA=Speak slowly and loudly like you are talking to someone with a mental handicap - most have one     
-0x2DB238BA=
+0x2DB238BA=说话缓慢响亮就像在和在和一个弱智说话——应该本来就是
 
 ;0x615FC7FF=Move closer into their personal space and repeat at a higher volume
-0x615FC7FF=
+0x615FC7FF=接近他们到社交距离内并大声重复
 
 ;0x2138060E=The American Travel Guide has pulled together some common phrases that may come in handy on your travels through Europe and buy you some time when fending off the advances of a murderous foreigner:    
-0x2138060E=
+0x2138060E=美国人旅行指南汇集了一些常用短语来帮助你在欧洲便利旅游来在防御杀人不眨眼的外国人时为你节省时间：
 
 ;0x1183867D=Say "Get your thieving hands off my passport" in an apologetic, sarcastic but pessimistic tone. Try to instill a feeling of quiet desperation. Pretend to be missing teeth.
-0x1183867D=
+0x1183867D=用道歉，讽刺和悲观的语调说“把你的贼手从我的护照上拿开”。试着融入一种安静绝望的感受。想象自己缺了牙齿。
 
 ;0x4D36D6ED=Say "Get your thieving hands off my passport" in an aloof, condescending tone. Shrug your shoulders and imagine you are a great lover and that everyone hates you.
-0x4D36D6ED=
+0x4D36D6ED=用冷漠，居高临下的语调说“把你的贼手从我的护照上拿开”。耸耸肩假装你是个人见人恨的海王。
 
 ;0xC6EC3BAD=Slur "Get your thieving hands off my passport". Hit them in the face and throw some gold coins on the ground.      
-0xC6EC3BAD=
+0xC6EC3BAD=污蔑“把你的贼手从我的护照上拿开”。给他们一耳光并把金币扔在地上。
 
 ;0x0DF88E1F=Say "Get your thieving hands off my passport" in a non-committal tone while asking if they know a good place to stash some genocidal loot.
-0x0DF88E1F=
+0x0DF88E1F=用一种不承诺的语气说"把你的贼从我的护照上拿开"，同时问他们是否知道一个好地方来藏匿一些种族灭绝的战利品。
 
 ;0x4B06D0F2=Say "Get your thieving hands off my passport" while grabbing your balls. Wink and run your fingers through your hair.
-0x4B06D0F2=
+0x4B06D0F2=抓着你的蛋说"把你的贼从我的护照上拿开"。眨眨眼并用手指卷动头发。
 
 ;0x9717F2FE=Say "Get your thieving hands off my passport" whilst gesticulating wildly and acting like you are full of hash.
-0x9717F2FE=
+0x9717F2FE=说"把你的贼从我的护照上拿开"同时疯狂地打手势，表现得好像你哈草过量。
 
 ;0xE8012AEE=Say "Get your thieving hands off my passport" with the air of an inferiority complex. Follow up with 'No hablo espanol'.     
-0xE8012AEE=
+0xE8012AEE=以自卑的气氛说"把你的贼从我的护照上拿开"。紧接着说一句'No hablo espanol'（不要说西班牙语）。
 
 ;0x008399C5=Say "Get your thieving hands off my passport" in an officious, self-righteous tone. Do not smile. Do not say you are sorry. Grunt.
-0x008399C5=
+0x008399C5=以自以为是的语气说"把你的贼从我的护照上拿开"。不要笑，不要说对不起。咕噜。
 
 ;0x9001B8AE=Say "Get your thieving hands off my passport" in a suicidal tone. Do not mention daylight.
-0x9001B8AE=
+0x9001B8AE=以自杀的语气说"把你的贼从我的护照上拿开"。不要在白天说。
 
 ;0xB8A9EF81=Say "Get your thieving hands off my passport" in a laid-back tone. Roll up a fatty and light it.  
-0xB8A9EF81=
+0xB8A9EF81=以慵懒的语气说"把你的贼从我的护照上拿开"。卷起一根大麻烟并点了它。
 
