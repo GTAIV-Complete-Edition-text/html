@@ -17,5 +17,5 @@
 0x93D0CCD8=所有购买不得退款。
 
 ;0x246A54CE=All liabilities are denied.
-0x246A54CE=售后概不负责。
+0x246A54CE=一经售出概不负责。
 
