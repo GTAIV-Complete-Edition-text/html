@@ -1,75 +1,18 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0xB56CC71B=>classes
-0xB56CC71B=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x0561DA07=CLASSES
-0x0561DA07=
-
-;0xD77CDA8E=Motivational Seminar - Get your game together with Bruce Kibbutz!
-0xD77CDA8E=
-
-;0x4ACC8311=(Broker)
+﻿;0x4ACC8311=(Broker)
 0x4ACC8311=
 
 ;0xCC6BE129=Can you imagine waking up every morning and wanting to look at yourself for hours in the mirror?  The nineties were the age of the New Man.  Now it's time for the Ultimate Man.  A man with a blog, a PDA, 20-inch rims, a 10-inch cock, the perfect body and the rock star lifestyle.  You want it all, you deserve it all.
-0xCC6BE129=
+0xCC6BE129=你能想象每天早上醒来，望着镜子里的自己无法自拔吗？九十年代是新派男子的时代，而现在是终极男人的时代。有博客、掌上电脑、20寸轮圈、25厘米巨屌、完美身材、大枪和摇滚明星生活风范的终极男人。你渴望这一切，你值得这一切。
 
 ;0xEA3F03E2=Lifestyle guru and self-appointed local celebrity, Bruce Kibbutz will be speaking in supermarkets around Broker over the next two weeks, urging men to 'get their game together'.  The seminars will be focused on body shaping, personal grooming and social climbing.  Email now for advance reservations.   
-0xEA3F03E2=
+0xEA3F03E2=接下来两周，人生大师、自封的当地名人Bruce Kibbutz会在Broker一带的超市宣讲，力荐男性「尽显男人本色」。宣讲会的主要内容是体型锻炼、个人保养和如何跻身上流社会。立刻发送邮件，提前预约吧。
 
 ;0xDCD8E599=For more information on Bruce Kibbutz, go to
-0xDCD8E599=
+0xDCD8E599=如果还想对Bruce Kibbutz作进一步了解，请参考
 
 ;0x55DEFFB3=www.bruciesexecutivelifestyleautos.com
 0x55DEFFB3=
 
 ;0x90CC7E14=PostingID: 610024001
-0x90CC7E14=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x90CC7E14=帖子ID：610024001
 

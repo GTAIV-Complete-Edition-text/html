@@ -1,66 +1,9 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x7DFD8D83=>sale&wanted
-0x7DFD8D83=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x074F3216=SALE / WANTED
-0x074F3216=
-
-;0x8BCC9CAA=Free box of healthy crap
-0x8BCC9CAA=
-
-;0x68A51EC3=(East Holland)
+﻿;0x68A51EC3=(East Holland)
 0x68A51EC3=
 
 ;0xD8CBE1B3=I bought a load of granola bars, broccoli, figs, lentils and soy milk last week.  Man, was that a mistake.  They say you don't know until you've tried something.  Well, I've tried it and all I know is it tastes like shit and I prefer smoking cigs and drinking Jakeys.  I wouldn't wish that stuff on my worst enemy.  I don't care what that doctor says.  Fucking scaremonger!  Who does he think he is telling me I'll be dead by 40?  I'm 39 and feeling awesome.   My buddy Kev says that doctors get paid commission by the health food companies.  Well, I've got better things to spend my welfare on.  Have you seen how expensive all that rabbit food is?  What a fucking ripoff!  I can eat like a king at Wigwam Burger for $5 a day.  If you're in East Holland, please swing by and take this crap off my hands.  I don't want any money.  I just want it out of my place - it's fucking with my buzz.
-0xD8CBE1B3=
+0xD8CBE1B3=上周我买了很多麦片棒、西兰花、无花果、扁豆还有豆奶。天，怎么想的。真的是不尝不知道，一尝吓一跳。我尝了几口，难吃得要命，感觉不如抽烟喝酒味道好。这种东西真的是给人吃的吗？我才不信医生的鬼话连篇，别鸡巴忽悠人了。说我40岁之前必死无疑，他当自己是什么玩意啊？老子今年39，身体好极了。我哥们Kev说医生都收了健康食品厂家的钱。得，还是把我的福利金留给其他地方用吧。就这些难吃的野草野菜也好意思卖这么贵？他妈搁这儿抢劫呢！老子去Wigwam汉堡，五块钱就能敞开了吃上一天。如果你在East Holland，请来我家拿走这些垃圾。不用你出钱，我只想把这些东西处理掉，看着太闹心了。
 
 ;0xA6F3CF8A=PostingID: 454679333
-0xA6F3CF8A=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0xA6F3CF8A=帖子ID：454679333
 

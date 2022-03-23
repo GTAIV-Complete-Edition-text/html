@@ -1,63 +1,21 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3B0CB221=>
-0x3B0CB221=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x0CE017A1=women seeking men
-0x0CE017A1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3A8FADC1=missed connections
-0x3A8FADC1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x7B578CD5=MEN SEEKING WOMEN
-0x7B578CD5=
-
-;0x22DFCF2E=No more Mr. Nice Guy  
-0x22DFCF2E=
+﻿;0x22DFCF2E=No more Mr. Nice Guy  
+0x22DFCF2E=不当好人了
 
 ;0xA2874807=(North Holland)
 0xA2874807=
 
 ;0xA1467BB9=To all the girls I know.   
-0xA1467BB9=
+0xA1467BB9=致我认识的所有姑娘。
 
 ;0x359D9C94=No more crying on my shoulder when your bastard boyfriend cheats on you.  No more calling me in the middle of the night.  No more helping you to move apartments.  No more holding the door, telling you that you look nice or noticing when you've had your hair cut.  That's it.  I'm done.  I don't want you to trust me completely.  I don't want you to tell me your hopes and dreams.  I don't want to be your confidant.  And I certainly don't want to be your fucking BROTHER.  Since you are evidently oblivious to the fact that all I'm trying to do is get inside your pants, I'm going to give you what you want.  I'm going to treat you like shit, fuck you like a whore and make your face an abstract painting of DNA.  Then I'm going to do it to your best friend.   
-0x359D9C94=
+0x359D9C94=渣男男友出轨了知道找我哭了，大半夜想不通了知道找我聊电话了，要搬家搬不动了知道找我帮忙了，剪头发没人看了知道找我夸了。到此为止了，以后爷不干了。不指望你对我敞开心扉，不指望你跟我谈人生谈理想，爷不想当你的男闺蜜，更鸡巴不想当你的干兄弟。反正你们都清楚爷只想日个逼，爷会满足你们的。爷会拿你们不当人，爷会把你们当鸡干，用DNA在你们的脸上画抽象画。干完你再干你的好姐妹。
 
 ;0x4C338166=Looking forward to creeping out of your bed in the middle of the night and not calling you. 
-0x4C338166=
+0x4C338166=期待半夜在你的床上相会，事前不会联系，我会偷偷爬出来，
 
 ;0xEEB09C0D=Dave 
 0xEEB09C0D=
 
 ;0x059E235C=PostingID: 698004021
-0x059E235C=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x059E235C=帖子ID：698004021
 

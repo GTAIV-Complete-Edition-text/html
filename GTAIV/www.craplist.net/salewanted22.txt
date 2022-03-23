@@ -1,66 +1,6 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x7DFD8D83=>sale&wanted
-0x7DFD8D83=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x074F3216=SALE / WANTED
-0x074F3216=
-
-;0x3324FE72=Leather pants, worn twice
-0x3324FE72=
-
-;0x0C864C7F=(Lower Easton)
-0x0C864C7F=
-
-;0x3F1D7871=I'll never be able to walk into the golf club without somebody saying "Howdy cowboy" again.  A 52-year-old man in leather pants!  What was I thinking?!!!  Trying to impress that shop assistant!  She was younger than my daughter.  I can't believe I fell for the sales patter - I looked ridiculous.  I couldn't even get up a flight of stairs!  I haven't seen my wife laugh like that for years, especially when I put my back out trying to get them off.  I want to put this behind me.  36 waist, $50. 
-0x3F1D7871=
+﻿;0x3F1D7871=I'll never be able to walk into the golf club without somebody saying "Howdy cowboy" again.  A 52-year-old man in leather pants!  What was I thinking?!!!  Trying to impress that shop assistant!  She was younger than my daughter.  I can't believe I fell for the sales patter - I looked ridiculous.  I couldn't even get up a flight of stairs!  I haven't seen my wife laugh like that for years, especially when I put my back out trying to get them off.  I want to put this behind me.  36 waist, $50. 
+0x3F1D7871=走进高尔夫俱乐部的时候，再也听不到别人说「你好啊，牛仔」了。穿皮裤的52岁男人！我在想什么呢？！！！泡店员吗？人家比我女儿还小。没想到我还是被店员套路了，实在太滑稽了。我连楼梯都上不了了！好多年没见过我妻子笑成这样了，尤其是我想把这条裤子脱下来的时候。我想把这条皮裤处理掉。腰围91公分，$50。
 
 ;0x2B77993D=PostingID: 4542564421
-0x2B77993D=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x2B77993D=帖子ID：4542564421
 

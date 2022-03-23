@@ -1,54 +1,15 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x9D8C3A25=>women seeking men
-0x9D8C3A25=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3A8FADC1=missed connections
-0x3A8FADC1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x0AEAFDB3=WOMEN SEEKING MEN 
-0x0AEAFDB3=
-
-;0x0BB65B21=Are you good at math but bad with girls? - 15
-0x0BB65B21=
+﻿;0x0BB65B21=Are you good at math but bad with girls? - 15
+0x0BB65B21=擅长数学但应付不了女孩子？ - 15
 
 ;0x8092D5A8=(Fortside)
 0x8092D5A8=
 
 ;0xB5511F4A=We're two high school girls with one problem - math!!  Calculus, algebra, matrices...WHATEVER!!!!!  It sucks!!  What use is math anyway?  All we need to know is college jocks + Cherenkov vodka = a kickass Tuesday night.  We can't flunk this year again.  We need a geek to do our homework.  We won't make out with you but we'll show you stuff you might never see again without paying for it.  All the guys want us cos we're like sooooooooooooooooo hot.  This needs to be VERY discreet - there's no way we can be seen with you in public.  
-0xB5511F4A=
+0xB5511F4A=两个女高中生都有一个麻烦——数学！！微积分、代数、矩阵...都啥啊！！！！！太恶心了！！数学有个屁用啊？知道「运动型男生 + 契连科夫伏特加 = 超劲爆的周二夜生活」就够了。我们今年不能再挂了，急需一个秀才代写作业。我们不会和你热吻，但是会免费给你看这辈子都不一定能再见到的东西。很多人都想和我们交往，因为我们太太太太太太太性感了。务必低调进行，不能被别人发现我们和你在一起。
 
 ;0x4A823A25=Get in touch ASAP.  Your GPA for our BRA!!!! 
-0x4A823A25=
+0x4A823A25=尽快联系。用你的GPA来换我们的BRA！！！！
 
 ;0xDADFB72B=PostingID: 562030070
-0xDADFB72B=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0xDADFB72B=帖子ID：562030070
 

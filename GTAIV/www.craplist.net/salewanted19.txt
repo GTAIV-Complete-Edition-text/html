@@ -1,66 +1,9 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x7DFD8D83=>sale&wanted
-0x7DFD8D83=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x074F3216=SALE / WANTED
-0x074F3216=
-
-;0x0BF135C2=Pearls of wisdom.  $1 per pearl  
-0x0BF135C2=
-
-;0x9582C8D1=(Alderney City)
-0x9582C8D1=
+﻿;0x0BF135C2=Pearls of wisdom.  $1 per pearl  
+0x0BF135C2=智慧结晶，一块一条
 
 ;0x75EE6A69=I'm about as deep and insightful a guy as you'll ever meet.  My wife hates the fact I'm always right!  She also hates our swinging parties, but I love them.   I view the world with an extremely critical eye and I have opinions on pretty much everything.  My work gives me a unique opportunity to study society in minute detail - I like to describe myself as the mailman who pushes the philosophical envelope!  Would you like a piece of my mind?  I can send you pearls of wisdom over the course of your day by either text or email.  Things like "one man's happiness is another man's misery" (just came up with that one!).  Think of it like word-of-the-day toilet paper for the electronic age.  Just $1 a pearl!  That's cheaper than a sex line. Come on!  Knowledge is power, people!  I need friends who want my wisdom. 
-0x75EE6A69=
+0x75EE6A69=我一定是你见过的最有洞察力的人。我老婆非常讨厌这一点，因为我每次都是对的！她还讨厌我们的换妻派对，不过我喜欢就行了。我用非常批判的眼光看待世界，几乎对所有事物都有自己的观点。我的工作让我有机会观察社会的角角落落，我更喜欢称自己为传递哲思的邮差！你想读一读我的思考吗？我可以通过短信或是邮件，每天向你发送我的哲思。比如说「汝之幸福，彼之悲伤」(刚想出来的！)你可以当它是电子时代的每日一词厕纸。一条只要一块钱！比电话聊骚还要便宜。来嘛！知识就是力量，各位！来点渴望分享我的智慧的朋友。
 
 ;0xB48C56CE=PostingID: 454644625
-0xB48C56CE=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0xB48C56CE=帖子ID：454644625
 

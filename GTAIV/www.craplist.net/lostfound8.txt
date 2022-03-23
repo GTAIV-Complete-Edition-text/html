@@ -1,75 +1,15 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3B0CB221=>
-0x3B0CB221=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x6FF67641=LOST & FOUND
-0x6FF67641=
-
-;0x0A8B504E=Found:  fat baby
-0x0A8B504E=
-
-;0xA1E3CE06=(Northern Gardens)
+﻿;0xA1E3CE06=(Northern Gardens)
 0xA1E3CE06=
 
 ;0x4AEE8EB1=Has anybody lost a fat baby?  I found one in the parking lot of the Bohan Burger Shot this morning.  What the fuck have you been feeding that thing?  Butter?  I nearly put my back out hurling it into the pick-up.  It took me about 10 minutes to find out whether it was a boy or a girl!  I don't know whether you forgot it or dumped it (I wouldn't blame you - I'd do the same if my kid looked like that) but, if I haven't heard from anyone by tomorrow at lunchtime, I'm going to sell it to that 
-0x4AEE8EB1=
+0x4AEE8EB1=有人丢了个大胖小子吗？今早我在Bohan的吃得饱汉堡的停车场里捡到了他。怎么养出这么胖的小孩的？吃黄油长大的吗？把他放到车斗上的时候差点没把我腰扭了。我花了快10分钟才看出他是男是女！我不知道他是被落下了还是被抛弃了 (不怪你，我家小孩长成这样我也不要) 但是，要是明天中午之前还没人认领的话，我就要把他挂到
 
 ;0x7DB9BB25=www.babiesovernight.com
 0x7DB9BB25=
 
 ;0x0DB31A1E=.  There's no way I'm changing that diaper again.  It looks like that Paleek Paneer Indian diarrhea shit.  I've seen some things in my time but that's going to give me nightmares for life. 
-0x0DB31A1E=
+0x0DB31A1E=上卖掉了。我绝对不会给他再换一次尿布了。像是一大坨绿色的印第安菜。虽然不是没见过类似的，但这么恶心的还是头一次见，够让我做一辈子噩梦了。
 
 ;0x50F8066C=PostingID: 620025447
-0x50F8066C=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x50F8066C=帖子ID：620025447
 

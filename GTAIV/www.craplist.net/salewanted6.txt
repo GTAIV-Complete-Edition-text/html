@@ -1,72 +1,15 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x7DFD8D83=>sale&wanted
-0x7DFD8D83=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x074F3216=SALE / WANTED
-0x074F3216=
-
-;0x5B5F32D1=Eris PUMP UP Limited Edition????
-0x5B5F32D1=
-
-;0x38848CB5=(BOABO) 
+﻿;0x38848CB5=(BOABO) 
 0x38848CB5=
 
 ;0x0FBEEFFC=I can't believe they're back in style!  The last time I wore pump-ups I was double-dropping white doves and dancing with my shirt off.  Does anybody have a pair of the limited edition in size 9?  I checked on  
-0x0FBEEFFC=
+0x0FBEEFFC=居然又流行起来了！上一次穿PUMP UP的时候，我还在嗑着摇头丸裸着上身跳舞。有人有42码的限定款吗？我在
 
 ;0xB4A605E3=www.erisfootware.com
 0xB4A605E3=
 
 ;0xCE3DF6B3=  and they've sold out.  I'll show my kids their dad is still hip! 
-0xCE3DF6B3=
+0xCE3DF6B3=看过了，官网断货了。我会向孩子们证明他们的爸爸依然时髦！
 
 ;0xA7F3D11D=PostingID: 454679332
-0xA7F3D11D=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0xA7F3D11D=帖子ID：454679332
 

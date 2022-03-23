@@ -1,66 +1,6 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x7DFD8D83=>sale&wanted
-0x7DFD8D83=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x074F3216=SALE / WANTED
-0x074F3216=
-
-;0x1B029C07=Looking for clean urine
-0x1B029C07=
-
-;0x74F9EE9C=(Tudor)
-0x74F9EE9C=
-
-;0xBCF4FBCA=What did my dad tell me about always checking the fine print?!!  When I got the job offer from Schlongberg & Sachs, all I saw was the 9 and five zeros.  It's amazing how far a fake grad school certificate can get you!  Now they want me to take a drug test on Monday!!  I can't believe it.  I thought all investment bankers did was bang coke up their noses.  I need some clean urine ASAP - after the month I've had, I've got as much chance of passing as the Fist tour bus.  Oh yeah, and it should be from a child.  Pure as the driven snow... I'm not taking any chances.  Name your price. 
-0xBCF4FBCA=
+﻿;0xBCF4FBCA=What did my dad tell me about always checking the fine print?!!  When I got the job offer from Schlongberg & Sachs, all I saw was the 9 and five zeros.  It's amazing how far a fake grad school certificate can get you!  Now they want me to take a drug test on Monday!!  I can't believe it.  I thought all investment bankers did was bang coke up their noses.  I need some clean urine ASAP - after the month I've had, I've got as much chance of passing as the Fist tour bus.  Oh yeah, and it should be from a child.  Pure as the driven snow... I'm not taking any chances.  Name your price. 
+0xBCF4FBCA=我爸应该教过我要看合同上的小字吧？！！签下隆盛集团的工作时，我只看见了9后面的五个0。伪造的学历证书居然这么好用！现在公司让我周一去做毒品检测！！什么情况，我还以为投行里的人每天都在吸粉呢。现在急需干净的尿液。这个月我玩得太大了，绝对不可能检测阴性。哦对，必须是一清二白的童子尿... 一点风险都不能有。带价来。
 
 ;0xB1AB3876=PostingID: 454672145
-0xB1AB3876=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0xB1AB3876=帖子ID：454672145
 

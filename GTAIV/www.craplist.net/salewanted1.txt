@@ -1,72 +1,15 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x7DFD8D83=>sale&wanted
-0x7DFD8D83=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x074F3216=SALE / WANTED
-0x074F3216=
-
-;0xDA9BF360=Natural male enhancement supplement
-0xDA9BF360=
-
-;0x05204770=(Liberty City)
-0x05204770=
+﻿;0x074F3216=SALE / WANTED
+0x074F3216=交易
 
 ;0xF00A3D0A=Up to 75% off retail!  Increase size, drive and stamina with an all-unnatural dietary supplement that will make you feel younger, look stronger and last longer.  Get ready for powerful orgasms that will knock out her uterus.  Delivers miraculous results:  up to five additional inches in a week!!!!  No prescription required - all you need is to do is send us a check for $300 every week.
-0xF00A3D0A=
+0xF00A3D0A=最低二五折！增大尺寸、提高性欲、提升耐力，只需服用我们纯人工合成的营养剂。它能让你更加年轻、更加强壮、更加持久。准备好迎接能让女方子宫炸裂的强烈高潮吧。药效有如神迹：一周增长12公分！！！！无需处方，你只需要每周给我们一张$300的支票。
 
 ;0x86F9EC0B=Reclaim your masculinity!  Order today and we will throw in a free cock ring!
-0x86F9EC0B=
+0x86F9EC0B=重振雄风！现在下单，我们还会附赠一个鸡巴环！
 
 ;0xF185EDF3=Do not drive or operate heavy machinery.  Serious risk of heart attack.  Coca plant based.
-0xF185EDF3=
+0xF185EDF3=服药后请勿驾驶或操控重型机器。较大的心脏病发作风险。使用古加植物制成。
 
 ;0xFC3C91DC=PostingID: 424584551
-0xFC3C91DC=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0xFC3C91DC=帖子ID：424584551
 

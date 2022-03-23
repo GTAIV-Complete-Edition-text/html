@@ -1,66 +1,9 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3EEFFC59=>services
-0x3EEFFC59=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xC4E8DD35=SERVICES
-0xC4E8DD35=
-
-;0xD4958C85=Budget skydiving!!!
-0xD4958C85=
-
-;0xFB1EA082=(Northwood)
+﻿;0xFB1EA082=(Northwood)
 0xFB1EA082=
 
 ;0xE4C242FD=Skydiving shouldn't cost you a fortune.  You can dress it up in bells and whistles but freefall is freefall.  Our motto is: no frills, just thrills.  We don't bump up our prices with unnecessary equipment like parachute pants and helmets.  A helmet's not going to help you when you hit the ground at 200mph!  And you should own your own parachute pants anyway from the 80's.  What the hell did you think they were for?  Snorting coke and listening to shitty electronica?  And what's the obsession with training these days?  Do we really need instructions on the back of a shampoo bottle?  Everything is a ploy to con you out of your well-earned dollars.  Skydiving is supposed to be an extreme sport!  Do you want us to wipe your ass as well??!!  All you have to do is pull one rip-cord - it's like turning on the bathroom light.  If you haven't got the balls to do it like a man, go play badminton.  Nobody has ever pussied out of one of our jumps.  After half an hour in our rickety old propeller plane, you'll be fighting to leap out of there with a WW2 army chute strapped to your back.  If you want skydiving without the skyhigh prices, contact us today! 
-0xE4C242FD=
+0xE4C242FD=跳伞不应是一项昂贵的运动。买不买那些装备，最后一样是自由落体。我们的宗旨是：不整花的，只整爽的。我们不会为降落伞裤和头盔这种没必要的装备收钱。200码的速度摔地上，戴不戴头盔都没差的！而且上世纪80年代就流行过降落伞裤了吧，家里就有。你以为降落伞裤是用来干嘛的？穿着去吸可卡因、听垃圾电子音乐吗？这年头怎么都喜欢训练？洗发水瓶子上的说明书真的有用吗？全都是用来骗走你的血汗钱的伎俩。跳伞明明是一项极限运动！还要让我们揍你一顿吗？？！！你只需要拉开拉索，跟卫生间的拉绳电灯一个道理。如果你没胆子像男人一样跳下去，回去打羽毛球吧。没有一个人在起跳前临阵退缩。坐在我们的老旧螺旋桨飞机上飞半个小时，你就可以背着二战时期的军用降落伞跳下去了。如果你想要价格亲民的跳伞套餐，现在就联系我们吧！
 
 ;0xF7CD42DA=PostingID: 262000217
-0xF7CD42DA=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0xF7CD42DA=帖子ID：262000217
 

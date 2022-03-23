@@ -1,69 +1,42 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3B0CB221=>
-0x3B0CB221=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
+﻿;0x9F41091F=men seeking men
+0x9F41091F=男寻男
 
 ;0x0CE017A1=women seeking men
-0x0CE017A1=
-
-;0x2958A881=| 
-0x2958A881=
+0x0CE017A1=女寻男
 
 ;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0x2958A881=| 
-0x2958A881=
+0x5496CAB5=男寻女
 
 ;0x3A8FADC1=missed connections
-0x3A8FADC1=
-
-;0x2958A881=| 
-0x2958A881=
+0x3A8FADC1=寻人
 
 ;0xED3DC20D=MEN SEEKING MEN 
-0xED3DC20D=
+0xED3DC20D=男寻男
 
 ;0xBA0E5829=Straight married guy wants same - nsa, v discreet
-0xBA0E5829=
+0xBA0E5829=已婚直男寻找同类 - 不谈情说爱，深藏不露
 
 ;0xCC397AA3= (Lower Easton) 
 0xCC397AA3=
 
 ;0x34AD183B=Can you come to my house in the next hour?  THIS IS URGENT!
-0x34AD183B=
-
-;0xCA01DF1C= (Willis)
-0xCA01DF1C=
+0x34AD183B=有人能在一小时内来我家吗？真的很急！
 
 ;0xC804BBBC=I've rented out a limo - going to cruise round looking big-time
-0xC804BBBC=
+0xC804BBBC=租了辆礼车，打算像大佬一样出去巡游
 
 ;0x43732837= (Meat Quarter) 
 0x43732837=
 
 ;0x6152A6F3=Let's do battle!  Historical reenactment with a happy ending?
-0x6152A6F3=
+0x6152A6F3=大干一架吧！二人幸终的历史再现？
 
 ;0x78D42CF1= (Lancet) 
 0x78D42CF1=
 
 ;0x63D193BB=Seeking depraved individual for 5-day binge
-0x63D193BB=
+0x63D193BB=找一个沦落人，陪我痛饮五天
 
 ;0xFD1A51FC= (Steinway) 
 0xFD1A51FC=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

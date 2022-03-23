@@ -1,69 +1,9 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3B0CB221=>
-0x3B0CB221=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x6FF67641=LOST & FOUND
-0x6FF67641=
-
-;0x1D6C7E7B=Lost 2 WEEKS!
-0x1D6C7E7B=
-
-;0xF35E3A41=(Lancaster)
+﻿;0xF35E3A41=(Lancaster)
 0xF35E3A41=
 
 ;0xEE6EAE9A=Yesterday I woke up on a sidewalk in Vice City with no memory of the last two weeks.  I am FREAKED OUT!  I mean, I've had blackouts before but nothing longer than two or three days and never ending up in another place!  I was wearing a sarong and there's a tattoo of what looks like an anchor on my left thigh.  That's the last time I'm mixing absinthe, mescaline and tranquilizers.  Seemed like such a good idea at the time.  My ass is killing me but I don't want to even think about that at the moment.  I just need to piece my life back together.  My last memory was talking to a bunch of dudes in Middle Park 13 days ago.  According to my credit card statement I was in Club Liberty the Saturday before last, at the Glory Hole Theme Park in San Andreas last Thursday and spent at least two days in the Spanish town of Sitges.  I'm 37, white, ponytail, medium build and my name is Danny Fisher (actually, just remembered, I now have cornrows).  PLEASE get in touch if you think you saw or met me.  I'm not looking forward to the flashbacks.  This is going to take some explaining to my wife.   
-0xEE6EAE9A=
+0xEE6EAE9A=昨天我在罪城的人行道上醒来，完全没有之前两周的记忆。我好害怕！以前也不是没有昏迷过，但顶多也就是两三天，而且绝对没有跑到别的地方过！醒来时我穿着纱笼，左边的大腿上还有一个像是锚的纹身。以后我再也不会把苦艾酒、麦司卡林、镇静剂混在一起吃了，当时真是疯了。我的屁股好痛，但是那会儿我已经不想考虑屁股了。重要的是把缺失的人生拼回来。我最后的记忆是13天前在中心公园和一伙人说话。根据信用卡账单，上上周六我去了自由夜店，上周四去了圣安地列斯的Glory Hole主题公园，然后又去西班牙的西切斯镇呆了至少两天。我37岁，白人，马尾，中等身材，名叫Danny Fisher(其实吧，刚想起来，我现在绑的是垄沟辫)。如果你遇到过我，请和我联系。我不指望靠自己突然想起来了，跟老婆解释不了的。
 
 ;0x74177B63=PostingID: 620023512
-0x74177B63=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x74177B63=帖子ID：620023512
 

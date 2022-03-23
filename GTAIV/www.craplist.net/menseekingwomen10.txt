@@ -1,54 +1,12 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3B0CB221=>
-0x3B0CB221=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x0CE017A1=women seeking men
-0x0CE017A1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3A8FADC1=missed connections
-0x3A8FADC1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x7B578CD5=MEN SEEKING WOMEN
-0x7B578CD5=
-
-;0x02346D41=Mother and daughter for ménage a trois????
-0x02346D41=
+﻿;0x02346D41=Mother and daughter for ménage a trois????
+0x02346D41=母女一起的三人婚姻？？？？
 
 ;0xDD366AFD=(The Triangle)
 0xDD366AFD=
 
 ;0xE8208B8D=Where are all the mother-daughter combos?????  I've been posting for two weeks now without a single reply!  How come I can find a one-legged albino hermaphrodite in ten minutes?  There must be a mother and daughter somewhere in Liberty City who like to do everything together!  You're both adults - or at least one of you is - so what's the problem?  It's a bonding experience.  Why sit at home worrying about what your daughter's doing tonight when you could be kneeling right next to her?  That's where she used to get food anyway!  I'll pay, of course.  I can't keep flying to Europe for this stuff.  I've got a great body and a swanky apartment in The Triangle.  Come on!  I want to bridge the generation gap all night long! 
-0xE8208B8D=
+0xE8208B8D=怎么就没有母女盖饭呢？？？？？帖子发了两个星期，没一个人回我！一条腿的白化阴阳人倒是十分钟就能找到了。自由城肯定有什么事都喜欢一块做的母女吧！你们都是成年人(总得有一个成年了吧)，没什么大不了吧？大家可以培养亲密关系。何苦坐在家里担心女儿去哪儿鬼混呢？现在你就能和她一起跪着了，反正平常她也是这么赚钱的！当然了，我会付钱的。也不能每次想母女双飞都去一趟欧洲。我身材很棒，在Triangle有一间漂亮的公寓。来嘛！让我用整晚消除代沟吧！
 
 ;0xCC0CB447=PostingID: 698007519
-0xCC0CB447=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0xCC0CB447=帖子ID：698007519
 

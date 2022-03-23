@@ -1,66 +1,9 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x7DFD8D83=>sale&wanted
-0x7DFD8D83=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x074F3216=SALE / WANTED
-0x074F3216=
-
-;0xF2A1AA5A=Sexless woman, 46, looking to adopt 50-100 cats
-0xF2A1AA5A=
-
-;0x2A5A990A=(Alderney)
+﻿;0x2A5A990A=(Alderney)
 0x2A5A990A=
 
 ;0x1B2EF764=Is your neighborhood infested with mangy strays?  Is the novelty of your pet wearing off?  I love cats more than people and currently have over 50 in my house with room for more.  They keep me on my toes, let me tell you, especially when they crap on the kitchen table and take turns peeing on my couches.  But they are my little darlings.  Animals are better companionship than men -- I learned that shortly after high school.  I lived with my mom until she died and she's still upstairs.  My little babies keep her warm.
-0x1B2EF764=
+0x1B2EF764=你家附近是否有很多流浪猫？宠物给你的新鲜感是否已经消失？我对猫咪的感情比对人的还多，现在养着50多只猫，还能再养很多。它们让我一刻都闲不下来。真的，它们会在餐桌上拉屎，在床上撒尿。但它们还是我的小心肝。动物比男人更适合作伴，上高中的适合我就明白了。我跟我妈住在一起，她已经过世了，但还在我家楼上。我的小宝贝们会带给她温暖。
 
 ;0xFCC47146=PostingID: 454643651
-0xFCC47146=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0xFCC47146=帖子ID：454643651
 
