@@ -1,21 +1,21 @@
 ﻿;0x2C619B1E=Product: Blissikin 
-0x2C619B1E=
+0x2C619B1E=产品：Blissikin
 
 ;0x4384CA18=Quantity: 60 capsules
-0x4384CA18=
+0x4384CA18=净含量：60片
 
 ;0x65CD9789=Our price: $27
-0x65CD9789=
+0x65CD9789=价格：$27
 
 ;0x51964D12=Everything's starting to sag.  Incontinence and impotence are just around the corner.  Nobody listens to you.  You hate your job, you haven't had sex in years and it finally dawns on you that you're never going to be rich and famous.  It's bleak, but don't let your mid-life crisis drag you down.  Don't ruin yourself by quitting your job to run a youth camp in Guatemala.  And, whatever you do, don't get a nose stud. You will look like a prick.  Blissikin is the new wonder pill for the over 40's set that is guaranteed to keep you away from the edge of the abyss.  It's cheaper than leather pants, plastic surgery, strip clubs, a convertible or divorce.    
-0x51964D12=
+0x51964D12=一切开始操蛋了。尿失禁和阳痿迫在眉睫。没人听你的。你厌恶你的工作，你好多年没有做爱了，后知后觉荣华富贵遥不可及。这是残酷的，但不要让中年危机毁了你。不要去辞职去危地马拉运营青年夏令营。而且，不管干什么，不要钉鼻钉，这会让你看起来像个混蛋。Blissikin是过去四十年身处黑暗边缘的你的一味神药。它比皮裤，整容手术，脱衣舞厅，敞篷车或者离婚都要划算。
 
 ;0x6FEAE585=Major credit cards accepted.
-0x6FEAE585=
+0x6FEAE585=可使用主要信用卡支付。
 
 ;0x93D0CCD8=All purchases are non-refundable.
-0x93D0CCD8=
+0x93D0CCD8=所有购买不得退款。
 
 ;0x246A54CE=All liabilities are denied.
-0x246A54CE=
+0x246A54CE=售后概不负责。
 
