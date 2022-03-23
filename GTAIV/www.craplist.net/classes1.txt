@@ -2,8 +2,8 @@
 0x1C069B48=
 
 ;0xCEC2CCB0=Isn't it about time you learned a vitally important, constructed, international, auxiliary language?  Esperanto is spoken by hundreds of people at specially-convened conferences every year.  It's like that watch company that tried to change how time works. Or Greenwich Mean Time.  Who gives a damn what time it is in Greenwich?  Imagine being able to speak to a smattering of academics from all over the world with a single language!  Forget English!  Esperanto is the universal second language of the future.  Who cares that it's harder to learn than Basque and about as romantic as a pre-nuptial agreement?  Give yourself a head-start in life.  Learn Esperanto at our language school in Broker.  Classes start a week from Monday. 
-0xCEC2CCB0=
+0xCEC2CCB0=也该学一门非常重要、结构有序、国际化的辅助语言了吧？每年特别召开的一些国际会议上，都会有几百几千个世界语使用者聚在一起。世界语就像是企图改变时间规律的手表公司。不，应该说是改变格林尼治标准时间。谁规定的格林尼治非得是这个标准时间啊？想象一下仅用一种语言就能和来自世界各地的学者交流的场景吧！忘了英语吧！世界语才是未来的通用第二语言。比巴斯克语还难学又怎样？甚至不如婚前协议浪漫又怎样？给你的人生一次抢占先机的机会吧。来我们位于Broker的语言学校学习世界语。每周一开始上课。
 
 ;0x090E6675=PostingID: 610023546
-0x090E6675=
+0x090E6675=帖子ID：610023546
 
