@@ -1,15 +1,15 @@
 ﻿;0x55CC102B=Are you looking to take your affair to the next level?  Are your stories starting to wear thin?  Stop bumbling around with feeble excuses.  Don't rely on your drunken buddies to get their story straight.  Leave your dirty work to the professionals. Golf Lovers Online is a full-service cover-up company offering airtight alibis to the adulterers of America.  Golf has been helping men stray from the fold for centuries.  We keep your indiscretions discreet.  
-0x55CC102B=
+0x55CC102B=你是否想让婚外恋更进一步？你的谎言是否愈发单薄？别拿无力的借口装疯卖傻了。更别指望喝醉的哥们能帮你圆谎了。专业的事就交给专业的人办。高尔夫爱好者网是一家提供全套隐瞒服务的公司，可以为美国的出轨男性制造严密的不在场证明。高尔夫已经帮助男人出轨了几个世纪。让我们来帮你保守秘密。
 
 ;0xB0F799DC=Visit  
-0xB0F799DC=
+0xB0F799DC=前往
 
 ;0x7437A1E3=www.golfloversonline.net
 0x7437A1E3=
 
 ;0x903F1B4B= for more details. 
-0x903F1B4B=
+0x903F1B4B=获取更多信息。
 
 ;0xE23BBA0E=PostingID: 262059875
-0xE23BBA0E=
+0xE23BBA0E=帖子ID：262059875
 
