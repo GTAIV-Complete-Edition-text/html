@@ -1,5 +1,5 @@
 ﻿;0x614F9534="Long-term health care can put a tremendous strain on finances, especially for the elderly who spend their glory years shitting themselves and absent-mindedly walking into traffic. 
-0x614F9534=长期的医疗保健支出会带来巨大的经济负担，尤其是那些年轻时候糟蹋自己身体的老年人。
+0x614F9534=长期的医疗保健支出会带来巨大的经济负担，尤其是那些年轻时候糟蹋自己身体，脑子发抽马路当客厅的老年人。
 
 ;0xDCE711AD=I cannot recommend yourmexicandoctor.com highly enough. You won't find quality drugs on the Internet for lower prices.  And I'm a doctor, so you can trust me." 
 0xDCE711AD=我忍不住向你推荐yourmexicandoctor.com。你不会在网上找到更便宜的高质量药品了。而且我是名医生，你可以相信我。
