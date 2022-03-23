@@ -1,20 +1,20 @@
 ﻿;0x614F9534="Long-term health care can put a tremendous strain on finances, especially for the elderly who spend their glory years shitting themselves and absent-mindedly walking into traffic. 
-0x614F9534=
+0x614F9534=长期的医疗保健支出会带来巨大的经济负担，尤其是那些年轻时候糟蹋自己身体的老年人。
 
 ;0xDCE711AD=I cannot recommend yourmexicandoctor.com highly enough. You won't find quality drugs on the Internet for lower prices.  And I'm a doctor, so you can trust me." 
-0xDCE711AD=
+0xDCE711AD=我忍不住向你推荐yourmexicandoctor.com。你不会在网上找到更便宜的高质量药品了。而且我是名医生，你可以相信我。
 
 ;0x2E22FA74=Are you being shafted by your retirement plan?  Maybe you have no medical insurance?  Or are you simply tired of doctor shopping to fill your addiction to prescription drugs?
-0x2E22FA74=
+0x2E22FA74=你是否被你的退休计划所困扰？或许你没有医疗保险？或者你只是厌烦了找医生买药来满足你的瘾？
 
 ;0x14733207=America is the land of opportunity, that is until you get sick, and then you are never more than one chronic illness away from bankruptcy. Why fritter away your life savings on overpriced, quality-controlled medication when you can buy foreign-made versions of US-approved drugs online for a fraction of the cost? Pay up to 99% less than you would in the United States on www.yourmexicandoctor.com.
-0x14733207=
+0x14733207=美国是一片机遇之地。也就是说直到你生病。当你可以在网上购买外国制造，美国批准的药品时为什么要把你的毕生积蓄花费到价格昂贵，质量控制的药品？在www.yourmexicandoctor.com购买，在美国至多节省99%。
 
 ;0x1388EBA7=¡No hay nada más simple!
-0x1388EBA7=
+0x1388EBA7=¡No hay nada más simple!（没有比这更简单的了！）
 
 ;0x39895FA3=All medicine is shipped out in official-looking containers and we are very flexible with the definition of 'personal consumption'. What have you got to lose? Actually, don't answer that. It might be your hearing from spending years obliterated on muscle relaxants! Check out these incredible bargains from south of the border instead:
-0x39895FA3=
+0x39895FA3=所有药品都在正规外观的集装箱内运入而我们对于“个人消费”十分灵活。你能失去什么?事实上，根本不用说。这可能是你多年来因为肌肉松弛剂而丧失的听力！看看这些来自南方邻居的价廉美物吧：
 
 ;0x3C620F7B=Blissikin
 0x3C620F7B=
@@ -53,8 +53,8 @@
 0xDE2D6DEC=
 
 ;0xBC2AD150=H4PP1
-0xBC2AD150=
+0xBC2AD150=嗨皮
 
 ;0x1A27B3AB=Silencers
-0x1A27B3AB=
+0x1A27B3AB=沉默者
 
