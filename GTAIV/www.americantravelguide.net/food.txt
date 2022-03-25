@@ -1,36 +1,36 @@
 ﻿;0x3A3B85C2=Be prepared. European cuisine is similar to following a cow around, pulling the cud out of it's mouth, burning it in a pot for an hour and covering it with old fish. It's awful and the portions are tiny. You will struggle to find an all-you-can-eat buffet.
-0x3A3B85C2=打个预防针，欧洲饮食就像跟着一头老母牛一样，把它嘴里反刍的东西拔出来，在一口锅里煮上一个小时再在上面放上不新鲜的鱼。又反胃量还少。你想找的能吃到饭绝非易事。
+0x3A3B85C2=做好心理准备。跟着老母牛，让它把胃里的东西吐出来，在锅里煮上一个小时，再放上不新鲜的鱼。这就是欧洲饮食，又反胃量还少。想找到能吃的饭绝非易事。
 
 ;0x89CA25C1=You will also notice that the Philistines in Europe eat with the knife and fork AT THE SAME TIME!! They seem to be unable or unwilling to adjust to the one-handed eating style that lets you put one hand down your pants while you eat. This sets the USA apart from the rest of the world and explains why it takes Eurotrash four hours to eat dinner.
-0x89CA25C1=你还会发现欧洲的腓力斯丁人吃饭的时候是同！时！使用刀叉的！他们似乎没法或者不愿意只用一只手吃饭，这样可以一手吃饭一手伸进裤子里。这点美国和世界上其他地方不一样，还解释了为啥那群欧洲蛮子吃个晚餐能吃四个小时。
+0x89CA25C1=你还会发现欧洲的大老粗吃饭的时候是同！时！使用刀叉的！他们似乎没法或者是不愿意单手吃饭，好把另一只手伸进裤子里。这点美国和世界上其他地方不一样，还解释了为啥那群欧洲蛮子吃个晚餐能吃四个小时。
 
 ;0xE8B50AB5=Don't get complacent. Foreign food KILLS AMERICANS. The USA has been working very hard over the last few decades to set up shelters across Europe where Americans can eat safely in bright lighting and take refuge from the onslaught of foreign culture in familiar plastic seating. The American Travel Guide map shows the location of every Burger Shot, Wigwam Burger, Cluckin' Bell, Pizza Stack, Rusty Brown's and Bean Machine across the United States of Europe. Don't leave home without it! By our calculations, you are now never more than ten minutes away from a burger and fries anywhere in the world. The wheels of progress are turning.
-0xE8B50AB5=不要得意。外国食物会杀死美国人。美国在过去的几十年付出了巨大努力来在欧洲修建了避难所——在这里美国人可以安全地在灯光之下用餐，在熟悉的塑料座位上躲避外国文化的冲击。美国旅游指南地图展示了美国在欧洲的每一家吃得饱汉堡，Wigwam汉堡，铛铛钟，披萨店，Rusty Brown's和Bean Machine。出门千万不要忘带了！根据我们的计算，在世界的任何一个角度，走十分钟必有汉堡和薯条。进步的车轮正在向前。
+0xE8B50AB5=不要太大意。外国食物会杀死美国人。过去的几十年中，美国付出了巨大努力，在欧洲修建了许多避难所——美国人可以安全地在灯光之下用餐，在熟悉的塑料座位上躲避外国文化的冲击。美国人旅游指南地图标注了欧罗巴合众国的每一家吃得饱汉堡、Wigwam汉堡、铛铛钟、Pizza Stack、Rusty Brown甜甜圈、冰的咖啡。出门千万要带上！根据我们的计算，在全世界的任何地方走十分钟，都能找到汉堡和薯条。进步的车轮滚滚向前。
 
 ;0xD0135455=Europeans will stop at nothing to try to poison American tourists. Here are some of the common tricks to watch out for:
 0xD0135455=欧洲人会不惜代价地毒害美国游客。以下是一些需要注意的诡计：
 
 ;0x4FD0B2FD=They will attempt to persuade you to spread a sticky, black yeast extract on your toast in the morning. It looks like chocolate spread but is in fact devil spawn diarrhea. Everything and anything in the UK is a pudding... Yorkshire pudding, Christmas pudding, black pudding. You never know whether you're going to get a dessert or a lump of congealed animal blood. Most of their traditional dishes sound like sordid sexual encounters: bubble-and-squeak, spotted dick, toad-in-the-hole, plum duff. Do not be fooled and do not drink the warm beer.
-0x4FD0B2FD=他们会劝你把黑不溜秋的，黏了吧唧的酵母酱涂到你的早餐吐司上。这玩意儿看起来像巧克力，但实际上是传播腹泻的恶魔。在英国什么都能做成布丁......约克郡布丁，圣诞布丁，黑布丁......你根本不知道你拿到的是甜点还是一坨凝固的动物血液。他们不少的传统菜肴听起来就像猥琐的性交体位：炸马铃薯和洋白菜（一种向菊花里呕吐和拳交的搞基动作），葡萄干布丁（梅毒），布丁香肠（阴茎过小而无法碰到阴道壁），圣诞布丁（男同性恋）。千万不要被骗了，还有不要喝温啤酒。
+0x4FD0B2FD=他们会劝你把黑不溜秋、黏了吧唧的酵母酱涂到早餐吐司上。这玩意看着像巧克力，实际上是传播腹泻的恶魔。在英国什么都能做成布丁... 约克郡布丁、圣诞布丁、黑布丁... 根本不知道拿到的会是甜点还是一坨凝固的动物血液。不少菜名听起来就像猥琐的性交体位：卷心菜煎土豆(向菊花里呕吐和拳交的搞基动作)，葡萄干布丁(梅毒)，面糊烤香肠(下面太小碰不到阴道壁)，梅子布丁(男同性恋)。千万不要上当，更不要喝温啤酒。
 
 ;0x4550B454=You're expecting a bowl of Big Logs cereal for breakfast and they arrive with a plate of herring and eel. Sick.
-0x4550B454=早餐时你期待一碗Biglogs麦片，结果来了一盘鲱鱼和鳗鱼。恶心。
+0x4550B454=早餐时你想来一碗Biglogs麦片，结果上的菜只有鲱鱼和鳗鱼。恶心。
 
 ;0xD82F27C5=They will try to serve you boiled meat and then spike you with Schnapps at the end of the meal. It smells like candy but it's actually a date rape drug.
-0xD82F27C5=他们会尝试为您提供煮熟的肉，然后在用餐结束时用杜松子酒刺激您。它闻起来像糖果，但它实际上是一种春药。
+0xD82F27C5=他们会给你吃水煮肉片，然后在用餐结束时用烈酒灌你。虽然闻起来像糖果，但其实是一种迷奸药。
 
 ;0xEC070214=No matter what you order, it will arrive with cabbage. Please remember that vegetables can rupture an American stomach.
-0xEC070214=不管你点了啥，上来的都是卷心菜。不要忘了蔬菜会日烂美国人的胃。
+0xEC070214=不管你点了啥，上来的都是卷心菜。不要忘了蔬菜会干烂美国人的胃。
 
 ;0x9AA3ECBE=The French will eat ANYTHING. No animal is off bounds. They will mess you up with mind-bending hallucinogenic green drinks and then try to envenom you with a rancid, toxic mold that they call 'cheese'. Do they take us for idiots?! Cheese comes individually wrapped in slices.      
-0x9AA3ECBE=法国人什么都吃。什么动物都跑不了，他们会用令人费解的致幻绿色饮料整你，然后用一种他们称之为"奶酪"的腐臭有毒霉菌来毒害你。他们把我们当白痴吗？！奶酪单独包装在切片中。
+0x9AA3ECBE=法国人什么都吃。什么动物都跑不了。他们会用摧残心智的绿色致幻饮料整你，然后用一种被他们称为「奶酪」的腐臭有毒块状物来毒害你。把我们当白痴吗？！一片一片单独包装的才是奶酪。
 
 ;0x1A64F3AE=Steer clear of the salted cod and green wine. They are lethal toxins.
-0x1A64F3AE=避开咸鳕鱼和绿葡萄酒。它们是致命的毒素。
+0x1A64F3AE=避开咸鳕鱼和绿葡萄酒。这都是致命的毒素。
 
 ;0xDA922B79=They will try to contaminate you with cold soup and raw ham. Be on your guard.
 0xDA922B79=他们会用冷汤和生火腿毒害你。保护好自己。
 
 ;0x2FAA27B0=Taramasalata! They make it look like a pink dessert but it's actually a deathly fish shit spread.
-0x2FAA27B0=希腊鱼子泥色拉！他们把这弄得像粉色的甜点，实际上这就是死鱼的屎。
+0x2FAA27B0=希腊鱼子泥色拉！他们把这弄得像粉色的甜点，实际上是一摊致命的鱼屎。
 
