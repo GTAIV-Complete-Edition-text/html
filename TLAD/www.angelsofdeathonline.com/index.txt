@@ -1,3 +1,3 @@
 ﻿;0x39D5B389=Legal Warning: Any attempt to use Angels of Death Motorcycle trademarks will be met with a prompt response from our legal team. Please divert any news media inquiries to our Public Relations Department.
-0x39D5B389=法律声明警告：我们的法律团队会对任何擅用死亡天使商标的行为做出快速回应。任何新闻媒体询问请找我们的公共关系部门。
+0x39D5B389=法律声明：我们的法律团队会对任何擅用死亡天使商标的行为做出快速回应。任何新闻媒体询问请找我们的公共关系部门。
 

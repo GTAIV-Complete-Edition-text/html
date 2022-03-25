@@ -5,7 +5,7 @@
 0xF6874A1B=英格兰的城市讲英语喜欢放洋屁，好麦坞的反派说话一般就是这个调调。
 
 ;0x51DE25D6=We strongly recommend that you strive to avoid direct contact with the local yokels wherever possible. However, if you are forced into a situation where conversation with a European becomes necessary, these three steps will stand you in good stead:
-0x51DE25D6=我们强烈建议，在哪里都要避免与当地的乡巴佬直接接触。如果不得不和欧洲人说话，如下三个技巧可以帮助你：
+0x51DE25D6=我们强烈建议，在哪里都要避免与当地的乡巴佬直接接触。如果不得不和欧洲人说话，以下三个技巧可以帮助你：
 
 ;0xE0AA6E99=Hold tightly onto your wallet
 0xE0AA6E99=紧紧抓住你的钱包

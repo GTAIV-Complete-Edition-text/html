@@ -1,5 +1,5 @@
 ﻿;0x3A3B85C2=Be prepared. European cuisine is similar to following a cow around, pulling the cud out of it's mouth, burning it in a pot for an hour and covering it with old fish. It's awful and the portions are tiny. You will struggle to find an all-you-can-eat buffet.
-0x3A3B85C2=做好心理准备。跟着老母牛，让它把胃里的东西吐出来，在锅里煮上一个小时，再放上不新鲜的鱼。这就是欧洲饮食，又反胃量还少。想找到能吃的饭绝非易事。
+0x3A3B85C2=做好心理准备。跟着老母牛，让它把反刍的东西吐出来，在锅里煮上一个小时，再放上不新鲜的鱼。这就是欧洲饮食，又反胃量还少。想找到能吃的饭绝非易事。
 
 ;0x89CA25C1=You will also notice that the Philistines in Europe eat with the knife and fork AT THE SAME TIME!! They seem to be unable or unwilling to adjust to the one-handed eating style that lets you put one hand down your pants while you eat. This sets the USA apart from the rest of the world and explains why it takes Eurotrash four hours to eat dinner.
 0x89CA25C1=你还会发现欧洲的大老粗吃饭的时候是同！时！使用刀叉的！他们似乎没法或者是不愿意单手吃饭，好把另一只手伸进裤子里。这点美国和世界上其他地方不一样，还解释了为啥那群欧洲蛮子吃个晚餐能吃四个小时。
@@ -11,7 +11,7 @@
 0xD0135455=欧洲人会不惜代价地毒害美国游客。以下是一些需要注意的诡计：
 
 ;0x4FD0B2FD=They will attempt to persuade you to spread a sticky, black yeast extract on your toast in the morning. It looks like chocolate spread but is in fact devil spawn diarrhea. Everything and anything in the UK is a pudding... Yorkshire pudding, Christmas pudding, black pudding. You never know whether you're going to get a dessert or a lump of congealed animal blood. Most of their traditional dishes sound like sordid sexual encounters: bubble-and-squeak, spotted dick, toad-in-the-hole, plum duff. Do not be fooled and do not drink the warm beer.
-0x4FD0B2FD=他们会劝你把黑不溜秋、黏了吧唧的酵母酱涂到早餐吐司上。这玩意看着像巧克力，实际上是传播腹泻的恶魔。在英国什么都能做成布丁... 约克郡布丁、圣诞布丁、黑布丁... 根本不知道拿到的会是甜点还是一坨凝固的动物血液。不少菜名听起来就像猥琐的性交体位：卷心菜煎土豆(向菊花里呕吐和拳交的搞基动作)，葡萄干布丁(梅毒)，面糊烤香肠(下面太小碰不到阴道壁)，梅子布丁(男同性恋)。千万不要上当，更不要喝温啤酒。
+0x4FD0B2FD=他们会劝你把黑不溜秋、黏了吧唧的酵母酱涂到早餐吐司上。这玩意看着像巧克力，实际上是传播腹泻的恶魔。在英国什么都能做成布丁... 约克郡布丁、圣诞布丁、黑布丁... 根本不知道拿到的会是甜点还是一坨凝固的动物血液。不少菜名听起来就像猥琐的性交体位：卷心菜煎土豆(向菊花里呕吐和拳交的搞基动作)，葡萄干布丁(梅毒)，面糊烤香肠(阴茎太小碰不到阴道壁)，梅子布丁(男同性恋)。千万不要上当，更不要喝温啤酒。
 
 ;0x4550B454=You're expecting a bowl of Big Logs cereal for breakfast and they arrive with a plate of herring and eel. Sick.
 0x4550B454=早餐时你想来一碗Biglogs麦片，结果上的菜只有鲱鱼和鳗鱼。恶心。

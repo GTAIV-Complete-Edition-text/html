@@ -5,7 +5,7 @@
 0x7A21D958=我们整理了一些建议，帮助旅欧美国人尽量减少文化冲击的影响，促进与原住民的交流沟通：
 
 ;0x56D15072=In Bulgaria, shaking the head means yes and brushing a man's penis means no. A bit like drunken women at frat parties.
-0x56D15072=在保加利亚，摇头表示肯定，舔男人的鸡巴表示否定。就像联谊派对上的醉酒女人一样。
+0x56D15072=在保加利亚，摇头表示肯定，舔男人的阴茎表示否定。就像联谊派对上的醉酒女人一样。
 
 ;0xE9A73846=ALWAYS travel in large groups.
 0xE9A73846=坚持团体行动。

@@ -29,7 +29,7 @@
 0x1A9DCBFD=从雅典卫城到罗马斗兽场，从埃菲尔铁塔到圣家堂，欧洲建筑要么是豆腐渣，要么是楼塌了，要么是烂尾了。总而言之，早该推平这些老不死的玩意造公寓了。
 
 ;0xBA361352=Not all castles and palaces in Europe are theme parks. Manage your kids' expectations. Some are boring old ruins where nothing has happened for years. Like the rest of Europe.
-0xBA361352=并非所有欧洲城堡和庄园都是主题公园。注意孩子的期望。有些就是无聊的破旧遗迹，多年无事发生，和欧洲的其他地方一样死气沉沉。
+0xBA361352=并非所有欧洲城堡和庄园都是主题公园。注意孩子的期望。有些就是无聊的破旧废墟，多年无事发生，和欧洲的其他地方一样死气沉沉。
 
 ;0x4461EFDA=Europeans will try to throw history in your face as an excuse for their bloodthirsty past. Don't be fooled. They are uncultured brutes. You cannot get a sanitized wipe anywhere.
 0x4461EFDA=欧洲人会向你抛出大段历史，为过去的茹毛饮血开脱。别被骗了，他们就是没开化的野兽。你在哪里都找不到消毒湿巾。
