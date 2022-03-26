@@ -1,27 +1,27 @@
 ﻿;0xE3EBFC16=Accept no substitute.
-0xE3EBFC16=
+0xE3EBFC16=绝不妥协
 
 ;0x1B49ACCE=Hercules, the original Muscle Mary.
-0x1B49ACCE=
+0x1B49ACCE=大力神，纯正的肌肉玫瑰
 
 ;0x13F9FD7F=A slice of Olympus here on Earth.
-0x13F9FD7F=
+0x13F9FD7F=奥林匹斯的人间一角
 
 ;0xCD49252F=Dance with the gods while Rome is burning.
-0xCD49252F=
+0xCD49252F=罗马正在燃烧，你在和诸神跳舞
 
 ;0x37543A37=Go back to a time when gay guys spent their disposable incomes on getting wasted from Thursday night to Monday morning, rather than adopted children, quickee divorces and designer sinks. Come on. You're gay. Start acting like it. Part of legendary Liberty City icon Tony Prince's party empire, Hercules is a final bastion of hotness in these tepid times.  Young and old unite as desperate revellers cling onto a once proud scene.       
-0x37543A37=
+0x37543A37=让我们回到那个年代吧：基佬们挥金如土地买醉，从周四晚上喝到周一早上。而不是去领养小孩，快速离婚，置办家具。拜托，你是基佬，有点基佬的样子好吗。大力神是Tony Prince传奇夜生活帝国的招牌，是这个平淡年代最后的狂欢之地。老老少少相聚于此，不顾一切地狂欢，回到那个骄傲的年代吧。
 
 ;0xF09EA352=Credit Crunch special - best abs of the night gets a free bottle of Bleutr'd. Plus supercheap booze, poppers and energy drinks with a new, lenient dealer policy.       
-0xF09EA352=
+0xF09EA352=信贷危机特惠活动：当晚腹肌最漂亮的人可以免费获得一瓶Bleutr'd香槟。外加超值酒水、Rush药品和能量饮料，更有全新店铺特惠政策。
 
 ;0x51AE8A71=Now open all night, every night.
-0x51AE8A71=
+0x51AE8A71=现在每晚通宵营业。
 
 ;0x1A6FC3A8=If you want to spend your money, we'll take it.
-0x1A6FC3A8=
+0x1A6FC3A8=你想花钱作乐，我们照单全收。
 
 ;0xF3939344=A Tony Prince Production
-0xF3939344=
+0xF3939344=Tony Prince出品
 

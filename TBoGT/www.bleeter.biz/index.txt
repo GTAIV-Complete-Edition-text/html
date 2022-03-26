@@ -71,7 +71,7 @@
 0x9ED7C2C7=m4d_man
 
 ;0xFA688CFF=I just got a Prince Albert! Pic to follow
-0xFA688CFF=刚做了个龟头穿孔！下面上图
+0xFA688CFF=刚做了个龟头穿环！下面上图
 
 ;0x55048DD5=Liberty_Queen
 0x55048DD5=Liberty_Queen
