@@ -1,129 +1,51 @@
-﻿;0x52F50EAE=Home
-0x52F50EAE=
-
-;0x0CC122CF=> Discussion Forums
-0x0CC122CF=
-
-;0xCB2825DA= Discussion forums links
-0xCB2825DA=
-
-;0x60854DB4=World domination conspiracies
-0x60854DB4=
-
-;0x55DF0714=The mullet connection!
-0x55DF0714=
-
-;0xFD910832=Cybernetics and mass surveillance
-0xFD910832=
-
-;0x1AF6F7BB=The All Seeing Eye is watching you...
-0x1AF6F7BB=
-
-;0xB6D62AFE=Brainwashing and mind control
-0xB6D62AFE=
-
-;0xF3353255=Planning notes so you will know.
-0xF3353255=
-
-;0x25013734=Is there anybody out there?
-0x25013734=
-
-;0x6C844346=Aliens and UFO's
-0x6C844346=
-
-;0x9923E42F=Smoke and mirrors
-0x9923E42F=
-
-;0x3D8FBEB8=The real truth about Pluto.
-0x3D8FBEB8=
-
-;0x6F2E6571=Women
-0x6F2E6571=
-
-;0xF084B531=The ultimate conspirators?
-0xF084B531=
-
-;0x3D52522A=Poisoning our future leaders
-0x3D52522A=
-
-;0x96793E98=What the food and drink companies are not telling you!
-0x96793E98=
-
-;0x464A92CB=Forum: Is there anybody out there?
-0x464A92CB=
-
-;0x6C844346=Aliens and UFO's
-0x6C844346=
-
-;0xEF857086=Postings
-0xEF857086=
-
-;0x44AD44FF=Read New
-0x44AD44FF=
-
-;0xF0C79167=Post
-0xF0C79167=
+﻿;0x464A92CB=Forum: Is there anybody out there?
+0x464A92CB=主题：地外真的存在生命吗？
 
 ;0xABA057F9=Name: AreaCinquanteetUn
-0xABA057F9=
+0xABA057F9=用户名：AreaCinquanteetUn
 
 ;0x26F244BD=Location: Brussels
-0x26F244BD=
+0x26F244BD=位置：布鲁塞尔
 
 ;0x5D3D7632=Hello LiesDamnLies.com. I am a student from Belgium! For a long time, I have believed that the existence of extraterrestrials is being suppressed by the government and that an underground UFO base exists somewhere in the United States, mapping out the economic and political destiny of our planet. I have just returned from a trip to Liberty City... am I the only one who's noticed the steam coming out of the manholes and the rumbling noises under the street and the stupidity of the people?           
-0x5D3D7632=
+0x5D3D7632=你们好，LiesDamnLies.com的各位。我是一个来自比利时的学生！长久以往，我都相信政府隐瞒了地外生命的存在，美国某处的底下就有着UFO基地，操纵着地球的经济与政治。我最近刚从自由城回来... 是不是只有我注意到了硬井盖中升起的蒸汽、马路下面隆隆的响声，以及当地居民的愚昧无知？
 
 ;0x287B74C0=Name: Barcode
-0x287B74C0=
-
-;0x80A484E2=Location: Liberty City
-0x80A484E2=
+0x287B74C0=用户名：Barcode
 
 ;0x7E0A2F52=That's the subway, you moron! Have you got a mullet? Ha, ha... see the post above.          
-0x7E0A2F52=
-
-;0x7B2E7DEC=Name: Chupacabra
-0x7B2E7DEC=
-
-;0xAC26DB22=Location: Liberty City        
-0xAC26DB22=
+0x7E0A2F52=那是地铁，你个白痴！你的发型是不是鲻鱼头？哈哈... 看看上面的帖子吧。
 
 ;0x203298E3=Anyone got any tips for getting virgins' blood out of velour curtains?          
-0x203298E3=
+0x203298E3=有人知道怎么才能从天鹅绒窗帘中获得处子之血吗？
 
 ;0xBB54B1DD=Name: Kevin
-0xBB54B1DD=
+0xBB54B1DD=用户名：Kevin
 
 ;0x37C9358A=Location: Los Santos
-0x37C9358A=
+0x37C9358A=位置：洛圣都
 
 ;0xD133A276=Aliens do exist! My wife disappeared two years ago leaving a note that she had been abducted by extraterrestrials and that they had demanded her clothes, jewelry and the SUV. Every six months, her old personal trainer contacts me for money. Apparently, he is a shapeshifting intermediary who crosses between their universe and ours. He assures me that she will return one day if I keep up the payments...          
-0xD133A276=
+0xD133A276=真的有外星人！两年前我的妻子消失了，留下的纸条上说她被地外生命绑架了，还带走了她的全部衣物、珠宝，还有SUV。每隔半年，她以前的私教就会联系我要钱。这个私教显然是个往返于外星世界和地球的化形中间人。他向我保证，只要一直交钱，我的妻子总有一天会回来的...
 
 ;0xDDFF9B24=Name: Bermuda Triangle
-0xDDFF9B24=
+0xDDFF9B24=用户名：Bermuda Triangle
 
 ;0x9181EA10=Location: Vice City        
-0x9181EA10=
+0x9181EA10=位置：罪城
 
 ;0x6BC1CCE1=UFO sightings are so 1970s...Can we get some serious people here? This generation gap is killing me.           
-0x6BC1CCE1=
+0x6BC1CCE1=上世纪七十年代才玩目击飞碟吧... 能不能来点正经人啊？受不了这种代沟了。
 
 ;0x0F8B7D21=Name: Phil
-0x0F8B7D21=
+0x0F8B7D21=用户名：Phil
 
 ;0x29B0DC82=Location: London        
-0x29B0DC82=
+0x29B0DC82=位置：伦敦
 
 ;0xEAF2E9C1=I had a stop-over in New Orleans last February. When I emerged from my hotel, I was sucked into a seething mob of winged humanoids with grotesque faces. A terrifying experience.           
-0xEAF2E9C1=
-
-;0xE8827AEF=Name: Taos Hum
-0xE8827AEF=
-
-;0x9181EA10=Location: Vice City        
-0x9181EA10=
+0xEAF2E9C1=去年二月，我在新奥尔良停留了几天。离开宾馆的时候，我被一个长着怪脸和翅膀的沸腾人型生物吸入了。很吓人的经历。
 
 ;0x129349F4=Hey, check out this piece in the Liberty City News... "Local teenager murdered! Neil Golightly, a devoted trainspotter and well-known blogger on the conspiracy theory forums under the alias Barcode was found brutally murdered this morning behind a subway station. He was last seen getting into a car with two shadowy men sporting long hair at the back and short on top..."          
-0x129349F4=
+0x129349F4=嘿，看看自由城新闻的这篇报道... 「当地青年遇害！Neil Golightly，狂热的火车迷，阴谋论论坛网名Barcode的名人，今早在地铁站遇害。最后被人目击到时，他被黑暗中的两名男子带上了车，这两名男子头顶短发，脑后留着长发...」
 

@@ -38,7 +38,7 @@
 0x0AF72EBC=
 
 ;0xE4CE007B=Indian girl in the park - why did you run?
-0xE4CE007B=公园里的印第安姑娘，你跑什么啊？
+0xE4CE007B=公园里的印度姑娘，你跑什么啊？
 
 ;0xEAF73F55=You're a hot flight attendant, I was drunk
 0xEAF73F55=你是性感的空姐，我当时喝醉了

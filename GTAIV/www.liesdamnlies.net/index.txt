@@ -1,63 +1,18 @@
-﻿;0xCB2825DA= Discussion forums links
-0xCB2825DA=
-
-;0x60854DB4=World domination conspiracies
-0x60854DB4=
-
-;0x55DF0714=The mullet connection!
-0x55DF0714=
-
-;0xFD910832=Cybernetics and mass surveillance
-0xFD910832=
-
-;0x1AF6F7BB=The All Seeing Eye is watching you...
-0x1AF6F7BB=
-
-;0xB6D62AFE=Brainwashing and mind control
-0xB6D62AFE=
-
-;0xF3353255=Planning notes so you will know.
-0xF3353255=
-
-;0x25013734=Is there anybody out there?
-0x25013734=
-
-;0x6C844346=Aliens and UFO's
-0x6C844346=
-
-;0x9923E42F=Smoke and mirrors
-0x9923E42F=
-
-;0x3D8FBEB8=The real truth about Pluto.
-0x3D8FBEB8=
-
-;0x6F2E6571=Women
-0x6F2E6571=
-
-;0xF084B531=The ultimate conspirators?
-0xF084B531=
-
-;0x3D52522A=Poisoning our future leaders
-0x3D52522A=
-
-;0x96793E98=What the food and drink companies are not telling you!
-0x96793E98=
-
-;0x403D35E8=Attention!
-0x403D35E8=
+﻿;0x403D35E8=Attention!
+0x403D35E8=注意！
 
 ;0xDF3E9B3E=We have relocated servers after our last Internet Service Provider objected to the news coverage our site has received. Thanks to everyone who has donated money to keep this vital site around. Your work is very important.
-0xDF3E9B3E=
+0xDF3E9B3E=上一家ISP(网络服务提供商)看了媒体对本站的报道，对我们产生了厌恶，现在我们已经完成了服务器的迁移。感谢所有进行过捐款，让本站得以存续的用户。你的付出非常重要。
 
 ;0x9ECB57D8=Who are we? We are like you. 
-0x9ECB57D8=
+0x9ECB57D8=我们是谁？我们和你一样。
 
 ;0xF5EDC9FB=We care. We KNOW.
-0xF5EDC9FB=
+0xF5EDC9FB=我们在乎。我们知道。
 
 ;0x1B1ECE7A=This website started in a basement house that soon became the portal to a subterranean super race of mind-warping Neo-Aztec cyberpunks. WE ARE NOT LIKE THOSE GUYS THAT WORE PURPLE SHOES AND WORSHIPPED COMETS. Please stop posting accusations of the sort. What we have are questions. Should your head be permanently wrapped in tinfoil to stop the government from burning your perverted fantasies onto a CD for distribution to your future employers? Is your local deli fronting an NSA conspiracy of shape-shifting reptilian humanoids from Mars? Are you convinced that the crew of the Marie Celeste instructed you to spatch-cock the family budgerigar? Is that circle of flat grass in your backyard evidence of alien lifeforms or simply further proof that the gardener is boning your wife?          
-0x1B1ECE7A=
+0x1B1ECE7A=本站于一个地下室中建立，不久后便成为了扭曲心灵的新阿兹特克赛博朋克地下超级种族的门户。我们和那些穿着紫色鞋子、崇拜彗星的人不一样。请不要再发布那种指控了。我们拥有的是问题。要不要用锡纸永久性地裹住头部，防止政府把你脑内的变态幻想烧录到CD上，交给你的未来雇主？你家附近的熟食店里，是不是藏着国安局的化形火星蠕虫？你是否确信，鬼船玛丽赛勒斯特号的船员让你把鹦鹉一家杀了下锅？后院草皮上被压出来的怪圈，是证明了外星生物存在，还是老婆在和园丁偷情？
 
 ;0xD1E60FDB=If you have paranoia coursing through your veins like a speedball, if you attempt to acid-burn your fingerprints after a single flash of eye contact with the postman, LiesDamnLies.com is the site for you. Welcome home. Our forums are dedicated to exposing the sinister forces that control every twist and turn of our APPARENTLY meaningless lives. REMEMBER - nothing is meaningless. Everything has a reason. And that reason is usually that the government is out to destroy you, and everyone just like you. We all know that we are being watched constantly and lied to about everything - BY THE MEDIA!!!!!!! Time to set the record straight. Write it down here before it is ripped off the net by the "administration." It's time to end the conspiracy of lies!           
-0xD1E60FDB=
+0xD1E60FDB=如果多疑和偏执像毒品一样在你体内奔涌，只是和邮差眼神相会就决定用强酸毁掉自己的指纹，LiesDamnLies.com就是你所需要的网站。欢迎回家。本论坛致力于揭露控制我们表面上毫无意义的人生的邪恶力量。记住，不存在没有意义的事物。一切的一切都有原因。而这个原因通常是政府要来抹杀你了，还要抹杀你的同类。我们都知道自己一直被监视着，接收到的一切都是谎言——媒体的谎言！！！！！！！是时候认清真相了。在被「有关部门」从网络上封杀之前，记录下真相吧。现在该终结由谎言编织而成的阴谋了！
 
