@@ -1,21 +1,21 @@
 ﻿;0x4475AF1E=ABOUT
-0x4475AF1E=关于我们
+0x4475AF1E=
 
 ;0x3F846580=RULES
-0x3F846580=本店守则
+0x3F846580=
 
 ;0xDEFD137E=TONY PRINCE
 0xDEFD137E=
 
 ;0x968D8487=ABOUT TONY PRINCE
-0x968D8487=关于Tony Prince
+0x968D8487=关于TONY PRINCE
 
 ;0x39F59CE4=Tony Prince, the legendary "Gay Tony", grew up in Dukes, as a young boy he wandered to the Humboldt River and dreamed of living on the other side so he would no longer be considered bridge and tunnel and as soon as he went to college, his dream came true. Ignoring school, he spent the middle part of the 1980s working the cloakroom and then the door at the legendary Elephant, until that closed down following a fire. Tony's next venture was the classic rave venue PUDDLE, based famously in a converted mortuary. Unfortunately, the tax man decided Tony was having too good a time and the club was closed and Tony narrowly avoided jail. Next he opened his first gay club, Thunder, which itself evolved into 2 Backed Beast. After this was shut down by the city, he returned to the gay scene with Hercules, which has now been open for ten years. 
-0x39F59CE4=Tony Prince，诨名「基佬Tony」，在Dukes长大，小的时候他在Humboldt河边闲逛，希望自己可以住在对岸，这样子才不会被看作是乡巴佬。一上大学，他的梦想就实现了。他无心学习，80年代中期，他在著名夜店「Elephant」的衣帽间和门卫岗工作过。后来夜店失火倒闭了。接着，Tony创业，创立的正是经典迪厅「PUDDLE」，因修建在改造的太平间上闻名。可惜的是，收税的觉得Tony过得太好，把店查封了，Tony差点就进了监狱。然后，Tony开了他的第一家同性恋酒吧，名为「Thunder」，后改名为「2 Backed Beast」。后来这家店又被政府关停，再开的店名为「大力神」，一直营业至今有10年。
+0x39F59CE4=Tony Prince，传说中的「基佬Tony」，在Dukes长大。小的时候他常在Humboldt河边漫步，希望自己能在对岸生活，这样才不会被看作是乡巴佬。一上大学，他的梦想就实现了。他无心学习，80年代中期，他先后在传奇夜店「Elephant」的衣帽间和门卫岗工作，直到夜店失火倒闭。接着，Tony大胆创业，创办了经典迪厅「PUDDLE」，这家店因在旧太平间的基础上改建闻名。可惜的是，税务局觉得Tony过得太好，把店查封了，Tony差点进了监狱。然后，Tony开了他的首家男同夜店「Thunder」，后改名为「2 Backed Beast」。政府关停这家店后过了数年，他带着「大力神」这块招牌重返男同市场，至今已经营10年之久。
 
 ;0x6609193D=At the same time, he catered to the heterosexual crowd with the now legendary DEATH BY MACHINES. After DEATH BY MACHINES burned down, Tony was briefly banned from opening any new venues, before he opened Maisonette 9 in 2003. As Tony says, in his inimicable style, "I do it for the love, that and the easy money, access to drugs and ability to suck up to famous people."
-0x6609193D=与此同时，他为异性恋群体开办了口口相传的夜店「DEATH BY MACHINES」，后来店里发生火灾倒闭了。一直到2003年开办「9号豪宅」前，政府禁止Tony开办新的迪厅。他本人打肿脸充胖子地说道，「我干这行是因为热爱，赚钱也快，又能嗑药又能跪舔大明星」。
+0x6609193D=与此同时，他为异性恋群体开办了传奇般的夜店「DEATH BY MACHINES」。之后该店发生火灾倒闭，政府也暂时禁止Tony开设任何新店，直至2003年他才开办了「9号豪宅」。Tony用冷厉的语气说道「我干这行是因为热爱，赚钱也快，又能嗑药又能跪舔大明星。」
 
 ;0x2C2E0524=A TONY PRINCE PRODUCTION
-0x2C2E0524=由Tony Prince制作
+0x2C2E0524=
 

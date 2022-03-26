@@ -8,23 +8,23 @@
 0xDEFD137E=
 
 ;0xC55430BC=ABOUT MAISONETTE 9
-0xC55430BC=9号豪宅
+0xC55430BC=关于9号豪宅
 
 ;0x80D804DD=Maisonette 9 is a private venue for after-dinner drinks catering exclusively
-0x80D804DD=9号豪宅是一家为本店会员及其朋友
+0x80D804DD=9号豪宅是一家为本店会员及其朋友提供餐后豪华酒水招待的私人会所。
 
 ;0x21B4017B=to members and their friends.              
-0x21B4017B=提供餐后豪华酒水招待的私人会所。
+0x21B4017B=_
 
 ;0xD722C6B5=If you did not know that, you are very unlikely to get in.
-0xD722C6B5=如果你不知晓该事项，我们不欢迎你进入。
+0xD722C6B5=如果这都不知道，你大概率是进不了店门的。
 
 ;0xB9B2E6C6=We are located in Algonquin, Liberty City, but if you have to ask where then you are definitely not our sort of person.
-0xB9B2E6C6=本店位于自由城的Algonquin，如果你不知道在哪，你不是本店对口的消费人群。
+0xB9B2E6C6=本店位于自由城的Algonquin，如果不知道具体在哪，那你绝对不是本店的消费人群。
 
 ;0x146A2715=Founded in 2003 by Liberty City's 20 year reigning king of Liberty City's nightlife, Tony Prince, Maisonette 9 is small, cramped, expensive, over crowded and definitely not for you. So please, don't  bother stopping by, on the off chance we were wondering where you had  been all our lives, let's be really clear - we weren't waiting for you, and we did not want you. Unless you are rich, beautiful and famous, you will feel pretty inadequate here, so why put yourself through that?  Therapy is really expensive and it doesn't work.            
-0x146A2715=本店创立于2003年，创始人是自由城夜生活20年以来的教主，Tony Prince。9号豪宅又小，又窄，又贵，还挤得要命，肯定不适合你。所以，请别费心登门拜访了，搞不好我们想知道你又是什么来头。说白了，我们没有在等你，也不想你来，除非你很有钱，很漂亮，很有名，否则你来了只会觉得自己像个小丑。所以为什么要来呢？这里花销很大，对你没有好处。
+0x146A2715=本店创立于2003年，创始人是自由城夜生活20年以来的教主，Tony Prince。9号豪宅又小、又窄、又贵，还挤得要命，肯定不适合你。所以，请别费心登门拜访了，我们多半不想知道你是什么来头。说白了，我们没有在等你，也不想你来，除非你很有钱、很漂亮、很出名，否则来了只会觉得自己像个小丑。所以为什么要来呢？来一趟自闭了还得去治，又贵又没用。
 
 ;0x2C2E0524=A TONY PRINCE PRODUCTION
-0x2C2E0524=由Tony Prince制作
+0x2C2E0524=TONY PRINCE出品
 
