@@ -8,7 +8,7 @@
 0x7DB9BB25=
 
 ;0x0DB31A1E=.  There's no way I'm changing that diaper again.  It looks like that Paleek Paneer Indian diarrhea shit.  I've seen some things in my time but that's going to give me nightmares for life. 
-0x0DB31A1E=上卖掉了。我绝对不会给他再换一次尿布了。像是一大坨绿色的印第安菜。虽然不是没见过类似的，但这么恶心的还是头一次见，够让我做一辈子噩梦了。
+0x0DB31A1E=上卖掉了。我绝对不会给他再换一次尿布了。像是一大坨绿色的印度菜。虽然不是没见过类似的屎，但这么恶心的还是头一次见，够让我做一辈子噩梦了。
 
 ;0x50F8066C=PostingID: 620025447
 0x50F8066C=帖子ID：620025447
