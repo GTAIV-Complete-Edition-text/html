@@ -55,9 +55,6 @@
 ;0x92ACD395=Dukes Boulevard at Bunker Hill Avenue, East Island City, Dukes       
 0x92ACD395=
 
-;0x2CEB2922=Current Exhibits:       
-0x2CEB2922=
-
 ;0xA82742DB=Bao is an incredible and original Chinese artist who paints with pandas.  More specifically, he sings and shouts at pandas until they do the painting for him.       
 0xA82742DB=
 
@@ -69,9 +66,6 @@
 
 ;0x50798B7D=Columbus Avenue opposite Pyrite Street, Middle Park, Algonquin       
 0x50798B7D=
-
-;0x2CEB2922=Current Exhibits:       
-0x2CEB2922=
 
 ;0x5B62DBE5=History, Heraldry, Egypt, Dinosaurs        
 0x5B62DBE5=

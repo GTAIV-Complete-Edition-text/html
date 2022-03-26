@@ -1,39 +1,3 @@
 ﻿;0xBDC707E9=Are you ready to do some Seoul searching? Known for its exotic ingredients, tyrannical owner and mystery meat surprises, Mr. Fuk's Rice Box is a bustling, cavernous restaurant on two floors in Alderney City's vibrant Korean area. When we say 'vibrant', we mean overcrowded, infested shit heap. Our best advice for an enjoyable meal at Mr. Fuk's is not to ask too many questions and don't look into the kitchen, you won't like what you see. Roasted intestines, pig feet, coagulated ox blood, live octopus... these are people on the edge who will eat anything if you tell them that it is an aphrodisiac. Just watch out for those squirming tentacles on the way down - the Heimlich maneuver isn't going to do shit if you get a sucker clamped to your esophagus. Please bear in mind that kimchi is to Koreans as fries are to Americans - they have it with EVERY meal. If fermented, florescent cabbage is your thing, give Mr. Fuk's Rice Box a try. Korean barbeques introduced the West to a whole new concept: paying to cook your own food! You'll feel very full, slightly ill and then starving hungry again - all within a 20-minute period. Well worth a visit.        
 0xBDC707E9=
 
-;0x006388FD=Algonquin
-0x006388FD=
-
-;0xA67F0F37=Drusilla's
-0xA67F0F37=
-
-;0x388007ED=Super Star Café
-0x388007ED=
-
-;0xC6E1A607=Lucky Winkle's
-0xC6E1A607=
-
-;0x81C941D4=Broker
-0x81C941D4=
-
-;0x266BA4BB=69th Street Diner
-0x266BA4BB=
-
-;0x0746BE68=Comrades Bar
-0x0746BE68=
-
-;0x51717FFB=Homebrew Café
-0x51717FFB=
-
-;0xDAE5F56B=Dukes
-0xDAE5F56B=
-
-;0x31E52A46=Steinway Beer Garden
-0x31E52A46=
-
-;0x3EB137E5=Alderney
-0x3EB137E5=
-
-;0x701BB78C=Mr. Fuk's Rice Box
-0x701BB78C=
-

@@ -1,39 +1,3 @@
 ﻿;0xE76DAC16=Liberty City's Little Italy neighborhood, nestled between Suffolk and City Hall, takes all the traditions of Italy and packs them into one place.  If gluttony, violence and misogyny are your bag, come pay a visit.  Please, no moronic mafia jokes.  The mafia have all gone legit and are running defense companies and restaurant chains.  Swallowed up by the surrounding areas over the years, all that remains of the once-legendary birthplace of the American mafia is a couple of streets with over-priced restaurants that charge $25 for a dollar's worth of spaghetti, pushy waiters who don't wash after wiping and tacky souvenir shops.  However, there is still some good food to be found in Little Italy - and even the odd mobster, if you know where to look.  With its exposed brick, wooden floors and checkered tablecloths, Drusilla's is a traditional, family-run Italian restaurant that has been serving up home-made pizza, pasta and salmonella tortellini for decades.   So grab a tight sweater, light a cigarette, drive your girl to Drusilla's on the back of a scooter, and come suck down a few carafes of cheap red wine until you put your fist through her face for embarrassing you in front of your friends.  Stupid bitch.      
 0xE76DAC16=
 
-;0x006388FD=Algonquin
-0x006388FD=
-
-;0xA67F0F37=Drusilla's
-0xA67F0F37=
-
-;0x388007ED=Super Star Café
-0x388007ED=
-
-;0xC6E1A607=Lucky Winkle's
-0xC6E1A607=
-
-;0x81C941D4=Broker
-0x81C941D4=
-
-;0x266BA4BB=69th Street Diner
-0x266BA4BB=
-
-;0x0746BE68=Comrades Bar
-0x0746BE68=
-
-;0x51717FFB=Homebrew Café
-0x51717FFB=
-
-;0xDAE5F56B=Dukes
-0xDAE5F56B=
-
-;0x31E52A46=Steinway Beer Garden
-0x31E52A46=
-
-;0x3EB137E5=Alderney
-0x3EB137E5=
-
-;0x4E1D7285=Mr. Fuks Rice Box
-0x4E1D7285=
-

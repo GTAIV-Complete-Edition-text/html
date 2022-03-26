@@ -1,84 +1,9 @@
 ﻿;0x6D4E15DC=Overlook Park       
 0x6D4E15DC=
 
-;0x5441BEB4=Broker      
-0x5441BEB4=
-
 ;0xD1D9F323=You can't go to Broker without making a stop in Overlook Park with its impressive entrance and arch at Soldier's Plaza.   Or maybe you can.  And you probably will.        
 0xD1D9F323=
 
-;0xEBADA5B7=The People
-0xEBADA5B7=
-
-;0x92171299=Broker Bridge
-0x92171299=
-
-;0x92882617=Statue of Happiness
-0x92882617=
-
-;0x7DEF9CAF=Algonquin       
-0x7DEF9CAF=
-
-;0x90DB42AF=Star Junction
-0x90DB42AF=
-
-;0x2C1AE7B0=Middle Park
-0x2C1AE7B0=
-
-;0xD05808E4=Rotterdam Tower
-0xD05808E4=
-
-;0xDE45AE5D=Zirconium Building
-0xDE45AE5D=
-
-;0x12B16F2B=Triangle Building
-0x12B16F2B=
-
-;0x217DF431=CC Building
-0x217DF431=
-
-;0xBF773E55=Grand Easton Terminal
-0xBF773E55=
-
-;0x107C31CC=Chinatown
-0x107C31CC=
-
-;0xA5E9B921=The Exchange
-0xA5E9B921=
-
-;0x310DB0C6=Cleethorpes Tower
-0x310DB0C6=
-
-;0xB029F950=GetaLife Building
-0xB029F950=
-
-;0xA84B6FB7=Bohan       
-0xA84B6FB7=
-
-;0x3D3ADCBC=Welham Parkway
-0x3D3ADCBC=
-
-;0x377F02FC=Broker       
-0x377F02FC=
-
 ;0xD3F48134=Overlook Park
 0xD3F48134=
-
-;0x7CE2A56F=Firefly Island
-0x7CE2A56F=
-
-;0xDE5AE7C9=Dukes       
-0xDE5AE7C9=
-
-;0x930300E7=Meadows Park
-0x930300E7=
-
-;0x6605870F=LC24 Tower
-0x6605870F=
-
-;0x23FC5027=Alderney       
-0x23FC5027=
-
-;0xC0713D1E=Plumber's Skyway
-0xC0713D1E=
 

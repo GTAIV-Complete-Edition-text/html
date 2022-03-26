@@ -22,9 +22,6 @@
 ;0x8AA65C5E=Perestroika
 0x8AA65C5E=
 
-;0x382254D4=*Critics' Choice*       
-0x382254D4=
-
 ;0x1430B67B=For something a little different, why not check out Perestroika at Hove Beach?  A gem in the heart of Broker's Russian community...
 0x1430B67B=
 
