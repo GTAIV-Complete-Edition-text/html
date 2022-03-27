@@ -1,6 +1,6 @@
 ﻿;0xF7C3812F=Comrades is a take-no-shit bar in Hove Beach, Broker's thriving - or kind-of thriving - Eastern European and Russian community.  If you are looking for surly service and a good old-fashioned brawl, Comrades at Hove Beach is an intimate venue that promises both on most evenings.         
-0xF7C3812F=
+0xF7C3812F=Comrades是一家不能乱说话的酒吧，位于Hove Beach——Broker的兴旺(还算兴旺吧)的东欧人和俄罗斯人聚居地。如果你想要粗暴的服务和老派的斗殴，每天晚上在Hove Beach的Comrades酒吧都能满足你的需求。
 
 ;0x501929B1=It's not quite the same now that you can't smoke in there  but it's still a place where hard men drink hard liquor.  Try to show no emotion when that shot of Cherenkov hits the stomach lining.          
-0x501929B1=
+0x501929B1=虽然现在被迫禁烟，和之前的氛围不太一样，但硬汉喝烈酒这点依然没变。一杯契连科夫伏特加下肚，看看你还能不能面不改色吧。
 

@@ -1,9 +1,9 @@
 ﻿;0x3ED94DB8=There is no place quite like the Liberty City metropolitan area, and our murder rates prove it.  From Algonquin to Dukes to Broker to Bohan, the vast urban sprawl of Liberty City offers a world of culture, opportunity and shopping experiences. Hell, we're even fond of Alderney, even if they are a different state.
-0x3ED94DB8=
+0x3ED94DB8=自由城大都会地区在全世界都独具一格，我们的谋杀案发生率也证明了这一点。从Algonquin到Dukes，再到Broker和Bohan，自由城广大的市域中有着各种各样的文化、机会和购物体验。天，就连Alderney也在推荐范围之内，哪怕那已经是隔壁州了。
 
 ;0xF594CDC3=Defined by its cosmopolitan mix of homeless people and cultures, this is a thriving metropolis on a scale that makes everywhere else look flaccid by comparison. A city needs energy and a split personality... and Liberty City has both in abundance. Grit and glitz; edge and elegance; alliteration and agony - this is a city of contrasts where culture and diversity rub shoulders with crime and excess and stick their tongues down each other's throats in a drunken frenzy.         
-0xF594CDC3=
+0xF594CDC3=世界各地的流浪汉和文化在此交汇，作为一个兴旺的大都会，自由城足以让其他任何地方黯然失色。城市既需要活力，又需要精分... 而自由城则是两者兼具。勇气与华丽、暴怒与风度、困顿与押韵——这是一座光怪陆离的城市，多元文化与邪魔外道并驾齐驱，像发酒疯了一样深深舌吻。
 
 ;0x4EDFB97A=Peep That Shit is the insider's guide to Liberty City.  From the hot spots to the hidden treasures to the hipster bars where the wealthy dress like heroin addicts, we will take you beyond the bagels and shitty shows and expose you to what makes the capital of the world really tick.       
-0x4EDFB97A=
+0x4EDFB97A=「就看一眼」是内行人写的自由城观光攻略。从热门景点到冷门宝藏，再到富人打扮得跟瘾君子一样的嬉皮士酒吧，我们不仅仅会介绍小吃和垃圾演出，更会让你明白世界之都的真正魅力。
 

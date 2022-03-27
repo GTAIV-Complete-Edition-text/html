@@ -1,5 +1,5 @@
 ﻿;0x0AA36C32=You can't visit Liberty City and not go to a diner.  The diner is an American icon, a place where people from all walks of life can gather together to order from a menu of 700 items, all frozen and waiting in the back to be deep fried in syrup or ketchup. If you are looking for an authentic, no-frills diner experience without all the faux-retro trash and gum under every table, go somewhere else. If, on the other hand, you are looking for a phony theme diner experience that is a superficial simulation of the real thing, then head to the 69th Street Diner in Broker's Hove Beach, a working-class (i.e. poor) neighborhood with a large Eastern European population.  Bright lighting, plastic seats, bitter coffee, shit stains on the toilet and a bubbling undercurrent of hostility.  What more could you ask for?  How about food poisoning?  Don't worry. It's more or less guaranteed. Forget the tip at your own peril.     
-0x0AA36C32=
+0x0AA36C32=来了自由城，必须得去上一家名字里带「餐馆」的店。餐馆是美国的标志，各行各业的人们聚集于此，在提供了700道菜的菜单上点餐，全都是冷冻保存的油炸食品，等着涂上各种酱汁。如果你想要地地道道的朴实用餐体验，又不想要那种假复古的垃圾和桌板底下的口香糖，还是换家店吧。反过来说，如果你找的就是这种虚假的用餐体验，想要真货的高仿体验，就赶紧去69街餐馆吧。店址位于Broker的Hove Beach，是一个拥有大量东欧人口的工薪阶层(也就是穷人)居住区。明亮的灯光，塑料的椅子，苦涩的咖啡，马桶上的屎渍，还有潜藏在平静表面下的敌意。还能有什么要求呢？食物中毒吗？别担心，多少会有的。不给小费风险自负。
 
 ;0x006388FD=Algonquin
 0x006388FD=
@@ -14,5 +14,5 @@
 0x3EB137E5=
 
 ;0x4E1D7285=Mr. Fuks Rice Box
-0x4E1D7285=
+0x4E1D7285=老曹盒饭
 
