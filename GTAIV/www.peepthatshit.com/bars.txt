@@ -1,5 +1,5 @@
 ﻿;0x7D7D36D5=Liberty City's restaurants serve up dishes from every corner of the globe and many of them have the hygiene practices of a Central American outhouse. Here are the top bar and restaurant picks!  Voted by you, the reader, and edited based on advertiser revenue! Actually, that's a lie. They are chosen by us, based on who gives us the most free dinners or happy endings in the coatroom. We are about as impartial as Weazel News. Bribes, gifts, party favors - we are open to it all.  Some cold, hard cash and we will forget about your cold, hard filet mignon that has a glaze of rat feces. That's how restaurant reviews work. What do you care? If you knew how to cook you wouldn't be eating out all the time.      
-0x7D7D36D5=
+0x7D7D36D5=自由城的餐馆能够提供来自全球各地的菜式，许多菜品的卫生环境和中美洲的茅房没什么差别。右边就是我们推荐的酒吧和餐馆！由各位读者投票评选产生结果，再根据广告费略作调整！骗你的，才不是这样。其实都是我们自己选的，按照请我们吃饭和在更衣室给我们「服务」的次数决定。我们的公正程度差不多和Weazel新闻一个水平。贿赂、送礼、捞好处，我们全都接受。塞点冷冰冰的钱，我们就会忘记在你家冷冰冰的牛排上吃出了老鼠屎。餐馆评分就是这么回事。你能怎么办？要是会做饭，哪还会天天下馆子啊。
 
 ;0x7DEF9CAF=Algonquin       
 0x7DEF9CAF=
@@ -11,34 +11,34 @@
 0x388007ED=
 
 ;0xC6E1A607=Lucky Winkle's
-0xC6E1A607=
+0xC6E1A607=幸运田螺
 
 ;0x377F02FC=Broker       
 0x377F02FC=
 
 ;0x266BA4BB=69th Street Diner
-0x266BA4BB=
+0x266BA4BB=69街餐馆
 
 ;0x0746BE68=Comrades Bar
-0x0746BE68=
+0x0746BE68=Comrades酒吧
 
 ;0x51717FFB=Homebrew Café
-0x51717FFB=
+0x51717FFB=家庭咖啡馆
 
 ;0xDE5AE7C9=Dukes       
 0xDE5AE7C9=
 
 ;0x31E52A46=Steinway Beer Garden
-0x31E52A46=
+0x31E52A46=Steinway啤酒园
 
 ;0x23FC5027=Alderney       
 0x23FC5027=
 
 ;0x701BB78C=Mr. Fuk's Rice Box
-0x701BB78C=
+0x701BB78C=老曹盒饭
 
 ;0x114B0A82=Other places worth a look but less forth-coming with advertising revenue:              
-0x114B0A82=
+0x114B0A82=这些地方也值得考虑，没什么能写，但交过广告费：
 
 ;0x32F9E3F3=Greasy Joe's Café
 0x32F9E3F3=
@@ -59,26 +59,26 @@
 0x4C9AFE49=
 
 ;0xA81B0000=Vinewood
-0xA81B0000=
+0xA81B0000=好麦坞
 
 ;0xCFCDFCE7=In the city that never sleeps because it has to work two jobs to pay for a tiny apartment after that slut divorced you, find comfort that you can eat at any hour of the day or night and there will always be a street vendor happy to send you running to the restroom, then the emergency room, as you permanently destroy your large intestine.  It looks like a lukewarm hotdog or a bag of suspicious-looking nuts - but, in reality, it is a test of your manhood and immune system that only the strong shall pass.  Liberty City is famous for giving tourists the raging runs, and its street food is a cheap way to cleanse your system.         
-0xCFCDFCE7=
+0xCFCDFCE7=在这座离婚后不打两份工就租不起房的不眠之城，无论是白天还是黑夜，你都可以在路边摊舒舒服服地吃上一顿，接着奔向最近的厕所，再因大肠受损被抬进医院。表面上只是一根微热的烤肠和一包可疑的坚果，实际上却是对你男子气概和免疫系统的考验，唯有强者才能生存。自由城以让游客喷射闻名，廉价的路边小吃就能帮你的身体排毒。
 
 ;0x6CDC157B=Keep your eye out for:       
-0x6CDC157B=
+0x6CDC157B=务必留意：
 
 ;0xBEC37A11=The Nut House       
-0xBEC37A11=
+0xBEC37A11=坚果屋
 
 ;0x7E6B30FF=Chihuahua Hotdogs       
-0x7E6B30FF=
+0x7E6B30FF=吉娃娃热狗
 
 ;0x9B0FC48E=Cherry Poppers Ice Cream        
-0x9B0FC48E=
+0x9B0FC48E=樱桃风暴冰淇淋
 
 ;0x1BC49D0F=Whether you feel like a three-day-old slice of pepperoni from Pizza This, a soggy sub from The Big Bite, a fudge-packed donut from Rusty Brown's, a sweaty burger from Wigwam, a 2000-calorie gunkaccino from Bean Machine Coffee or a few days of food poisoning from Gozushi, Liberty City has a fast food option to satisfy every craving.  Don't let some emaciated teen celebrity define your body image.  Pay no attention to the kids making that 'beep, beep, beep' noise when you walk backwards - they'll be obese soon too!  Two thirds of Americans are now overweight, so, according to the stats, fat is officially the new thin!          
-0x1BC49D0F=
+0x1BC49D0F=不管你是想来一份放了三天的Pizza This意式香肠披萨，还是Big Bite的受潮面包，或是Rusty Brown的油腻甜甜圈，乃至让人发汗的Wigwam汉堡，抑或是冰的咖啡的2000卡贡卡奇诺，甚至是吃上几天Gozushi的有毒寿司，自由城的快餐能够满足所有人的口味。别让那些消瘦的年轻明星定义你的身体形象。别在乎那些你往回走的时候哔哔哔响的小鬼，他们迟早会变肥的！如今有三分之二的美国人体重超标，所以根据统计数字，肥胖正式成为了现代的瘦！
 
 ;0xA98951DD=Here are two of our particular favorites, who we would like to thank for their continued sponsorship:        
-0xA98951DD=
+0xA98951DD=我们特别推荐这两家店，感谢他们长期以来的赞助支持：
 

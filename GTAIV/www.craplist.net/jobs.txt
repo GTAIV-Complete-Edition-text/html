@@ -71,7 +71,7 @@
 0x1D58C61A=消化科医师招助手
 
 ;0x4D842F96= (East Hook Bay)
-0x4D842F96=
+0x4D842F96= (East Hook湾)
 
 ;0x48E99D84=Human lab rats required
 0x48E99D84=招收人类小白鼠

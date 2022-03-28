@@ -1,84 +1,9 @@
 ﻿;0x1BF46FD5=LC24 Tower       
-0x1BF46FD5=
+0x1BF46FD5=LC24大楼
 
 ;0xFF2B9E54=East Island City, Dukes         
-0xFF2B9E54=
+0xFF2B9E54=Dukes, 东岛城
 
 ;0x281A397C=A glass monstrosity in Dukes that shows how all modern architecture is really just about using the cheapest materials available, this is one of Liberty City's tallest buildings and is home to LC24, a well-known news and lifestyle magazine.        
-0x281A397C=
-
-;0xEBADA5B7=The People
-0xEBADA5B7=
-
-;0x92171299=Broker Bridge
-0x92171299=
-
-;0x92882617=Statue of Happiness
-0x92882617=
-
-;0x7DEF9CAF=Algonquin       
-0x7DEF9CAF=
-
-;0x90DB42AF=Star Junction
-0x90DB42AF=
-
-;0x2C1AE7B0=Middle Park
-0x2C1AE7B0=
-
-;0xD05808E4=Rotterdam Tower
-0xD05808E4=
-
-;0xDE45AE5D=Zirconium Building
-0xDE45AE5D=
-
-;0x12B16F2B=Triangle Building
-0x12B16F2B=
-
-;0x217DF431=CC Building
-0x217DF431=
-
-;0xBF773E55=Grand Easton Terminal
-0xBF773E55=
-
-;0x107C31CC=Chinatown
-0x107C31CC=
-
-;0xA5E9B921=The Exchange
-0xA5E9B921=
-
-;0x310DB0C6=Cleethorpes Tower
-0x310DB0C6=
-
-;0xB029F950=GetaLife Building
-0xB029F950=
-
-;0xA84B6FB7=Bohan       
-0xA84B6FB7=
-
-;0x3D3ADCBC=Welham Parkway
-0x3D3ADCBC=
-
-;0x377F02FC=Broker       
-0x377F02FC=
-
-;0x46C7ACE4=Outlook Park
-0x46C7ACE4=
-
-;0x7CE2A56F=Firefly Island
-0x7CE2A56F=
-
-;0xDE5AE7C9=Dukes       
-0xDE5AE7C9=
-
-;0x930300E7=Meadows Park
-0x930300E7=
-
-;0x6605870F=LC24 Tower
-0x6605870F=
-
-;0x23FC5027=Alderney       
-0x23FC5027=
-
-;0xC0713D1E=Plumber's Skyway
-0xC0713D1E=
+0x281A397C=Dukes的玻璃怪胎，证明了现代建筑只会用最便宜的材料。这是自由城最高的建筑之一，也是知名新闻和生活杂志LC24的总部。
 
