@@ -1,9 +1,9 @@
 ﻿;0xD2D74D72=Fairy Body Paint       
-0xD2D74D72=
+0xD2D74D72=彩绘仙子
 
 ;0x5A6AAD6F=at the Liberteen Kids Theater         
-0x5A6AAD6F=
+0x5A6AAD6F=子由儿童剧院
 
 ;0x1AE46D5A=Some call it entertainment; others call it performance nonsense.  Either way, kids can't seem to get enough of naked men covered in body paint and glitter.  Through experimental electronica and the medium of mime, Fairy Body Paint teaches us about male bonding and the futility of human existence, especially when 4 male nymphs are interlocking their painted naked bodies to form household furniture.  Your son is never too young to get into musical theater and this show will raise all sorts of important questions.         
-0x1AE46D5A=
+0x1AE46D5A=有人说这是娱乐，有人说这是荒诞演出。但不论是哪种，孩子们似乎都挺喜欢看涂着彩绘闪闪发亮的裸男表演。通过实验电子乐和哑剧的形式，《彩绘仙子》教会了我们男人的情谊和人类存在的徒劳，四个男仙子用彩绘过的身体组成家具的那一幕更是将这两点展现的淋漓尽致。再小的孩子都可以接触音乐剧，而本剧会提出种种重要的问题。
 

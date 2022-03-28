@@ -1,9 +1,9 @@
 ﻿;0x6F171DF0=Raincoat Exposé       
-0x6F171DF0=
+0x6F171DF0=雨衣暴露狂
 
 ;0x67E24739=at the Seagull Theater              
-0x67E24739=
+0x67E24739=海鸥剧院
 
 ;0x67799DA5=Critics are calling this one a 'real one eye-opener'.  A new musical by the Liberty City Amateur Dramatic Society, Raincoat Exposé deals with the trials and tribulations of a misunderstood, middle-aged flasher who prowls around parks and schoolyards asking people to look at his junk.  Will the local community ever come to view him as a lonely exhibitionist rather than a sexual predator?  Lots of great songs in this one.  
-0x67799DA5=
+0x67799DA5=评论家称这部剧让人「大开眼界」。《雨衣暴露狂》是自由城业余戏剧协会推出的一部音乐剧，主角是一名常被误解的中年暴露狂，经常在公园和校园内游荡，给别人看自己的那玩意，本剧主要讲述了他所经历的艰难困苦。当地居民到底会把他视作动机不纯的性变态，还是一个孤独的露出狂呢？这部剧的音乐都挺不错的。
 

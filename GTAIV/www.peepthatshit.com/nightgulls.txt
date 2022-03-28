@@ -1,9 +1,9 @@
 ﻿;0xE80243FF=The Gulls       
-0xE80243FF=
+0xE80243FF=海鸥
 
 ;0xB7FD652F=at the Magic Curtain Theater              
-0xB7FD652F=
+0xB7FD652F=魔法幕布剧院
 
 ;0xD4751095=Get ready for lots of men and women running around in feathers and tutus to powerful orchestral accompaniment.  The Gulls is a story about prejudice that has a strong environmental message and some freaky mid-air sex scenes.   After a prince falls in love with a seagull queen, a great war breaks out.  Man releases oil slicks and industrial waste into the oceans; the seagulls rip open trash bags, steal bites from sandwiches and shit on the audience.  Will inter-species love prevail?  
-0xD4751095=
+0xD4751095=准备欣赏男男女女身着羽毛服装和芭蕾舞裙，伴着强烈的管弦乐奔跑吧。《海鸥》讲述了一个关于偏见的故事，剧中还有对环保的呼吁和怪异的浮空性爱场景。人类王子与海鸥女王坠入情网，一场大战就此爆发。人类向海洋中倾倒浮油和工业废水；海鸥咬破了垃圾袋，抢走了三明治，还往观众头上拉屎。跨越物种的爱能够获得胜利吗？
 
