@@ -1,87 +1,87 @@
 ﻿;0xC627CB4D=Liberty City is jam-packed with breathtaking sights, iconic images, drive-by shootings, and historical landmarks at every turn. Here are some of the things not to be missed:
-0xC627CB4D=
+0xC627CB4D=自由城有许多令人叹为观止的景点、标志性的景色、追车枪战，还有无处不在的历史地标。以下是一些不容错过的地方：
 
 ;0xEBADA5B7=The People
-0xEBADA5B7=
+0xEBADA5B7=民众
 
 ;0x92171299=Broker Bridge
-0x92171299=
+0x92171299=Broker大桥
 
 ;0x92882617=Statue of Happiness
-0x92882617=
+0x92882617=幸福女神像
 
 ;0x90DB42AF=Star Junction
 0x90DB42AF=
 
 ;0x2C1AE7B0=Middle Park
-0x2C1AE7B0=
+0x2C1AE7B0=中心公园
 
 ;0xD05808E4=Rotterdam Tower
-0xD05808E4=
+0xD05808E4=鹿特丹塔
 
 ;0xDE45AE5D=Zirconium Building
-0xDE45AE5D=
+0xDE45AE5D=Zirconium大厦
 
 ;0x12B16F2B=Triangle Building
-0x12B16F2B=
+0x12B16F2B=三角大楼
 
 ;0x217DF431=CC Building
-0x217DF431=
+0x217DF431=文明开化委员会大楼
 
 ;0xBF773E55=Grand Easton Terminal
-0xBF773E55=
+0xBF773E55=Grand Easton车站
 
 ;0x107C31CC=Chinatown
-0x107C31CC=
+0x107C31CC=唐人街
 
 ;0xA5E9B921=The Exchange
-0xA5E9B921=
+0xA5E9B921=证交区
 
 ;0x310DB0C6=Cleethorpes Tower
-0x310DB0C6=
+0x310DB0C6=Cleethorpes大楼
 
 ;0xB029F950=GetaLife Building
-0xB029F950=
+0xB029F950=GetaLife大厦
 
 ;0x07E67915=Bohan
 0x07E67915=
 
 ;0x3D3ADCBC=Welham Parkway
-0x3D3ADCBC=
+0x3D3ADCBC=Welham公园大道
 
 ;0x46C7ACE4=Outlook Park
-0x46C7ACE4=
+0x46C7ACE4=Outlook公园
 
 ;0x7CE2A56F=Firefly Island
 0x7CE2A56F=
 
 ;0x930300E7=Meadows Park
-0x930300E7=
+0x930300E7=草地公园
 
 ;0x6605870F=LC24 Tower
-0x6605870F=
+0x6605870F=LC24大楼
 
 ;0xAD31FB05=Alderney        
 0xAD31FB05=
 
 ;0xC0713D1E=Plumber's Skyway
-0xC0713D1E=
+0xC0713D1E=Plumbers高架
 
 ;0x0CF7B5E3=- Check out the deserted casino in Westdyke at the northern tip of Alderney.
-0x0CF7B5E3=
+0x0CF7B5E3=－去Alderney最北部的Westdyke看看吧，那里有一个废弃的赌场。
 
 ;0x887FED42=- Explore the small church and cemetery in Algonquin's trendy Suffolk neighborhood.  This is an endangered landmark - they want to knock it down and build condos.
-0x887FED42=
+0x887FED42=－去Algonquin的时尚地区Suffolk转转吧，那里有一个小教堂和公墓地。这个地标朝不保夕，有人想拆了它造公寓。
 
 ;0x8030336E=- Have some fun taunting sexually-frustrated men in orange suits at the Alderney State Correctional Facility in Acter Industrial Park.
-0x8030336E=
+0x8030336E=－去Acter工业园的Alderney州立监狱，尽情嘲讽那些穿着橙色衣服的性挫败男人吧。
 
 ;0xCE452F82=- For a surprisingly beautiful and tranquil shoreline, head to the beach at the tip of Northern Gardens in Bohan.
-0xCE452F82=
+0xCE452F82=－要想欣赏美丽平静的海岸线，就去Bohan东北的Northern Gardens的海滩吧。
 
 ;0x0173B435=- Head over to the lighthouse and cemetery at the northern end of Colony Island.  A peaceful spot with beautiful views.
-0x0173B435=
+0x0173B435=－在Colony岛的北端，有着灯塔和公墓地。环境平静，景色美丽。
 
 ;0xF69C7FE3=- Take a stroll around the historic Broker Navy Yard in East Hook Bay.
-0xF69C7FE3=
+0xF69C7FE3=－去历史上著名的Broker造船厂看看吧，位于East Hook湾。
 

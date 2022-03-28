@@ -1,6 +1,6 @@
 ﻿;0xEA1307B0=Middle Park       
-0xEA1307B0=
+0xEA1307B0=中心公园
 
 ;0x99A118A8=If you need to take refuge from the relentless hustle and bustle, there is no better place to strike up conversation with a weirdo than Middle Park, the lungs of Liberty City.  For many Libertonians, Middle Park is the closest they ever get to a real rapist.  Take a stroll around the lake or relax at the café in the fountain plaza.  And for lonely men denying the inevitable, visit the bathrooms where a few taps of the foot and a nice wide stance will make you a new friend.                
-0x99A118A8=
+0x99A118A8=如果你想从不眠不休的嘈杂中缓一口气，完全可以去自由城之肺中心公园找个怪人聊天。对自由城的许多居民来说，中心公园是他们最接近强奸犯的地方。散步环湖一圈，或是在喷泉广场的露天座位稍作休息。对于那些死鸭子嘴硬的寂寞男性，去厕所里用脚打几个拍子，张开腿靠墙站就能交到新朋友。
 

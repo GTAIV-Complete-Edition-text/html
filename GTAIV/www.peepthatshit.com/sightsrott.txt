@@ -1,9 +1,9 @@
 ﻿;0x002433AC=Rotterdam Tower       
-0x002433AC=
+0x002433AC=鹿特丹塔
 
 ;0x3BEF0322=The Triangle, Algonquin      
-0x3BEF0322=
+0x3BEF0322=Algonquin, The Triangle
 
 ;0x3E3CBDCB=The tallest building in Liberty City, the Rotterdam Tower with its distinctive spire, is an American icon, which is why it's America's favorite place to end it all.  Go up to the viewing platform at the top-floor observatory, take in spectacular panoramic views of the city, leave a note about how awful your life is, then jump.                   
-0x3E3CBDCB=
+0x3E3CBDCB=自由城最高的建筑，鹿特丹塔标志性的尖顶是美国的象征，因此也成为了跳楼圣地。登上顶层的观景平台，将壮丽的城市全景尽收眼底，留下一张控诉人生失意的纸条，跳下去吧。
 

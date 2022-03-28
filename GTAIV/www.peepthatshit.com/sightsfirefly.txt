@@ -5,5 +5,5 @@
 0x182D369C=
 
 ;0x14BC608C=At the southern tip of Broker lies Firefly Island's historic boardwalk and amusement park.  Arguably 100 years past its prime, a trip to Firefly Island still makes for a fun afternoon by the sea, especially when a dead fish washes up.  What could be more of an adrenaline rush than riding a rickety old wooden roller-coaster?!  Make a beeline for the Screamer, the Parachute Jump or the Liberty Eye.        
-0x14BC608C=
+0x14BC608C=Broker的最南端便是Firefly Island的古老木板道和游乐园。它的辉煌已经逝去了将近百年，但找个下午去海边的Firefly Island逛逛依然乐趣不减，特别是死鱼被冲上岸的时候。还有什么能比摇摇晃晃的古董木质过山车更让人心跳加速呢？！体验一下尖叫者过山车、跳楼机和自由眼摩天轮吧。
 

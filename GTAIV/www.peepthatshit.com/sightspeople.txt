@@ -1,6 +1,6 @@
 ﻿;0xCBB4D967=The People    
-0xCBB4D967=
+0xCBB4D967=民众
 
 ;0x3B00CF76=Spend a day in Liberty City and you will discover that you are a lot more normal than you thought.  People here are nicer than you would expect.   If you get hit by a car or get shot, people will come to your aid, often after checking your pockets.  There is no better place for people watching.  At best, it is an eclectic mix; at worst, a freak show.  The streets are a carnival of the bizarre and there are arguably more lunatics per block than anywhere else in the world.  You will never find more people externalizing their internal dialogue than in Liberty City.  You think you have seen it all and then you round a corner to see a 400lb man dressed as a baby or a naked senior citizen riding a unicycle.  Keep your camera phone at the ready.               
-0x3B00CF76=
+0x3B00CF76=在自由城待上一天，你就会发现自己还是挺正常的。这里比你想象中更加民风淳朴。如果你被车撞了或是挨枪子了，会有人过来施以援手，当然，他会先把你的口袋刮完。这里是最适合观察人类的地方。最好的情况，这里是一锅大杂烩；最坏的情况，这里是一出怪人秀。自由城的街道就是离奇怪人的嘉年华，疯子的密度远高于世界上任何地方。只有自由城会有这么多敢于将心声表露在外的人。你以为自己什么都见过，拐个弯就碰到了一个打扮成婴儿的360斤胖子，抑或是骑着独轮车的老大爷。随时准备掏出你的照相手机。
 

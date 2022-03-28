@@ -1,9 +1,9 @@
 ﻿;0x7C856B24=Chinatown       
-0x7C856B24=
+0x7C856B24=唐人街
 
 ;0xDEBF2B0D=Algonquin    
 0xDEBF2B0D=
 
 ;0x1F41DF81=Liberty City's Chinatown between Lower Easton and The Exchange in Algonquin is a vibrant neighborhood and a great place to pick up food poisoning and counterfeit handbags that funnel money to terrorists.         
-0x1F41DF81=
+0x1F41DF81=自由城的唐人街位于Algonquin，Lower Easton和证交区之间，是一个充满活力的地区。很适合来这里体验食物中毒，也可以来买山寨手包，但买包的钱最终会变成恐怖分子的子弹。
 

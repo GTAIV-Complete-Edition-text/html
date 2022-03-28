@@ -1,6 +1,6 @@
 ﻿;0x927C14EF=Statue of Happiness  
-0x927C14EF=
+0x927C14EF=幸福女神像
 
 ;0x066AFCE2=The Statue of Happiness is perhaps the definitive symbol of the American dream, even though it was a gift from the French.  Lady Happiness was presented to the USA by France in 1886 as a symbol of joy to mark 100 years of being free from British food and spelling.  Take a boat out to Happiness Island to see the statue close up, look up her skirt, and imagine how warm it must be in freedom's vagina.           
-0x066AFCE2=
+0x066AFCE2=幸福女神像或许是美国梦的最佳符号，哪怕这其实是法国人送的礼物。法国在1886年将幸福女神赠与美国，纪念美国脱离英式食物和拼写100周年。乘船去幸福岛近距离观察这尊雕像吧，抬头望向她的裙底，想想自由的逼里有多温暖。
 

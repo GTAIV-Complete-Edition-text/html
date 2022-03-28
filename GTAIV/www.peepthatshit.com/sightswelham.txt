@@ -1,9 +1,9 @@
 ﻿;0x2B7F065C=Welham Parkway  
-0x2B7F065C=
+0x2B7F065C=Welham公园大道
 
 ;0x02BD64B9=Boulevard, Bohan    
-0x02BD64B9=
+0x02BD64B9=Bohan, Boulevard
 
 ;0xA509F20C=Bohan's Welham Parkway in Boulevard more than competes with Middle Park and Outlook Park.  Hide away from the police for a few hours by the baseball field and lake.               
-0xA509F20C=
+0xA509F20C=位于Bohan的Boulevard的Welham公园大道与中心公园、Outlook公园不相上下。在棒球场和湖边躲避警察几个小时吧。
 
