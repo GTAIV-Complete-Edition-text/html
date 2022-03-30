@@ -23,7 +23,7 @@
 0x8865EE44=发表于 5 分钟前
 
 ;0xFC393EDF=I really have amazing taste in music... 
-0xFC393EDF=
+0xFC393EDF=我真的很有音乐品味...
 
 ;0x1D3EBB0F=FeFighter2008
 0x1D3EBB0F=

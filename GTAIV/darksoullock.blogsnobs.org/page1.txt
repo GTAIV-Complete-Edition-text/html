@@ -1,117 +1,93 @@
-﻿;0x04E72159=Username:
-0x04E72159=
-
-;0x24E0604D= DarkSoulLock 
+﻿;0x24E0604D= DarkSoulLock 
 0x24E0604D=
 
-;0xB0BACC87=Sex:
-0xB0BACC87=
-
 ;0x5669F7CE= Male 
-0x5669F7CE=
-
-;0x6C1F83B4=Location:
-0x6C1F83B4=
+0x5669F7CE= 男
 
 ;0xC25F9F82= Carcer City 
-0xC25F9F82=
-
-;0xD0F33C72=Age:
-0xD0F33C72=
-
-;0x3F398D1F=Profession:
-0x3F398D1F=
+0xC25F9F82= 卡瑟市
 
 ;0x4194840E= Deadend jobs 
-0x4194840E=
-
-;0xCA6ED4BF=Appearance:
-0xCA6ED4BF=
+0x4194840E= 没前途的工作
 
 ;0x4065AC38= Purple hair, eyeliner, tight black pants, flouncy shirt, spikes, chains. 
-0x4065AC38=
-
-;0x0EEC57CE=Interests:
-0x0EEC57CE=
+0x4065AC38= 紫发、眼影、黑色紧身裤、花边短袖、刺猬头、项链
 
 ;0x78AF6D29= Death metal, furries, gaming, conspiracy theories 
-0x78AF6D29=
+0x78AF6D29= 死亡金属、furry、游戏、阴谋论
 
 ;0xC4338853=UPDATED - 11 DAYS AGO
-0xC4338853=
+0xC4338853=发表于 11 天前
 
 ;0x34F20454=Got some anti-depressants today!!!  The doctor filled out the prescription pretty quickly, perhaps a bit too quickly.  I think that he wanted to get me out of there.  
-0x34F20454=
+0x34F20454=配到抗抑郁药了！！！医生一下子就开好了处方，未免太快了吧。我看他就是想把我打发走。
 
 ;0x9ACA0A90=This guy at work told me that his cousin developed a rash around her mouth after eating at Wigwam Burger.  When she went to get it checked out at the hosptial they detected 8 different guys DNA all infested with herpes!!!  I tell you... its no wonder I am riddled with infections. There's some scary stuff going on in the world. You just need to open your eyes.  Governement conspiracies to control the population and subvert society.  I'm convinced that the mulletati are pulling the strings.  Just check out this website: 
-0x9ACA0A90=
+0x9ACA0A90=同事跟我说，他表姐吃了顿Wigwam汉堡，结果嘴上起了一圈疹子。去医院一检查，发现了8个人的DNA，还全是得过疱疹的！！！我就说... 难怪我这么容易生病。世界正在发生很可怕的事，你只需要睁大眼睛。这是政府管控人口、颠覆社会的阴谋。我很确信，是鲻鱼会在背后操纵一切。看看这个网站吧：
 
 ;0x186E2C1F=www.liesdamnlies.net
 0x186E2C1F=
 
 ;0xB245DF51=.  Those central Europeans have always been hellbent on world domination. Something big is about to go down and I for one am going to be ready.  I've boarded up my windows and im going to start sealing my door with duct tape at night.  Just bought a nailgun as well.  Probably not a lot of use against a shapeshifting reptilian but I like the feel of it in my hands.  
-0xB245DF51=
+0xB245DF51=。为了征服世界，那帮中欧人向来是不择手段的。大的要来了，我可是准备好了。窗子已经用木板封上了，今晚就用胶带把门封住。我还买了把钉枪，对付化形爬虫未必好使，但我喜欢把它拿在手里的感觉。
 
 ;0x556BF586=UPDATED - 14 DAYS AGO
-0x556BF586=
+0x556BF586=发表于 14 天前
 
 ;0x9F799E59=Woke up with the taste of rotten eggs in my mouth and my hand stuck in the drain of the sink.  Who knows how long I'd been there!  My sinuses must be acting up again.  Cant believe I need to go to the doctors for the fifth day in a row.  
-0x9F799E59=
+0x9F799E59=醒来时嘴里一股臭鸡蛋的味道，手也卡在下水管里了。鬼知道我卡在这儿多久了！肯定是鼻子又堵了。又要去医院了，连去五天了都。
 
 ;0x5CDA855B=Even with all the lights on its too dark.  Even with the heat on, I am too cold.  Daylight Saving Time is screwing with my mind, man!  I never really recover. Just when I start to adjust, it's October and time to turn back again.  
-0x5CDA855B=
+0x5CDA855B=即便点亮所有的灯，依然那么黑暗。即便打开暖炉，依然那么寒冷。夏令时搞得我晕头转向，天！病从来就没好过。等我有些适应了，十月到了，夏令时结束了。
 
 ;0xD3340AE3=I will finish this eagle origami if it is the last thing I do!  Then im going to hit the bottle.  
-0xD3340AE3=
+0xD3340AE3=我会折出这只老鹰的，一定会的！折完就去狂饮。
 
 ;0x1BBCFAB3=So much guilt hanging over me.  
-0x1BBCFAB3=
+0x1BBCFAB3=我真是罪孽深重啊。
 
 ;0xBEF0C12A=UPDATED - 18 DAYS AGO
-0xBEF0C12A=
+0xBEF0C12A=发表于 18 天前
 
 ;0xA933D96D=I knew it was going to be a good day as soon as I laid that ghost turd this morning.  Nothing lifts your spirits quite like wiping your ass and finding the paper clean.  I think it was part of my soul leaving my body.  
-0xA933D96D=
+0xA933D96D=今早拉了泡空气屎，当时我就知道今天要走大运了。擦完屁股发现纸上干干净净，太让人精神了。可能是我的部分灵魂脱离肉体了吧。
 
 ;0xDADA1816=Then someone finally replied to my fantasy post about wanting to eat raw eaglets off the body of a narcoleptic naked chick.  It seems that I am not alone in my perversioon!  There's even a name for it: Nyotaimori.  Just need to track down some clamps now.  
-0xDADA1816=
+0xDADA1816=然后终于有人回我的幻想帖了，我想吃摆在静止裸女身上的生老鹰。有这种癖好的还不止我一个人！甚至还有专门的名字：女体盛宴。该好好研究一下了。
 
 ;0xDB55FA6A=I wrote to Jez Torrent again earlier.  That's the eighth letter this month.  I feel like if we could just meet, just speak for a few minutes he would see how similar we are.  I feel that we are somehow locked into the same vibe, that our destinies are intertwined.  Maybe we could live together.  Anything to get out of this house.  
-0xDB55FA6A=
+0xDB55FA6A=我又给Jez Torrent写了封信，已经是这个月第八封了。真想和他见上一面，聊上几分钟，他就会知道我俩有多么相似吧。感觉我们都困在了同一种环境里，命运盘根错节。也许我们可以同居。只要我不用住在这儿就行。
 
 ;0xA306459D=I've decided to try to make amends with all the people that I've harmed.  I apologized to the postman for the crossbow incident last week and I am going to give my sister a call later today.  Ever since she found those pictures of rotting people on my computer we've drifted apart.  
-0xA306459D=
+0xA306459D=我已经决定了，要向所有伤害过的人赔罪。我已经和上周被我用十字弓打到的邮差道歉了，待会儿再给姐姐打个电话吧。被她找到我电脑上的重口尸体照片后，我们就断了联系。
 
 ;0xF0C2E750=Also got a new job at the print shop down the street.  Things are looking up!  Finally I will be able to make money. Getting the ink the right color of green is a bitch though.    
-0xF0C2E750=
+0xF0C2E750=今天还找到了新工作，在街那边的印刷厂。好起来了！我终于能赚钱了。就是想用墨水印出正确的绿色有点烦人。
 
 ;0x29BCC08B=UPDATED - 19 DAYS AGO
-0x29BCC08B=
+0x29BCC08B=发表于 19 天前
 
 ;0xC65F6A8D=I'm back.  I don't know if anyone reads my blog.  I don't really care.  It's better than sitting alone in my room eating my scabs.  
-0xC65F6A8D=
+0xC65F6A8D=我回来了。不知道有没有人在看我的博客。不过我也不在乎。写博客总比一个人在房间里咬伤疤好点。
 
 ;0x9862258A=I've had this terrible fear all morning that I'm actually mentally ill but nobody has told me yet and everyone is just trying to act normal around me.  I really need to get some sleep.  
-0x9862258A=
+0x9862258A=今早我一直处在恐慌之中，怀疑会不会自己有精神病，但身边的人都不告诉我，还尽量把我当成正常人对待。我得好好睡一觉了。
 
 ;0x80BD9435=I've been calling SaveACent every ten minutes about this freaking kettle but I keep getting an automated message about my query being important to them.  Its driving me insane.  
-0x80BD9435=
+0x80BD9435=我隔十分钟就给SaveACent的售后打电话，说这个破水壶的事，但电话那头永远是预录的消息，说我的问题非常重要。我要疯了。
 
 ;0x02D457E9=Oh i almost forgot!  I bought a ferret off 
-0x02D457E9=
+0x02D457E9=噢，差点忘了！我从
 
 ;0x37D143C5=Craplist
 0x37D143C5=
 
 ;0xD26E6143=!  Paid $30 for the skinny little fucker.  I already hate it.  Hope that it eats instant noodles.  
-0xD26E6143=
+0xD26E6143=买了一只雪貂！这只皮包骨头的小玩意要了我$30。它已经讨厌起来了。希望它能吃方便面。
 
 ;0x49A91514=I'm going to go hack up a lung.  
-0x49A91514=
-
-;0x63A064A0=(PREVIOUS POSTS)
-0x63A064A0=
+0x49A91514=肺都要咳出来了。
 
 ;0xA4647A74=(NEXT POSTS)
-0xA4647A74=
+0xA4647A74=(上一页)
 
