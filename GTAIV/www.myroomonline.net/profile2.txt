@@ -1,116 +1,44 @@
-﻿;0x04E72159=Username:
-0x04E72159=
-
-;0xF34781A0=damagedwisd0m
-0xF34781A0=
-
-;0xD0F33C72=Age:
-0xD0F33C72=
-
-;0xC456436E=Gender:
-0xC456436E=
-
-;0x928EF299=female
+﻿;0x928EF299=female
 0x928EF299=
-
-;0x1522FED4=Hometown:
-0x1522FED4=
 
 ;0xFD66976D=Montgomery, Red County
 0xFD66976D=
 
-;0xF5AF3FFB=Relationship Status:
-0xF5AF3FFB=
-
 ;0x7F2346E9=single
 0x7F2346E9=
-
-;0xA83327DE=Here for: 
-0xA83327DE=
 
 ;0xEC14C35C=to talk to the world
 0xEC14C35C=
 
-;0x3F398D1F=Profession:
-0x3F398D1F=
-
 ;0x00313120=student
 0x00313120=
-
-;0x837868DF=Likes:
-0x837868DF=
 
 ;0xC5DDFEFF=books, chocolate, politics, cheese
 0xC5DDFEFF=
 
-;0xC962002D=Dislikes:
-0xC962002D=
-
 ;0xF10F097C=everybody in my school, sluts, my life
 0xF10F097C=
-
-;0x80983B99=Strengths:
-0x80983B99=
 
 ;0x406D7DEC=intelligence, maturity beyond my years
 0x406D7DEC=
 
-;0xE51189B4=Weaknesses:
-0xE51189B4=
-
 ;0xC0EDD420=eating too much cheese, social interaction
 0xC0EDD420=
-
-;0x834639B4=Best Physical Feature: 
-0x834639B4=
 
 ;0x04187FA9=hands
 0x04187FA9=
 
-;0x918E3581=Drink of choice:
-0x918E3581=
-
 ;0x8C6B1256=Milkshake with butter
 0x8C6B1256=
-
-;0x91683F03=Drug of choice:
-0x91683F03=
 
 ;0xEA27458C=don't do drugs like the rest of the LOSERS in my school
 0xEA27458C=
 
-;0x8B390C71=Weapon of choice:
-0x8B390C71=
-
 ;0xEBE1EB62=biting sarcasm
 0xEBE1EB62=
 
-;0x34F1F1A1=Shaved or natural?
-0x34F1F1A1=
-
-;0xBBC9BBBD=Shower or grower?
-0xBBC9BBBD=
-
-;0x26BF8E02=Do you have a nickname for your genitals?
-0x26BF8E02=
-
 ;0x23380584=DISGUSTING!!!!
 0x23380584=
-
-;0x23380584=DISGUSTING!!!!
-0x23380584=
-
-;0x23380584=DISGUSTING!!!!
-0x23380584=
-
-;0x542F5FC0=How many sexual partners have you had?
-0x542F5FC0=
-
-;0x82D4E616=When did you last have sex?
-0x82D4E616=
-
-;0x1EE80A40=How often do you masturbate? 
-0x1EE80A40=
 
 ;0x3197E112=None.  Have you seen me?
 0x3197E112=
@@ -121,26 +49,11 @@
 ;0x66C58C19=never. Mom say ill go to hell if I do
 0x66C58C19=
 
-;0x3B8B80E7=Ever had sex with anything not human?  
-0x3B8B80E7=
-
-;0x2C1E4D92=One word to describe you:
-0x2C1E4D92=
-
-;0x4683E37A=What makes you happy?  
-0x4683E37A=
-
-;0x23380584=DISGUSTING!!!!
-0x23380584=
-
 ;0xD5B9D33F=perspicacious
 0xD5B9D33F=
 
 ;0x3D8C033E=blogging
 0x3D8C033E=
-
-;0xA20926C3=Finish this sentence. "I wish...
-0xA20926C3=
 
 ;0x5573F634=I wasn't such a hideous beast
 0x5573F634=
@@ -184,9 +97,6 @@
 ;0x7B0F81E9=try a fucking salad for once in your life
 0x7B0F81E9=
 
-;0xA1B689C1=pervertedconundrum
-0xA1B689C1=
-
 ;0xD44A1A9D=Comment my pix, you bitch!!!
 0xD44A1A9D=
 
@@ -220,9 +130,6 @@
 ;0xEDFDA3A3=need another girl 4 tuna melt u interested?
 0xEDFDA3A3=
 
-;0xCD491DAF=festerrot99
-0xCD491DAF=
-
 ;0x99CA5B99=R u made of cookie dough
 0x99CA5B99=
 
@@ -231,9 +138,6 @@
 
 ;0x6CD92E18=Im touching myself
 0x6CD92E18=
-
-;0xA1B689C1=pervertedconundrum
-0xA1B689C1=
 
 ;0xF40839DE=New pix!!   TELL ME WAT U THINK!!!!
 0xF40839DE=

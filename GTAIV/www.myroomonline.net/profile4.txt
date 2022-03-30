@@ -1,62 +1,23 @@
-﻿;0x04E72159=Username:
-0x04E72159=
-
-;0xE04C0F06=flaptickler
-0xE04C0F06=
-
-;0xD0F33C72=Age:
-0xD0F33C72=
-
-;0xC456436E=Gender:
-0xC456436E=
-
-;0xE19D9FD0=male
-0xE19D9FD0=
-
-;0x1522FED4=Hometown:
-0x1522FED4=
-
-;0x4370B206=Fort Carson
+﻿;0x4370B206=Fort Carson
 0x4370B206=
-
-;0xF5AF3FFB=Relationship Status:
-0xF5AF3FFB=
 
 ;0x90CE9EBB=in a domestic dispute
 0x90CE9EBB=
 
-;0xA83327DE=Here for: 
-0xA83327DE=
-
 ;0x01BE40AC=to make frends
 0x01BE40AC=
-
-;0x3F398D1F=Profession:
-0x3F398D1F=
 
 ;0xA32E3479=I drive an icecream truck
 0xA32E3479=
 
-;0x837868DF=Likes:
-0x837868DF=
-
 ;0x32B355A7=dolls, guns, dogfights
 0x32B355A7=
-
-;0xC962002D=Dislikes:
-0xC962002D=
 
 ;0x8F531EA2=kids, real women
 0x8F531EA2=
 
-;0x80983B99=Strengths:
-0x80983B99=
-
 ;0x182B03DF=shooting, stalking, flashing
 0x182B03DF=
-
-;0xE51189B4=Weaknesses:
-0xE51189B4=
 
 ;0xF788B19E=agression, love of violence
 0xF788B19E=
@@ -67,32 +28,14 @@
 ;0x1FF4582E=birthmark shaped like italy
 0x1FF4582E=
 
-;0x918E3581=Drink of choice:
-0x918E3581=
-
 ;0xA25B6C77=beer
 0xA25B6C77=
-
-;0x91683F03=Drug of choice:
-0x91683F03=
 
 ;0xC6C67EC0=weed
 0xC6C67EC0=
 
-;0x8B390C71=Weapon of choice:
-0x8B390C71=
-
 ;0x362D5F7A=pump-action shotgun
 0x362D5F7A=
-
-;0x34F1F1A1=Shaved or natural?
-0x34F1F1A1=
-
-;0xBBC9BBBD=Shower or grower?
-0xBBC9BBBD=
-
-;0x26BF8E02=Do you have a nickname for your genitals?
-0x26BF8E02=
 
 ;0xCDDB2661=whole body is shaved
 0xCDDB2661=
@@ -103,15 +46,6 @@
 ;0xA01BEE74=percy
 0xA01BEE74=
 
-;0x542F5FC0=How many sexual partners have you had?
-0x542F5FC0=
-
-;0x82D4E616=When did you last have sex?
-0x82D4E616=
-
-;0x1EE80A40=How often do you masturbate? 
-0x1EE80A40=
-
 ;0x076F40AE=212 prostitutes, 1 doll
 0x076F40AE=
 
@@ -121,15 +55,6 @@
 ;0x20A5392D=no need.  I just fuck my doll
 0x20A5392D=
 
-;0x3B8B80E7=Ever had sex with anything not human?  
-0x3B8B80E7=
-
-;0x2C1E4D92=One word to describe you:
-0x2C1E4D92=
-
-;0x4683E37A=What makes you happy?  
-0x4683E37A=
-
 ;0x2DA822EE=sex with helga is better than any human
 0x2DA822EE=
 
@@ -138,9 +63,6 @@
 
 ;0x1E87C884=shooting guns and fucking my doll
 0x1E87C884=
-
-;0xA20926C3=Finish this sentence. "I wish...
-0xA20926C3=
 
 ;0x02C45FE9=was allowed to marry my doll
 0x02C45FE9=

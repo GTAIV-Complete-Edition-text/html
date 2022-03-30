@@ -1,11 +1,5 @@
-﻿;0x34F1F1A1=Shaved or natural?
-0x34F1F1A1=
-
-;0x721E51FA=all ma bitchz rock shaven havenz
+﻿;0x721E51FA=all ma bitchz rock shaven havenz
 0x721E51FA=
-
-;0xBBC9BBBD=Shower or grower?
-0xBBC9BBBD=
 
 ;0x58F45C7C=BOTH!!!!!  4 real ladeez
 0x58F45C7C=
@@ -16,131 +10,59 @@
 ;0x26989AD1=50+
 0x26989AD1=
 
-;0x82D4E616=When did you last have sex?
-0x82D4E616=
-
 ;0xC62DB7BF=last night all night baby!!!
 0xC62DB7BF=
-
-;0xD83734E0=How often do you masturbate?
-0xD83734E0=
 
 ;0x19141483=only wen I don't got a bitch 
 0x19141483=
 
-;0x7CB22A0F=Ever had sex with anything not human?
-0x7CB22A0F=
-
 ;0xE67DB3F7=fuck u.  Don't come at me with that shit.
 0xE67DB3F7=
-
-;0x2C1E4D92=One word to describe you:
-0x2C1E4D92=
 
 ;0xA8E50B26=playa
 0xA8E50B26=
 
-;0xCC6DA7EA=What makes you happy?
-0xCC6DA7EA=
-
 ;0xDED818F1=chillin wit my souljahs and blazin a tree
 0xDED818F1=
-
-;0x04E72159=Username:
-0x04E72159=
-
-;0xD66D0166=pimpdog1620
-0xD66D0166=
-
-;0xD0F33C72=Age:
-0xD0F33C72=
-
-;0xC456436E=Gender:
-0xC456436E=
-
-;0xE19D9FD0=male
-0xE19D9FD0=
-
-;0x1522FED4=Hometown:
-0x1522FED4=
 
 ;0x2FD5AA0E=Lancaster, Liberty City
 0x2FD5AA0E=
 
-;0xF5AF3FFB=Relationship Status:
-0xF5AF3FFB=
-
 ;0x289FF6CF=SINGLE!!!!!!
 0x289FF6CF=
-
-;0xA83327DE=Here for: 
-0xA83327DE=
 
 ;0x0E7D8F0B=bitchz
 0x0E7D8F0B=
 
-;0x3F398D1F=Profession:
-0x3F398D1F=
-
 ;0x0389A07C=gangsta
 0x0389A07C=
-
-;0x837868DF=Likes:
-0x837868DF=
 
 ;0x2CDD55A2=ladeez, ringtonez, rap, hardcore, havin a gd time, gettin wasted with my boyz, wearin all ma bling
 0x2CDD55A2=
 
-;0xC962002D=Dislikes:
-0xC962002D=
-
 ;0xB5405907=goin 2 private school, muthafuckas cockblockin me, hippies, people frontin in ma hood, books r 4 losers
 0xB5405907=
-
-;0x80983B99=Strengths:
-0x80983B99=
 
 ;0x0B71EE3C=rollin, pimpin
 0x0B71EE3C=
 
-;0xE51189B4=Weaknesses:
-0xE51189B4=
-
 ;0x7E24E1E1=fuckin people up who mess with me
 0x7E24E1E1=
-
-;0x834639B4=Best Physical Feature: 
-0x834639B4=
 
 ;0xA32E909A=ma trouser snake!
 0xA32E909A=
 
-;0x918E3581=Drink of choice:
-0x918E3581=
-
 ;0xD8DF2316=cognac
 0xD8DF2316=
-
-;0x91683F03=Drug of choice:
-0x91683F03=
 
 ;0xB63978D5=skunk
 0xB63978D5=
 
-;0x8B390C71=Weapon of choice:
-0x8B390C71=
-
 ;0xF40B2A0B=semiautomatic handgun
 0xF40B2A0B=
 
-;0x26BF8E02=Do you have a nickname for your genitals?
-0x26BF8E02=
-
 ;0x13D07CFC=captain winkie
 0x13D07CFC=
-
-;0xC0AE519F=Finish this sentence. I wish:
-0xC0AE519F=
 
 ;0xE3F9A96C=I wasn't white and my dad wasn't a investment banker
 0xE3F9A96C=

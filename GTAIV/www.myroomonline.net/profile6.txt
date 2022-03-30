@@ -1,101 +1,44 @@
-﻿;0x04E72159=Username:
-0x04E72159=
-
-;0x459AF025=xtrajuicychick69
-0x459AF025=
-
-;0xD0F33C72=Age:
-0xD0F33C72=
-
-;0x75BA8423=16 I mean 18
+﻿;0x75BA8423=16 I mean 18
 0x75BA8423=
-
-;0xC456436E=Gender:
-0xC456436E=
 
 ;0x228181C3=Girl
 0x228181C3=
 
-;0x1522FED4=Hometown:
-0x1522FED4=
-
 ;0x81C941D4=Broker
 0x81C941D4=
-
-;0xF5AF3FFB=Relationship Status:
-0xF5AF3FFB=
 
 ;0xF1776509=Single
 0xF1776509=
 
-;0xA83327DE=Here for: 
-0xA83327DE=
-
 ;0x385AA2A2=Boys
 0x385AA2A2=
-
-;0x3F398D1F=Profession:
-0x3F398D1F=
 
 ;0x14ED354D=Accountant
 0x14ED354D=
 
-;0x837868DF=Likes:
-0x837868DF=
-
 ;0x0D100F41=cheerleading, gymnastics, jerking off
 0x0D100F41=
-
-;0xC962002D=Dislikes:
-0xC962002D=
 
 ;0x3A629B96=boys over 15, boys with too much bodyhair
 0x3A629B96=
 
-;0x80983B99=Strengths:
-0x80983B99=
-
 ;0x7FCA70C9=blowjobs, firsttimers, exhibitionism
 0x7FCA70C9=
-
-;0xE51189B4=Weaknesses:
-0xE51189B4=
 
 ;0xFEDE225B=sex on the first date
 0xFEDE225B=
 
-;0x834639B4=Best Physical Feature: 
-0x834639B4=
-
 ;0x4FA99F78=perfect tits and ass
 0x4FA99F78=
-
-;0x918E3581=Drink of choice:
-0x918E3581=
 
 ;0x93413B94=Wine
 0x93413B94=
 
-;0x91683F03=Drug of choice:
-0x91683F03=
-
 ;0xA863C494=prescription meds
 0xA863C494=
 
-;0x8B390C71=Weapon of choice:
-0x8B390C71=
-
 ;0x99DEE9A0=My period
 0x99DEE9A0=
-
-;0x34F1F1A1=Shaved or natural?
-0x34F1F1A1=
-
-;0xBBC9BBBD=Shower or grower?
-0xBBC9BBBD=
-
-;0x26BF8E02=Do you have a nickname for your genitals?
-0x26BF8E02=
 
 ;0xF8118802=not a hair in sight!
 0xF8118802=
@@ -106,15 +49,6 @@
 ;0xA9A5A611=Stinky
 0xA9A5A611=
 
-;0x542F5FC0=How many sexual partners have you had?
-0x542F5FC0=
-
-;0x82D4E616=When did you last have sex?
-0x82D4E616=
-
-;0x1EE80A40=How often do you masturbate? 
-0x1EE80A40=
-
 ;0xC0543E8D=enough to know what I like
 0xC0543E8D=
 
@@ -123,15 +57,6 @@
 
 ;0x23C20438=im masturbating right now
 0x23C20438=
-
-;0x3B8B80E7=Ever had sex with anything not human?  
-0x3B8B80E7=
-
-;0x2C1E4D92=One word to describe you:
-0x2C1E4D92=
-
-;0x4683E37A=What makes you happy?  
-0x4683E37A=
 
 ;0xDF69BDD7=wide range of household 
 0xDF69BDD7=
@@ -144,9 +69,6 @@
 
 ;0x12852194=wild sex with pretty young boys
 0x12852194=
-
-;0xA20926C3=Finish this sentence. "I wish...
-0xA20926C3=
 
 ;0xF7D4669D=I wasn't so horny all the time
 0xF7D4669D=
@@ -189,9 +111,6 @@
 
 ;0x153F5A73=R u a fed?
 0x153F5A73=
-
-;0xB4D03942=lilfrancis4real
-0xB4D03942=
 
 ;0x06D138BD=damn girl u got it goin on from hed to toe!  wanna hook up?  lil francis.
 0x06D138BD=

@@ -1,20 +1,5 @@
-﻿;0x34F1F1A1=Shaved or natural?
-0x34F1F1A1=
-
-;0xDFBAA916=natural
-0xDFBAA916=
-
-;0xBBC9BBBD=Shower or grower?
-0xBBC9BBBD=
-
-;0x79DB7A01=N/A
+﻿;0x79DB7A01=N/A
 0x79DB7A01=
-
-;0x542F5FC0=How many sexual partners have you had?
-0x542F5FC0=
-
-;0x82D4E616=When did you last have sex?
-0x82D4E616=
 
 ;0x4C99157B=yesterday in the graveyard with Dunkan
 0x4C99157B=
@@ -31,9 +16,6 @@
 ;0x1AE310FF=Dunkan the Morbid is not from the human world
 0x1AE310FF=
 
-;0x2C1E4D92=One word to describe you:
-0x2C1E4D92=
-
 ;0xD385707E=melancholic
 0xD385707E=
 
@@ -43,95 +25,38 @@
 ;0x41CEA891=painting, playing in my band, sucking Dunkans open wounds
 0x41CEA891=
 
-;0x04E72159=Username:
-0x04E72159=
-
-;0xF44E9FC7=ravenvamp11
-0xF44E9FC7=
-
-;0xD0F33C72=Age:
-0xD0F33C72=
-
-;0xC456436E=Gender:
-0xC456436E=
-
-;0x928EF299=female
-0x928EF299=
-
-;0x1522FED4=Hometown:
-0x1522FED4=
-
 ;0x885137AB=liberty city
 0x885137AB=
-
-;0xF5AF3FFB=Relationship Status:
-0xF5AF3FFB=
 
 ;0x6CF9F9A3=in a relationship 
 0x6CF9F9A3=
 
-;0xA83327DE=Here for: 
-0xA83327DE=
-
 ;0xFC7E9B95=enlightenment
 0xFC7E9B95=
-
-;0x3F398D1F=Profession:
-0x3F398D1F=
-
-;0x00313120=student
-0x00313120=
-
-;0x837868DF=Likes:
-0x837868DF=
 
 ;0x9E0A627A=Celtic music, Trance Opera, Industrial Synthpop, Epsilon, Corsets, White Lace, Pewter, Coffins
 0x9E0A627A=
 
-;0xC962002D=Dislikes:
-0xC962002D=
-
 ;0xE82F10E6=food, parents, people who don't understand vampyres
 0xE82F10E6=
-
-;0x80983B99=Strengths:
-0x80983B99=
 
 ;0x46B7ADDD=music, art, hiding tattoos from my mom
 0x46B7ADDD=
 
-;0xE51189B4=Weaknesses:
-0xE51189B4=
-
 ;0xABD6B7EA=too fat
 0xABD6B7EA=
-
-;0x834639B4=Best Physical Feature: 
-0x834639B4=
 
 ;0x2D2BDDD2=ribcage
 0x2D2BDDD2=
 
-;0x918E3581=Drink of choice:
-0x918E3581=
-
 ;0xEDEEAD07=blood
 0xEDEEAD07=
-
-;0x91683F03=Drug of choice:
-0x91683F03=
 
 ;0x00ABE870=laxatives
 0x00ABE870=
 
-;0x8B390C71=Weapon of choice:
-0x8B390C71=
-
 ;0xC944EA21=teeth
 0xC944EA21=
-
-;0x26BF8E02=Do you have a nickname for your genitals?
-0x26BF8E02=
 
 ;0x6BE59F0B=whisker biscuit
 0x6BE59F0B=
@@ -175,9 +100,6 @@
 ;0x0F03186E=ADD ME????
 0x0F03186E=
 
-;0x29219F91=chinacoffin
-0x29219F91=
-
 ;0x557FE364=I luv ur pic u better post a cmmnt back on my page!!
 0x557FE364=
 
@@ -217,9 +139,6 @@
 ;0xE1267EF2=Ur hott want some IM sex?
 0xE1267EF2=
 
-;0x1621BFBD=wantonhorde7
-0x1621BFBD=
-
 ;0xCC4D44F4=why did you snub me at school today?  Skinny bitch.
 0xCC4D44F4=
 
@@ -227,5 +146,5 @@
 0x49F8B3E2=
 
 ;0x4D802D79=show me ur pu55y
-0x4D802D79=
+0x4D802D79=看看批
 

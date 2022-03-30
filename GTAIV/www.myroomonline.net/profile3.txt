@@ -1,20 +1,8 @@
-﻿;0x34F1F1A1=Shaved or natural?
-0x34F1F1A1=
-
-;0xBBC9BBBD=Shower or grower?
-0xBBC9BBBD=
-
-;0xDFBAA916=natural
+﻿;0xDFBAA916=natural
 0xDFBAA916=
 
 ;0x8A98950A=shower, I think
 0x8A98950A=
-
-;0x26BF8E02=Do you have a nickname for your genitals?
-0x26BF8E02=
-
-;0x542F5FC0=How many sexual partners have you had?
-0x542F5FC0=
 
 ;0x7CCAA77C=Deafy
 0x7CCAA77C=
@@ -22,23 +10,11 @@
 ;0xC9849F39=one and I will never be with another
 0xC9849F39=
 
-;0x82D4E616=When did you last have sex?
-0x82D4E616=
-
-;0x1EE80A40=How often do you masturbate? 
-0x1EE80A40=
-
 ;0xB0608CAC=I don't have sex I make love and cry
 0xB0608CAC=
 
 ;0x1BD095D6=whenever I cry
 0x1BD095D6=
-
-;0x3B8B80E7=Ever had sex with anything not human?  
-0x3B8B80E7=
-
-;0x2C1E4D92=One word to describe you:
-0x2C1E4D92=
 
 ;0xC1B955B7=once with a sea bass
 0xC1B955B7=
@@ -46,101 +22,47 @@
 ;0xA2BD2F4F=sensitive
 0xA2BD2F4F=
 
-;0x4683E37A=What makes you happy?  
-0x4683E37A=
-
-;0xA20926C3=Finish this sentence. "I wish...
-0xA20926C3=
-
 ;0xF266B2B9=cutting myself
 0xF266B2B9=
 
 ;0x46EA3F73=that one day people will get me
 0x46EA3F73=
 
-;0x04E72159=Username:
-0x04E72159=
-
-;0x1A2666C1=blackfrost5
-0x1A2666C1=
-
-;0xD0F33C72=Age:
-0xD0F33C72=
-
-;0xC456436E=Gender:
-0xC456436E=
-
 ;0xE19D9FD0=male
 0xE19D9FD0=
-
-;0x1522FED4=Hometown:
-0x1522FED4=
 
 ;0x3EB137E5=Alderney
 0x3EB137E5=
 
-;0xF5AF3FFB=Relationship Status:
-0xF5AF3FFB=
-
 ;0x1F050D34=broken-hearted
 0x1F050D34=
-
-;0xA83327DE=Here for: 
-0xA83327DE=
 
 ;0x3110C38B=acceptance, a voice
 0x3110C38B=
 
-;0x3F398D1F=Profession:
-0x3F398D1F=
-
 ;0xBE264805=art school student
 0xBE264805=
-
-;0x837868DF=Likes:
-0x837868DF=
 
 ;0x537A119B=tight pants, poetry, self-mutilation, piercings, playing with mom's makeup, death
 0x537A119B=
 
-;0xC962002D=Dislikes:
-0xC962002D=
-
 ;0x98733266=jocks, mainstream shit, meat, capitalism
 0x98733266=
-
-;0x80983B99=Strengths:
-0x80983B99=
 
 ;0x52BC47EB=in touch with emotions
 0x52BC47EB=
 
-;0xE51189B4=Weaknesses:
-0xE51189B4=
-
 ;0x3F5784D9=drug problem, punching walls, sterile 
 0x3F5784D9=
-
-;0x834639B4=Best Physical Feature: 
-0x834639B4=
 
 ;0x0046AA62=eyelashes
 0x0046AA62=
 
-;0x918E3581=Drink of choice:
-0x918E3581=
-
 ;0xA2AF1C3E=wheatgrass juice
 0xA2AF1C3E=
 
-;0x91683F03=Drug of choice:
-0x91683F03=
-
 ;0x6FF74317=weed, mushrooms
 0x6FF74317=
-
-;0x8B390C71=Weapon of choice:
-0x8B390C71=
 
 ;0x498C7C78=Faust
 0x498C7C78=
@@ -217,9 +139,6 @@
 ;0xFB4613C8=How cud u remove me as a frend?  I thought we wer solemates!!
 0xFB4613C8=
 
-;0xD984568C=fatedsongstress04
-0xD984568C=
-
 ;0x8DCB5E62=I luv ur poetry, it touches my heart deeply.  I thought I was the only 1 who felt so alienated and cut of from the rest of the world.  Ur destined to be famus, but prob not in ur own life time
 0x8DCB5E62=
 
@@ -258,9 +177,6 @@
 
 ;0x8FE76190=Got a younger brother?
 0x8FE76190=
-
-;0xDE63C6E0=spongyveteran2
-0xDE63C6E0=
 
 ;0xDBFBDA82=thanks for the add!!! dave xxx
 0xDBFBDA82=

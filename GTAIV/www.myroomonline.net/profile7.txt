@@ -1,20 +1,8 @@
-﻿;0x34F1F1A1=Shaved or natural?
-0x34F1F1A1=
-
-;0xBBC9BBBD=Shower or grower?
-0xBBC9BBBD=
-
-;0x1E3326BF=NO NO NO NO NO NO NO NO
+﻿;0x1E3326BF=NO NO NO NO NO NO NO NO
 0x1E3326BF=
 
 ;0x69215E41=Eddie shows his pickle to lots of people
 0x69215E41=
-
-;0x82D4E616=When did you last have sex?
-0x82D4E616=
-
-;0x1EE80A40=How often do you masturbate? 
-0x1EE80A40=
 
 ;0xE521AF15=with a hitchhiker this morning
 0xE521AF15=
@@ -22,23 +10,11 @@
 ;0x3FB0813A=every ten minutes
 0x3FB0813A=
 
-;0x3B8B80E7=Ever had sex with anything not human?  
-0x3B8B80E7=
-
-;0x2C1E4D92=One word to describe you:
-0x2C1E4D92=
-
 ;0x36776572=Eddie will have sex with anything
 0x36776572=
 
 ;0x344336CB=Unhinged
 0x344336CB=
-
-;0x4683E37A=What makes you happy?  
-0x4683E37A=
-
-;0xA20926C3=Finish this sentence. "I wish...
-0xA20926C3=
 
 ;0x318C56F2=Eddie feels nothing
 0x318C56F2=
@@ -46,101 +22,47 @@
 ;0x81693024=I could have married my mommy
 0x81693024=
 
-;0x04E72159=Username:
-0x04E72159=
-
-;0x6B74489D=eddielowfilthslayer
-0x6B74489D=
-
-;0xD0F33C72=Age:
-0xD0F33C72=
-
-;0xC456436E=Gender:
-0xC456436E=
-
 ;0x607B15E7=god 
 0x607B15E7=
-
-;0x1522FED4=Hometown:
-0x1522FED4=
 
 ;0xAAF929AC=everywhere and nowhere
 0xAAF929AC=
 
-;0xF5AF3FFB=Relationship Status:
-0xF5AF3FFB=
-
 ;0xF2115EC2=lonely
 0xF2115EC2=
-
-;0xA83327DE=Here for: 
-0xA83327DE=
 
 ;0x5E1ABB57=self-promotion
 0x5E1ABB57=
 
-;0x3F398D1F=Profession:
-0x3F398D1F=
-
 ;0x1241BAAC=street cleaner
 0x1241BAAC=
-
-;0x837868DF=Likes:
-0x837868DF=
 
 ;0x9FD0A789=pain, human suffering, mind games, wearing silk panties, surgical masks
 0x9FD0A789=
 
-;0xC962002D=Dislikes:
-0xC962002D=
-
 ;0xAF5CD0C6=complacency, cops, when people take a long time to burn
 0xAF5CD0C6=
-
-;0x80983B99=Strengths:
-0x80983B99=
 
 ;0xB8E94418=fileting, skinning, embalming
 0xB8E94418=
 
-;0xE51189B4=Weaknesses:
-0xE51189B4=
-
 ;0xADA7AFDB=none
 0xADA7AFDB=
-
-;0x834639B4=Best Physical Feature: 
-0x834639B4=
 
 ;0x43EDBC4B=eyes
 0x43EDBC4B=
 
-;0x918E3581=Drink of choice:
-0x918E3581=
-
 ;0x63FFC344=spinal fluid
 0x63FFC344=
-
-;0x91683F03=Drug of choice:
-0x91683F03=
 
 ;0x594FEE7C=pcp
 0x594FEE7C=
 
-;0x8B390C71=Weapon of choice:
-0x8B390C71=
-
 ;0xCCE3579E=can't decide
 0xCCE3579E=
 
-;0x26BF8E02=Do you have a nickname for your genitals?
-0x26BF8E02=
-
 ;0xEB243E27=Daddy's little cigar
 0xEB243E27=
-
-;0x542F5FC0=How many sexual partners have you had?
-0x542F5FC0=
 
 ;0xFEBA4FE4=tens or hundreds - depends if dead people count
 0xFEBA4FE4=
