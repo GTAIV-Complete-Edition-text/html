@@ -2,34 +2,34 @@
 0x20A25F9E=进化于此停止，狂欢在此开始！
 
 ;0x3D71D37D=Algonquin's premier club venue for relentless party tunes
-0x3D71D37D=Algonquin顶级的夜店，有永不停息的派对、音乐
+0x3D71D37D=Algonquin的顶级夜店，有永不停息的派对、音乐
 
 ;0xE44B8B24=and fist-pumping steroid beats.
 0xE44B8B24=和最上头的类固醇。
 
 ;0xE3121CEB=Bahama Mamas is no longer a gentlemen's club. After so many nights of happy endings, it was only a matter of time before one came to an unhappy end with a visit from the Vice Squad. Since losing our license, Bahama Mamas has reopened as a top quality VIP dance club.
-0xE3121CEB=巴哈马妈妈不是高雅人士的场所。顺利营业这么久以来，我们得出结论：只要警察不来抓嫖和缉毒，嗨到什么时候只是时间问题罢了。营业执照被没收后，巴哈马妈妈重新开张，现在已经是高品质的贵宾级舞厅了。
+0xE3121CEB=巴哈马妈妈已不再是绅士俱乐部。在为来宾提供了一夜又一夜的特殊服务以后，被扫黄大队突击服务只是时间问题。营业执照被没收后，巴哈马妈妈重新开张，现以高品质的贵宾级舞厅呈现。
 
 ;0xC3BF9589=Middle-aged, married men, please take note.
 0xC3BF9589=中年人士和已婚人士，请注意：
 
 ;0xBCE8C615=YOU WILL NOT BE ALLOWED IN.
-0xBCE8C615=不 许 进 入
+0xBCE8C615=不　得　入　内
 
 ;0xCD0798C7=Unless you order triple bottle service with sparklers in.
-0xCD0798C7=除非订购三倍的酒吧烟花。
+0xCD0798C7=购买了附带烟花的三重存酒服务的客户除外。
 
 ;0x5272DC48=Coming soon!
 0x5272DC48=即将开通！
 
 ;0x45F0191E=Free shuttle bus service to Alderney.
-0x45F0191E=到达Alderney的免费公交专线即将运行。
+0x45F0191E=往返Alderney的免费接驳巴士
 
 ;0x06CFD291=Age limit: 21 and over.
-0x06CFD291=本店年龄限制：21岁及以上
+0x06CFD291=准入年龄：21岁及以上
 
 ;0xA18C270D=All men and ugly girls WILL be carded.
-0xA18C270D=所有男士和长得丑的女士需要出示证件。
+0xA18C270D=所有男士和长得丑的女士需要出示身份证件。
 
 ;0xDBF5ED90=Strict no smoking policy!
 0xDBF5ED90=本店严禁吸烟！
@@ -41,80 +41,80 @@
 0x6F888E8D=男士着装规定：
 
 ;0xC8CBF97D=Tight t-shirt/wifebeater/striped shirt, ideally with large patterns of dragons etc and with popped collar unbuttoned to the waist, ripped jeans, deep orange tan, heavily-gelled hair (spiked, slicked back or fauxhawked), pointy sideburns, plucked eyebrows, earring, gold chain, sunglasses, colored contacts, cigarette behind the ear, lots of cologne, laughable machismo.
-0xC8CBF97D=穿紧身的T恤衫/汗衫/条纹衬衫，配有大面积类似龙这样的图案更好。立起领子，腰部不扣钮扣，牛仔裤要破洞的，棕褐色大油头（尖头、大背头、鸡冠头都可以），尖鬓角；眉毛要修，戴耳环、金链子、墨镜和美瞳，烟夹在耳朵上，喷多点香水，拿出你那逗逼男人样。
+0xC8CBF97D=紧身的短袖/背心/条纹衬衫，配有大面积类似龙这样的图案更好。立领，腰部不扣钮扣，破洞牛仔裤，美黑皮肤，需要大量发胶的发型(刺猬头、大背头、鸡冠头均可)，尖鬓角，眉毛要修，耳环，金链子，墨镜，美瞳，烟夹在耳朵上，多喷点香水，好笑的男子气概。
 
 ;0xF02F5E93=Dress Code: Women
 0xF02F5E93=女士着装规定：
 
 ;0x2AF0AB8F=Women can wear what they want, so long as it's small, tight, cheap and slutty. Exposed G-string, fake tits, hair extensions, tramp stamps and massive amounts of eye  makeup and infected belly button piercing preferred.
-0x2AF0AB8F=女士随便穿，够小，够紧，够便宜，够色就行。推荐穿露得多的丁字裤，戴假胸和假发，后腰纹身，化浓眼妆，打脐钉处要看到发炎。
+0x2AF0AB8F=女士随便穿，够露、够紧、够骚、够色就行。推荐：丁字裤外露，隆胸，假发，后腰纹身，化浓眼妆，打脐钉处要看到发炎。
 
 ;0xB47FC836=Don't miss next week's Foam Party!
-0xB47FC836=不要错过下周的酒花派对！
+0xB47FC836=不要错过下周的泡沫派对！
 
 ;0x7227937C=Hundreds of writhing, semi-naked bodies groping each other under six feet of toxic suds. And that's just the men! It's a sexual predator's and repressed  homosexual's paradise. Like every night.
-0x7227937C=有这么一帮半裸着喝高的行尸走肉，在酒海中互相上下摸索。这还只是男的！夜夜如此，这里是强奸犯和寂寞同性恋的天堂。
+0x7227937C=有这么一帮半裸着扭动的家伙，在有毒的肥皂泡中互相摸索。这还只是男的！夜夜如此，这里是性狩猎和寂寞同性恋的天堂。
 
 ;0x18E88F5E=Hands in the air! In residence next month...
-0x18E88F5E=嗨起来吧！下月，他将入驻...
+0x18E88F5E=举起你们的双手！下个月的驻场DJ...
 
 ;0xA80BC6FE=All the way from Belgium, see the legendary
-0xA80BC6FE=看一看远道而来的比利时传奇DJ
+0xA80BC6FE=从比利时远道而来，传说中的
 
 ;0x8586C431=D.J. Frankie Blowout
-0x8586C431=Frankie Blowout
+0x8586C431=DJ Frankie Blowout
 
 ;0xD4840DB4="Big time party time supercool boom boom!"
-0xD4840DB4=「派对时间，火热时间！嗨起来！」
+0xD4840DB4=「派对时间，狂欢时间！超劲爆！砰砰！」
 
 ;0xE83EDF7C=Leap around while pretending to spin a pre-mixed set of banging mega happy disco trance. Massive. Again.
-0xE83EDF7C=跳起来吧，假装已经开始打碟，调好的嗨曲放了起来。
+0xE83EDF7C=跳起来吧，装作打碟，提前调好的迷幻舞曲放了起来。
 
 ;0xDD0ADB6F=Bachelor Parties...
 0xDD0ADB6F=毕业派对...
 
 ;0xF6C747D4=What better way to celebrate your last night of freedom than with 20 other sweating juiceheads dancing  in a circle, punching the air, roaring, feeding into each other's rage? Do it Bahama Mamas style. Pound low-carb beers until dawn, tag-team a high-school student in the restroom then stagger out into the daylight, fake tan streaked down your 6am back stubble, to beat up an ethnic minority or homosexual on your way to the train station. Pre-book now for a night you'll definitely forget. All members of your party will receive a complimentary Guypiranha or Brojito on arrival and a Bahama Mamas gift bag with hairgel, mascara and ketamine.
-0xF6C747D4=比起和20个满头大汗的醉鬼围成圈跳舞，对着空气挥拳大吼泄怒，还有更好的办法来庆祝你最后的自由之夜吗？试试看巴哈马妈妈的玩法吧：狂饮低卡啤酒，和高中生一起去厕所吐上一晚；在下巴涂上假胡茬，去坐地铁的路上看见少数民族或同性恋就揍他一顿。现在订票，嗨上一晚，忘掉从前吧。和你来的伙伴可以免费获得一杯Guypiranha或Brojito，以及一份巴哈马妈妈大礼包，内含啫喱水、睫毛膏和K粉。
+0xF6C747D4=除了和20个满头大汗的醉鬼围成圈跳舞，对着空气挥拳大吼泄怒，还有更好的办法来庆祝你最后的自由之夜吗？试试巴哈马妈妈的玩法吧：狂饮低卡啤酒，去厕所轮着上高中生，在朝阳中摇摇晃晃地出门。6点了，长满毛的背上的美黑膏也条纹斑驳，去坐地铁的路上看见少数族裔或同性恋就揍他一顿。提前预约一个嗨过就忘的晚上吧。一同参加派对的伙伴可以免费获得一杯Guypiranha或Brojito，以及一份巴哈马妈妈大礼包，内含发胶、睫毛膏和K粉。
 
 ;0xB0B57669=Joey, 27, from Leftwood.
 0xB0B57669=Joey，27岁，来自Leftwood。
 
 ;0x69C90097=Check out this hideous hulk of vein-popping leather, throwing up gang signs while pouting like a constipated gorilla with alopecia. Disgustingly unattractive to the vast  majority of the female race, but a god in Alderney, Joey's so orange he should carry a radiation warning and he's done so many roids, he probably hasn't seen his testicles since the late nineties. It's impossible to flex any harder than this. Bet he's already got 1,000 identical photos on his MyRoom page.
-0x69C90097=看看这个大块头丑逼：青筋暴突，打着帮派手势，撅着嘴巴，像个便秘的没毛大猩猩。对于大部分女性来说，他又恶心又没有魅力，但他却是Alderney的神。Joey的肤色太黄了，应该在身上贴个注意辐射的标志。并且，他吃了太多类固醇，可能自从九十年代末他就已经看不到自己的牛子了。看到他大家都觉得自己是个弱鸡。赌一把，他已经在他的MyRoom主页上发了1000张一模一样的照片了。
+0x69C90097=看看这个大块头丑逼：青筋暴突，打着帮派手势，撅着嘴巴，像个便秘的没毛大猩猩。对于大部分女性来说，他既恶心又没有魅力，但他却是Alderney的神。Joey的肤色太黄了，应该在身上贴个注意辐射的标志。而且他用了太多类固醇，多半在九十年代末期就看不到自己的睾丸了。看到他大家都觉得自己是个弱鸡。他一定在MyRoom主页上发了1000张一模一样的照片了。
 
 ;0xC56785B7=Latest Emails:
 0xC56785B7=顾客最新来信
 
 ;0x87F4B97F=Last night was off the motherfucking chain, bro. Xing my face off! Full of underage girls blacked out on shots. Sweet!!!!
-0x87F4B97F=昨晚他妈的玩得挺大，兄弟，太热闹了！操晕了一帮没成年的妹妹，真不错！！！
+0x87F4B97F=昨晚他妈的玩得挺大，兄弟，太热闹了！一帮子喝醉的未成年妹妹，真不错！！！
 
 ;0x71470320=- Donnie from Acter, Alderney.
-0x71470320=————来自Alderney，Acter的Donnie
+0x71470320=－来自Alderney, Acter的Donnie
 
 ;0xA8016CFD=Me and my friends had a great time! Don't remember shit! We're all pregnant!
-0xA8016CFD=我和朋友们玩得很开心！反正啥都不记得了，现在大家都怀孕了！
+0xA8016CFD=我和朋友们玩得很开心！啥都不记得了！大家都怀上了！
 
 ;0x80C81745=- Dina from Port Tudor, Alderney.
-0x80C81745=————来自Alderney，Tudor港的Dina
+0x80C81745=－来自Alderney, Tudor港的Dina
 
 ;0x2D7CC8B7=Bahamas Mamas is  the shizzle. Serious binge drinking, dude! I piledrived some tourist over a urinal then glassed a Mexican kid.  Keeping it real. Westdyke boys 4EVA! We will fuck you up.
-0x2D7CC8B7=巴哈马妈妈太对味了，可以疯狂喝酒，兄弟！我在厕所里面干了一帮游客，然后拿起酒瓶给小老墨开了瓢。这样才对。Westdyke的兄弟万岁！我们要干死你们。
+0x2D7CC8B7=巴哈马妈妈太对味了。可以疯狂喝酒，兄弟！我在小便器上干了一个游客，然后拿起酒瓶给小老墨开了瓢。这样才对。Westdyke的兄弟万岁！我们要干死你们。
 
 ;0xF3710FAC=- K-Dog from Westdyke, Alderney.
-0xF3710FAC=————来自Alderney，Westdyke的K-Dog
+0xF3710FAC=－来自Alderney, Westdyke的K-Dog
 
 ;0xE49100A7=Male Topless Night!
 0xE49100A7=男士光膀之夜！
 
 ;0x5515022C=You've spent all week obsessively working out your arms and chest
-0x5515022C=你周周都在寻思怎么练手臂和胸部的肌肉
+0x5515022C=一整周都在猛练手臂和胸肌
 
 ;0x2F125B11=so why not show them off?
-0x2F125B11=所以为啥不秀出来呢？
+0x2F125B11=何不拿出来秀秀？
 
 ;0xC9CFEC4B=It doesn't get any more hetero than this. Back by popular demand. As if you needed any encouragement...
-0xC9CFEC4B=没有比这更好吸引异性恋的办法了。不负众望，就是给你最好的鼓励。
+0xC9CFEC4B=展现你的异性恋气概吧，这是最好的方法。众望所归的活动。如果你需要一点鼓励...
 
 ;0xE09FC839=Strictly no body hair!
-0xE09FC839=没有体毛的禁止参加！
+0xE09FC839=必须光滑无毛！
 
