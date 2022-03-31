@@ -1,189 +1,189 @@
 ﻿;0xDFBAA916=natural
-0xDFBAA916=
+0xDFBAA916=顺其自然
 
 ;0x8A98950A=shower, I think
-0x8A98950A=
+0x8A98950A=小丁吧
 
 ;0x7CCAA77C=Deafy
 0x7CCAA77C=
 
 ;0xC9849F39=one and I will never be with another
-0xC9849F39=
+0xC9849F39=一个，不会有第二个
 
 ;0xB0608CAC=I don't have sex I make love and cry
-0xB0608CAC=
+0xB0608CAC=不搞性生活，只有做爱和哭
 
 ;0x1BD095D6=whenever I cry
-0x1BD095D6=
+0x1BD095D6=哭了就撸
 
 ;0xC1B955B7=once with a sea bass
-0xC1B955B7=
+0xC1B955B7=和海鲈鱼做过一次
 
 ;0xA2BD2F4F=sensitive
-0xA2BD2F4F=
+0xA2BD2F4F=体贴
 
 ;0xF266B2B9=cutting myself
-0xF266B2B9=
+0xF266B2B9=自残
 
 ;0x46EA3F73=that one day people will get me
-0x46EA3F73=
+0x46EA3F73=有一天能被别人理解
 
 ;0xE19D9FD0=male
-0xE19D9FD0=
+0xE19D9FD0=男
 
 ;0x3EB137E5=Alderney
 0x3EB137E5=
 
 ;0x1F050D34=broken-hearted
-0x1F050D34=
+0x1F050D34=心碎
 
 ;0x3110C38B=acceptance, a voice
-0x3110C38B=
+0x3110C38B=认同、发声
 
 ;0xBE264805=art school student
-0xBE264805=
+0xBE264805=艺校学生
 
 ;0x537A119B=tight pants, poetry, self-mutilation, piercings, playing with mom's makeup, death
-0x537A119B=
+0x537A119B=紧身裤、诗歌、自残、穿孔、玩妈妈的化妆品、死亡
 
 ;0x98733266=jocks, mainstream shit, meat, capitalism
-0x98733266=
+0x98733266=运动系、主流垃圾、肉、资本主义
 
 ;0x52BC47EB=in touch with emotions
-0x52BC47EB=
+0x52BC47EB=感受内心的情感
 
 ;0x3F5784D9=drug problem, punching walls, sterile 
-0x3F5784D9=
+0x3F5784D9=毒瘾、敲墙、不育
 
 ;0x0046AA62=eyelashes
-0x0046AA62=
+0x0046AA62=睫毛
 
 ;0xA2AF1C3E=wheatgrass juice
-0xA2AF1C3E=
+0xA2AF1C3E=麦草汁
 
 ;0x6FF74317=weed, mushrooms
-0x6FF74317=
+0x6FF74317=草、蘑菇
 
 ;0x498C7C78=Faust
-0x498C7C78=
+0x498C7C78=《浮士德》
 
 ;0xE3BAE3BC=One of my poems:
-0xE3BAE3BC=
+0xE3BAE3BC=我的一首诗：
 
 ;0x68F5C820=Night suffocates my sphincter  
-0x68F5C820=
+0x68F5C820=夜晚扼住了我的肛门　
 
 ;0x6D261114=with its heavy cloak,  
-0x6D261114=
+0x6D261114=用它那沉重的斗篷，
 
 ;0x7656F7C2=cold and empty train track hobo love.  
-0x7656F7C2=
+0x7656F7C2=和冰冷空荡的铁轨上的流浪汉之爱。
 
 ;0x62ECC9CE=A poisonous torch pencil twisted  
-0x62ECC9CE=
+0x62ECC9CE=一支有毒的点火笔坏了　
 
 ;0xAB2D263F=understanding five  
-0xAB2D263F=
+0xAB2D263F=体贴的五　
 
 ;0x7185B12D=glows bright, then dies,  
-0x7185B12D=
+0x7185B12D=发出了光，慢慢消散，
 
 ;0x3D8CC6B2=shit stained carpet  
-0x3D8CC6B2=
+0x3D8CC6B2=沾着屎印的地毯　
 
 ;0xBDA2F200=Zoo fling your feces.  
-0xBDA2F200=
+0xBDA2F200=动物园的随地大小便。
 
 ;0x3AD9862A=devoured by madness and shame.  
-0x3AD9862A=
+0x3AD9862A=被疯狂与羞耻吞灭。
 
 ;0xCDB3E615=Heart sicken milk body  
-0xCDB3E615=
+0xCDB3E615=心病奶体　
 
 ;0xF8D48ADB=adjective metaphor rubbish  
-0xF8D48ADB=
+0xF8D48ADB=形容词比喻垃圾　
 
 ;0x6FDC53C0=Never copulate never  
-0x6FDC53C0=
+0x6FDC53C0=性交不是永不发生的　
 
 ;0x529A870A=copulate. Sicky sicky  
-0x529A870A=
+0x529A870A=性交。恶恶　
 
 ;0x65090212=Turn left up direction shit poem.  
-0x65090212=
+0x65090212=左转向上烂诗。
 
 ;0x21C2BBED=Shit poem.  Shit poem.  
-0x21C2BBED=
+0x21C2BBED=烂诗。烂诗。
 
 ;0x82140695=Shadows surround us, weeping,  
-0x82140695=
+0x82140695=暗影环绕着我们，哭泣，
 
 ;0xBBC90D32=At my shit poem. - blackfrost5  
-0xBBC90D32=
+0xBBC90D32=对着我的烂诗哭泣。 - blackfrost5
 
 ;0xA17C801C=Shit.  I hate my life.  Why am i constantly persecuted 4 being different?  Society rejected me before I had a chance.  I've lived a lifetime.  Or maybe it was me who rejected society?  Who knows.
-0xA17C801C=
+0xA17C801C=妈的，我讨厌自己的人生。为什么与众不同就要被人迫害？社会不给我机会，排斥了我。我已经活够了。又或者是我排斥了社会？谁知道呢。
 
 ;0x0950E0F7=One things 4 sure, I don't fit in and now I whine about it online.  The road to acceptance is paved with hate and guts and propsitions and thats a path I refuse to take.  Sometimes I get the feeling that the world around me is nothing mmore than an illusion, and I'm so smart and one day I will invent a machine that I can attach to bears that will allow them to speak and they will have small headsets and we can discuss fushing.   im trapped in a parallel universe and looking in a mirror.  Actually, I'm trapped in a shit apartment with carpet that smells like a musty old woman's diaper. im condemned to drift forever more on a sea of loneliness.  Floating.  And now jody has left me as well.  What is love if not a test of our capacity 2 forgive?  We said we would love each other forever.  But can I forgive her?  She says it was her mouth on that man's junk and not mine but we were both loaded and swinging with couples in their 40s can be troublesome, especially when they spike your drink.  Geezers. Thank Zeus for my poetry.  Without it, I don't think I would be here today.  I wish I wasn't so in touch with my emotions - I FEEL everything so strongly.  It might be the fistful of pills I just shoved into my piehole.  I soak up pain like a sponge and it eats away at me day after day, like a rat.  I am hollowed out, an empty shell.  I am nothing but I am everything.  I am the most boring Myroom person in the world.  How I long for death's cold embrace!!!!  I planted a tree today and started to cry uncontrollably as I shit next to it and covered it up like a cat. I castrated one of nature's babies with my excretement.  
-0x0950E0F7=
+0x0950E0F7=有一件事是肯定的，我不合群，正在网上抱怨。认同之路满是入骨的恨意，我拒绝通过这种方式获得认同。有时我觉得整个世界只是幻觉，而我聪明得很，以后会研发出熊语机，和熊交流捕鱼。我被困在了平行时空里，一直看着镜中的自己。实际上，我被困在了一间垃圾公寓里，地毯像老太太的纸尿布一样臭。我这一生都要在孤独之海上漂泊流浪了。现在jody也离开了我。爱不就是对原谅理解的测试吗？我们说过要爱一辈子的吧。但我又能原谅她吗？她说吸别人鸡巴的是她的嘴，不是我的，但我俩都喝醉了，和40多岁的夫妻换妻实在有点麻烦，特别是他们往你酒里下药的时候。天哪，感谢上帝赐予我诗歌。没了诗，也许就不会有现在的我了。真希望我感受内心情感的能力没那么强，现在我对任何事物的感觉都很强烈。可能是我往嘴里塞了把药的关系吧。我就像一块吸收痛苦的海绵，一天天的被老鼠一样的痛苦吞噬。我被掏空了，只剩一具躯壳。我什么都不是，但我就是一切。我是世界上最无聊的Myroom用户了。我是多么渴望死亡的冰冷怀抱降临啊！！！！今天我种了棵树，然后止不住地哭出来了。因为我在树旁拉屎，再像猫一样把它埋了起来，用排泄物让大自然的孩子绝育了。
 
 ;0xF39AE793=What's wrong with me?!!!!
-0xF39AE793=
+0xF39AE793=我这是什么情况？！！！！
 
 ;0x0FFBB2CD=My corn will soak into that trees DNA and it will becaome a sickly mess.  I wonder why im so misundertstoood.   It might possibly be that my mother drank during pregnancy.  I'm going to cut myself.      
-0x0FFBB2CD=
+0x0FFBB2CD=我的屎会渗进那棵树的DNA，它这辈子都完了。不知道为什么，我被太多人误解了。可能是因为我母亲怀孕了还喝酒吧。我要去自残了。
 
 ;0xD984568C=fatedsongstress04
 0xD984568C=
 
 ;0xFB4613C8=How cud u remove me as a frend?  I thought we wer solemates!!
-0xFB4613C8=
+0xFB4613C8=你怎么还删我好友了？我们不是灵魂伴侣吗！！
 
 ;0x8DCB5E62=I luv ur poetry, it touches my heart deeply.  I thought I was the only 1 who felt so alienated and cut of from the rest of the world.  Ur destined to be famus, but prob not in ur own life time
-0x8DCB5E62=
+0x8DCB5E62=很喜欢你的诗，深入我心。我之前还以为被社会孤立抛弃的人只有我一个。你一定会出名的，虽然未必是活着的时候出名
 
 ;0x86F33166=drippinglibrarian
 0x86F33166=
 
 ;0x543DEBE5=Hey sexy!!!  Me and my girlfriends have been hooking up with lots of guys at this great website called www.love-meet.net.  One of the girls saw your picture on MyRoom and thinks that you are SOOOOO HOTTTTT!!!!   She's really cute - check her out on 
-0x543DEBE5=
+0x543DEBE5=嘿，骚男！！！我和女朋友们在觅爱网上约到了好多人，这个网站太棒了。其中一个姑娘看见了你在MyRoom网放的照片，觉得你很性感！！！！她很可爱的，去
 
 ;0xB1827EC7=www.love-meet.net
 0xB1827EC7=
 
 ;0x34463C03=.  Bye for now!  xxxxxxxxxxxx
-0x34463C03=
+0x34463C03=找她吧。下次见！啾啾啾啾啾啾
 
 ;0xA84FF50B=squashedtear19
 0xA84FF50B=
 
 ;0xECB7606E=ive got a new online girlfriend I was myrooming her until 2am i think im in luv
-0xECB7606E=
+0xECB7606E=我在网上找到新的女友了 当时是凌晨两点 我还在myroom看她 我好像陷入热恋了
 
 ;0xA2DF7D23=wickerclitoris
 0xA2DF7D23=
 
 ;0x2185133C=STOP calling me and STOP hanging around my house.  If I read any more of your pathetic poems, I'm going to puke.  Go and whine about your tortured existence to somebody else.  Jody.
-0x2185133C=
+0x2185133C=别给我打电话了，也别在我家附近转悠了。再让我读到你可悲的诗，我就要吐了。找别人哭诉你的人生有多惨多受折磨吧。Jody。
 
 ;0x48A814BA=insignificantwonder000
 0x48A814BA=
 
 ;0x4910A0C6=Im going to kill myself
-0x4910A0C6=
+0x4910A0C6=我要自杀了
 
 ;0xDE63C6E0=spongyveteran2
 0xDE63C6E0=
 
 ;0x8FE76190=Got a younger brother?
-0x8FE76190=
+0x8FE76190=有弟弟吗？
 
 ;0xDBFBDA82=thanks for the add!!! dave xxx
-0xDBFBDA82=
+0xDBFBDA82=谢谢你加我！！！dave 啾啾
 
 ;0x4727BCC7=chunkysunbather
 0x4727BCC7=
 
 ;0xBB66F0C1=Do you believe in God?
-0xBB66F0C1=
+0xBB66F0C1=你相信上帝吗？
 

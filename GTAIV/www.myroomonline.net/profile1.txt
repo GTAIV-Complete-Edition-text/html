@@ -17,7 +17,7 @@
 0xFCCC43A9=单身
 
 ;0xA83327DE=Here for: 
-0xA83327DE=玩网目标:
+0xA83327DE=玩网目的:
 
 ;0x2D934C2E=bOyS, mOdeLLinG CoNtrAct, GIFTS!!!!
 0x2D934C2E=男生、模特工作、礼物！！！！
