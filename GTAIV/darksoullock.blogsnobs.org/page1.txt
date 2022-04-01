@@ -68,7 +68,7 @@
 0x29BCC08B=发表于 19 天前
 
 ;0xC65F6A8D=I'm back.  I don't know if anyone reads my blog.  I don't really care.  It's better than sitting alone in my room eating my scabs.  
-0xC65F6A8D=我回来了。不知道有没有人在看我的博客。不过我也不在乎。写博客总比一个人在房间里咬伤疤好点。
+0xC65F6A8D=我回来了。不知道有没有人在看我的博客。不过我也不在乎。写博客总比一个人在房间里咬伤口的痂好点。
 
 ;0x9862258A=I've had this terrible fear all morning that I'm actually mentally ill but nobody has told me yet and everyone is just trying to act normal around me.  I really need to get some sleep.  
 0x9862258A=今早我一直处在恐慌之中，怀疑会不会自己有精神病，但身边的人都不告诉我，还尽量把我当成正常人对待。我得好好睡一觉了。

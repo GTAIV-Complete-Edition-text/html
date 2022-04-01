@@ -62,7 +62,7 @@
 0xC1CB72FC=树莓朗姆
 
 ;0x91683F03=Drug of choice:
-0x91683F03=喜欢的毒品:
+0x91683F03=喜欢的药物:
 
 ;0x2D04EC3B=nOT mY tHiNg loL
 0x2D04EC3B=不玩这个www
@@ -74,7 +74,7 @@
 0x6F634C77=狼牙棒
 
 ;0x34F1F1A1=Shaved or natural?
-0x34F1F1A1=无毛还是长毛？
+0x34F1F1A1=脱不脱毛？
 
 ;0xBBC9BBBD=Shower or grower?
 0xBBC9BBBD=小丁还是大根？
@@ -89,7 +89,7 @@
 0xBFF1E917=呃！和大部分女生一样！！！
 
 ;0xB90708C9=MaRy MaGpiE
-0xB90708C9=
+0xB90708C9=玛丽喜鹊
 
 ;0x542F5FC0=How many sexual partners have you had?
 0x542F5FC0=有过多少性伴侣？
@@ -197,5 +197,5 @@
 0x7C86825B=好伤心 今天只收到了4个好友申请 8条评论
 
 ;0x19A48D34=I luv gary 2 peeces butt hes such a dick its not that I wan him to tell evryone in skule that were boifrend and girlfrend i just wan him to change his myroom page to 'in a relationship' thats all.
-0x19A48D34=我那么爱gary 他居然这么对我 又不是要他告诉全校我们在交往 就想让他把myroom主页改成「热恋中」而已。
+0x19A48D34=我那么爱gary 他居然这么对我 又不是要他告诉全校我们在交往 就想让他把myroom主页改成「交往中」而已。
 

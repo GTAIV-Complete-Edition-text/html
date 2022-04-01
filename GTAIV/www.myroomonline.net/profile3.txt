@@ -5,7 +5,7 @@
 0x8A98950A=小丁吧
 
 ;0x7CCAA77C=Deafy
-0x7CCAA77C=
+0x7CCAA77C=聋聋
 
 ;0xC9849F39=one and I will never be with another
 0xC9849F39=一个，不会有第二个
@@ -47,7 +47,7 @@
 0x537A119B=紧身裤、诗歌、自残、穿孔、玩妈妈的化妆品、死亡
 
 ;0x98733266=jocks, mainstream shit, meat, capitalism
-0x98733266=运动系、主流垃圾、肉、资本主义
+0x98733266=运动男、主流垃圾、肉、资本主义
 
 ;0x52BC47EB=in touch with emotions
 0x52BC47EB=感受内心的情感
@@ -131,13 +131,13 @@
 0xF39AE793=我这是什么情况？！！！！
 
 ;0x0FFBB2CD=My corn will soak into that trees DNA and it will becaome a sickly mess.  I wonder why im so misundertstoood.   It might possibly be that my mother drank during pregnancy.  I'm going to cut myself.      
-0x0FFBB2CD=我的屎会渗进那棵树的DNA，它这辈子都完了。不知道为什么，我被太多人误解了。可能是因为我母亲怀孕了还喝酒吧。我要去自残了。
+0x0FFBB2CD=我的屎会渗进那棵树的DNA，它这辈子完了。不知道为什么，我被太多人误解了。可能是因为我母亲怀孕了还喝酒吧。我去自残了。
 
 ;0xD984568C=fatedsongstress04
 0xD984568C=
 
 ;0xFB4613C8=How cud u remove me as a frend?  I thought we wer solemates!!
-0xFB4613C8=你怎么还删我好友了？我们不是灵魂伴侣吗！！
+0xFB4613C8=你怎么删我好友了？我们不是灵魂伴侣吗！！
 
 ;0x8DCB5E62=I luv ur poetry, it touches my heart deeply.  I thought I was the only 1 who felt so alienated and cut of from the rest of the world.  Ur destined to be famus, but prob not in ur own life time
 0x8DCB5E62=很喜欢你的诗，深入我心。我之前还以为被社会孤立抛弃的人只有我一个。你一定会出名的，虽然未必是活着的时候出名
@@ -164,7 +164,7 @@
 0xA2DF7D23=
 
 ;0x2185133C=STOP calling me and STOP hanging around my house.  If I read any more of your pathetic poems, I'm going to puke.  Go and whine about your tortured existence to somebody else.  Jody.
-0x2185133C=别给我打电话了，也别在我家附近转悠了。再让我读到你可悲的诗，我就要吐了。找别人哭诉你的人生有多惨多受折磨吧。Jody。
+0x2185133C=别给我打电话了，也别在我家附近转悠了。再让我读到你可悲的诗，我就要吐了。找别人哭诉你的人生有多惨多受折磨吧。Jody
 
 ;0x48A814BA=insignificantwonder000
 0x48A814BA=
