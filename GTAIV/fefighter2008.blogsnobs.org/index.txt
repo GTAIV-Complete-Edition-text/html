@@ -1,87 +1,60 @@
-﻿;0x04E72159=Username:
-0x04E72159=
-
-;0xDEBF8B3B= FeFighter2008     
+﻿;0xDEBF8B3B= FeFighter2008     
 0xDEBF8B3B=
 
-;0xB0BACC87=Sex:
-0xB0BACC87=
-
 ;0x2CAE24D9= INDEPENDENT WOMON     
-0x2CAE24D9=
-
-;0x6C1F83B4=Location:
-0x6C1F83B4=
+0x2CAE24D9= 独立女性
 
 ;0xD76BC197= Vice City     
-0xD76BC197=
-
-;0xD0F33C72=Age:
-0xD0F33C72=
-
-;0x3F398D1F=Profession:
-0x3F398D1F=
+0xD76BC197= 罪城
 
 ;0x07F4BBCF= IT Consultantt     
-0x07F4BBCF=
-
-;0xCA6ED4BF=Appearance:
-0xCA6ED4BF=
+0x07F4BBCF= IT顾问
 
 ;0xEA1A74EF= Long gray hair, downy thighs, fleecy forearms, wolf tits, femmestache     
-0xEA1A74EF=
-
-;0x0EEC57CE=Interests:
-0x0EEC57CE=
+0xEA1A74EF= 灰色长发、长毛的大腿、毛绒的前臂、密密的胸毛、上唇的胡须
 
 ;0x7FE1BBBC= Feminism, Furries, Vegan Food    
-0x7FE1BBBC=
-
-;0x09758B37=UPDATED - 1 DAY AGO
-0x09758B37=
+0x7FE1BBBC= 女权主义、绒毛、素食
 
 ;0x3E8F9539=Can you believe it?!!  I got sacked from work last week.  SEXIST PIGS!!!  My boss said that he was sorry to see me go but he could not condone naked vogueing at an office function, especially with children present.  I told him that he was a misogynist asshole and that I would see him in court.  Not to worry, though, it was the kick in my hairy butt that I needed to finally shake off the shackles of male domination and set up business on my own.  My new  website - 
-0x3E8F9539=
+0x3E8F9539=你敢相信吗？！！上周我被公司开除了。这帮性别歧视的猪头！！！老板说他也不想我走人，但他实在忍受不了我在办公室活动上裸体走秀，更何况当时还有小孩在场。我跟他说他就是个厌女混蛋，我们法庭上见。不过不用担心，这件事刚好给了我机会，终于可以挣脱男权统治，干出一番自己的事业了。我的新网站：
 
 ;0x575A01F7=www.stopshavingnow.net
 0x575A01F7=
 
 ;0xF8958EE4= - when its completed or even started, is a forum, a meeting place, a central resource dedicated to furthering furry femals, a celebration of the wonders of wooly womyn the world over!  Check it out! Join us, shaggy sisters! I'm bringing thatch back!    
-0xF8958EE4=
+0xF8958EE4= 。完善之后或是建站之后，这个网站就会成为一个论坛、一个集会地点，成为推广女性不脱毛的资料中心，成为毛绒女性征服世界的庆典！看看吧！加入我们吧，毛发蓬松的姐妹们！取回浓密的毛发！
 
 ;0x1BC9D538=UPDATED - 3 DAYS AGO
-0x1BC9D538=
+0x1BC9D538=发表于 3 天前
 
 ;0x96DF8AEA=LOVE IS IN THE HAIR!!!  Last night was wonderful.  Quentin and I met for dinner in this ropersontic vegan restaurant.  The bean casserole was delicious.  Fried Tofu!  Afterwards we made love on a twinsize bed in his parents basement. I held on to his handlebar moustache and rode him like a bison as his hairy fingers deftly pruned my back shrubbery.  It was amazing, apart from the carpet burn!  We were like two badgers writhing in a sack.  I found this bottle of dish soap liquid by his bed - not sure what it was doing there - and squirted it all over us until we became a tangled, sticky mess of lemon-fresh hair and body fluid.  I was about to fall asleep when he turnedd to me and smiled; his eyes full of love and his teeth full of my hair.  I'll never forget that moment...
-0x96DF8AEA=
+0x96DF8AEA=爱在毛发中！！！昨晚太棒了。Quentin和我在这家浪漫的素食餐厅吃了晚餐。豆子砂锅很美味，还有炸豆腐！之后我们在他父母家地下室的双人床上做了。我抓着他把柄上的毛发，骑在他身上。他则用毛发旺盛的手指熟练地修剪着我的背毛。太棒了，不过在身上留下了红印！我们就像是在床上打滚的獾。我在他的床边找到了一瓶洗洁精，虽然不知道放着是干嘛用的，但我都撒到两个人身上了。我们身上黏糊糊的，混杂着体液和柠檬的味道。在我快要睡着的时候，他转过来对我笑了笑。他的眼里满是爱情，嘴里满是我的毛发。那一刻我永生难忘...
 
 ;0x3BD39549=I really feel like I'm learning to trust men again!  
-0x3BD39549=
+0x3BD39549=感觉我真的又可以相信男人了！
 
 ;0x56510336=Neighbor update!  That cow is finaly going to get her come-uppance.  I bought a nice set of Max Renda toiletries and carefully replaced all the contents with my old hair removal cream.  Don't you just love the IRONY!! I wrapped it all up in a little basket with pink ribbon and gave it to her earlier today as a thank-you gift for her invaluable support over the past few months.  Hehehehehehehe!!!  I'm so excited... one shower and she's going to look like a prisoner of war!!!    
-0x56510336=
+0x56510336=邻居的事！那个臭娘们终于要遭报应了。我买了一套Max Renda牌的洗浴用品，小心翼翼地把里面的东西换成了以前买的脱毛膏。讽刺得有点好笑了！！然后装进小篮子，绑上粉色的丝带，在今天送给了她，感谢几个月来她对我的关怀。嘿嘿嘿嘿嘿嘿嘿！！！洗一次澡，她就会像战俘一样青一块紫一块了！！！
 
 ;0x408063E3=UPDATED - 8 DAYS AGO
-0x408063E3=
+0x408063E3=发表于 8 天前
 
 ;0x16D61B0A=OOOOOWWWWW!!!!  HANGOVER CENTRAL!!!!  It's 11 AM and I just woke up on my kitchen floor covered in dried ketchup with vomit matted in my femmestache.  Not a good scene.  It was the annual staff picnic yesterday, an event that sums up everything I detest about gender roles in teh workplace.  The womyn make all the food; the men stand around talking sports, their faces in buckets of chicken, scratching their crotches and working out how much their girlfriends/wives cost per fuck.  This year I was determined to make a statement aabout my new-found fuzziness so I showed up in shorts, a crop top and sandals.  My belly, legs, thighs and feet are now covered in a swath of thick black hair and I want to show them off!!!  Everything was going well until that creep in marketing made some comment about the circus being in town and I lost it.  I started downing wine like a roman at saturnalia and challenged the fat guy from payroll to a chug-off with cans of Benedict lager.  It all gets a bit hazy at this point.  I vaguely remember ranting about poultry-processing to a teary-eyed kid with a chicken leg in her hand and I have a horrible feeling that the police may have been involved.  I'm not expecting many Christmas cards this year...    
-0x16D61B0A=
+0x16D61B0A=嗷嗷嗷嗷嗷！！！！宿醉真是！！！！现在是11点，我在家里厨房的地板上醒过来了，身上地上全是干掉的番茄酱，胡子上还沾着呕吐物。画面太美。昨天是员工年度野餐，这个活动涵盖了公司里我讨厌的所有性别角色的点。做菜全都交给女人，男人站在一边聊体育，吃着炸鸡桶，挠着裆，算着操一次自己的女友/妻子需要多少成本。我早就下定决心，要在今年向所有人展示我覆满毛发的新身体。所以我穿着短裤、露脐上衣和凉鞋去的野餐。肚子、腿上、腰上、脚上全都是厚厚的黑色毛发，我要让他们看得清清楚楚！！！一切都是那么顺利，直到市场部的那个讨厌鬼提了句亲戚来了。我当时就坐不住了，像农神节上的罗马人一样开始灌酒，还找了财务部的那个胖子喝啤酒比酒量。然后就印象模糊了。依稀还记得一个拿着鸡腿的小姑娘，我对着她咆哮了杀鸡的过程，弄得她眼泪汪汪。感觉后来还扯上警察了，太糟糕了。今年我可能收不到多少圣诞贺卡了...
 
 ;0x89768992=UPDATED - 10 DAYS AGO
-0x89768992=
+0x89768992=发表于 10 天前
 
 ;0xC2441AD0=I am so HAPPPPPPPPPY.  I met a wonderful guy today through my personal ad on His&Hirsute.  I am amazed to discover that there is a whole hairy community out there!!!  His name is Quentin and he is a tree surgeon who loves natural womyn!  He told me that he has fantasized about unshaven chicks (his word, not mine!) ever since he used to rub one out to ladies tennis as a young boy.  Christ, I thought that I was hairy but this guy looks like hes wearing fur overalls!  He plats his nose hair and doesnt even cut his finger nails...HOT!!  We met in a café and the sexual tension was explosive.  We couldn't stop FlURting with each other.  He kept changing position so that his back rug billowed out of the top of his 'ban the bomb' t-shirt like cotton candy.  When he wasnt looking, I undid a button of my blouse so that he could see the dense black treasure trail running down my midriff.  He couldn't keep his hands off me.  The hairs poking through my pantyhose were driving him wild!    Quentin made me realize that I have been carrying around a lot of anger and resentment towards the inferior sex.  I have been delberately picking up shorter men and hate-fucking them while deriding their girth and hairline.  I have dressed them in panties, beat them at drinking games and made a mess all over their toilet seats.  Emasculation has been my friend but I have a feeling that Quentin might be the man to change that.  Can't wait for my next date!!!    
-0xC2441AD0=
+0xC2441AD0=太太太太太高兴了。今天我在体毛一线牵上遇到了一个超棒的家伙。没想到其他地方也有不脱毛的群体！！！他叫Quentin，是树木的外科医生，就喜欢不脱毛的女人！他说自从小时候用网球自慰以后，就经常幻想不脱毛的小妞(这是他的原话！)老天，我以为自己的毛已经够多了，但这家伙的毛跟皮大衣似的！他留着鼻毛，连指甲都不剪...  太性感了！！我们在咖啡馆见的面，两性吸引力都快爆炸了。我们不断调情。他不停地换着姿势，背上的毛像棉花糖一样从印着「禁止炸弹」的短袖上冒出来。趁他不注意，我解开了衬衫的一粒扣子，好让他看见从我腹部中间穿过的浓密毛发。他一直把手放在我的身上。从我的丝袜里钻出来的腿毛更是让他野性大起！遇见Quentin我才知道，我对另一个劣等性别太过偏激了。之前我故意找那些短小的男性，带着恨意边嘲笑他们的啤酒肚和发际线，一边和他们上床。我逼他们穿上女式内裤，在酒桌上把他们灌倒，把他们家的马桶盖搞得一团糟。我一直都喜欢严格，但我觉得对Quentin不必如此。等不急想跟他再约会一次了！！！
 
 ;0xE8FBA4B9=UPDATED - 13 DAYS AGO
-0xE8FBA4B9=
+0xE8FBA4B9=发表于 13 天前
 
 ;0x1485874F=I detest that botoxed crone next door.  She keeps calling round with homemade pies and asking if I want to 'talk'    about my divorce.  She gives me that 'there, there' look of fake sympathy, shakes her head, and tells me how lucky SHE is to have her darling Richard.  Well, revenge is SWEETT!!  When I went online last week, I noticed that the imbeciles have set up a wireless internet connection that is wide open and, much to my delight, I also discovered a networked printer!  Every day I have been printing off photos of young Korean girls in squeaky-clean Richard's study. Payback's a bitch!!  I bumped into her this morning and innocently commented "Richard tells me that the Asian markets are ripe for penetration at the moment...".  If looks could kill!!!!  Trouble in paradise???  Let's hope so.  HA HA!!!!  But honestly I would do a three way with them.  
-0x1485874F=
+0x1485874F=我恨隔壁那个打肉毒素的丑八怪。整天拿着自制的派过来，问我有没有兴趣「聊聊」离婚的事。脸上一副「好啦好啦」的虚伪同情，摇头晃脑，跟我说她嫁给了Richard是多么幸运。行，来点甜美的复仇吧！！上周上网的时候，我发现这家低能装了无线网，还不设防。更让我高兴的是，还找到了一台网络打印机！每天我都在Richard的书房里打印韩国小妞的照片。以牙还牙！！今早我遇到了那个丑八怪，故作无辜地跟她提了句「Richard说亚洲市场的时机已经成熟，可以进入了...」她脸都绿了！！！！婚姻很脆弱吧？？？希望如此。哈哈！！！！不过说实话，我倒是乐意和他们来个3P。
 
 ;0xE050DC22=My first date did not go well.  Im not sure that the guy was fully aware of the type of girls looking for love on His&Hirsute.  I couldn't figure out why he kept shifting in his seat and glancing nervously towards my crotch until I realized that I was wearing my low-riding jeans and my growler was poking out like a line of hairy soldiers about to go over the top of a bunker!  Eventually, after a couple of drinks, he blurted out "you'll have to mow that lawn before you get me anywhere near it".  Youll be pleased to hear that I bid him farewell with a ttraditional feminist handshake - he'll be walking around with an icepack in his boxers for the next two weeks!!    
-0xE050DC22=
-
-;0x63A064A0=(PREVIOUS POSTS)
-0x63A064A0=
+0xE050DC22=我的初次约会不太顺利。男方好像不太清楚参加体毛一线牵的是哪种女生。不知道为什么，他一直在座位上挪来挪去，紧张地盯着我的胯下。后来我才发现，是因为我穿的牛仔裤垮在屁股上，外露的鲍鱼就像是要被毛绒士兵攻占的堡垒一样！几杯酒下肚，他突然来了句「想让我靠近你的下面，你还是先把草割了吧。」讲句大家爱听的，我给他来了下经典的女权「握手」告别，接下来半个月他都得在内裤里敷上冰袋了！！
 

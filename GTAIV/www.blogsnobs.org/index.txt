@@ -35,7 +35,7 @@
 0x09758B37=发表于 1 天前
 
 ;0x3B10ED5F=Can you believe it?!! I got sacked from work last week. SEXIST PIGS!!! My boss said that he was sorry to see me go but he could not condone naked vogueing at an office function, especially with children present... 
-0x3B10ED5F=
+0x3B10ED5F=你敢相信吗？！！上周我被公司开除了。这帮性别歧视的猪头！！！老板说他也不想我走人，但他实在忍受不了我在办公室活动上裸体走秀，更何况当时还有小孩在场...
 
 ;0x00D788EF=LiberatedWoman
 0x00D788EF=自由女性
