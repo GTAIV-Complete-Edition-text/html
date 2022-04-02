@@ -35,7 +35,7 @@
 0x5E1ABB57=推销自己
 
 ;0x1241BAAC=street cleaner
-0x1241BAAC=街道清洁工
+0x1241BAAC=清道夫
 
 ;0x9FD0A789=pain, human suffering, mind games, wearing silk panties, surgical masks
 0x9FD0A789=疼痛、折磨人类、心理游戏、穿丝绸小内内、医用口罩
@@ -44,7 +44,7 @@
 0xAF5CD0C6=自满的人、条子、烧人要花很久
 
 ;0xB8E94418=fileting, skinning, embalming
-0xB8E94418=切片、剥皮、防腐
+0xB8E94418=切肉、剥皮、防腐
 
 ;0xADA7AFDB=none
 0xADA7AFDB=无
