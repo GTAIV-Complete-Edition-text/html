@@ -1,45 +1,15 @@
-﻿;0xE253C598=Identity Theft Policy
-0xE253C598=
-
-;0x6D402909=Kids Kredit
-0x6D402909=
-
-;0xB058CCFC=International Wire Transfers
-0xB058CCFC=
-
-;0x368B9352=Debt Consoldiation
-0x368B9352=
-
-;0xCC2A1722=Home Equity Loans
-0xCC2A1722=
-
-;0x6AA54E4F=Plastic Surgery Loans
-0x6AA54E4F=
-
-;0x88C3B8C4=Off-Shore Bank Accounts
-0x88C3B8C4=
-
-;0x97B7449C=Bachelor Party Loans
-0x97B7449C=
-
-;0xB7872DC7=Brokerage
-0xB7872DC7=
-
-;0xAE9245AD=Home Equity Loans: Live Beyond Your Means!
-0xAE9245AD=
+﻿;0xAE9245AD=Home Equity Loans: Live Beyond Your Means!
+0xAE9245AD=二次抵押贷款：野性消费！
 
 ;0x454A8C32=Ever heard of doubling down?  It works in Las Venturas.  Enjoy the comfort of borrowing money for the second time whilst putting your family home at risk.  
-0x454A8C32=
+0x454A8C32=听说过加注吗？在拉斯文加斯很好用。享受再次借钱的舒适吧，哪怕是顶着失去家庭住房的风险。
 
 ;0xBFC789FC=Double jeopardy means that you can buy the SUV, call girl or yacht you have always wanted.  Balloon payments, negative amortization... don't concern yourself with all the so called trendy buzzwords.  
-0xBFC789FC=
+0xBFC789FC=二次抵押意味着你可以购买SUV，电话招嫖，或是买下心仪已久的游艇。气球贷款、负摊销贷款... 别被那些看似新潮的名词吓到了。
 
 ;0xEFAFB55B=Just know that a balloon payment usually involves swallowing a lot of them full of horse to make extra money to pay off your bills.  All you need to know is that Bank of Liberty offers low monthly payments that don't even cover the interest!        
-0xEFAFB55B=
+0xEFAFB55B=知道气球贷款是一种特洛伊木马，能够增加你的还款金额就行了。你只需要知道自由城银行的月供低到连利息都不够还！
 
 ;0xAF3F1520=A penalty charge of 15% of principal will be applied for any attempts to overpay or get out of the loan early. Unless we don't like you, in which case we will send you a gift of your mother's left foot. 
-0xAF3F1520=
-
-;0x55F4BBAF=Bank of Liberty uses subliminal advertising throughout all its websites.
-0x55F4BBAF=
+0xAF3F1520=若想超额还款或一次还清，则需收取借款本金的15%作为罚金。看你不顺眼的情况下例外，我们会把你母亲的左脚作为礼物送给你。
 

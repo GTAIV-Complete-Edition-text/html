@@ -23,7 +23,7 @@
 0x575A01F7=
 
 ;0xF8958EE4= - when its completed or even started, is a forum, a meeting place, a central resource dedicated to furthering furry femals, a celebration of the wonders of wooly womyn the world over!  Check it out! Join us, shaggy sisters! I'm bringing thatch back!    
-0xF8958EE4= 。完善之后或是建站之后，这个网站就会成为一个论坛、一个集会地点，成为推广女性不脱毛的资料中心，成为毛绒女性征服世界的庆典！看看吧！加入我们吧，毛发蓬松的姐妹们！取回浓密的毛发！
+0xF8958EE4= 。等完善之后或是建站之后，这个网站就会成为一个论坛、一片聚集地，成为推广女性不脱毛的资料中心，成为毛绒女性征服世界的庆典！看看吧！加入我们吧，毛发蓬松的姐妹们！取回浓密的毛发！
 
 ;0x1BC9D538=UPDATED - 3 DAYS AGO
 0x1BC9D538=发表于 3 天前

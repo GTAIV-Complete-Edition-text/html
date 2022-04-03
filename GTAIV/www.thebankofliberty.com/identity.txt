@@ -1,51 +1,18 @@
-﻿;0xE253C598=Identity Theft Policy
-0xE253C598=
-
-;0x6D402909=Kids Kredit
-0x6D402909=
-
-;0xB058CCFC=International Wire Transfers
-0xB058CCFC=
-
-;0x368B9352=Debt Consoldiation
-0x368B9352=
-
-;0xCC2A1722=Home Equity Loans
-0xCC2A1722=
-
-;0x6AA54E4F=Plastic Surgery Loans
-0x6AA54E4F=
-
-;0x88C3B8C4=Off-Shore Bank Accounts
-0x88C3B8C4=
-
-;0x97B7449C=Bachelor Party Loans
-0x97B7449C=
-
-;0xB7872DC7=Brokerage
-0xB7872DC7=
-
-;0xE253C598=Identity Theft Policy
-0xE253C598=
-
-;0x201BD908=Identity Theft - Not our problem - and we've paid people in Washington to prove this at a Federal Reserve level!  
-0x201BD908=
+﻿;0x201BD908=Identity Theft - Not our problem - and we've paid people in Washington to prove this at a Federal Reserve level!  
+0x201BD908=身份盗窃——不是我们的问题——我们给华盛顿的人塞了钱，美联储已经同意了！
 
 ;0x536E3324=If you're too cheap to install anti-virus software or too stupid to spot a rudimentary HTML pop-up from Lee Burty City Bank requesting your social security number and mother's maiden name, don't come crying to us. You're genetically deficient, my friend.  Idiots don't deserve to have money.
-0x536E3324=
+0x536E3324=如果你穷到装不起杀毒软件，傻到认不出目田城银行的低劣弹窗，还输入了社会安全号码和母亲婚前的姓氏，别找我们哭惨。你这是基因缺陷，朋友。白痴不配有钱。
 
 ;0x0020D654=If you stagger up to a skuzzy ATM machine at a deli at 3 in the morning, hammered on a cocktail of pills and liquor and are surprised when your account number gets swiped, you deserve to be phished for every last cent in your account.  
-0x0020D654=
+0x0020D654=如果你在凌晨三点摇摇晃晃地找到了熟食店里的ATM机，嗑过药喝过酒，惊讶地发现卡里一分钱都没有，那你活该被钓鱼网站骗个精光。
 
 ;0xA1CE1140=If you wake up in your own filth with a fist-full of receipts from a Mexican whorehouse in your pocket, don't expect us to foot the bill.  We repeat - YOU BLACKING OUT DOESN'T MEAN YOU DON'T HAVE TO PAY FOR WHAT YOU DID DURING SAID BLACKOUT.  
-0xA1CE1140=
+0xA1CE1140=如果你在一片混乱中醒来，口袋里全是墨西哥妓院的收据，别指望我们给你买单。再次重申：「神志不清」不代表不需要为所谓「神志不清」期间的交易付钱。
 
 ;0x572DD05E=We have had enough of your whining attempts to con us out of our profits.  Remember, identity theft is ALWAYS your fault. ESPECIALLY WHEN IT'S OURS.        
-0x572DD05E=
+0x572DD05E=我们受够了，别再哭哭啼啼地敲诈我们的利润了。记住，被身份盗窃　永　远　都是你自己的错。我们真的有错时更是如此。
 
 ;0x090E6AA3=Customer requests for copies of back-dated bank statements will be ignored for as long as possible.
-0x090E6AA3=
-
-;0x55F4BBAF=Bank of Liberty uses subliminal advertising throughout all its websites.
-0x55F4BBAF=
+0x090E6AA3=客户查阅本行以往声明的申请会被长期忽略。
 

@@ -1,42 +1,9 @@
-﻿;0xE253C598=Identity Theft Policy
-0xE253C598=
-
-;0x6D402909=Kids Kredit
-0x6D402909=
-
-;0xB058CCFC=International Wire Transfers
-0xB058CCFC=
-
-;0x368B9352=Debt Consoldiation
-0x368B9352=
-
-;0xCC2A1722=Home Equity Loans
-0xCC2A1722=
-
-;0x6AA54E4F=Plastic Surgery Loans
-0x6AA54E4F=
-
-;0x88C3B8C4=Off-Shore Bank Accounts
-0x88C3B8C4=
-
-;0x97B7449C=Bachelor Party Loans
-0x97B7449C=
-
-;0xB7872DC7=Brokerage
-0xB7872DC7=
-
-;0xB7872DC7=Brokerage
-0xB7872DC7=
-
-;0x34B8BD73=Do you want to have some fun with your money?  As the online gambling industry grinds to a halt in the USA, the financial markets are the next best thing!  Remember, the stock market isn't real; it's just opinion.  You've got an opinion, right?
-0x34B8BD73=
+﻿;0x34B8BD73=Do you want to have some fun with your money?  As the online gambling industry grinds to a halt in the USA, the financial markets are the next best thing!  Remember, the stock market isn't real; it's just opinion.  You've got an opinion, right?
+0x34B8BD73=想拿手头的钱找点乐子吗？既然美国的线上赌场已被叫停，何不试试同样刺激的金融市场呢！记住，证券市场不是真的，只关乎想法。你有主见，没错吧？
 
 ;0x5159C0C9=ETFs, Preferred Stocks, Commercial Papers, ADRs, Municipals, Futures, Warrants, Wife Swaps, Commodities, Balloon Knot, Furburger futures, Structured Products... this is simply jargon designed to scare off the man on the street. 
-0x5159C0C9=
+0x5159C0C9=指数基金、优先股、商业票据、预托证券、地方债券、期货、认股权证、交换妻子、大宗商品、菊花、逼期货、结构性产品... 这些行话只是为了吓退一般人。
 
 ;0xEE116B9F=You can take on the professionals.  How hard can it be?  Start playing the markets today!  Only $25 per trade, or more, depending on how much we think we can get away with.         
-0xEE116B9F=
-
-;0xA6AC1EDB=Bank of Liberty uses subliminal advertising throughout all its websites
-0xA6AC1EDB=
+0xEE116B9F=你可以交给专业人士。能有多难啊？即刻纵横金融市场吧！单笔交易只收$25佣金，可能更高，取决于我们觉得跑路时可以卷走多少钱。
 

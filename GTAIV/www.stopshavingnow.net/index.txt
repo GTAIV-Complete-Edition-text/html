@@ -1,24 +1,24 @@
 ﻿;0x2880763C=This is a meeting place for wooly womyn, shaggy sisters and
-0x2880763C=
+0x2880763C=全世界毛绒女人、毛发蓬松的姐妹、长毛女性
 
 ;0x5AED3FED=furry femals the world over!
-0x5AED3FED=
+0x5AED3FED=在此集结！
 
 ;0x0CC03EA2=Sponsored by Grooming Undermines Natural Tendencies
-0x0CC03EA2=
+0x0CC03EA2=感谢反婚反脱毛协会(GUNT)的赞助
 
 ;0xA316A7AC=For more information, check out my blog at
-0xA316A7AC=
+0xA316A7AC=阅读我的博客了解更多信息
 
 ;0x4A02FE34=fefighter2008.blogsnobs.org
 0x4A02FE34=
 
 ;0x5272DC48=Coming soon!
-0x5272DC48=
+0x5272DC48=　即将上线！
 
 ;0x58B594AC=This site is under construction while I finish
-0x58B594AC=
+0x58B594AC=本站尚未建设完成
 
 ;0xAA791C01=my degree.
-0xAA791C01=
+0xAA791C01=请待站长完成学业
 
