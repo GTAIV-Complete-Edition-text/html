@@ -1,47 +1,47 @@
 ﻿;0x57A76A14=NAME:
-0x57A76A14=
+0x57A76A14=用户名:
 
 ;0x757B59B3=Stephanny
 0x757B59B3=
 
 ;0xCFD9EED4=LOCATION:
-0xCFD9EED4=
+0xCFD9EED4=位置:
 
 ;0x09EA7F71= Liberty City
 0x09EA7F71=
 
 ;0x7FD75289=DESCRIPTION:
-0x7FD75289=
+0x7FD75289=简介:
 
 ;0xD2FDAFDE= I'm Stephanny but most people call me steffie or lance but and I am very sad as I used to travel and meet great people and come up with all kinds of imaginative things to do. Like, I need a muse. Mnemosyne and Zeus had 9 daughters and they each were in charge of an art or science but I'm in charge of the film machine at the Genic store in Dukes. I have some great pics to share of my experiences and other peoples as well that had their film or digital photos printed at my store. I love to snuggle up to the camera and I live with my parents.
-0xD2FDAFDE=
+0xD2FDAFDE= 我叫Stephanny，不过别人一般叫我steffie或者lance。虽然以前经常出去旅行，遇到过许多有趣的人，也有过各种新奇的经历，但我现在很伤心。怎么说呢，需要灵感。记忆女神谟涅摩叙涅与神王宙斯生下九位缪斯女神，每一位都掌管着科学艺术的某一领域，而我却在Dukes的Genic相机店里卖照相机。我有很多照片可以分享，有些是自己的生活，有些是别人来店里印照片留下的胶片或者数码相片。我喜欢和相机在一起，现在和父母同居。
 
 ;0x1DEE1D4A=Comments about Stephanny's photos? 
-0x1DEE1D4A=
+0x1DEE1D4A=评论一下Stephanny的照片？
 
 ;0xF5CC4DA1=Stephanny says...
-0xF5CC4DA1=
+0xF5CC4DA1=Stephanny说...
 
 ;0xC7728030=why is nobody commenting my photos?? Mom? 
-0xC7728030=
+0xC7728030=怎么没人评论我的照片？？妈？
 
 ;0x8F074A2B=Starfish444 says...
-0x8F074A2B=
+0x8F074A2B=Starfish444说...
 
 ;0xD5D4F0D2=Can you get hold of any photos of older woman with 'turkey wattle' necks? That really does it for me. Prepared to pay top dollar. 
-0xD5D4F0D2=
+0xD5D4F0D2=能帮我弄几张下巴和脖子之间有赘肉的老太太的照片吗？我很喜欢这种图。高价收。
 
 ;0xB40303D1=Uberslash72 says...
-0xB40303D1=
+0xB40303D1=Uberslash72说...
 
 ;0xCD504402=I break into houses and take photos of people sleeping. Got some really great stuff. Willing to exchange if you're willing to wrap yourself in cellophane with an apple in your mouth??
-0xCD504402=
+0xCD504402=我闯到别人家里拍他们睡觉。有几张好东西。你把自己用玻璃纸裹起来，嘴里塞个苹果拍张照，跟我换照片。换不换？？
 
 ;0xF5CC4DA1=Stephanny says...
 0xF5CC4DA1=
 
 ;0x8E2AB304=OMG. I haven't had a comment in two days!!! Time for the booty shorts!
-0x8E2AB304=
+0x8E2AB304=我天。足足两天没人评论！！！该拍穿热裤的照片了！
 
 ;0x57A76A14=NAME:
 0x57A76A14=
@@ -53,34 +53,34 @@
 0xCFD9EED4=
 
 ;0x511FC7B7= Las Venturas
-0x511FC7B7=
+0x511FC7B7= 拉斯文加斯
 
 ;0x7FD75289=DESCRIPTION:
 0x7FD75289=
 
 ;0x2A6B7BAE= I'm a bit of a social butterfly and my pics show that. I have decided that I don't care who knows it.  I take pics of feet. I love feet, especially ones that people think are ugly. Really old yellow ones are my favorite and sometimes I visit a hospice and say that I'm related to someone so I can take pictures of their feet before they die. It's really sexual and spiritual. 
-0x2A6B7BAE=
+0x2A6B7BAE= 我算是个社交高手吧，我的照片就能证明。我已经决定了，大胆说出自己的爱好，被谁知道都无所谓。我拍了很多脚的照片。我爱脚，特别是别人觉得丑的脚。又老又黄的脚是我的最爱。有时我会去临终关怀中心，自称是某某人的家属，然后在他们去世之前拍下他们的脚。在性的方面和精神方面都能让我满足。
 
 ;0xBF7B6037=Comment on Glinchworm's photos? 
-0xBF7B6037=
+0xBF7B6037=评论一下Glinchworm的照片？
 
 ;0xB3B9C805=DippyDave says...
-0xB3B9C805=
+0xB3B9C805=DippyDave说...
 
 ;0x1608D199=You will die alone.
-0x1608D199=
+0x1608D199=你会孤独终老的。
 
 ;0x2A0252D8=Gogofluff says...
-0x2A0252D8=
+0x2A0252D8=Gogofluff说...
 
 ;0xBFFC2BCE=If I send you some pictures of my feet, will you pay off my student loan?
-0xBFFC2BCE=
+0xBFFC2BCE=我给你发脚的照片，你能帮我还掉学生贷款吗？
 
 ;0x13F61ED4=Seepbubble13 says...
-0x13F61ED4=
+0x13F61ED4=Seepbubble13说...
 
 ;0x6D968236=I travel a lot and I like to take picture of people being sick on airplanes. I developed a sixth (or should I say 'sick') sense for when people are about to hurl. The colors are fantastic. People are never more alive than when they're puking their guts up. You see truth in their eyes and corn in their teeth. Love your photos. Can you write that you love mine?
-0x6D968236=
+0x6D968236=我经常旅行，喜欢拍别人晕机的照片。我能靠第六感(或者说变态感)知道有人要吐了。那种色彩太棒了。吐到肠子都干干净净的人最有活着的感觉。能从他们的眼里看到真相，在他们的牙缝里看到玉米。很喜欢你的照片。能给我的照片也评论句喜欢吗？
 
 ;0x57A76A14=NAME:
 0x57A76A14=
@@ -92,40 +92,40 @@
 0xCFD9EED4=
 
 ;0xB7C2BC3D= Vice City
-0xB7C2BC3D=
+0xB7C2BC3D= 罪城
 
 ;0x7FD75289=DESCRIPTION:
 0x7FD75289=
 
 ;0x8960B631= Hmmm, I love to travel. Adventure and taking trips to meet new people in new places is what I'm all about. I'm still in the process of discovering who I am and what I want, but a little bit of everything seems to be working.  I love to share pictures and am classy, sensual and trashy. If anyone want to come visit me that would be great. I am a queen who sometimes likes to be a serf.  
-0x8960B631=
+0x8960B631= 唔，我喜欢旅行。冒险，跋涉，去新的地方遇见新的人。我还在发掘自己是谁，想要什么，不过似乎没什么结果。我很喜欢分享图片，是一个精致、感性、没品的人。有人愿意和我见面就太好了。我是一个有时想成为奴隶的女王。
 
 ;0xE25FC1BF=Comments about sweetrecc's photos? 
-0xE25FC1BF=
+0xE25FC1BF=评论一下sweetrecc的照片？
 
 ;0x016AD589=Truckrten4 says...
-0x016AD589=
+0x016AD589=Truckrten4说...
 
 ;0xE1F962CA=I'm divorced and was a medic in Nam. Now I drive a truck and would love to exchange photos.
-0xE1F962CA=
+0xE1F962CA=我离婚了，曾是越战军医。现在开卡车维生，想和你交换照片。
 
 ;0x9BCACB8A=Postoppreencess says...
-0x9BCACB8A=
+0x9BCACB8A=Postoppreencess说...
 
 ;0x50F691B4=Hi sweetrecc! I also used to be a man. Would be great to swap stories and pics. Any problems with stubble? They did an amazing job on your Adam's apple! 
-0x50F691B4=
+0x50F691B4=嗨，sweetrecc！我以前也是男人。很想和你交换照片和故事。有遇到过胡子的问题吗？你的喉结手术做得真棒！
 
 ;0xB612A902=Sweetrecc says...
-0xB612A902=
+0xB612A902=Sweetrecc说...
 
 ;0xCE666F4F=I'm a woman, you fucking asshole or bitch or whatever. I'm about to write some horrible shit in your gallery. 
-0xCE666F4F=
+0xCE666F4F=我是女人，你这个傻逼混蛋/婊子/其他什么东西。我要在你的相册底下写点非常难听的话了。
 
 ;0x3C93BA36=Drinkfast89 says...
-0x3C93BA36=
+0x3C93BA36=Drinkfast89说...
 
 ;0x8F0B53BC=ZOOM OUT!!!!!!
-0x8F0B53BC=
+0x8F0B53BC=拉远点！！！！！！
 
 ;0x57A76A14=NAME:
 0x57A76A14=
@@ -137,34 +137,34 @@
 0xCFD9EED4=
 
 ;0x13BE1A83= Los Santos 
-0x13BE1A83=
+0x13BE1A83= 洛圣都
 
 ;0x7FD75289=DESCRIPTION:
 0x7FD75289=
 
 ;0x1B9777BB= Hi, I'm trotter and I've uploaded over 593 pics that I've taken of women dressed as naked mimes. Life is a silent comedy and my pictures really capture that. A mime was once called a mummer which is a great name. In Athens there were loads of mimes that people would perform and then there was a chorus too, and they were all mimes. It was really beautiful. I try to recreate that with my photos but sometimes it doesn't translate completely.  If anyone wants to get together and pretend to touch an open flat wall or to pull on an invisible rope naked and in whiteface, I will take the pics and share here. 
-0x1B9777BB=
+0x1B9777BB= 嗨，我是trotter，我上传了超过593张照片，都是自己拍的打扮成裸体哑剧演员的女人。哑剧也被称为默剧，真是个好名字。雅典时期有很多哑剧上演，还有合唱团，也是哑剧。太美丽了。我想要用照片再现哑剧，但似乎不能完全复现出来。不知道有没有人愿意和我见面，假装触摸开口的光面墙，或者把脸涂成白色拉看不见的线。我会拍成照片传到这里。
 
 ;0x0B5BAA6E=Comments about Trotter's photos?
-0x0B5BAA6E=
+0x0B5BAA6E=评论一下Trotter的照片？
 
 ;0x6EBFF816=Ittrrend834 says...
-0x6EBFF816=
+0x6EBFF816=Ittrrend834说...
 
 ;0xCD05A561=What. In. The. Fuck? 
-0xCD05A561=
+0xCD05A561=这。他。妈。是。啥？
 
 ;0x8E917865=Birdscream says...
-0x8E917865=
+0x8E917865=Birdscream说...
 
 ;0x196AA27B=Aren't still photos of mime kinda defeating the object? 
-0x196AA27B=
+0x196AA27B=用不会动的照片再现哑剧是否有点颠三倒四了？
 
 ;0xC2543FD9=CampRon says...
-0xC2543FD9=
+0xC2543FD9=CampRon说...
 
 ;0xB6AFD3CC=I'm an oilrig worker who likes to wear high heels. Very lonely and horny. WLT talk to you. Phone sex or roleplaying? Lots of cock shots 4 exchange. 
-0xB6AFD3CC=
+0xB6AFD3CC=我是一个喜欢穿高跟鞋的石油工人。很寂寞，很想要。想和你聊天。电话聊骚或者角色扮演来吗？作为交换可以给你很多屌照。
 
 ;0x57A76A14=NAME:
 0x57A76A14=
@@ -176,28 +176,28 @@
 0xCFD9EED4=
 
 ;0x83162496= Paris
-0x83162496=
+0x83162496= 巴黎
 
 ;0x7FD75289=DESCRIPTION:
 0x7FD75289=
 
 ;0xC918D5A8= I like to take photos of myself crying. And I cry a lot. I'm very in touch with my emotions and I drink a lot of coffee. Masturbation, a new-born baby, a rotting seagull, a phone call from my mother, an over-zealous zip-up of the jeans. So many things make me break down. I weep and I weep. I lose myself in the beauty and tragedy of human existence. But I still manage to capture it on film. Please visit my gallery. It's powerful. I recently added new captions. Real men cry.  
-0xC918D5A8=
+0xC918D5A8= 我喜欢拍自己哭泣的照片。我经常哭的。我很容易伤感，很喜欢喝咖啡。自慰、新生儿、海鸥的尸体、我妈的电话、太紧的牛仔裤拉链，都能让我克制不住悲伤。我的眼泪一落再落，整个人迷失在人类存在的美丽与悲剧当中。但我还是能用相机捕捉他们。来看看我的相册吧，很强的情感。最近还加上了描述。硬汉也会流泪。
 
 ;0x688171A0=Comment on Borklight89's photos? 
-0x688171A0=
+0x688171A0=评论一下Borklight89的照片？
 
 ;0xECF7E971=Krunchyken says...
-0xECF7E971=
+0xECF7E971=Krunchyken说...
 
 ;0xC7B6E97F=I'm looking to swap pictures of my wife for some new garden furniture. Any takers? 
-0xC7B6E97F=
+0xC7B6E97F=我想用老婆的照片换一些庭院用的家具。有人换吗？
 
 ;0x036A062A=Borklight89 says...
-0x036A062A=
+0x036A062A=Borklight89说...
 
 ;0xB537D91D=One comment! I am a life chronicler. My album is penetrating social documentary! What's wrong with you people? How come that guy who draws funny faces on his penis get hundreds of comments?
-0xB537D91D=
+0xB537D91D=有人评论了！我是生活的记录者，我的相册是犀利的社会纪实！你们这些人怎么回事？怎么在鸡巴上画鬼脸的人能收到几百条评论？
 
 ;0x57A76A14=NAME:
 0x57A76A14=
@@ -209,32 +209,32 @@
 0xCFD9EED4=
 
 ;0x96584CAC= San Fierro
-0x96584CAC=
+0x96584CAC= 圣辉洛
 
 ;0x7FD75289=DESCRIPTION:
 0x7FD75289=
 
 ;0x28B6D58E= I like taking pictures on motorcycles. Whenever I am sick and tired, I flag down a guy on a chopper and let the adventure take me where it will. The pain the next morning is proof of the pudding. There is nothing more degrading than the unfulfilled life, and pictures help you find that. I AM OUT OF FUCKING CIGARRETTES. Listen, anyone who wants to get together. We can make music together. Rhythm so much that it hurts my eyes. Take a picture of me. Somebody.
-0x28B6D58E=
+0x28B6D58E= 我喜欢坐在摩托车上拍照。一旦不舒服了或是累了，我就会随便拦一辆摩托，来一场说走就走的冒险之旅。亲身体验过才能知道这是怎样的经历。虚无的人生是最可耻的人生，照片就能帮你认清这点。老！娘！没！烟！抽！了！听着，有人想见个面吗？我们可以一起创作音乐。用节奏伤害我的双眼。来个人给我拍张照吧。
 
 ;0x2310BBD3=Comments about PVCpipegirl's photos?
-0x2310BBD3=
+0x2310BBD3=评论一下PVCpipegirl的照片？
 
 ;0xC610766E=Muckypink says...
-0xC610766E=
+0xC610766E=Muckypink说...
 
 ;0xBAC9722D=OMGZZ THANX 4 UR GR8 PICZ! S00000 HOTTT. PlZZZ C0MMENT MINE!! RITE. BI!!!
-0xBAC9722D=
+0xBAC9722D=我的天哪，谢谢你的美图！太太太性感了。麻烦给我回评！！好啦，886！！！
 
 ;0xD8F6F00E=Holebandit9 says...
-0xD8F6F00E=
+0xD8F6F00E=Holebandit9说...
 
 ;0xB4E86FB5=I'm obsessed with you. Please post more pictures. Tell me where you live. You blow my mind.
-0xB4E86FB5=
+0xB4E86FB5=你迷住我了。请多发点图片。告诉我你住在哪儿。我满脑子都是你。
 
 ;0x5FC63560=PVCpipegirl says...
-0x5FC63560=
+0x5FC63560=PVCpipegirl说...
 
 ;0x80A37FB7=I'll blow more than your mind if you buy me a TV.
-0x80A37FB7=
+0x80A37FB7=给我买台电视，我让你浑身上下都是我。
 
