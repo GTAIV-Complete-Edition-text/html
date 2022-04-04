@@ -83,7 +83,7 @@
 0x7D3A9088=发表于 3 小时前
 
 ;0x115503CD=Sorry for not updating for so long but I've been dying of a broken heart. I'm hurt. I'm lost. I'm crying. I'm wet. Even pottery club cannot lift my spirits...
-0x115503CD=
+0x115503CD=很抱歉，一直没有更新，但我就要心碎而死了。我受伤了，我迷失了，我哭了，我湿了。就连陶艺社都不能让我打起精神...
 
 ;0xF92CD93D=Eddielowfilthslayer
 0xF92CD93D=
