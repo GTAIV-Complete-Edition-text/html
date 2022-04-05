@@ -71,7 +71,7 @@
 0xAAE037C3=发表于 1 小时前
 
 ;0xF0D1A3BB=Nobody reads your blog Melissa. And I'll tell you why. First off, you can't spell worth a shit. It's not teh. It's "the." And you mispronounce everything in real life too. It's not Jeeeeeeuuuum. It's gym...
-0xF0D1A3BB=
+0xF0D1A3BB=真没人看你的博客，Melissa。我告诉你为什么。首先，你连字都打不明白。不是「teh」，是「the」。而且你平常就是话都说不清楚。不是「Jeeeeeeuuuum」，是「gym」...
 
 ;0x4E7A1D13=Pychakilla
 0x4E7A1D13=
