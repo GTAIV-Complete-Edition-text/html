@@ -1,18 +1,18 @@
 ﻿;0x52F50EAE=Home
-0x52F50EAE=
+0x52F50EAE=首页
 
 ;0x52433BD9=How To Get Involved
-0x52433BD9=
+0x52433BD9=如何参与
 
 ;0x4FB4929D=Our Policy
-0x4FB4929D=
+0x4FB4929D=我们的政策
 
 ;0x4FB4929D=Our Policy
-0x4FB4929D=
+0x4FB4929D=我们的政策
 
 ;0xB740048A=We won't reveal too many policy secrets just yet, but trust us, we've got some great ideas that our opponents would steal if they knew them, including how to solve all of your problems. 
-0xB740048A=
+0xB740048A=目前我们不打算透露太多政策，但请相信我们，我们拥有真材实料的方案，一旦放出来就会被竞争对手剽窃，其中就有解决你所有问题的办法。
 
 ;0x2A7A668C=Privacy Policy  RSS  Site Map
-0x2A7A668C=
+0x2A7A668C=隐私政策   RSS订阅   网站导航
 
