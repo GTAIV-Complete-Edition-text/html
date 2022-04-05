@@ -35,7 +35,7 @@
 0x1455BD98=冰的咖啡－劲够大，味够足
 
 ;0x08CE695C=Do you feel restless, irritable and paranoid? Has your morning been dominated by panic attacks, mood swings, outbursts at strangers and psychotic behavior? Must be time for another coffee!
-0x08CE695C=你觉得自己疲劳，易怒和多疑吗？你是否经常在早晨出现急性焦虑，情绪波动，对陌生人大发雷霆等精神病行为？那你该来杯咖啡了！
+0x08CE695C=你觉得自己疲劳、易怒、多疑吗？你是否经常在早晨出现急性焦虑，情绪波动，对陌生人大发雷霆等精神病行为？那你该来杯咖啡了！
 
 ;0x83E41F56=www.beanmachinecoffee.com
 0x83E41F56=
