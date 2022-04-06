@@ -1,12 +1,12 @@
 ﻿;0xAAF14B10=Flush, burn, block!
-0xAAF14B10=
+0xAAF14B10=潮红，燃烧，阻拦！
 
 ;0xB1D42878=Lipurgex's revolutionary proprietary formula of caffeine, laxatives, diuretics, painkillers and the magic ingredient, On Fei Taa Ming, halts the hunger sensation in the brain while jacking you up so high you'll never want to come down again. Lipurgex's ground-breaking 'Dual Exit System' violently expels toxins from the body, and after a few hours we guarantee that you will no longer derive any pleasure from the taste of food. 
-0xB1D42878=
+0xB1D42878=Lipurgex独家的革命性配方包含咖啡因、泻药、利尿剂、止痛药，以及魔法原料On Fei Taa Ming。这一配方能够关闭大脑的饥饿感，还能让你精神亢奋，再也无法忍受平淡的生活。Lipurgex开创性的「双出口机制」能够激烈地排除身体中的毒素，包你几个小时后就再也无法从食物中获得快感。
 
 ;0x3CCC62D8=Take the 'Green for Go' pill in the morning and the 'Red for Stop' pill in the evening. This rollercoaster ride of heart-pumping stimulants that make you feel like you're running a marathon at your desk and brain-melting tranquilizers strong enough to put a rhino in a coma will give you the rapid weight loss results you so desperately want and need.
-0x3CCC62D8=
+0x3CCC62D8=白天吃一片「绿启动」，晚上吃一片「红停止」。这趟惊心动魄的兴奋剂过山车会让你明明坐在桌前，感觉却像在跑马拉松。融化大脑的强力镇静剂足以放倒犀牛，更能让你光速获得梦寐以求的减肥效果。
 
 ;0x58214E69=Join the Lipurgex revolution today!
-0x58214E69=
+0x58214E69=立刻加入Lipurgex的变革大军吧！
 
