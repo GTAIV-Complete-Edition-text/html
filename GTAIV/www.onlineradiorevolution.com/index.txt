@@ -8,7 +8,7 @@
 0x231EFD1D=Domestobot订购
 
 ;0x785F75EF=Lipurgex Pills
-0x785F75EF=Lipurgex减肥药
+0x785F75EF=Lipurgex减肥片
 
 ;0x97E751FD=Electric Tit Videos
 0x97E751FD=电子咪咪视频
