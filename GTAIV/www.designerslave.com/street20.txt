@@ -1,15 +1,6 @@
-﻿;0xF596456B=RUNWAY SLAVES
-0xF596456B=
-
-;0xFE002F52=STREET SLAVES 
-0xFE002F52=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
-;0x253401CC=Unstandard Issue 
-0x253401CC=
+﻿;0x253401CC=Unstandard Issue 
+0x253401CC=非标准问题
 
 ;0x762162F9=The denim specialists! Tanktop believes that they can charge four times as much for their jeans because they use colored stitching. We disagree! Our Tanktop replicas are made of denim-effect canvas and cost just $20!! They won't weigh you down in the rain! 
-0x762162F9=
+0x762162F9=牛仔布专家！Tanktop相信他们的裤子比普通裤子贵三倍，因为他们用了彩色缝线。我们不同意！我们的Tanktop高仿裤采用帆布制作，节省了牛仔布，还只要$20！！帆布不会在雨天拖垮你！
 
