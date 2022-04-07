@@ -1,3 +1,3 @@
 ﻿;0x20CB4480=Men's Bull Emic suits! $150 and under! If they were good enough for the German military, they are good enough for you! Only available in burgundy and lilac. Rare item! Limited stock!
-0x20CB4480=
+0x20CB4480=男款的Bull Emic西装！价格$150以下！德国军队穿了都说好，你穿了一定也很好！只有暗红色、淡紫色的库存。稀有商品！库存有限！
 

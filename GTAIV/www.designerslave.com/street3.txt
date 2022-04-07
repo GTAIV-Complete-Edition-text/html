@@ -1,6 +1,6 @@
 ﻿;0xE0F76466=What Time Is It? 
-0xE0F76466=
+0xE0F76466=现在是几点？
 
 ;0x149168AB=Roll like your favorite hip hop star in a pair of 1620 extra-baggy jeans. Designed to be worn around the knees. $45!!!! These are the real deal! Stolen this morning beatch!! (see - we can be down)
-0x149168AB=
+0x149168AB=穿上1620的超宽松牛仔裤，和你喜欢的嘻哈明星一样拉风。按拉到膝盖附近设计。$45！！！！真的超划算！今早刚偷的！！(嘘，当心警察)
 

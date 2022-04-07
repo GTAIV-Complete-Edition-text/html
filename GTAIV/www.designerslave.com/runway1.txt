@@ -1,6 +1,6 @@
 ﻿;0xE68F1511=RUNWAY SLAVES 
-0xE68F1511=
+0xE68F1511=名牌大甩卖
 
 ;0xBE1E9EF7=Bringing luxury to the tasteless masses! Perseus sells more than just astronomically-priced silk scarves! We have Perseus-inspired ties in durable polyester for just $6! They look just like the real thing!
-0xBE1E9EF7=
+0xBE1E9EF7=将奢侈送入千家万户！神之子服饰出售的不仅是天文数字价格的真丝围巾！只要$6，就能买到采用聚酯纤维制成的神之子同款领带！看起来和真货一模一样！
 
