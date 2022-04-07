@@ -1,9 +1,9 @@
 ﻿;0x2565D274=Don't miss our wide selection of stores, including:
-0x2565D274=
+0x2565D274=不要错过我们品种多样的商店，包括：
 
 ;0x9F93824C=A unique store for the man in you.
-0x9F93824C=
+0x9F93824C=这家特殊的商店能够解放你心中的小人。
 
 ;0xCF465A4A=Featuring custom made conceal kits, makeup and jewelry, hormones, wigs and more!
-0xCF465A4A=
+0xCF465A4A=提供自制遮瑕套装、化妆品、首饰、激素、假发，等等等等！
 
