@@ -1,13 +1,4 @@
-﻿;0xF596456B=RUNWAY SLAVES
-0xF596456B=
-
-;0xFE002F52=STREET SLAVES 
-0xFE002F52=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
-;0x44BBF943=Just Say You Did It
+﻿;0x44BBF943=Just Say You Did It
 0x44BBF943=
 
 ;0x62BEC974=Fruntalot streetwear is for players who don't take any shit! Check out our ostentatiously-decorated zip-up hoodies for just $55!! Perfect for hanging out at the mall or trying to get over the fact that you're a violent pimpled shithead and everyone hates you. Will be sold out tomorrow!! 

@@ -1,12 +1,3 @@
-﻿;0xF596456B=RUNWAY SLAVES
-0xF596456B=
-
-;0xFE002F52=STREET SLAVES 
-0xFE002F52=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
-;0x32A47823=Skeeza is the latest in hip hop fashion for girls with curves. Designer Slave has pink velour jumpsuits with fur trim for $25!!! Up to size 30!!! Look hoochie. Best worn with a lot of make-up, enormous nails with murals painted on each one, and a fat gut.
+﻿;0x32A47823=Skeeza is the latest in hip hop fashion for girls with curves. Designer Slave has pink velour jumpsuits with fur trim for $25!!! Up to size 30!!! Look hoochie. Best worn with a lot of make-up, enormous nails with murals painted on each one, and a fat gut.
 0x32A47823=
 

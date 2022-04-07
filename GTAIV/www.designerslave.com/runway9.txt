@@ -1,13 +1,4 @@
-﻿;0xF596456B=RUNWAY SLAVES
-0xF596456B=
-
-;0xA6A66E86=STREET SLAVES
-0xA6A66E86=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
-;0x29668510=Style Gurus 
+﻿;0x29668510=Style Gurus 
 0x29668510=
 
 ;0x2C741614=Eclectic Japanese design! Designer Slave has a large stock of Yogarishima summer pants with experimental pleating. Nobody wanted them five seasons ago but they are a steal at $70! Freak sizes only.

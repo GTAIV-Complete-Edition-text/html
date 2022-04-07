@@ -1,12 +1,3 @@
-﻿;0xE68F1511=RUNWAY SLAVES 
-0xE68F1511=
-
-;0xFE002F52=STREET SLAVES 
-0xFE002F52=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
-;0x8D0AB241=Miss T specializes in super-skinny jeans with sequined logos across the butt! Purge for a couple of months and you might just fit into a pair. Special offer - $45!!! $150 in the stores!! Remember, men like words across women's asses. Or targets.
+﻿;0x8D0AB241=Miss T specializes in super-skinny jeans with sequined logos across the butt! Purge for a couple of months and you might just fit into a pair. Special offer - $45!!! $150 in the stores!! Remember, men like words across women's asses. Or targets.
 0x8D0AB241=
 

@@ -1,12 +1,3 @@
-﻿;0xF596456B=RUNWAY SLAVES
-0xF596456B=
-
-;0xA6A66E86=STREET SLAVES
-0xA6A66E86=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
-;0xBC97FDD2=Have you always dreamt of owning one of Le Chien's signature little black dresses? Buy now for only $200!  Bargain of the century! Worn once with a small semen stain. Make sure that your rear-end is high-end! For women who like to live on lettuce and vodka.
+﻿;0xBC97FDD2=Have you always dreamt of owning one of Le Chien's signature little black dresses? Buy now for only $200!  Bargain of the century! Worn once with a small semen stain. Make sure that your rear-end is high-end! For women who like to live on lettuce and vodka.
 0xBC97FDD2=
 

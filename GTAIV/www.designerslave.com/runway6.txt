@@ -1,12 +1,3 @@
-﻿;0xE68F1511=RUNWAY SLAVES 
-0xE68F1511=
-
-;0xA6A66E86=STREET SLAVES
-0xA6A66E86=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
-;0x4891EA32=There are so many Didier Sachs knock-offs out there now that nobody knows what the real thing is any more! Why spend $300 when you can get a near-perfect replica for $15?! Designer Slave has an unparalleled selection of Didier Sachs sunglasses with massive metal logos on the side! Worn on Milan catwalks and in the ghetto.
+﻿;0x4891EA32=There are so many Didier Sachs knock-offs out there now that nobody knows what the real thing is any more! Why spend $300 when you can get a near-perfect replica for $15?! Designer Slave has an unparalleled selection of Didier Sachs sunglasses with massive metal logos on the side! Worn on Milan catwalks and in the ghetto.
 0x4891EA32=
 

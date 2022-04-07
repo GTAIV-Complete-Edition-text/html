@@ -1,12 +1,6 @@
 ﻿;0xE68F1511=RUNWAY SLAVES 
 0xE68F1511=
 
-;0xA6A66E86=STREET SLAVES
-0xA6A66E86=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
 ;0xBE1E9EF7=Bringing luxury to the tasteless masses! Perseus sells more than just astronomically-priced silk scarves! We have Perseus-inspired ties in durable polyester for just $6! They look just like the real thing!
 0xBE1E9EF7=
 

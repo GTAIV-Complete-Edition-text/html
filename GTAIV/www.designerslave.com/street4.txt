@@ -1,12 +1,3 @@
-﻿;0xF596456B=RUNWAY SLAVES
-0xF596456B=
-
-;0xA6A66E86=STREET SLAVES
-0xA6A66E86=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
-;0x30D18B98=Tree has made millions off of middle-class white kids who want to look gangster on the weekends. Prep-hop polo shirts for $30!!! Buy now - only 1 left!!
+﻿;0x30D18B98=Tree has made millions off of middle-class white kids who want to look gangster on the weekends. Prep-hop polo shirts for $30!!! Buy now - only 1 left!!
 0x30D18B98=
 

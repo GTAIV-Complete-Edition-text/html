@@ -1,12 +1,3 @@
-﻿;0xF596456B=RUNWAY SLAVES
-0xF596456B=
-
-;0xA6A66E86=STREET SLAVES
-0xA6A66E86=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
-;0x35DC3075=For shallow people with deep pockets!  Don't pay through the ass for Enema shoes! Our faux-leather rip-offs will fool even the most tragic fashionista. Make a statement. Be tomorrow, not yesterday!
+﻿;0x35DC3075=For shallow people with deep pockets!  Don't pay through the ass for Enema shoes! Our faux-leather rip-offs will fool even the most tragic fashionista. Make a statement. Be tomorrow, not yesterday!
 0x35DC3075=
 

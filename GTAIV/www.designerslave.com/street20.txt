@@ -1,13 +1,4 @@
-﻿;0xF596456B=RUNWAY SLAVES
-0xF596456B=
-
-;0xFE002F52=STREET SLAVES 
-0xFE002F52=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
-;0x253401CC=Unstandard Issue 
+﻿;0x253401CC=Unstandard Issue 
 0x253401CC=
 
 ;0x762162F9=The denim specialists! Tanktop believes that they can charge four times as much for their jeans because they use colored stitching. We disagree! Our Tanktop replicas are made of denim-effect canvas and cost just $20!! They won't weigh you down in the rain! 

@@ -1,13 +1,4 @@
-﻿;0xE68F1511=RUNWAY SLAVES 
-0xE68F1511=
-
-;0xA6A66E86=STREET SLAVES
-0xA6A66E86=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
-;0xCBBCA58B=Be Nothing. 
+﻿;0xCBBCA58B=Be Nothing. 
 0xCBBCA58B=
 
 ;0x2B6CB864=You have seen the homoerotic ads! Blur the gender roles with these ball-hugging men's boxer briefs.  $10 on Designer Slave! Make sure that the label is visible when you wear them with jeans. If your pants are falling down, you're going somewhere in life. 

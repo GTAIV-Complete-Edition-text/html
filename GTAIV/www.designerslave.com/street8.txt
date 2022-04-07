@@ -1,13 +1,4 @@
-﻿;0xF596456B=RUNWAY SLAVES
-0xF596456B=
-
-;0xFE002F52=STREET SLAVES 
-0xFE002F52=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
-;0x42B39B24=Airtight Apparel 
+﻿;0x42B39B24=Airtight Apparel 
 0x42B39B24=
 
 ;0x7090039A=Double P is the hip hop brand that is taking over Middle America! Designer Slave intercepted a huge shipment of Double P t-shirts that we must move today! Always order 5 sizes too big. Special low price of $10!!! 
