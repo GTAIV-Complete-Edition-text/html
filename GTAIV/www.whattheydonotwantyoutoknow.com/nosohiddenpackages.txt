@@ -1,6 +1,6 @@
 ﻿;0xE2CBA278=Not So Well Hidden Package Locations 
-0xE2CBA278=
+0xE2CBA278=隐藏包裹藏得不太好
 
 ;0xC2954BC2=Back
-0xC2954BC2=
+0xC2954BC2=返回
 

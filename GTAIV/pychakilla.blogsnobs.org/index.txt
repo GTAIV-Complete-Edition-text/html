@@ -1,99 +1,66 @@
-﻿;0x04E72159=Username:
-0x04E72159=
-
-;0x75CFD727= Pychakilla     
+﻿;0x75CFD727= Pychakilla     
 0x75CFD727=
 
-;0xB0BACC87=Sex:
-0xB0BACC87=
-
 ;0xC0952D8D= Female     
-0xC0952D8D=
-
-;0x6C1F83B4=Location:
-0x6C1F83B4=
+0xC0952D8D= 女
 
 ;0x100FF0C5= Las Venturas     
-0x100FF0C5=
-
-;0xD0F33C72=Age:
-0xD0F33C72=
-
-;0x3F398D1F=Profession:
-0x3F398D1F=
+0x100FF0C5= 拉斯文加斯
 
 ;0x442D278D= College student     
-0x442D278D=
-
-;0xCA6ED4BF=Appearance:
-0xCA6ED4BF=
+0x442D278D= 大学生
 
 ;0x48D750C9= Curly brown hair, pretty summer dresses, white pumps, girly smile, eyes of steel.     
-0x48D750C9=
-
-;0x0EEC57CE=Interests:
-0x0EEC57CE=
+0x48D750C9= 棕色卷发、漂亮的夏日裙、白色高跟鞋、少女般的微笑、坚毅的眼神
 
 ;0x551667B2= Pottery, poetry, civil war reenactments, animals    
-0x551667B2=
-
-;0x7D3A9088=UPDATED - 3 HOURS AGO
-0x7D3A9088=
+0x551667B2= 陶艺、诗歌、南北战争重演、动物
 
 ;0x6212477B=Big sigh!!!!!    
-0x6212477B=
+0x6212477B=唉唉唉唉唉唉唉唉唉唉！！！！！
 
 ;0x6ECB8769=Sorry for not updating for so long but I've been dying of a broken heart.  I'm hurt.  I'm lost.  I'm crying.  I'm wet.  Even pottery club cannot lift my spirits.  Smashing your face into a tray of wet clay really captures the essence of pain.  I'm finding it so hard to get over Jack and I've starting sucking my thumb again.  He hasn't returned any of my calls ssince I cut up his clothes and peed in his car and even his mother seems to have changed her phone number.  Everyone on campus is calling me a psycho bitch.  I dont know why.  I think rolling around in the campus fountain in tears says a lot about loss.  He's such a bastard and hes ruined my life but I still love him more than anything in the world.  Nobody will ever love him more than me.  Not even a three legged poodle.    
-0x6ECB8769=
+0x6ECB8769=很抱歉，一直没有更新，但我就要心碎而死了。我受伤了，我迷失了，我哭了，我湿了。就连陶艺社都不能让我打起精神。整张脸撞到湿黏土盘子里，就这样捕捉到痛苦的瞬间。我根本放不下Jack，吸大拇指的毛病又犯了。剪碎了他的衣服，在他车里拉尿之后，他就再没接过我的电话了，就连他母亲都换了号码。学校里的人都管我叫疯婆娘，也不知道为什么。我想光是流着泪在学校的喷泉边徘徊就能说明心碎的程度了。他就是个混蛋，毁掉了我的生活，但我爱他依然胜过世上的一切。没有人比我更加爱他。三条腿的泰迪也没我爱他。
 
 ;0x608F3E52=I keep getting depressed for NO FRIGGIN REASON other than I'm out of pills.  My hamster and goldfish aren't doing it.  Frigid little shits.  I need a ginseng enema or something, cause Wednesday I spent thae day staring at the ceiling and looking at my pink nightstand and wanting to throw up from all the chocolate I ate.  I watched some documentary where elephants have sex.  ELEPHANTS HAVE HUGE ONES.  The say elephants never forget, but I don't think I'll forget seeing that either.  I would have gotten excited, but watching elephants do it reminds me of the time I walked in on my parents and then I start to cry.  Mom made me promise to stop joking about it on holidays by picking up the cat and humping it.  She did.  Sound.  Just.  Like.  A.  Cat.   It's why I hate cats.      Tomorrow I meet Sitva to study.  He and I are in the same Poly Sci class and I can't understand a word he says in pastafarian or Spanglish or Heswalli or whatever language it is, but I can tell you if he didn't have such massive acne I'd totally do him. ^o^ *lol*        I don't know why, but I felt like posting right now, even though I'm supposed to be at the library, yet here I am, writing.  Shakespeare must have had a blog, because every word feels like it's a piece of my soud.  I took a long hot bath and let the water glisten on my body, but that got boring.
-0x608F3E52=
-
-;0x7FDA5DC5=UPDATED - 6 DAYS AGO
-0x7FDA5DC5=
+0x608F3E52=一直抑郁，唯一的原因就是药吃完了。仓鼠和金鱼也不能让我振作起来。杀了他妈了。必须得做个人参灌肠了，周三盯着天花板和粉色床头柜看了一天，想把吃下去的所有巧克力都吐出来。我看了一部大象交配的纪录片。大象真几把大啊。他们说大象记性很好，但我应该也忘不掉它们有多大了。按理说我应该感到兴奋的，但大象交配的画面让我想起闯进父母房间的场景了，当时我就哭了。妈妈让我别在假期拿这件事开玩笑，她挑了只猫，操了它。真的。听。上。去。就。是。猫。所以我才讨厌猫。明天我要和Sitva学习。我们的高分子是同一个班。他说那个意面语还是西班英语还是什么希斯瓦里语的时候我一个字都听不懂，不过说句实话，要不是他脸上痘痘太多，我就已经被他迷倒了 ^o^ www 不知道为什么，但我现在就想更新，哪怕现在应该去的是图书馆，不过最后还是选择了写博客。莎士比亚一定有过博客，因为他的每一个字都像是我灵魂的碎片。我泡了好久热水澡，看着水滴在身体上闪闪发光，但很快就没意思了。
 
 ;0x9344CBA4=NOOOOOOOOOOO!!!!!!!!!  MY LIFE SUCKS!!!  I am drowning in a sea of misery and hate and seagull shit.  Jack dumped me today.  I thought that he was going to propose when he told me to sit down but he called me a demented schizo and said he would call the police if I ever tried to contact him again.  I don't undertsand.  i surround him with love and he backs away.  I send him used intimate clothing and he burns it.  I shower him with affection and tracking beacons and he tears out my heart and stamps it on the floor.  How could you throw away something so special, Jack?  Don't all men want a woman chasing them?  I thought we were going to spend the rest of our lives toogether.  My horoscope said so.      
-0x9344CBA4=
+0x9344CBA4=不不不不不不！！！！！！！！！我的人生好糟！！！我陷入了痛苦、怨恨和海鸥屎的海洋。Jack今天把我甩了。叫我坐下的时候，我还以为他要跟我求婚了，但他说我脑子有病，还说我要是再联系他，他就要报警了。我不明白。我付出了全身心的爱，他却逃跑了。我把穿过的贴身衣物送给了他，他却直接烧了。我用爱情浇灌他，给他装上了追踪器，他却撕碎了我的心，还狠狠地踩了几脚。你怎么能扔掉这么特殊的东西，Jack？男人不是都想被女人追吗？我还以为我们会共度余生，我的占卜结果就是这么说的。
 
 ;0x97F52FB1=Im in a really bad place right now.  Jail.  Thanks god they have wifi.  I keep getting flashbacks to that day on the farm when the baby calf was born and those two sheep dogs ate the afterbirth.      
-0x97F52FB1=
+0x97F52FB1=我现在在一个很糟的地方。监狱。谢天谢地这里有wifi。农场的那两只牧羊犬吃掉小牛胎盘的画面不停地在我脑海里闪现。
 
 ;0x83543424=I hate you Jack.  I hate you Jack.  I hate you Jack.  But I love you.  You wont get rid of me that easily.  I will win you back.  I will straddle your face with my heart and suffocate you with my desire.  I will find you and make you want me again.  Maybe I'll tell him that im pregnant?
-0x83543424=
-
-;0xFE11606C=UPDATED - 7 DAYS AGO
-0xFE11606C=
+0x83543424=我恨你，Jack。我恨你，Jack。我恨你，Jack。但是我爱你。你别想就这样摆脱我。我会夺回你的。我会用真心击穿你的面孔，用欲望让你窒息。我会找到你，让你对我的感情复燃的。也许该告诉他我怀上了？
 
 ;0x72085C18=I just had that recurring dream that I am being chased by horses through a field of marshmellows with a pair of scissors in my hand.  What does it mean???!!!  And what does it mean when I find marshmallows in my bed?    
-0x72085C18=
+0x72085C18=又梦到那个拿着剪刀在棉花糖上被一群马追的场景了。到底是什么意思？？？！！！最后真的在床上找到了棉花糖又是什么意思？
 
 ;0x55A563A8=WTF!!  I had a few replies to my post asking for feedbackt on high school. I have to admit I was a little shocked at some of the responses.  Clingy?  Unhinged?  Overbearing?  Possessive?  How many times do I need to say sorry for what happened to Randy?  And Brian.  And Terry, I suppose.  Youre all just jealous.    
-0x55A563A8=
+0x55A563A8=什么鬼！！有人在私信里发了高中时对我的看法。不得不说，有些内容我看了以后还是有点吃惊的。黏人？精神失常？傲慢？占有欲强？还想让我为Randy的事道歉多少次？可能还得给Brian和Terry道歉吧。我看你们就是嫉妒我。
 
 ;0x3CC907A6=I wanted to surprise Jack today and let myself into his dorm room with the key that I copied when he was at soccer practice.  You should have seen his face when he switched on the light to find me sitting in his armchair dressed in his clothes!!!  I LUV him so much.    I keep bursting into hysterics for no reason.  I hope that Jack finds it simply adorable.    
-0x3CC907A6=
+0x3CC907A6=之前Jack在训练足球，我趁机配了把他的寝室钥匙。今天就用上了，我溜进他的寝室，给他准备了一个惊喜。我穿着他的衣服，坐在他的椅子上。你们真该看看他打开灯发现我在房间里时的神情！！！我太爱他了。我经常会莫名其妙的开始发狂，希望Jack会接纳喜欢这样的我。
 
 ;0x17A84883=I thought you might want to know my five favorite flavors of coffee:    
-0x17A84883=
+0x17A84883=我觉得你们可能想知道我最喜欢的五款咖啡：
 
 ;0xBA87E0AE=Vanilla Brownie    
-0xBA87E0AE=
+0xBA87E0AE=香子兰布朗尼
 
 ;0x347448DE=Orange Sherbert    
-0x347448DE=
+0x347448DE=橙汁冰糕
 
 ;0x8C2C8EB2=Chocolate Hazelnut    
-0x8C2C8EB2=
+0x8C2C8EB2=榛仁巧克力
 
 ;0x6ABC9DA9=Banana Peanut Butter    
-0x6ABC9DA9=
+0x6ABC9DA9=花生酱香蕉三明治
 
 ;0x60A9B913=Praline Pecan    
-0x60A9B913=
+0x60A9B913=核桃果仁糖
 
 ;0x9DCEC5D8=Bye for now!!!!XX
-0x9DCEC5D8=
-
-;0x63A064A0=(PREVIOUS POSTS)
-0x63A064A0=
+0x9DCEC5D8=就写到这儿啦！！！！亲亲
 

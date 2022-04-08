@@ -1,66 +1,12 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0xB56CC71B=>classes
-0xB56CC71B=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x0561DA07=CLASSES
-0x0561DA07=
-
-;0x32DD4BC3=Are you crappy at darts?  Do you feel emasculated at the pub?   
-0x32DD4BC3=
+﻿;0x32DD4BC3=Are you crappy at darts?  Do you feel emasculated at the pub?   
+0x32DD4BC3=你玩飞镖很烂吗？进酒馆就觉得自己是太监？
 
 ;0x1009FD36=(Willis) 
 0x1009FD36=
 
 ;0x89396C1D=Extremely functional alcoholic offers darts lessons in Willis.  Mornings preferred.  4 pints and chasers per hour.
-0x89396C1D=
+0x89396C1D=非常厉害的酒鬼在Willis提供飞镖教学。最好白天来。学费每小时4品脱酒 + 酒后汽水。
 
 ;0x64AC6856=PostingID: 61001236418
-0x64AC6856=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x64AC6856=帖子ID：61001236418
 

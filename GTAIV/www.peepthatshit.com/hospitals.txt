@@ -1,25 +1,4 @@
-﻿;0xD2256295=Westdyke Hospital
-0xD2256295=
-
-;0xCC230936=Holland Hospital Center
-0xCC230936=
-
-;0xF71D9317=Easton Medical Center
-0xF71D9317=
-
-;0x4EF446AB=Bohan Medical & Dental Center 
-0x4EF446AB=
-
-;0x508E69F7=Schottler Medical Center
-0x508E69F7=
-
-;0x2A6FCE5F=Cerveza Heights Medical Center
-0x2A6FCE5F=
-
-;0x35341BF7=North Tudor Hospital Center
-0x35341BF7=
-
-;0x400BCC80=Grotti
+﻿;0x400BCC80=Grotti
 0x400BCC80=
 
 ;0x3FA16D2D=Autoeroticar
@@ -27,46 +6,4 @@
 
 ;0x8DD5CC45=Big Paulie's Budget Cars
 0x8DD5CC45=
-
-;0x2B40263B=The Celtica
-0x2B40263B=
-
-;0x8F67E44C=The Majestic
-0x8F67E44C=
-
-;0x8604EF68=Grand Northumbrian
-0x8604EF68=
-
-;0x8F37641E=Pythagoras Apartments
-0x8F37641E=
-
-;0xFCCEE5D6=The Big House
-0xFCCEE5D6=
-
-;0xC8ADFB6F=The Abattoir Apartments
-0xC8ADFB6F=
-
-;0xF0A80F74=Bell Tower Apartments
-0xF0A80F74=
-
-;0x50D76B44=The Matterhorn
-0x50D76B44=
-
-;0xDE9E5A57=Hotel Uberbrucker
-0xDE9E5A57=
-
-;0x1BC32DBB=Goering Hotels
-0x1BC32DBB=
-
-;0xDA50605A=The Nicoise
-0xDA50605A=
-
-;0x9910DA6B=The Emissary
-0x9910DA6B=
-
-;0x75D9620A=Opium Nights
-0x75D9620A=
-
-;0x1664E822=The Libertine
-0x1664E822=
 

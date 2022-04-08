@@ -1,51 +1,9 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x9D8C3A25=>women seeking men
-0x9D8C3A25=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3A8FADC1=missed connections
-0x3A8FADC1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x0AEAFDB3=WOMEN SEEKING MEN 
-0x0AEAFDB3=
-
-;0x9BD6A149=Do you like them big?  - 23
-0x9BD6A149=
-
-;0xFB1EA082=(Northwood)
-0xFB1EA082=
+﻿;0x9BD6A149=Do you like them big?  - 23
+0x9BD6A149=你喜欢大的吗？ - 23
 
 ;0x19C4BC8B=Are you a foot fetishist?  Do you like women with large feet?  I'm a fit, fun, attractive brunette but most men run a mile as soon as they catch a glimpse of my size 15s.  What's the big deal?  And what I am supposed to do?  It's not like there are foot reduction operations out there.  I'm stuck with these slabs of meat forever.  Men show off their big feet like a badge of honor but I am treated like some kind of circus freak.  And so what if my second toe is as long as your middle finger?  I can't help it if my toes look like a bunch of bananas.  There must be some guys out there who are turned on by a pair of fleshy flippers?????? 
-0x19C4BC8B=
+0x19C4BC8B=你是足控吗？你喜欢大脚女人吗？我是一个健康、风趣、有魅力的黑发女性，但只要被男人看见我48码的脚，他们就跑了。脚大怎么了？我能怎么办嘛？现在又没地方做缩脚手术，我这辈子都得跟这两摊肉过了。男人有大脚值得骄傲，我反倒成了马戏团的怪物。我的二脚趾跟你的中指一样长怎么了？又不是我想让脚趾头长得像串香蕉的。一定会有人喜欢肉肉的大脚板吧？？？？？？
 
 ;0x31A8A4AD=PostingID: 562030472
-0x31A8A4AD=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x31A8A4AD=帖子ID：562030472
 

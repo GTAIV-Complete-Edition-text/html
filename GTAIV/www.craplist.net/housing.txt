@@ -1,96 +1,45 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3B0CB221=>
+﻿;0x3B0CB221=>
 0x3B0CB221=
 
-;0x71036CBC=housing
-0x71036CBC=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
 ;0xF152F95C=HOUSING
-0xF152F95C=
+0xF152F95C=房产
 
 ;0x9BC83D05=Who wants to hunker down in my bunker?
-0x9BC83D05=
+0x9BC83D05=有人想来我的堡垒避难吗？
 
 ;0xD763C18B= (Charge Island) 
-0xD763C18B=
+0xD763C18B= (Charge岛)
 
 ;0xB6BE937A=$1200 1 furnished room for rent
-0xB6BE937A=
+0xB6BE937A=$1200 出租一个装修好的房间
 
 ;0x5B30EAD0= (Hatton Gardens) 
 0x5B30EAD0=
 
 ;0xDBD09BAA=$500 Need hot female roommate.  Heavy drinker preferred
-0xDBD09BAA=
+0xDBD09BAA=$500 招一个女室友，越能喝越好
 
 ;0xF6F80816= (Suffolk) 
 0xF6F80816=
 
 ;0xBE729D45=$225,000 3 bed/2 bath haunted house.  Price reduced for quick sale
-0xBE729D45=
-
-;0x0493407C= (Little Bay)
-0x0493407C=
+0xBE729D45=$225,000 三卧二卫的鬼屋，低价急出
 
 ;0xD821DA0D=$800 / Manic depressive children's entertainer seeks roommate
-0xD821DA0D=
+0xD821DA0D=$800 / 狂躁抑郁的逗孩子艺人寻找室友
 
 ;0x09E7237C= (Schottler) 
 0x09E7237C=
 
 ;0x558679D5=$750 Panic room for rent
-0x558679D5=
+0x558679D5=$750 出租避难室
 
 ;0x31FEEC7B= (Downtown Broker) 
 0x31FEEC7B=
 
 ;0x13F3B8C4=$2600 / 1BR - Really shitty apartment with hot neighbors
-0x13F3B8C4=
+0x13F3B8C4=$2600 / 独卧 - 公寓很烂，邻居很烧
 
 ;0xD5CE7F3A= (Presidents City) 
 0xD5CE7F3A=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

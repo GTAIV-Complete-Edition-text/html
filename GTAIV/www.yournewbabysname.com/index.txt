@@ -1,15 +1,15 @@
 ﻿;0x438DD99D=Tempting as it is to use the first words that come to mind when you find out about the pregnancy, your child will not thank you for the name "Shit", "You're Kidding Right?" or "Take Care Of It!".    
-0x438DD99D=
+0x438DD99D=得知自己怀孕，用当时想到的第一句话给孩子取名好像很有趣。但你的孩子可不会喜欢「我操」「开玩笑吧？」「差不多得了」。
 
 ;0xA7D4CC36=In the past few years, unique and wacky baby names have become the latest hipster trend and have proven a surefire way of ensuring that a child grows up to be successful and famous.  
-0xA7D4CC36=
+0xA7D4CC36=过去几年中，给孩子起个独特有趣的名字成为了最新的嬉皮士潮流，更是确保孩子长大以后能够成功、成为名人的可靠方法。
 
 ;0x5BD5E92B=Unimaginative names like Daniel, John, or Stacy just don't cut it anymore and frankly lead to confusion about sexuality.  So, if you have run out of ideas, throw out that Bible and get creative.
-0x5BD5E92B=
+0x5BD5E92B=Daniel、John、Stacy之类缺乏创意的名字再也不合适了，更会让人产生与性相关的联想。所以如果你想不出名字，扔掉圣经，看看有想法的名字吧。
 
 ;0x927671FF=A boring name results in a boring child. Condemn them to a lifetime of ridicule and beatings instead! 
-0x927671FF=
+0x927671FF=无聊的名字会让孩子成为无聊的人。赋予他们一辈子的嘲笑与快感吧！
 
 ;0x3FD2D41A=If it is good enough for celebrities, it is good enough for you. 
-0x3FD2D41A=
+0x3FD2D41A=既然这些名字对名人来说很好，那么对你来说也一定很好。
 

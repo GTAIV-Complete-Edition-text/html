@@ -1,63 +1,63 @@
 ﻿;0xAA09B2D6= Call here for some sweet rides!
-0xAA09B2D6=
+0xAA09B2D6=打电话获取精美载具！
 
 ;0xC2954BC2=Back
-0xC2954BC2=
+0xC2954BC2=返回
 
 ;0xCA0A06F0= If you're looking for some sweet transportation, you'd be wise to call these numbers.                
-0xCA0A06F0=
+0xCA0A06F0=如果你在找漂亮车子的话，你一定会想打这些电话的。
 
 ;0x7B30AFD2= If you want a Cognescenti, call:
-0x7B30AFD2=
+0x7B30AFD2=如果你想要一辆Cognoscenti，拨打：
 
 ;0xC8114A9D=CAR-555-0142
-0xC8114A9D=
+0xC8114A9D=CAR-555-0142
 
 ;0xC33A27CD= Want a Sanchez bike, call:
-0xC33A27CD=
+0xC33A27CD=想要一辆Sanchez摩托车，拨打：
 
 ;0x72AFCE68=MBK-555-0150
-0x72AFCE68=
+0x72AFCE68=MBK-555-0150
 
 ;0xECD57771= Get yourself an FIB Buffalo:
-0xECD57771=
+0xECD57771=搞一辆FIB的Buffalo：
 
 ;0x2E075DD3=CAR-555-0100
-0x2E075DD3=
+0x2E075DD3=CAR-555-0100
 
 ;0x51A7FBE0= Hook up a Turismo by calling:
-0x51A7FBE0=
+0x51A7FBE0=呼叫一辆Turismo，拨打：
 
 ;0xC31142BE=CAR-555-0147
-0xC31142BE=
+0xC31142BE=CAR-555-0147
 
 ;0x999E500F= Want an NRG900?  Then call this number:
-0x999E500F=
+0x999E500F=想要NRG900吗？那就打这个号码：
 
 ;0xF0BBCDB5=MBK-555-0100
-0xF0BBCDB5=
+0xF0BBCDB5=MBK-555-0100
 
 ;0x6775B74C= Get yourself a super fast Comet here:
-0x6775B74C=
+0x6775B74C=用这个搞一辆超快的Comet：
 
 ;0xB10A6AA3=CAR-555-0175
-0xB10A6AA3=
+0xB10A6AA3=CAR-555-0175
 
 ;0x29097F56= Everyone loves to SuperGT. Get one here:
-0x29097F56=
+0x29097F56=大家都喜欢SuperGT吧。用这个搞一辆：
 
 ;0xC20CC3FD=CAR-555-0168
-0xC20CC3FD=
+0xC20CC3FD=CAR-555-0168
 
 ;0x75B8CB60= Get your hands on this chopper:
-0x75B8CB60=
+0x75B8CB60=来开直升机吧：
 
 ;0xCC56BFF6=FLY-555-0100
-0xCC56BFF6=
+0xCC56BFF6=FLY-555-0100
 
 ;0x1FF69205= You don't need land with a Jetmax. Call:
-0x1FF69205=
+0x1FF69205=有一艘Jetmax的话，就不用上岸了。拨打：
 
 ;0x5CD6BAED=WET-555-0100
-0x5CD6BAED=
+0x5CD6BAED=WET-555-0100
 

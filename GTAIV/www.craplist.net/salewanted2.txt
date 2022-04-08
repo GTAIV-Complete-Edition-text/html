@@ -1,69 +1,9 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x7DFD8D83=>sale&wanted
-0x7DFD8D83=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x074F3216=SALE / WANTED
-0x074F3216=
-
-;0xE36F7850=Unlucky bed, 6 months old, $400 for quick sale
-0xE36F7850=
-
-;0x74F9EE9C=(Tudor)
-0x74F9EE9C=
-
-;0x4B02AD79=I've got to get rid of this bed.  Don't get me wrong - it's a great piece of furniture: sturdy frame, memory foam mattress, mahogany headboard.  I was so excited when I bought it.  I couldn't wait to put it through its paces with the first drunken college chick I could find.  Then it happened.  My mojo was gone.  I haven't had any action for over 6 months!  Not a sniff.  My game has completely fallen apart.  I've crashed and burned more times than Samantha Muldoon's career.  Even fat chicks have been passing me up!  Why did I throw my smelly old futon into the river?!!  It can't be a coincidence.  That bed is jinxed.  
-0x4B02AD79=
+﻿;0x4B02AD79=I've got to get rid of this bed.  Don't get me wrong - it's a great piece of furniture: sturdy frame, memory foam mattress, mahogany headboard.  I was so excited when I bought it.  I couldn't wait to put it through its paces with the first drunken college chick I could find.  Then it happened.  My mojo was gone.  I haven't had any action for over 6 months!  Not a sniff.  My game has completely fallen apart.  I've crashed and burned more times than Samantha Muldoon's career.  Even fat chicks have been passing me up!  Why did I throw my smelly old futon into the river?!!  It can't be a coincidence.  That bed is jinxed.  
+0x4B02AD79=必须得把这张床处理掉。别误会了，作为家具它还是不错的：结实的支架、记忆床垫、红木床头板。刚到手的时候我还很兴奋，迫不及待地想找个喝醉的学生妹上床测试一下，结果就出事了。我的桃花运没了，足足半年没约到姑娘！碰都没碰到过一下。我的人生彻底完了。惨败而归的次数比Samantha Muldoon还多。连那些胖妞都不搭理我了！怎么就把那张有股味儿的旧沙发床扔河里了呢？！！一定不是巧合，这张床自带厄运。
 
 ;0xE6F01141=Hopefully you'll have better luck than me. 
-0xE6F01141=
+0xE6F01141=希望你的运气比我好。
 
 ;0x42B038B8=PostingID: 424569451
-0x42B038B8=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x42B038B8=帖子ID：424569451
 

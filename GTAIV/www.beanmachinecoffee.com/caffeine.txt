@@ -1,39 +1,12 @@
-﻿;0x52F50EAE=Home
-0x52F50EAE=
-
-;0x244E8099=Specials
-0x244E8099=
-
-;0xAD935D05=Cup Sizes
-0xAD935D05=
-
-;0xC46A285A=Franchising Opportunities
-0xC46A285A=
-
-;0x951A1C18=Buy Our Coffees
-0x951A1C18=
-
-;0x0910409E=Caffeine Is Not a Drug
-0x0910409E=
-
-;0x8512F7FC=Become a Rep
-0x8512F7FC=
-
-;0xC14112B2=10 Reasons to Boycott 
-0xC14112B2=
-
-;0xF275475D=Your Local Coffeehouse
-0xF275475D=
-
-;0x55C3BF9A=How can something that suppresses hunger, increases levels of dopamine, causes rapid flow of thought and produces rambling, incoherent speech be considered a drug?  How can anything grown in Central America be addictive?  This is just evil propaganda from the health food industry, a desperate marketing gimmick to sell more fruit smoothies and granola bars and make you shit corn.  Drugs are nasty, illegal things that come in little plastic bags.  Have you ever seen a guy lying in the gutter injecting cappuccino into his eyeball or a coffee whore blasting java beans through a glass pipe?  
-0x55C3BF9A=
+﻿;0x55C3BF9A=How can something that suppresses hunger, increases levels of dopamine, causes rapid flow of thought and produces rambling, incoherent speech be considered a drug?  How can anything grown in Central America be addictive?  This is just evil propaganda from the health food industry, a desperate marketing gimmick to sell more fruit smoothies and granola bars and make you shit corn.  Drugs are nasty, illegal things that come in little plastic bags.  Have you ever seen a guy lying in the gutter injecting cappuccino into his eyeball or a coffee whore blasting java beans through a glass pipe?  
+0x55C3BF9A=咖啡因可以抑制饥饿、促进多巴胺分泌、让人思维加速、说话跳跃口齿不清，怎么就成毒品了呢？难道中美洲种出来的所有东西都有成瘾性吗？这只是健康食品公司的邪恶宣传，想要利用这种花招卖出更多水果奶昔和燕麦棒，让你拉出玉米屎。毒品是用小塑料袋装着的讨厌的非法物质。你见过有人躺在阴沟里朝眼球注射卡布奇诺吗？还是见过咖啡上瘾的女人用玻璃烟壶吸咖啡豆？
 
 ;0x70497236=90% of adults in the USA consume caffeine on a daily basis for a reason:  you cannot function without it.  Scientists have proven that without coffee, the body just wants to lie around yelling at the TV and inappropriately enjoying reruns of Just the Five of Us.
-0x70497236=
+0x70497236=美国90%的成年人每天都会使用咖啡因，背后的原因只有一个：没了咖啡因就不能正常生活。科学研究表明，没有咖啡人就会躺平摆烂，对着电视大喊大叫，不合时宜地观看《只有我们五个》的重播。
 
 ;0x14438B8B=Ever tried multi-tasking without coffee?  It's impossible, especially for men.  Some people drink coffee, others shop for shoes, others go barebacking; we all get our kicks in different ways but that does not make them drugs.  Isn't caffeine just a natural bean extract?  What's the big deal?  If coffee had been discovered today, it would no doubt be touted as a ground-breaking herbal brain tonic by the same people who are trying to brainwash you into swapping your double-espresso for a carrot juice.
-0x14438B8B=
+0x14438B8B=试过没咖啡还能一心多用吗？不可能的，对男人而言更是如此。有的人喝咖啡，有的人逛街买鞋，还有的人无套性爱。我们都有不同的爱好，但这些爱好也算不上毒品吧。咖啡因只是天然咖啡豆的提取物吧？有什么问题吗？如果咖啡豆是在现代发现的，肯定会被鼓吹成开创性的天然大脑补品，而且会这么鼓吹的人和现在骗你把双份意式浓缩换成萝卜汁的还是同一批人。
 
 ;0x1EDA7DFB=Caffeine isn't a drug; it's a survival tool that cuts through fatigue like a Samurai sword and stops you from crashing your car after a night on the cocktails.          
-0x1EDA7DFB=
+0x1EDA7DFB=咖啡因不是毒品，而是像武士刀一样斩断疲劳的生存工具，更能让你喝了一晚上酒以后不出车祸。
 

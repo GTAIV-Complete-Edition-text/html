@@ -1,36 +1,33 @@
 ﻿;0xE253C598=Identity Theft Policy
-0xE253C598=
+0xE253C598=身份盗窃政策
 
 ;0x6D402909=Kids Kredit
-0x6D402909=
+0x6D402909=儿童信用卡
 
 ;0xB058CCFC=International Wire Transfers
-0xB058CCFC=
+0xB058CCFC=国际电汇
 
 ;0x368B9352=Debt Consoldiation
-0x368B9352=
+0x368B9352=债务合并
 
 ;0xCC2A1722=Home Equity Loans
-0xCC2A1722=
+0xCC2A1722=二次抵押贷款
 
 ;0x6AA54E4F=Plastic Surgery Loans
-0x6AA54E4F=
+0x6AA54E4F=整形手术贷款
 
 ;0x88C3B8C4=Off-Shore Bank Accounts
-0x88C3B8C4=
+0x88C3B8C4=离岸银行账户
 
 ;0x97B7449C=Bachelor Party Loans
-0x97B7449C=
+0x97B7449C=脱单派对贷款
 
 ;0xB7872DC7=Brokerage
-0xB7872DC7=
-
-;0x97B7449C=Bachelor Party Loans
-0x97B7449C=
+0xB7872DC7=经纪人佣金
 
 ;0x90C81EE5=Don't settle for second best on your last night of freedom!  Cocaine, hookers, penthouse suites, bail money... it all adds up!  Make sure that you have enough cash to keep the hotel concierge quiet for a long time. This is a cash loan. Untraceable.        
-0x90C81EE5=
+0x90C81EE5=不要在享受人生最后一夜的自由时妥协！可卡因、妓女、屋顶套房、保释金... 全都没有问题！务必准备好交给宾馆前台的封口费。现金贷款，无法追查。
 
 ;0xA6AC1EDB=Bank of Liberty uses subliminal advertising throughout all its websites
-0xA6AC1EDB=
+0xA6AC1EDB=自由城银行的所有页面均有潜意识广告
 

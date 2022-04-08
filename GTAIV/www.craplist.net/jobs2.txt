@@ -1,69 +1,12 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0xA197006B=> jobs
-0xA197006B=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xCF9DBBBD=JOBS
-0xCF9DBBBD=
-
-;0xD8614CF2=Nemesis required.  6-month project with possibility to extend
-0xD8614CF2=
-
-;0xF0F28623=(Broker) 
+﻿;0xF0F28623=(Broker) 
 0xF0F28623=
 
 ;0x177B26F3=I've been trying to think of ways to spice up my life.  I'm 35 years old, happily married with two kids and I have a good job in insurance.  But something's missing.  I feel like I'm old before my time.  I need to inject some excitement into my daily routine through my arm before it's too late.  I need a challenge, something to get the adrenaline pumping again.  An addiction would be nice, but, in short, I need a nemesis.  I'm willing to pay $1200 up front for your services as an arch enemy over the next six months.  Nothing crazy.  Steal my parking space, knock my coffee over, trip me up when I'm running for the subway and occasionally whisper in my ear "Ahha, we meet again".  That kind of thing.  Just keep me on my toes.  Complacency will be the death of me.  You need to have an evil streak and be blessed with innate guile and cunning.  You should also be adept at inconspicuous pursuit.  Evil laugh preferred.  Send me a note with picture and a brief explanation of why you would be a good nemesis.  
-0x177B26F3=
+0x177B26F3=我一直想给自己的生活加点料。我现在35岁，在保险公司工作，婚姻幸福美满，有两个孩子。但还是缺了什么，感觉自己未老先衰了。必须在彻底麻木之前给自己的日常生活找点刺激了。我需要挑战，需要能让肾上腺素涌动的东西。能上瘾的最好，简而言之，我想找一个宿敌。你需要在接下来的半年内作为我的对手，我会预先付你$1200作为报酬。其实挺简单的。抢走我的停车位，打翻我的咖啡，赶地铁的时候绊我一下，时不时往我耳边来一句「啊哈，又见面了」。类似这样就行，让我时刻警惕。骄傲自满才会踏上绝路。要求你性格邪恶、天性狡诈，还得是潜行老手。最好还有邪恶的笑声。带图联系，记得备注你能成为我宿敌的理由。
 
 ;0x7AABDDA5=British accent preferred. 
-0x7AABDDA5=
+0x7AABDDA5=英国口音优先。
 
 ;0xE1F5D48B=PostingID: 424569854
-0xE1F5D48B=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0xE1F5D48B=帖子ID：424569854
 

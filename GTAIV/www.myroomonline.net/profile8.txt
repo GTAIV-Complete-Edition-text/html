@@ -1,192 +1,114 @@
-﻿;0x34F1F1A1=Shaved or natural?
-0x34F1F1A1=
-
-;0x721E51FA=all ma bitchz rock shaven havenz
-0x721E51FA=
-
-;0xBBC9BBBD=Shower or grower?
-0xBBC9BBBD=
+﻿;0x721E51FA=all ma bitchz rock shaven havenz
+0x721E51FA=爷的马子都脱得一干二净
 
 ;0x58F45C7C=BOTH!!!!!  4 real ladeez
-0x58F45C7C=
+0x58F45C7C=兼具！！！！！够娘们你就来
 
 ;0xA71DF97F=How many sexual partners have you had
-0xA71DF97F=
+0xA71DF97F=有过多少性伴侣？
 
 ;0x26989AD1=50+
 0x26989AD1=
 
-;0x82D4E616=When did you last have sex?
-0x82D4E616=
-
 ;0xC62DB7BF=last night all night baby!!!
-0xC62DB7BF=
-
-;0xD83734E0=How often do you masturbate?
-0xD83734E0=
+0xC62DB7BF=昨晚干到了天亮 宝贝！！！
 
 ;0x19141483=only wen I don't got a bitch 
-0x19141483=
-
-;0x7CB22A0F=Ever had sex with anything not human?
-0x7CB22A0F=
+0x19141483=除非身边没马子
 
 ;0xE67DB3F7=fuck u.  Don't come at me with that shit.
-0xE67DB3F7=
-
-;0x2C1E4D92=One word to describe you:
-0x2C1E4D92=
+0xE67DB3F7=cnm 别拿这种东西恶心爷
 
 ;0xA8E50B26=playa
-0xA8E50B26=
-
-;0xCC6DA7EA=What makes you happy?
-0xCC6DA7EA=
+0xA8E50B26=赢家
 
 ;0xDED818F1=chillin wit my souljahs and blazin a tree
-0xDED818F1=
-
-;0x04E72159=Username:
-0x04E72159=
-
-;0xD66D0166=pimpdog1620
-0xD66D0166=
-
-;0xD0F33C72=Age:
-0xD0F33C72=
-
-;0xC456436E=Gender:
-0xC456436E=
-
-;0xE19D9FD0=male
-0xE19D9FD0=
-
-;0x1522FED4=Hometown:
-0x1522FED4=
+0xDED818F1=和弟兄们一起浪，哈着草
 
 ;0x2FD5AA0E=Lancaster, Liberty City
-0x2FD5AA0E=
-
-;0xF5AF3FFB=Relationship Status:
-0xF5AF3FFB=
+0x2FD5AA0E=自由城, Lancaster
 
 ;0x289FF6CF=SINGLE!!!!!!
-0x289FF6CF=
-
-;0xA83327DE=Here for: 
-0xA83327DE=
+0x289FF6CF=单身！！！！！！
 
 ;0x0E7D8F0B=bitchz
-0x0E7D8F0B=
-
-;0x3F398D1F=Profession:
-0x3F398D1F=
+0x0E7D8F0B=娘们
 
 ;0x0389A07C=gangsta
-0x0389A07C=
-
-;0x837868DF=Likes:
-0x837868DF=
+0x0389A07C=道上
 
 ;0x2CDD55A2=ladeez, ringtonez, rap, hardcore, havin a gd time, gettin wasted with my boyz, wearin all ma bling
-0x2CDD55A2=
-
-;0xC962002D=Dislikes:
-0xC962002D=
+0x2CDD55A2=娘们、铃声、说唱、硬核、享乐、和弟兄们喝酒、穿上所有珠宝
 
 ;0xB5405907=goin 2 private school, muthafuckas cockblockin me, hippies, people frontin in ma hood, books r 4 losers
-0xB5405907=
-
-;0x80983B99=Strengths:
-0x80983B99=
+0xB5405907=去私立学校、碍着爷泡妞的混蛋、嬉皮士、在爷的地盘造次的人、给废物看的书
 
 ;0x0B71EE3C=rollin, pimpin
-0x0B71EE3C=
-
-;0xE51189B4=Weaknesses:
-0xE51189B4=
+0x0B71EE3C=出去浪、出去耍
 
 ;0x7E24E1E1=fuckin people up who mess with me
-0x7E24E1E1=
-
-;0x834639B4=Best Physical Feature: 
-0x834639B4=
+0x7E24E1E1=跟爷对着干的都等死吧
 
 ;0xA32E909A=ma trouser snake!
-0xA32E909A=
-
-;0x918E3581=Drink of choice:
-0x918E3581=
+0xA32E909A=胯下的巨龙！
 
 ;0xD8DF2316=cognac
-0xD8DF2316=
-
-;0x91683F03=Drug of choice:
-0x91683F03=
+0xD8DF2316=干邑白兰地
 
 ;0xB63978D5=skunk
-0xB63978D5=
-
-;0x8B390C71=Weapon of choice:
-0x8B390C71=
+0xB63978D5=混合大麻
 
 ;0xF40B2A0B=semiautomatic handgun
-0xF40B2A0B=
-
-;0x26BF8E02=Do you have a nickname for your genitals?
-0x26BF8E02=
+0xF40B2A0B=半自动手枪
 
 ;0x13D07CFC=captain winkie
-0x13D07CFC=
-
-;0xC0AE519F=Finish this sentence. I wish:
-0xC0AE519F=
+0x13D07CFC=鸡鸡队长
 
 ;0xE3F9A96C=I wasn't white and my dad wasn't a investment banker
-0xE3F9A96C=
+0xE3F9A96C=自己不是白人，我爸不在投行工作
 
 ;0x10E74FB6=Wasup bitchz!!  Chek me out my name is Lil Francis, sum catz call me a gangsta but im proud of who I am n wer I cum from.  Representin.  All tha otha crus betta back down coz im the baddest playa in Lancaster baby.  East side fo sho.  Dont be frontin in ma hood.  No joke ill putta cap in ur ass if u tris 2 fuk wit me.  Big shout out to ma souljahs.  Gittin it 247.  R.I.P Fluffy ull always be misted.  The fight goes on bruther.  I luv girlz and money n cruizin in ma pimpdup ride.  U don now whaz like to be rich an from rich parents.  It's hard dog.   Im luking for a bitch hu can kik it wit a pimp, yadamean.  U better show me sum muthafuckin respek tho or ill buss u up.  4 sho.  Hit me up ladeez!!!  Out.    
-0x10E74FB6=
+0x10E74FB6=咋地啦，贱人们！！看看爷，爷叫Lil Francis，有人管爷叫道上兄弟，但爷为自己的身份和出身自豪。秀吧。其他人洗洗睡吧，爷是Lancaster最威猛的赢家。东部第一。别在爷的地盘造次。不开玩笑，跟爷对着干，等着爷把你菊花干烂。感谢爷的好兄弟，无时无刻都陪着爷。安息吧，Fluffy，弟兄们不会忘记你的。战斗还在继续，兄弟。爷爱娘们爷爱钱，爷还爱开着拉风的车子转。你们都不知道富哥有个有钱的父母是什么体验，没那么舒坦的，老兄。爷想找一个能跟爷浪的娘们，懂爷意思吧。小婊子给爷放尊重点，不然有你好看，真的。务必联系，姑娘们！！！拜。
 
 ;0xFC26CF27=germantickler02
 0xFC26CF27=
 
 ;0x06656372=I live near Lancaster and im luking 4 a jackoff buddy hit me up if ur interested          
-0x06656372=
+0x06656372=我就住在Lancaster附近 正在找一起撸管的兄弟 有兴趣联系
 
 ;0xAB5473EB=gangstahenry3
 0xAB5473EB=
 
 ;0xAAD40668=Word up my dude!!!  Saturday was off teh muthafukin hook nah im saying!!!  The kid is an animal baby!!!  U kno it!!!  Aiite dawg.
-0xAAD40668=
+0xAAD40668=太对了哥！！！要我说上周六太他妈劲爆了！！！那小子他妈是禽兽啊宝贝！！！你懂的！！！好了兄弟。
 
 ;0xE0D1632D=circusfreak158
 0xE0D1632D=
 
 ;0xC9955B90=Comment my pics or I cut you from my friend list
-0xC9955B90=
+0xC9955B90=给我的照片写点评论 否则删好友了
 
 ;0x199AE07B=eznowplayboi69
 0x199AE07B=
 
 ;0x3D7DF9DC=wi u keep frontin on ma page bitch u kno u wont say nun of dat shit 2 ma face
-0x3D7DF9DC=
+0x3D7DF9DC=你他妈一直来我主页干嘛 贱人 别鸡巴跳到老子面前
 
 ;0xFF4FC46F=soapysteve12
 0xFF4FC46F=
 
 ;0x76810436=add me.  Im really cute.
-0x76810436=
+0x76810436=加我，我超可爱。
 
 ;0x7BFDD158=mrs-emma-miller-ferguson
 0x7BFDD158=
 
 ;0x2B3B15AC=Francis, I didn't spend $15,000 a year on your education for you to speak like this.  I just hope that your father doesn't find out.  If you're still upset about Fluffy, we can talk about getting another dog.  Don't forget that we have lunch with the Bradbury-Smithes on Sunday.  Mom.
-0x2B3B15AC=
+0x2B3B15AC=Francis，一年一万五的学费不是用来教你这么说话的。希望你父亲还没发现。如果你还在为Fluffy伤心，再养一条狗也不是不能考虑。别忘了这周日还要和Bradbury-Smithes一起吃午餐。　妈妈
 
 ;0x4C601BDB=trashystalagmite
 0x4C601BDB=
 
 ;0xC1BB849A=Why do you keeping asking me to be your friend?  You don't even know me!
-0xC1BB849A=
+0xC1BB849A=怎么一直要我加你好友？你又不认识我！
 

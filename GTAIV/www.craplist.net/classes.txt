@@ -1,105 +1,60 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0xB56CC71B=>classes
-0xB56CC71B=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
+﻿;0xB56CC71B=>classes
+0xB56CC71B=>课程
 
 ;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
+0x69D4F298=活动
 
 ;0x0561DA07=CLASSES
-0x0561DA07=
+0x0561DA07=课程
 
 ;0x34129C40=LEARN TO SPEAK ESPERANTO!
-0x34129C40=
+0x34129C40=学习世界语吧！
 
 ;0x35B6567E= (East Hook)
 0x35B6567E=
 
 ;0x7A8C8912=Private Yoga Instruction...WOMEN ONLY
-0x7A8C8912=
+0x7A8C8912=私人瑜伽教练... 只收女学员
 
 ;0x6FDB616B= (Alderney City)
 0x6FDB616B=
 
 ;0xA7E78C80=FREE English language classes - one on one!
-0xA7E78C80=
+0xA7E78C80=免费的英语课 - 一对一辅导！
 
 ;0xF1E72EE7= (Beechwood City)
 0xF1E72EE7=
 
 ;0xD77CDA8E=Motivational Seminar - Get your game together with Bruce Kibbutz!
-0xD77CDA8E=
+0xD77CDA8E=动力研讨会 - 和Bruce Kibbutz一起尽显男人本色！
 
 ;0xEE314117= (Broker)
 0xEE314117=
 
 ;0x9FAC2E09=Are you crappy at darts?  Do you feel emasculated at the pub?
-0x9FAC2E09=
+0x9FAC2E09=你玩飞镖很烂吗？进酒馆就觉得自己是太监？
 
 ;0xCA01DF1C= (Willis)
 0xCA01DF1C=
 
 ;0x11361801=Circular Breathing Classes!
-0x11361801=
+0x11361801=循环呼吸教学！
 
 ;0x25442C02= (Tudor)
 0x25442C02=
 
 ;0x95F1055B=Tantric sex - learn from the master!
-0x95F1055B=
+0x95F1055B=坦特罗性爱 - 大师亲自教导！
 
 ;0x0493407C= (Little Bay)
 0x0493407C=
 
 ;0xB65B5896=Are you having trouble keeping it up?
-0xB65B5896=
-
-;0x0B2515CB= (Middle Park)
-0x0B2515CB=
+0xB65B5896=你是否不够坚挺持久？
 
 ;0xE284EC72=Over-40's breakdancing class!!!
-0xE284EC72=
+0xE284EC72=面向40岁上下人群的霹雳舞课程！！！
 
 ;0x9438C533= (South Bohan)          
 0x9438C533=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
 

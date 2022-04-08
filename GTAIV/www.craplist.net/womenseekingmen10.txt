@@ -1,57 +1,15 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x9D8C3A25=>women seeking men
-0x9D8C3A25=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3A8FADC1=missed connections
-0x3A8FADC1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x0AEAFDB3=WOMEN SEEKING MEN 
-0x0AEAFDB3=
-
-;0x3DF2949B=Are you looking for a beautiful, nubile wife...?
-0x3DF2949B=
-
-;0x61D042F0=(Liberty City) 
-0x61D042F0=
+﻿;0x3DF2949B=Are you looking for a beautiful, nubile wife...?
+0x3DF2949B=你在寻找漂亮又性感的老婆吗？
 
 ;0x1409669D=...or at least someone to clean up around the house and give you hand release? 
-0x1409669D=
+0x1409669D=...抑或是可以帮你打扫卫生，用手解决你需求的女人？
 
 ;0x09FA0A30=www.pointclickshipabitch.com
 0x09FA0A30=
 
 ;0xC6E98F52=  is your one-stop-shop for mail order brides.  Our database contains thousands of marriage-minded girls all guaranteed to leave their families behind at a second's notice to begin a new life with a violent, maladjusted stranger in the United States.  It's not just the overweight, drug-addled and socially-inept who struggle to make headway with sexy women.  Men from all walks of life come to us in search of something new... something foreign, yet fast ...an exotic lady at your doorstep in 24 hours, spitting packing peanuts out of her mouth and ready to take you into hers. 
-0xC6E98F52=
+0xC6E98F52=是一站式的买婚平台。我们的数据库中有成千上万个想结婚的女孩，她们都愿意背井离乡来到美国，与一个暴力、颓废的陌生人开始新的生活。我们的客户不只是超重、吸毒、社交废的舔狗。来自各行各业的男性都会找我们换换胃口...异国风情、方便快捷...只需24小时，异域女孩就会来到你家门前，口吐泡沫塑料，随时准备接纳你的肉体。
 
 ;0x5CE2C268=PostingID: 562030004
-0x5CE2C268=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x5CE2C268=帖子ID：562030004
 

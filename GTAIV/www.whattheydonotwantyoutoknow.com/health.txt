@@ -1,6 +1,6 @@
 ﻿;0x4F5C6E9B=Stay Healthy, Just Follow this!
-0x4F5C6E9B=
+0x4F5C6E9B=保持健康，就这么做！
 
 ;0xC2954BC2=Back
-0xC2954BC2=
+0xC2954BC2=返回
 

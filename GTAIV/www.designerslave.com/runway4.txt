@@ -1,15 +1,6 @@
-﻿;0xF596456B=RUNWAY SLAVES
-0xF596456B=
-
-;0xA6A66E86=STREET SLAVES
-0xA6A66E86=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
-;0x9241E338=Don't Touch What You Can't Afford 
-0x9241E338=
+﻿;0x9241E338=Don't Touch What You Can't Afford 
+0x9241E338=买不起别买
 
 ;0xDD30FEC4=Ladies! Put some order in your eating disorder with the most over-the-top, in-your-face designer jeans you have ever seen! $400 in the stores, $80 on Designer Slave! They give any girl above size zero instant camel toe!
-0xDD30FEC4=
+0xDD30FEC4=女士们！用你所见过的最夸张、最刺激的名牌牛仔裤，给自己的厌食症加点料吧！XXS码以上的姑娘瞬间就能得到骆驼趾！
 

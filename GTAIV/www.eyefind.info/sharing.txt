@@ -8,7 +8,7 @@
 0xEEE216D3=一图千言
 
 ;0x388C41F0=Photo sharing is epic. It is the future. Swapping. Imagine. With strangers!
-0x388C41F0=劲爆！分享图片才是未来。与陌生人分享图片、想象世界！
+0x388C41F0=劲爆！分享图片才是未来。与陌生人分享照片、想象世界！
 
 ;0x98317F6B=www.a-thousand-words.net
 0x98317F6B=

@@ -1,69 +1,12 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3EEFFC59=>services
-0x3EEFFC59=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xC4E8DD35=SERVICES
-0xC4E8DD35=
-
-;0x9E26D1AF=Blue collar male escorts - competitive rates!!
-0x9E26D1AF=
-
-;0xA2874807=(North Holland)
-0xA2874807=
+﻿;0x3EEFFC59=>services
+0x3EEFFC59=>服务
 
 ;0x9E0DC1A5=Forget all those pussies who pull out your chair, order in French and make you fancy breakfast in the morning.  Find yourself a real man!  Our escorts will get you drunk, slap your ass and bust a log in your toilet.  Every woman likes it a little rough.  Send your insipid drip of a husband off to the golf club and call up the plumber!  If you want a man in a tool belt to pound you from behind while holding your hair in one hand and a beer in the other, we've got the right guy for you.  
-0x9E0DC1A5=
+0x9E0DC1A5=忘掉那些拉开椅子、法语点餐、白天给你做花哨早餐的娘娘腔吧。给自己来点真正的男人！我们的牛郎会把你灌醉，扇你巴掌，在你家马桶里拉屎。稍微粗暴一些，女人也都喜欢的。送你无聊没用的老公去打高尔夫吧，再给自己叫一个水管工！如果你想被一个腰上挂着工具包的男人后入，左手挽着你的头发，右手拿着啤酒，我们这儿就有你要找的人。
 
 ;0x7CC06E23=Competitive rates (extra fees for role-playing). 
-0x7CC06E23=
+0x7CC06E23=价格实惠 (角色扮演需要额外收费)
 
 ;0x12AE656B=PostingID: 262058202
-0x12AE656B=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x12AE656B=帖子ID：262058202
 

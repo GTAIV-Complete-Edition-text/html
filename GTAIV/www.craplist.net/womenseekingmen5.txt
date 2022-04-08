@@ -1,51 +1,9 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x9D8C3A25=>women seeking men
-0x9D8C3A25=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3A8FADC1=missed connections
-0x3A8FADC1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x0AEAFDB3=WOMEN SEEKING MEN 
-0x0AEAFDB3=
-
-;0xD8DF6022=Shameless gold-digger - 26
-0xD8DF6022=
-
-;0xADFAC069=(Rotterdam Hill)
-0xADFAC069=
+﻿;0xD8DF6022=Shameless gold-digger - 26
+0xD8DF6022=无耻拜金女 - 26
 
 ;0x4DFE2B0F=Are you a wealthy guy looking for a trophy wife?  Do you feel the need to prove to people that you're powerful enough to attract a woman half your age?  Let's not pretend this is something it's not.  Girls in their 20s don't marry men in their 50s for love.  Half of marriages end in divorce so we might as well be honest about it from the start.  I will be a long-term hooker.  Don't kid yourself that we actually enjoy blowing on a piece of meat that's half a century old.  You're rich, I'm gorgeous.  You have something I want and I have something you want.  I'll laugh at your jokes and gaze at you lovingly in front of all your friends.  I'll be the consummate hostess at dinner parties and fundraisers.  I'll wear a short skirt and serve snacks when the boys come over for poker nights.  I'll give you a couple of beautiful babies, if you promise to get a nanny.  I'll play tennis and dabble in charity work and fuck your best friends.  I'll develop an alcohol problem and become addicted to prescription drugs.  I'll take a regular shafting from my personal trainer while you continue to bone every piece of ass that comes your way.  I'll work out twice a day and spend a fortune on my hair, skin, nails, clothes and make-up so that I look immaculate at all times.  I'll have liposuction, breast implants, facelifts and a third breast and tummy tucks.  Even when you're on your death bed and I'm days away from finally scooping the jackpot, I'll still look like a cheerleader with her face caught in a wind tunnel.  I'm not some trailer trash who doesn't know her chardonnay from her zinfandel; I'm educated, sophisticated and extremely well-maintained.  Send me an email with details of net worth, cars, zip codes, pre-nup etc.  If your bank balance has less than seven figures, don't waste my time.  I can provide you with a full resume, portfolio and references. 
-0x4DFE2B0F=
+0x4DFE2B0F=你是正在寻找花瓶女当老婆的富豪吗？你需要向世人证明自己的魅力足以吸引年龄小一半的女人吗？大家都不用装什么正人君子，二十几岁的姑娘跟五十多岁的老头结婚绝不是出于真爱，半数夫妻最终选择了离婚，索性我们一开始就讲明白吧。我会是你的长期妓女。别以为女人喜欢咬一块五十多年的腊肉。你有钱，我有脸。你身上有我想要的，我身上也有你想要的。在你的朋友面前，我会为你的笑话捧场，深情凝视。晚餐聚会和筹款活动时，也会帮你招待客人，出入厅堂。有人找你通宵打牌，我会穿上短裙送上点心。如果肯找保姆，我也能为你生儿育女。我会打起网球，参与慈善，然后和你的挚友上床。我会酗酒成性，还会吸毒成瘾。我会定期找私教训练，你也能尽情和小妞缠绵。我一天要锻炼两次，还要花很多钱美发、护肤、美甲、打扮、化妆，这样才能保持玉质金相。我会去做抽脂隆胸，还会去做面部腹部的拉皮除皱。等到你在床上久病不起，我的开奖之日即将来临，那时我依然是花容月貌，岁月不改。我不是分不清霞多丽和增芳德的粗俗婆娘，而是饱读诗书、成熟世故、保养到位的美丽女人。请在邮件里附上你名下的净资产清单、拥有的车、住址邮编、婚前协议等。如果你的账户余额少于七位数，别来浪费我的时间。我可以给你提供完整的简历、档案、证明材料。
 
 ;0x5AEC642C=PostingID: 562053313
-0x5AEC642C=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x5AEC642C=帖子ID：562053313
 

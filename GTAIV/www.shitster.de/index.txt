@@ -1,27 +1,27 @@
 ﻿;0x5C131504=Shitster's offices have been raided by officials and the service has been suspended temporarily.  The heavy-handed recording industry types can't stop the future!  They totally don't get the Internet - but you do.  We are a community - and people who don't want to pay for anything must stick together.
-0x5C131504=
+0x5C131504=先前相关部门已经进入了Shitster的办公室侦查，服务暂时下线。残暴的唱片业界绝对无法阻挡未来！他们完全不理解互联网，但你理解。我们是一个社区，所有不愿为产品付钱的人都要团结起来。
 
 ;0x8ABBA6DD=P2P is the future.  Our revolutionary software app takes your music and puts it in your Shitster area on your computer.  Then, you share your Shitster with strangers - and a remarkable thing happens.
-0x8ABBA6DD=
+0x8ABBA6DD=P2P就是未来。我们革命性的软件会识别音乐文件，将其放到你电脑上的Shitster空间。然后，你可以和陌生人分享你的Shitster，奇迹就发生了。
 
 ;0xA5E848C7=File sharing is not a moral issue.  It's ok to give away something you love.
-0xA5E848C7=
+0xA5E848C7=分享文件不是道德问题。向别人分享自己热爱的东西很正常。
 
 ;0xAFD97047=DRM is an un-American concept.  How dare artists not let us buy their product and do whatever we want with it.
-0xAFD97047=
+0xAFD97047=DRM这个概念一点都不符合美国精神。明明是花钱买的，这群创作者居然敢不让我任意处置作品。
 
 ;0x42D188B4=Right!  If one person buys a CD and posts it on Shitster, OVER ONE MILLION PEOPLE will download it.  That person now has ONE MILLION new fans.  Why would they want each of those people to fork over a dollar for each song?  A million dollars is irrelevant when you're famous.  You can't buy fame.  Not even if you release a blurry sex video of you giving bad head.
-0x42D188B4=
+0x42D188B4=就是啊！只要有一个人购买了CD，把内容发到Shitster上，这些歌曲就能被超过一百万人下载。这位歌手也就有了一百万新粉丝。为什么他们想让这些人为了听歌掏出一块钱？只要有了名气，一百万元根本就无关紧要。名气是买不来的。发布一条模糊的色情肛交片段也没有用。
 
 ;0x71C1D733=We are on Bolshoi Shantar island off the Pacific island of Sakhalin, which is a remote area of Russia.  Despite our International location, the United States thinks that just because it creates 95% of the entertainment that's worth a shit on the planet, it can  stop people from doing what's natural.
-0x71C1D733=
+0x71C1D733=我们在太平洋上萨哈林岛附近的大尚塔尔岛，也就是俄罗斯的远东地区。尽管我们不在美国，但美国仍然认为，它创造了全世界95%的娱乐产品，就有理由阻止人之常情的白嫖。
 
 ;0x0E7CC41C=Who are you?   We've never heard of you and it had better not have been you who ratted us out.   We don't understand why the entertainment industry is suing fans!  It makes no sense.  If I love an Infernus sports car so much that I take one off of the car lot - it's because I'm a fan, not a thief.  
-0x0E7CC41C=
+0x0E7CC41C=你是谁？我们从没听说过你，希望最好不是你在向政府告发我们。我们也不明白为什么娱乐产业会起诉粉丝！太没道理了。如果我很喜欢炼狱魔跑车，从车库里随便开走了一辆，那也是因为我是粉丝，不能说我是偷车贼。
 
 ;0x0676CC78=(Sorry, link disabled by overzealous copyright police).
-0x0676CC78=
+0x0676CC78=(抱歉，链接在过于热心的版权警察要求下移除)
 
 ;0xE5EFC88C=ADVERTISEMENT:
-0xE5EFC88C=
+0xE5EFC88C=广告：
 

@@ -1,84 +1,9 @@
 ﻿;0x002433AC=Rotterdam Tower       
-0x002433AC=
+0x002433AC=鹿特丹塔
 
 ;0x3BEF0322=The Triangle, Algonquin      
-0x3BEF0322=
+0x3BEF0322=Algonquin, The Triangle
 
 ;0x3E3CBDCB=The tallest building in Liberty City, the Rotterdam Tower with its distinctive spire, is an American icon, which is why it's America's favorite place to end it all.  Go up to the viewing platform at the top-floor observatory, take in spectacular panoramic views of the city, leave a note about how awful your life is, then jump.                   
-0x3E3CBDCB=
-
-;0xEBADA5B7=The People
-0xEBADA5B7=
-
-;0x92171299=Broker Bridge
-0x92171299=
-
-;0x92882617=Statue of Happiness
-0x92882617=
-
-;0x7DEF9CAF=Algonquin       
-0x7DEF9CAF=
-
-;0x90DB42AF=Star Junction
-0x90DB42AF=
-
-;0x2C1AE7B0=Middle Park
-0x2C1AE7B0=
-
-;0xD05808E4=Rotterdam Tower
-0xD05808E4=
-
-;0xDE45AE5D=Zirconium Building
-0xDE45AE5D=
-
-;0x12B16F2B=Triangle Building
-0x12B16F2B=
-
-;0x217DF431=CC Building
-0x217DF431=
-
-;0xBF773E55=Grand Easton Terminal
-0xBF773E55=
-
-;0x107C31CC=Chinatown
-0x107C31CC=
-
-;0xA5E9B921=The Exchange
-0xA5E9B921=
-
-;0x310DB0C6=Cleethorpes Tower
-0x310DB0C6=
-
-;0xB029F950=GetaLife Building
-0xB029F950=
-
-;0xA84B6FB7=Bohan       
-0xA84B6FB7=
-
-;0x3D3ADCBC=Welham Parkway
-0x3D3ADCBC=
-
-;0x377F02FC=Broker       
-0x377F02FC=
-
-;0x46C7ACE4=Outlook Park
-0x46C7ACE4=
-
-;0x7CE2A56F=Firefly Island
-0x7CE2A56F=
-
-;0xDE5AE7C9=Dukes       
-0xDE5AE7C9=
-
-;0x930300E7=Meadows Park
-0x930300E7=
-
-;0x6605870F=LC24 Tower
-0x6605870F=
-
-;0x23FC5027=Alderney       
-0x23FC5027=
-
-;0xC0713D1E=Plumber's Skyway
-0xC0713D1E=
+0x3E3CBDCB=自由城最高的建筑，鹿特丹塔标志性的尖顶是美国的象征，因此也成为了跳楼圣地。登上顶层的观景平台，将壮丽的城市全景尽收眼底，留下一张控诉人生失意的纸条，跳下去吧。
 

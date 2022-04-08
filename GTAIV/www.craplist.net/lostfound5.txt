@@ -1,69 +1,9 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3B0CB221=>
-0x3B0CB221=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x6FF67641=LOST & FOUND
-0x6FF67641=
-
-;0x6F65C275=FOUND:  Bachelor
-0x6F65C275=
-
-;0x911652C1=(Colony Island)
-0x911652C1=
+﻿;0x911652C1=(Colony Island)
+0x911652C1=(Colony岛)
 
 ;0xA0BAA5EC=My husband and I found a bachelor in our front yard this morning.  He is handcuffed, dressed as a French maid and has GROOM written across his forehead in lipstick.  He seems very disoriented.  What did you do to him????  All he has said so far is "It was a dude".  Please come to collect him.  My in-laws arrive in a couple of hours.  Let's hope his eyebrows grow back before the wedding. 
-0xA0BAA5EC=
+0xA0BAA5EC=我和丈夫今早在门口院子里找到了一个学士。他铐着手铐，穿着女仆装，脑门上用口红写着GROOM (译注：可作新郎、男仆解释)。他好像有点神志不清。你对他做了什么啊？？？？他只说了一句「是那哥们」。请你过来接他。过几个小时我的公公婆婆就要来我家了。希望他的眉毛能在婚礼前长出来。
 
 ;0x0916374E=PostingID: 620025654
-0x0916374E=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x0916374E=帖子ID：620025654
 

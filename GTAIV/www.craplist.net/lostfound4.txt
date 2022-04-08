@@ -1,69 +1,9 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3B0CB221=>
-0x3B0CB221=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x6FF67641=LOST & FOUND
-0x6FF67641=
-
-;0x13FC61A6=Lost:  will to live
-0x13FC61A6=
-
-;0x8CFD9D4D=(Acter)
+﻿;0x8CFD9D4D=(Acter)
 0x8CFD9D4D=
 
 ;0x16624D7B=I'm not sure exactly when or where.  I think that it was Tuesday or Wednesday last week, most probably in the Acter area of Alderney.  One minute it was there, the next it was gone.  Somebody help me. 
-0x16624D7B=
+0x16624D7B=不太清楚是什么时候在哪里弄丢的。可能是上周二上周三的时候在Alderney的Acter附近丢的吧。上一刻还在的，下一刻就丢了。有人能帮我吗？
 
 ;0x7D1DA9AF=PostingID: 620025622
-0x7D1DA9AF=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x7D1DA9AF=帖子ID：620025622
 

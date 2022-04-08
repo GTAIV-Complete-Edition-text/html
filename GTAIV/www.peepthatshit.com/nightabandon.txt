@@ -1,51 +1,18 @@
 ﻿;0xB1C4E98C=Abandon Shit       
-0xB1C4E98C=
+0xB1C4E98C=野屎
 
 ;0xA235EC5B=at the Seagull Theater               
-0xA235EC5B=
+0xA235EC5B=海鸥剧院
 
 ;0x61C99DD6=Ready for some pathos?  Overwhelming pessimism is the order of the day in Abandon Shit, a serious drama that is seriously up its own ass.  Tangled sub-plots, angst-ridden monologues and over-acted dream sequences show us that life is painful, happiness is impossible and death is inevitable and that you will be left to decompose like a pile of abandoned shit.  As the protagonist tells us at the end while tearing out her hair in a pool of menstrual blood, "Before you can love, you have to learn to hate".  Nobody actually enjoys this crap but it impresses people at dinner parties.
-0x61C99DD6=
+0x61C99DD6=想来点悲情共振吗？《野屎》是一部非常把自己当回事的正剧，排山倒海的悲观情绪就是它的主要内容。情节错综复杂，独白充满焦虑，梦境部分表演夸张。本剧告诉我们，人生是痛苦的，幸福是无望的，死亡是必然的，你的结局就是像坨野屎一样暴尸野外自然分解。正如结局部分主人公在月经的血泊中绝望的呐喊「爱一个人，首先要学会恨」。
 
 ;0xF3910972=Comedy
-0xF3910972=
+0xF3910972=喜剧
 
 ;0xC6E7884E=Split Sides Comedy Club
-0xC6E7884E=
-
-;0x8AA65C5E=Perestroika
-0x8AA65C5E=
+0xC6E7884E=Split Sides喜剧俱乐部
 
 ;0xC955B883=Theaters
-0xC955B883=
-
-;0xCDC184A9=Banging Trash Can Lids For An Hour
-0xCDC184A9=
-
-;0xA583B356=Fairy Body Paint
-0xA583B356=
-
-;0x5D2F1304=WTF - A Tale of Online Love
-0x5D2F1304=
-
-;0xFC3CBB33=The Wind From Below
-0xFC3CBB33=
-
-;0xDC0A2704=Swinging Puppets
-0xDC0A2704=
-
-;0xF7EFD26D=The Gulls
-0xF7EFD26D=
-
-;0x87A8C779=Shakespeare on Drugs
-0x87A8C779=
-
-;0x6EA4F5E2=The Flying Whore
-0x6EA4F5E2=
-
-;0x568FD944=Abandon Shit
-0x568FD944=
-
-;0x7632D670=Raincoat Exposé
-0x7632D670=
+0xC955B883=戏剧
 
