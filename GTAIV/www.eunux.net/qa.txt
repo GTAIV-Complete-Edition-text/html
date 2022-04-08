@@ -1,318 +1,318 @@
 ﻿;0x1998E5F5=Why are Eunux users  better?
-0x1998E5F5=
+0x1998E5F5=为什么说 Eunux 用户更强？
 
 ;0x88C8A3BC=Eunux is free.  So we  totally just pwned you.  Once you are a  Eunux user you can post stuff in chat rooms like 
-0x88C8A3BC=
+0x88C8A3BC=Eunux 是自由的，所以你被我们完爆了。成为 Eunux 用户以后，你就可以在聊天室里发
 
 ;0xF9D4E840="I HAVE WAREZ BITCHEZ!  W00T!!" 
-0xF9D4E840=
+0xF9D4E840=「搞到D版了！爽！」
 
 ;0xF8979E2E=and "I am an Xtr3m H4x0r and need some teen girl script kiddies 4 my posse at 
-0xF8979E2E=
+0xF8979E2E=和「我就是究极的 H4x0r。找几个脚本小妞跟
 
 ;0xE2BF1E8A=MyOnlineMe
-0xE2BF1E8A=
+0xE2BF1E8A=我的网络分身
 
 ;0x57F3C5A9= ." 
-0x57F3C5A9=
+0x57F3C5A9=一起混。」
 
 ;0x418CE9C2=But I like To$$ OS!
-0x418CE9C2=
+0x418CE9C2=我还是更喜欢 To$$ OS！
 
 ;0x77439AD5=You.  Are.  A.   Retarded.  Noob.  To$$ OS is a lie.  A worldwide lie.  And the sooner you come to grips with the  fact that you've been OWN3D the sooner you will be on the path to  redemption.   
-0x77439AD5=
+0x77439AD5=你。是。弱。智。菜鸡。To$$ OS 是个骗局，骗了全世界的人。早日认清自己被人控制的事实，早日获得救赎。
 
 ;0x04A86F2E=Why haven't I heard  of Eunux?
-0x04A86F2E=
+0x04A86F2E=我怎么没听说过 Eunux？
 
 ;0x02272FEB=Eunux is known primarily for its use in servers.  However, by the end of the year, we hope to have cornered 0.000008% of the desktop market.  It's a bit of a Catch-22.  If we become too mainstream, if too many people start using free software, all our fanboys will desert us for a more 1337 hobby.  But we're the most popular server operating system in the world.
-0x02272FEB=
+0x02272FEB=目前 Eunux 在服务器上的应用比较出名。但是，我们有望在年底达到 0.000008% 的桌面市场占有率。这有点像是死循环。如果我们变成主流了，如果越来越多的人开始用自由软件了，原先的粉丝就会抛弃我们，转向更精英更小众的爱好。但我们已经是全世界最流行的服务器系统了。
 
 ;0x7425DAEE=What's a server?
-0x7425DAEE=
+0x7425DAEE=服务器是什么？
 
 ;0x84F5DE44=FUCK!!!! Go away. 
-0x84F5DE44=
+0x84F5DE44=爬！！！！滚远点。
 
 ;0x93B30B18=But I just want to  surf the Internet and read email?
-0x93B30B18=
+0x93B30B18=可我只是想上网冲浪，看看邮件？
 
 ;0xDC6255FB=You are a sexually confused moron.  Why are you sitting at the helm of potential with no idea what is under the hood or how fast your ship can go?   Would we have landed on Mars with this kind of attitude?
-0xDC6255FB=
+0xDC6255FB=你就是个满脑子色情的白痴。明明船舵就在手中，却不知道船的内部结构和性能。都是你这种态度，人类哪有可能登陆火星？
 
 ;0x5B8583C3=But To$$ OS makes  everything really simple.  I point and  click and it's all there.
-0x5B8583C3=
+0x5B8583C3=可是 To$$ OS 真的很方便。动动鼠标点两下就能用了。
 
 ;0xC1FEE3BF=Oh really?  Are you enjoying showering in the public shower of mediocrity?  As lukewarm water drips down your back?  As you are shoving your fist in the air for a monopoly?  For being a drone that just helps crank forward the machine?  Democracy dies when laziness sets in, and you are being lazy.  To not try to understand the machine is to get tangled in the gears and crunched into pieces. c0d3rz are the shizzit.
-0xC1FEE3BF=
+0xC1FEE3BF=噢，是吗？你很喜欢在凡夫俗子去的大众浴室里洗澡吗？享受温水流过背部的感觉？在独享的空间里挥动拳头？成为庞大机器上的一颗微小齿轮？懒惰之风盛行，民主就亡了，而你正是那个懒人。不去理解机器，早晚会被机器吞噬，碾碎成渣。搞代码的才牛逼。
 
 ;0x4F72DEE4=How do I install  Eunux?
-0x4F72DEE4=
+0x4F72DEE4=如何安装 Eunux？
 
 ;0x14F3E330=It's easy.  Delete everything on your computer (after backing up all your illegal mp3s and warez!) and download Eunux.  There have been some issues with installation but be patient, it may take a few days or even a week to get it operating properly.    
-0x14F3E330=
+0x14F3E330=很简单。删掉电脑上的所有东西 (记得备份盗版歌和盗版软件！) 再下载 Eunux。安装时可能遇到一些问题，但还是要耐心，花上几天几十天应该就能成功开机了。
 
 ;0xA7C7C36B=After 26 days, I have  finally installed Eunux.  Why doesn't my  modem work?
-0xA7C7C36B=
+0xA7C7C36B=用了 26 天，终于把 Eunux 安上了。我的调制解调器怎么不能用？
 
 ;0x610F61B4=It won't.  If you try to install Eunux on a typical PC, 9 times out of 10 you will need to buy a new modem.  What do you want from us?!
-0x610F61B4=
+0x610F61B4=当然不能用。在大部分电脑上安装 Eunux 十有八九需要买一个新的调制解调器。还能怎么解决？！
 
 ;0x7C18B1EA=But I already have  To$$ OS and my modem works?
-0x7C18B1EA=
+0x7C18B1EA=但用 To$$ OS 的时候，调制解调器明明能正常工作？
 
 ;0xB183DEE3=If you want to deep-throat the corporate cock, that's your prerogative.
-0xB183DEE3=
+0xB183DEE3=如果你想吞下商业公司的鸡巴，那是你的自由。
 
 ;0xEE533C78=Has anyone ever  sucked your cock?
-0xEE533C78=
+0xEE533C78=有人口过你的鸡巴吗？
 
 ;0x3DC803EF=Fuck off.
-0x3DC803EF=
+0x3DC803EF=滚你妈的。
 
 ;0xA84946AC=If I plug my digital  camera into my Eunux machine, what happens?
-0xA84946AC=
+0xA84946AC=如果把我的数码相机连接到 Eunux 设备上，会发生什么？
 
 ;0xD8490C67=Nothing.  That is the beauty of it.  You need to write the code so that your computer and the camera can talk to each other.  You can't just ASSUME integration.  Once you slave over some code for a few weeks living on coffee and  
-0xD8490C67=
+0xD8490C67=什么都不会发生。这才是美妙之处所在。你需要自己编写代码，实现电脑和相机的通信。别以为插上去就能用是理所当然。喝着咖啡，抽着
 
 ;0x5CA64DC6=Redwoods
-0x5CA64DC6=
+0x5CA64DC6=红木牌香烟
 
 ;0xF10775A6= and masturbating to keep yourself from crying and then your digital camera talks to your computer you'll finally have grown some bawls and be 1337!!!!! 
-0xF10775A6=
+0xF10775A6=，撸着管止住眼泪，等到你的数码相机终于能和电脑沟通的时候，你才真正长大了，成为了精英！！！！！
 
 ;0xB9126B91=Do I need to know how  to program ANIS to use Eunux?
-0xB9126B91=
+0xB9126B91=想用 Eunux 的话，我是不是要先学会编写 ANIS 系统的程序？
 
 ;0x7049098A=Are you trying to get us sued again??!!!  The design of Eunux looks like  
-0x7049098A=
+0x7049098A=你是不是想让我们再上一次法庭啊？？！！！虽然 Eunux 的设计
 
 ;0x5F92F3AD=ANIS but DOES  NOT CONTAIN ANY ANIS CODE
-0x5F92F3AD=
+0x5F92F3AD=很像 ANIS ，但是没有包含任何 ANIS 的代码
 
 ;0xE75A5D75=.  Another  copyright lawsuit and we're going to start charging for this shit!  
-0xE75A5D75=
+0xE75A5D75=。再有这种版权诉讼的话，我们就要转向收费了！
 
 ;0x8F7D4A92=What is your target  market?
-0x8F7D4A92=
+0x8F7D4A92=你们的目标市场是？
 
 ;0x684B6023=Young and not-so-young white middle-class male virgins.  
-0x684B6023=
+0x684B6023=年轻和没那么年轻的中产阶级白人处男。
 
 ;0xD9B4981B=How can girls get into  Eunux programming?
-0xD9B4981B=
+0xD9B4981B=女生怎么加入 Eunux 程序编写的工作？
 
 ;0x7440A54A=They can't.  It's not allowed.  Eunux is just for men.  Girls don't understand the importance of acronyms.  Are you a real girl?  Do you want to hear a binary joke?  Can you send some photos? Will you dress up as a mythical beast for $$?
-0x7440A54A=
+0x7440A54A=女人爬。女人禁止入内。Eunux 是专为男性设计的。女人不懂缩写的重要性。你真的是女人吗？想听关于二进制的笑话吗？能发几张照片吗？能打扮成神话里的猛兽换$$吗？
 
 ;0xD5E37A42=Is Eunux communist?
-0xD5E37A42=
+0xD5E37A42=Eunux 支持共产主义吗？
 
 ;0xAB643610=NO!!!!  When will you people shut up about communism?!!! Eunux is free, collectively owned and distributed, and maintained by a community rather than private individuals.  Does that sound communist to you?  It's socialist, for fuck's sake. 
-0xAB643610=
+0xAB643610=不！！！！能不能别提共产主义了？！！！Eunux 是免费的，由社区集体拥有、共同分发、合作维护，而不是由某一个人包办。这样像是共产主义吗？这叫社会主义，真的是。
 
 ;0x6098B646=Why is the Eunux  kernel so bloated?
-0x6098B646=
+0x6098B646=为什么 Eunux 的内核那么臃肿？
 
 ;0x716E8DC5=It was made in the image of our founder.
-0x716E8DC5=
+0x716E8DC5=按创始人的形象设计的。
 
 ;0xDDA668B5=Why is there no Tech  Support with Eunux?
-0xDDA668B5=
+0xDDA668B5=为什么 Eunux 没有售后服务？
 
 ;0x61EAE059=Why don't you demand a refund, asshole??!! It's fucking  
-0x61EAE059=
+0x61EAE059=你怎么不申请退款啊，混蛋？我们他妈是
 
 ;0xB2F60F8E=FREE!
-0xB2F60F8E=
+0xB2F60F8E=免费的！
 
 ;0x334FC67F= In any case, you can ask for help on message boards and web forums. We will sneer at your ignorance and reply to you in Leet.
-0x334FC67F=
+0x334FC67F=总之，你可以在留言板和网络论坛上寻求帮助。我们会嘲笑你的无知，用黑话回复你。
 
 ;0xF6118456=Why does everything  have to be so difficult?
-0xF6118456=
+0xF6118456=为什么做什么都这么复杂？
 
 ;0xBE4E8FC6=Open Source software developers work towards their own needs, not those of a novice.  Secretly, we like the fact that most people can't get their head around any of our programs. 
-0xBE4E8FC6=
+0xBE4E8FC6=开源软件的开发者是按自身需求进行开发的，不会考虑新手。私底下，我们觉得大部分人玩不转我们的程序是件好事。
 
 ;0xD88660E3=Why is it no fun?
-0xD88660E3=
+0xD88660E3=感觉好没意思？
 
 ;0xF9D69181=Fuck you!  We have a  funny mascot!  
-0xF9D69181=
+0xF9D69181=操你妈！我们的吉祥物很有意思！
 
 ;0x4B33DC25=Do you find it fun wondering whether every email is going to corrupt your system?  Do you like playing with worms and spreading them to all your friends?  To$$ OS is responsible for all known viruses including Bird Flu, SARS and Ebola. Virus writers do not want to touch Eunux which means it is immune to annoying spyware.  Do you get turned on by total strangers fucking in your hard drive?    
-0x4B33DC25=
+0x4B33DC25=你们是不是觉得读封邮件都有可能崩溃的系统很有趣？你们是不是很喜欢电脑中毒，还要发给自己的朋友？To$$ OS 是所有已知病毒的幕后黑手，包括禽流感、非典和埃博拉。病毒制造者都不想碰 Eunux 说明这个系统免疫间谍程序。自己的硬盘被压根不认识的人乱搞的时候你们是不是很兴奋？
 
 ;0xABD04818=Do you get turned on by  thousands of total strangers playing with your source code?
-0xABD04818=
+0xABD04818=自己的源码被几千几万个压根不认识的人乱搞的时候你们是不是很兴奋？
 
 ;0xD2DF5370=Yes. I'm turned on right now. N00b.
-0xD2DF5370=
+0xD2DF5370=是的，我现在就很兴奋。菜鸡。
 
 ;0x5356A921=What does FOSS stand  for?
-0x5356A921=
+0x5356A921=FOSS 是什么意思？
 
 ;0xBC99AC57=Fuck Other Shitty Systems.
-0xBC99AC57=
+0xBC99AC57=Fuck Other Shitty Systems (干翻其他垃圾系统)。
 
 ;0xDB1CB67B=With To$$ OS, all I  had to do was fire up a CD to set up my cable internet or DSL connection.  It appears that I need a degree in computer  science to get cable or DSL working on Eunux?
-0xDB1CB67B=
+0xDB1CB67B=用 To$$ OS 的时候，插张光盘进去就能设置有线网络或者拨号上网。但在 Eunux 上好像得先拿个计算机科学的学位才能设置明白？
 
 ;0x63B2AB8C=It's not meant to be easy!   Where's the fun in that?!
-0x63B2AB8C=
+0x63B2AB8C=本来就不该那么简单！不折腾哪来的乐趣？！
 
 ;0x2540B77D=Why does every program have thousands of different versions?  Why are none of them compatible with each other?
-0x2540B77D=
+0x2540B77D=为什么每个程序都有几千个不同的版本？为什么这些版本还互不兼容？
 
 ;0x7CDC21CC=They're called distributions, not versions.  CHOICE!  We could use a standard code but then it would be no fun to compile every program.
-0x7CDC21CC=
+0x7CDC21CC=纠正一下，是「发行版」，不是「版本」。这叫选择！确实可以用统一的标准代码，但不把所有程序都自己编译一遍就没意思了。
 
 ;0x53A819BD=Why can't Eunux  create a decent file manager?
-0x53A819BD=
+0x53A819BD=为什么 Eunux 没有一个像样的文件管理器？
 
 ;0xC614AAAA=But you can see our source code.  Does that mean nothing to you?!!!
-0xC614AAAA=
+0xC614AAAA=但你可以看见我们的源码啊。还不知道该做什么吗？！！！
 
 ;0x6B4F2200=Why is Eunux so much  slower than To$$ OS?
-0x6B4F2200=
+0x6B4F2200=为什么 Eunux 比 To$$ OS 慢这么多？
 
 ;0xF939BECF=Guess you're one of those 'RAM is always half-empty'  people.  It's 
-0xF939BECF=
+0xF939BECF=你就是那种「RAM永远空一半」的人吧。这是
 
 ;0x97A522DB=FREE
-0x97A522DB=
+0x97A522DB=免费
 
 ;0xBC46C796=.  Get over it.  
-0xBC46C796=
+0xBC46C796=软件。忍忍吧。
 
 ;0x265CDB94=Why is it impossible  to install new hardware, like a printer?
-0x265CDB94=
+0x265CDB94=怎么没办法安装新硬件？比如打印机。
 
 ;0x98D5F9FF=A printer?!  Paper is  dead.  IM fool!
-0x98D5F9FF=
+0x98D5F9FF=打印机？！纸片已死。给我用IM软件，蠢蛋！
 
 ;0xBA690408=Why is everything on  Eunux so ugly?
-0xBA690408=
+0xBA690408=为什么 Eunux 上的所有东西都很丑？
 
 ;0xC94A1FDC=We're programmers.   And it's not like we're getting paid for this.  We're not going to create a pretty interface  just for a noobie like you.  Menus,  shortcuts and toolbars make you weak.  
-0xC94A1FDC=
+0xC94A1FDC=我们是程序员，做这些事也拿不到钱。我们不会专门为你这样的菜鸡做一个漂亮的界面。菜单、快捷键和工具栏是弱鸡用的。
 
 ;0x851497A9=Why is it so  difficult to install a program or driver?
-0x851497A9=
+0x851497A9=安装软件和驱动怎么这么麻烦？
 
 ;0x3A86E6EA=Double-click installs are for pussies.  And it's much easier than it used to be.  Now it only takes about 15 hours.
-0x3A86E6EA=
+0x3A86E6EA=双击安装是给娘们准备的。而且现在安装东西已经比之前简单多了，只需要15小时左右吧。
 
 ;0xD9432C03=Why do Eunux zealots  hate me so much just because I don't mind paying for a superior product that I  can actually understand?
-0xD9432C03=
+0xD9432C03=我愿意为一款我能理解的优秀产品付钱，为什么会被 Eunux 的狂热用户仇视？
 
 ;0xFD502F0F=We at Eunux.net support tolerance and diversity whatever  your kernel orientation.  The people we  really hate are those who dual-boot To$$ OS and Eunux, who use To$$ OS all the  time and then reboot into Ucuntu when their buddies come round just to look  hardcore.  Get off the fucking  fence!  
-0xFD502F0F=
+0xFD502F0F=我们 Eunux.net 赞成宽容和多元的社区，不论你更喜欢哪种内核。我们真正仇视的是那些装 To$$ OS 和 Eunux 双系统的人。平常用的是 To$$ OS，朋友来了就开 Ucuntu 装硬核用户。别给我当骑墙派！
 
 ;0xD5B768E4=Why are open source  programmers so bitter?
-0xD5B768E4=
+0xD5B768E4=为什么开源程序员的脾气都这么差？
 
 ;0x37107037=Most are dysfunctional misfits who were fired from To$$ OS  or 
-0x37107037=
+0x37107037=大部分人都因为脾气暴躁、反体制这样的原因被 To$$ OS 和
 
 ;0x63D94E31=Fruit
-0x63D94E31=
+0x63D94E31=水果公司
 
 ;0xA5D9B864= for anger/anti-establishment issues.   Therefore, they have a big microchip on their shoulder.
-0xA5D9B864=
+0xA5D9B864=开除了。因此他们的肩膀上都有一块巨大的芯片。
 
 ;0xA1AED1E1=Why can't you play  any games on Eunux?
-0xA1AED1E1=
+0xA1AED1E1=为什么没法用 Eunux 打游戏？
 
 ;0x17A53840=Do you think that this is a fucking toy?  If you want a toy, buy To$$ OS.  Spending weeks learning how to build and  secure a network is like a game.  Don't  you long to be able to mess around with source code?
-0x17A53840=
+0x17A53840=你以为这是什么玩具吗？想要玩具的话，滚去买 To$$ OS。花几个星期研究如何架设网络连接、确保网络安全本身就是一种游戏。难道你不想折腾源代码吗？
 
 ;0x4EC96FF5=Why have some states  started to use Eunux on their public school systems when the programs don't  work and even adults don't understand them?
-0x4EC96FF5=
+0x4EC96FF5=为什么有些州的公立学校开始使用 Eunux 作为操作系统？明明就没多少能用的程序，而且连成年人都未必能用明白？
 
 ;0x9BDF4D3F=You're forgetting that Eunux gives you that warm, fuzzy  feeling that it is somehow YOURS!
-0x9BDF4D3F=
+0x9BDF4D3F=你是不是忘了，Eunux 能够给你一种温暖、模糊的感觉，让你觉得它是你自己的东西！
 
 ;0x6B54FB7E=But I'd rather hang  out with my friends?
-0x6B54FB7E=
+0x6B54FB7E=可我更愿意和朋友出去玩啊？
 
 ;0x8894C88F=Friends?!  There's a whole cult-like Eunux community out there!
-0x8894C88F=
+0x8894C88F=朋友？！这里可有一整个全是同好的 Eunux 社区呢！
 
 ;0xD9FE81C3=What happens when I  join the Eunux community?
-0xD9FE81C3=
+0xD9FE81C3=加入 Eunux 社区以后，我会怎么样？
 
 ;0x5BEC9120=We will expect you to grow long hair and a beard (once you  reach puberty), give up any contact with the female species and gradually  retreat from the outside world.
-0x5BEC9120=
+0x5BEC9120=我们希望你能留长发、蓄胡子 (等到青春期就有了)，放弃一切和女性物种的交流，慢慢与外面的世界断绝往来。
 
 ;0x0E55234F=I want to form a Eunux User Group but I can't find any Eunux users?
-0x0E55234F=
+0x0E55234F=我想拉一个 Eunux 用户的群，可是一个 Eunux 用户都找不着？
 
 ;0x1A3802B6=There aren't many and they're very difficult to find,  especially in daylight. Check the  basements of middle-class white families, furry conventions, scrap-booking  message boards, 
-0x1A3802B6=
+0x1A3802B6=本来就不多，而且很难找到他们，白天就不用想了。去中产阶级白人家庭的地下室找吧，也可以去furry集会、在线留言板、
 
 ;0x8AD6B070=historical reenactments
-0x8AD6B070=
+0x8AD6B070=历史重演社区
 
 ;0xD0D0721D=, etc.
-0xD0D0721D=
+0xD0D0721D=之类的地方看看。
 
 ;0x3E56FA0E=Why are there no  office programs?
-0x3E56FA0E=
+0x3E56FA0E=为什么没有办公软件？
 
 ;0xF7482EC6=There are! We have  cobbled together some clumsy imitations of word processing and spreadsheet  packages that don't really work.
-0xF7482EC6=
+0xF7482EC6=有的！我们已经搞出低配仿制版的文字处理和电子表格包了，就是不太好用。
 
 ;0xECA66EB6=Don't sea cucumbers  have no brains?
-0xECA66EB6=
+0xECA66EB6=海黄瓜好像没有脑子吧？
 
 ;0x04D8C78B=You're banned from this site.
-0x04D8C78B=
+0x04D8C78B=你已被本站封禁。
 
 ;0x4716478D=When will you concede  that Eunux is shit as a desktop operating system?
-0x4716478D=
+0x4716478D=什么时候你们才会承认，Eunux 作为桌面操作系统就是垃圾？
 
 ;0x058C4668=When you understand IP and the applications that it's built  upon. 
-0x058C4668=
+0x058C4668=等你弄明白底层的 IP 协议和应用程序吧。
 
 ;0x342347A2=Why can't I do  anything useful on Eunux? Like listen to  music or burn a CD?
-0x342347A2=
+0x342347A2=Eunux 怎么做不了任何有用的事？比如说听音乐和刻光盘？
 
 ;0xDB243013=Try recompiling your kernel.
-0xDB243013=
+0xDB243013=重新编译一下内核试试。
 
 ;0xF7B008EB=Is 'recompiling the  kernel' really a masturbation euphemism?
-0xF7B008EB=
+0xF7B008EB=「重新编译内核」真的是撸一管的委婉说法吗？
 
 ;0xAFA2DF3B=Fucking Luddite!!!!
-0xAFA2DF3B=
+0xAFA2DF3B=傻逼顽固派！！！！
 
 ;0xAC32B684=Why are you so angry?
-0xAC32B684=
+0xAC32B684=这么暴躁干嘛？
 
 ;0x2C6FFE9D=I'm twelve - give me a fucking break!
-0x2C6FFE9D=
+0x2C6FFE9D=我12岁，别鸡巴烦我了！
 
 ;0x88DBC1F9=If I have already  bought or stolen To$$ OS, why on earth would I want to switch to Eunux when I  need graduate-level programming experience to install anything, my modem won't  work, it's slow, WiFi doesn't work well, DTP and CAD are non-existent, the file  manager is shit, the interface sucks, I can't edit photos, I can't play games,  movies or music, there's no tech support etc. etc. etc...?
-0x88DBC1F9=
+0x88DBC1F9=如果我已经买了或者偷了 To$$ OS，到底有什么必要换成 Eunux？想用 Eunux 的话，需要有专门学过的编程经验才能安装东西，猫也用不了，很慢，WiFi也不好使，更没有桌面排版软件和计算机制图软件，文件管理器也很烂，界面也很难看，不能修图，更不能玩游戏、看电影、听音乐，还没有售后服务... ？
 
 ;0xC36E597A=My operating system is mine, not created and controlled by a  monstrous corporation. It's MINE. IT'S MINE!!!!  I'm fucking hax0r! I'm one 133t  dude!! 
-0xC36E597A=
+0xC36E597A=我用的操作系统是自己的，不是哪家怪物企业制造控制的。它是我的东西。是！我！的！！！！老子是 hax0r！老子是精英好吗！！
 
 ;0x4E5D4CF2=W00t!!!!
-0x4E5D4CF2=
+0x4E5D4CF2=爽！！！！
 
 ;0x6EE6E83C=OK, ease up on the  energy drinks, loser
-0x6EE6E83C=
+0x6EE6E83C=好吧，少喝点能量饮料吧，废物
 
 ;0x7E1FD8EE=It's L
-0x7E1FD8EE=
+0x7E1FD8EE=是
 
 ;0xF00C3C10=u
-0xF00C3C10=
+0xF00C3C10=飞舞
 
 ;0x973947A3=ser.     
-0x973947A3=
+0x973947A3=。
 

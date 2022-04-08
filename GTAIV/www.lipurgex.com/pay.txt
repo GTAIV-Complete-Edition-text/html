@@ -26,10 +26,10 @@
 0xAA2D5CDD=获取30天的
 
 ;0x97A522DB=FREE
-0x97A522DB=免费试用装
+0x97A522DB=免费
 
 ;0xDAB679B9= for 30 days!  If you don't lose 30lb and 5 inches from your waist, we will give you another month's supply for 
-0xDAB679B9=Lipurgex！如果你的体重下降少于25斤，腰围只缩小了小于12厘米，我们会再为您提供一个月的
+0xDAB679B9=试用装Lipurgex！如果你的体重下降少于25斤，腰围只缩小了小于12厘米，我们会再为您提供一个月的
 
 ;0xADF607AF=FREE.
 0xADF607AF=免费试用装

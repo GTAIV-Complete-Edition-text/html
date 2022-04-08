@@ -1,12 +1,12 @@
 ﻿;0xD2EA80E0=The central principle of the Open Source Movement is writing crucially-flawed software and creating systems that nearly work while ensuring a complete lack of standardization. The best thing about open source software is you can release it before it's finished, just like a real software company. Similar to the way that  
-0xD2EA80E0=
+0xD2EA80E0=开源运动的核心原则是编写错误百出的软件，创建差不多能用的系统，同时还没有任何统一的标准。开源软件最好的一点就是，你可以在正式完工之前将其发布，真正的软件公司也是这么做的。类似于乱搞你的中枢神经系统的
 
 ;0x468D698E=chiropractors
-0x468D698E=
+0x468D698E=推拿师
 
 ;0x2B7E1BDD=  play around with your central nervous system, Eunux allows untrained people to tinker with their source code. This means that you can write an amazing program and within minutes of posting it online, a 10-year-old will have picked apart the code and fucked it up.
-0x2B7E1BDD=
+0x2B7E1BDD=，Eunux 允许没有经过专业训练的人对源码进行修补。也就是说，你可以写出超赞的程序，但发到网上没几分钟，就会有十岁小孩拆开你的代码，把它搞得一团糟。
 
 ;0x9E0D0545=Open source programs are free but completely useless for any mission-critical activities. It's like a car, with thousands of mechanics and drivers and everybody has a go at it.
-0x9E0D0545=
+0x9E0D0545=开源程序是自由的，但在关键性的业务中毫无用处。就像一辆车，车上有几千个机械师和司机，每个人手里都有方向盘，根本不能上路。
 
