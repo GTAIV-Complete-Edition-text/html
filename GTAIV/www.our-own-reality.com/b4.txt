@@ -1,36 +1,36 @@
-﻿;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
-0xE773CCA2=
+;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
+0xE773CCA2=搞臭你心爱的明星！八卦、蜚语、丑闻、
 
 ;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
-0x5E1A6427=
+0x5E1A6427=分手、崩溃、争吵......以及一切我们可以偷拍到的秘密！
 
 ;0xA62EA2E1=Good news:  Nobody actually gave a fuck what a 80s TV star thought about Middle East diplomacy or global warming.  Julian Glockwell, who played Chris Van Angel on the cult TV show, Angel & The Knight, started the blog three years ago and has pontificated pretentiously on "the important issues of the day" ever since.  Traffic to the site peaked at 7 readers on July 9th 2006.
-0xA62EA2E1=
+0xA62EA2E1=好消息：没有人真的他妈的在意一个80年代的电视明星对中东外交局势或者全球变暖的看法。曾经在一档邪典电视剧《天使与骑士》里扮演过Chris Van Angel的Julian Glockwell，从三年前开始至今始终笔耕不辍自命不凡又极度自以为是的每天通过自己的博客发表“今日要事”。该博客站点在2006年7月9日达到了访问量的巅峰：7。
 
 ;0xE4861326=The man who was arrested for running across the field naked at the Liberty City Penetrators game last week has issued a statement to the press.  "Having watched the footage, I would like to remind everybody that it was a VERY cold day."  
-0xE4861326=
+0xE4861326=上周因在“自由城穿梭者”比赛中裸体跑过场地而被捕的男子已向新闻界发表声明。 “我就是想提醒看过这段视频后的大家，这是一个非常寒冷的日子。”
 
 ;0xDFCEADC4=- BREAKING NEWS: Mini Millionaire Madness!!!
-0xDFCEADC4=
+0xDFCEADC4=号外：迷你百万富翁怒火滔天！！！
 
 ;0x27565A04=- From superstar to supersize... who is he again?
-0x27565A04=
+0x27565A04=从超级巨星到超级肥肥......这一次又是谁？
 
 ;0x0265E9DA=- Ernesto Asaltacunas goes to a restaurant!!!
-0x0265E9DA=
+0x0265E9DA=Ernesto Asaltacunas去饭店了！！！
 
 ;0x6EB9DE22=- In a HOLE lot of trouble?
-0x6EB9DE22=
+0x6EB9DE22=屁眼小小，烦恼多多
 
 ;0xE530BCB4=- Beaver Saturation!!!
-0xE530BCB4=
+0xE530BCB4=色色含量过载！！！
 
 ;0x0F81AFE0=- Simon is cheating on Nigel!!!
-0x0F81AFE0=
+0x0F81AFE0=Simon背叛了Nigel！！！
 
 ;0xA1F1D979=- Celebrity blog shut down
-0xA1F1D979=
+0xA1F1D979=名人博客关停
 
 ;0xC8B156AE=- Streaker issues statement
-0xC8B156AE=
+0xC8B156AE=裸奔者发表声明
 

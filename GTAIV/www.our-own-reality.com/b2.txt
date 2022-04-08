@@ -1,36 +1,36 @@
-﻿;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
-0xE773CCA2=
+;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
+0xE773CCA2=搞臭你心爱的明星！八卦、蜚语、丑闻、
 
 ;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
-0x5E1A6427=
+0x5E1A6427=分手、崩溃、争吵......以及一切我们可以偷拍到的秘密！
 
 ;0x54BAB55F=The Cuban baseball star, who is having another record-breaking season with the Liberty Swingers this year, was spotted by one of our photographers EATING DINNER IN A RESTAURANT with his mother last night.  What an amazing story!  Asaltacunas ordered a Caesar salad, his mother had the fish and they both finished with a single espresso.  Neither drank any alcohol.  What does this all mean?  Many people believe that Asaltacunas dropped some baby batter into the receiving end of Jill Von Crastenburg's piehole and the speculation that is doing the rounds on the internet has dominated world news for days now.  No word on how his mom feels about him whoring about with a teenager who has a sex tape online.
-0x54BAB55F=
+0x54BAB55F=今年与自由城浪子队携手又一次打破了赛季记录的古巴棒球明星于昨晚被我们的一位摄影师发现在饭店与母亲共进晚餐，Asaltacunas点了一份凯撒沙拉，他的母亲则吃了些鱼，两人各自喝了一杯浓缩咖啡而没有喝酒。这一切意味着什么？很多人确信Asaltacunas把他自己的白白奶油挤进了Jill Von Crastenburg的樱桃小嘴里，网上的各种谣言和猜测也已经席卷世界新闻好几天了。当这位母亲在网上看到自己儿子和未成年少女的性爱录像时究竟会做何感想？我们对此一无所知。
 
 ;0x7CD732B9=A goatse screensaver has been flying around chatrooms over the past couple of weeks that many believe is Alderney Senator Charles Martin.  Or at least, that's what our cab driver told us.  In the absence of any real news, we're going to milk this for all we can.  If any of you haven't heard of goatse, it might be a fun thing to research at the office.
-0x7CD732B9=
+0x7CD732B9=一张小色羊（goatse）的屏保目前正在各大聊天室疯传，很多人相信这张照片属于Alderney区参议院harles Martin。至少，我们的出租车司机是这么言之凿凿的告诉我们的。既然现在没什么劲爆的新闻，我们会就此屏保竭尽我们所能狠狠深挖一下。如果还有人不知道小色羊是什么，不妨在上班有空的时候搜搜看呀！
 
 ;0xDFCEADC4=- BREAKING NEWS: Mini Millionaire Madness!!!
-0xDFCEADC4=
+0xDFCEADC4=号外：迷你百万富翁怒火滔天！！！
 
 ;0x27565A04=- From superstar to supersize... who is he again?
 0x27565A04=
 
 ;0x0265E9DA=- Ernesto Asaltacunas goes to a restaurant!!!
-0x0265E9DA=
+0x0265E9DA=Ernesto Asaltacunas去饭店了！！！
 
 ;0x6EB9DE22=- In a HOLE lot of trouble?
-0x6EB9DE22=
+0x6EB9DE22=屁眼小小，烦恼多多
 
 ;0xE530BCB4=- Beaver Saturation!!!
-0xE530BCB4=
+0xE530BCB4=色色含量过载！！！
 
 ;0x0F81AFE0=- Simon is cheating on Nigel!!!
-0x0F81AFE0=
+0x0F81AFE0=Simon背叛了Nigel！！！
 
 ;0xA1F1D979=- Celebrity blog shut down
-0xA1F1D979=
+0xA1F1D979=名人博客关停
 
 ;0xC8B156AE=- Streaker issues statement
-0xC8B156AE=
+0xC8B156AE=裸奔者发表声明
 
