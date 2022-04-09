@@ -26,7 +26,7 @@
 0x89FF2E84=欢迎来到未来。
 
 ;0x3E265EC4=It is a future where the super-wealthy pay a quarter of a million dollars to float around in their own vomit for five minutes. Jefferson Springfield Jr. founded Highmen Space Tours in 2004 with one clear mission: to make space travel accessible to the rich and famous while taking a cut and posing for some fantastic photo ops. Thousands of Vinewood actors, celebrity heiresses, boy band members, soccer players and hedge fund managers have pre-booked their seats on Spacetrotter2 and all we have to do now is find a way to make it work without turning everybody on board into molten goo. In the meantime, we will continue with our approach of unveiling flashy prototypes in mega-hyped publicity stunts, some of which blow up on the launch pad.
-0x3E265EC4=这是一个富豪们花25万美元，就能在自己的呕吐物周围漂浮5分钟的未来。Jefferson Springfield Jr.于2004年创立了Highmen太空之旅公司，其目标很明确：让富人和名人可以进行太空旅行，并从中获利，摆出一些精彩的照片。数以千计的好麦坞演员、名流继承人、男子乐队成员、足球运动员和对冲基金经理已经预订了他们在Spacetrotter2上的座位，我们现在的当务之急是找到一个方法使计划成功实施，而不让所有人都化为肉泥。同时，我们将继续在炒作的大型宣传活动中推出华丽的原型机，其中一些在发射台上炸毁。
+0x3E265EC4=这是一个富豪们花25万美元，就能在自己的呕吐物周围漂浮5分钟的未来。Jefferson Springfield Jr.于2004年创立了Highmen太空之旅公司，其目标很明确：让富人和名人可以进行太空旅行，并从中获利，摆出一些精彩的照片。数以千计的好麦坞演员、名流继承人、男子乐队成员、足球运动员和对冲基金经理已经预订了他们在Spacetrotter2飞船上的座位，我们现在的当务之急是找到一个方法使计划成功实施，而不让所有人都化为肉泥。同时，我们将继续在炒作的大型宣传活动中推出华丽的原型机，其中一些在发射台上炸毁。
 
 ;0xF49666BF=Exciting stuff! Space just went private!
 0xF49666BF=激动人心的事！太空上也能有私人空间了！
@@ -62,7 +62,7 @@
 0x8BD8673C=一开始他接管了世界。现在他正在接管全宇宙，以确保Highmen的标志将出现在从乳房假体到泰瑟枪的所有东西上。Jefferson Springfield Jr的商业航天器的最新原型机本周在一场浮华和炒作的发布会中揭开面纱，其目的是转移人们的注意力，因为Highmen公司无法找到任何理智的飞行员同意进行首次试飞。
 
 ;0xD5011DB3=In a press briefing, Springfield asserted, "Billions of dollars of tax-payers' money later and the US space program is no further along than it was 40 years ago. All they do on the space station is shit in bags and watch it blow out the airlock. How can you explore space trapped in a tin can with foreigners from countries we don't even like? Weren't we supposed to be spending our spring breaks binge-drinking on the moon? Do I have to do everything myself?" Springfield told reporters while stroking his beard and laughing maniacally.
-0xD5011DB3=在一场新闻发布会上，Springfield坚称：「花了数十亿美元的纳税人的钱之后，美国的太空计划相比40年前并没有任何进步。」他们在空间站里只会在袋子里拉屎，然后看着它从气闸里吹出来。和来自我们甚至不喜欢的国家的外国人一起被困在一个铁罐子里，这还怎么探索太空？我们的春假不是应该用来在月球上狂饮一番吗？难道每件事都要我亲自去做吗？Springfield抚摸着胡子，狂笑着对记者如是说。
+0xD5011DB3=在一场新闻发布会上，Springfield坚称：「花了数十亿美元的纳税人的钱之后，美国的太空计划相比40年前并没有任何进步。他们在空间站里只会在袋子里拉屎，然后看着它从气闸里吹出来。和来自我们甚至不喜欢的国家的外国人一起被困在一个铁罐子里，这还怎么探索太空？我们的春假不是应该用来在月球上狂饮一番吗？难道每件事都要我亲自去做吗？」Springfield抚摸着胡子，狂笑着对记者如是说。
 
 ;0x9E2012F2=Book your bachelor party now!
 0x9E2012F2=现在就预订您的单身派对吧！
