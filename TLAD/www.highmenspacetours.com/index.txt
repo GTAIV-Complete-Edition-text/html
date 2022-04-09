@@ -50,7 +50,7 @@
 0x906486D6=办理登机手续...
 
 ;0x4A2046BF=Highmen has already started building Spaceports in impossible-to-get-to desert locations around the world where nosy reporters and safety inspectors whither from the heat and turn back.   In keeping with the proven model of the airline industry, passengers should expect degrading and draconian invasions of privacy at every stage of their spaceport experience.    Please check in at least two hours before take-off and ensure that all orifices capable of waste discharge are properly sealed with the provided Highmen Space Tours hi-temperature duct tape. This will prevent your fellow amateur astronauts from floating around in your trouser chili because you shit your pants on re-entry.
-0x4A2046BF=Highmen集团已经开始在世界各地难以到达的沙漠地区建造发射基地，那里的酷热会让好管闲事的记者和安全检查人员落荒而逃。为了与航空业的成熟模式保持一致，乘客们应该了解，他们在发射基地体验到的每一个环节都会遇到辱人格且严重的隐私侵犯行为。 请在起飞前至少两小时办理登机手续，并确保身上所有能够排放废物的孔口都已用所提供的Highmen太空之旅高温布基胶带密封严实。这样你的业余宇航员同伴们就能免于在你再入时拉裤子后被你四处飘散的腹泻物所包围。
+0x4A2046BF=Highmen集团已经开始在世界各地难以到达的沙漠地区建造发射基地，那里的酷热会让好管闲事的记者和安全检查人员落荒而逃。为了与航空业的成熟模式保持一致，乘客们应该了解，他们在发射基地体验到的每一个环节都会遇到有辱人格且严重的隐私侵犯行为。 请在起飞前至少两小时办理登机手续，并确保身上所有排泄的孔口都已用所提供的Highmen太空之旅高温布基胶带密封严实。这样你的业余宇航员同伴们就能免于在你再入时拉裤子后被你四处飘散的腹泻物所包围。
 
 ;0x9F6B34DD=Latest news
 0x9F6B34DD=近期新闻
