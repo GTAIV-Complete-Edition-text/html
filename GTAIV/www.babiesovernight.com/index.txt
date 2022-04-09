@@ -59,7 +59,7 @@
 0x58329BF2=宝宝隔夜达
 
 ;0xDCDEF4F8=Your new bundle of joy - in a box - overnight.  
-0xDCDEF4F8=你全新的快乐源泉，纸箱包装，隔夜即达
+0xDCDEF4F8=为你的家庭再添一宝，纸箱包装，隔夜即达
 
 ;0x3B34543B=Guaranteed.
 0x3B34543B=包您满意
