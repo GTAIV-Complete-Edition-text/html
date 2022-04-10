@@ -1,51 +1,51 @@
 ﻿;0x2FB58B93=Since the aftermath of Loot and Wank VII: Banging the Cyclops, a vast land is in ruins, and the people of Pertockigoth attempt to rebuild their smoldering lands and apply balm to their bums as new threats arise. An alliance of millions of online players paying $14.99 a month is the only thing that can defeat it.
-0x2FB58B93=
+0x2FB58B93=在 Loot & Wank VII：大战独眼巨人 后，大量区域一片衰败，Pertockigoth的人民想要重建他们被战火摧毁的家园，做好准备应对新的威胁。只有数百万购买$14.99月卡的玩家才能击退来敌。
 
 ;0xD2ACBEAB=Loot and Wank is an online role-playing virtual world experience set in a universe that doesn't really exist.
-0xD2ACBEAB=
+0xD2ACBEAB=Loot & Wank是一款在线虚拟世界角色扮演游戏，故事发生在一个虚构的世界。
 
 ;0xCFDE1533=Be a hero. Be a massive asshole. Enjoy the anonymity of sitting behind your computer for 18-hour stretches as you explore, steal, harass, and kill strangers. Form friendships, destroy your marriage, become morbidly obese, forge pretty weapons, fondle elves and make enemies.
-0xCFDE1533=
+0xCFDE1533=成为英雄。成为大混蛋。坐在屏幕前享受你的匿名身份，把一天的18个小时拿来探索、盗窃、骚扰，击杀陌生人。建立友谊，毁灭婚姻，愈发肥胖，锻造漂亮的武器，爱抚精灵，树立敌人。
 
 ;0xA189E1EB=Enjoy the true power and glory that only a perpetual 24-hour universe of the terminally lonely can foster.
-0xA189E1EB=
+0xA189E1EB=享受真正的力量和荣耀吧，只有24小时不间断存在的荒凉世界可以给你这种体验。
 
 ;0xA585D800=Remember the riots in Los Santos a few years back? Imagine the joy of that kind of naked capitalism and hierarchy, but set in a romantic time thousands of years ago when women died during childbirth, there were no repercussions for infidelity and men were comfortable spending weeks at a time alone in the woods.
-0xA585D800=
+0xA585D800=还记得几年前洛圣都发生的暴动吗？想象一下，数千年前，女人还会死于分娩，婚后出轨没有代价，男人还能在树林中独自度过舒舒服服的生活，在这样一个浪漫的世界中享受赤裸裸的资本主义和等级制度吧。
 
 ;0xCCCA325B=You can adjust your character's view by simply moving the mouse.
-0xCCCA325B=
+0xCCCA325B=移动鼠标，即可调整人物的视角。
 
 ;0xEE35487B=If you come across an elf, troll, or fairy that you want to loot, press the space bar.
-0xEE35487B=
+0xEE35487B=如果你遇到了一个精灵/巨魔/仙子，可以按空格掠夺装备。
 
 ;0x737A7E5C=If you come across an elf, troll, or fairy that you want to wank, press the enter key.
-0x737A7E5C=
+0x737A7E5C=如果你遇到了一个精灵/巨魔/仙子，可以按回车来上一发。
 
 ;0x65F90DC3=Many fans of Loot and Wank have formed guilds - alliances of players who like to get together and loot and wank as a group. A guild is a group of players who get together to cuddle virtually, then unleash violence on the land for economic gain. Nothing is more fun than raiding a peasant village in a drunken fury at 3 AM, taking anything you can get your hands on, having your way with the women, enslaving the children, and burning the place to the ground.
-0x65F90DC3=
+0x65F90DC3=许多Loot & Wank的玩家组建了公会，也就是由一群志同道合的玩家形成的同盟。在公会中，玩家们可以虚拟拥抱，为了一点收益拳脚相向。最有趣的还是三更半夜偷袭乡巴佬村落，伴着酒后的怒火烧杀掳掠、逼良为娼。
 
 ;0x36A31E44=Rules: The Guild Master may have you or your wench at any time. You are to lift your cloak and present your backside when the Guild Master approaches.
-0x36A31E44=
+0x36A31E44=规则：公会会长随时可以享用你或你的伴侣。会长出现时，自觉撩起斗篷露出屁股。
 
 ;0xBE843690=RIORPG means "Really Idiotic Online Role-Playing Game." In an RIORPG, thousands of powerful idiots exist in the same virtual game world at the same time and somehow feel a sense of community.
-0xBE843690=
+0xBE843690=RIORPG的意思是「真的很蠢的在线角色扮演游戏」。在RIORPG中，成千上万个强大的白痴同时存在于虚拟的游戏世界，形成一种社区的感觉。
 
 ;0x69D0CD69=Note: If you come across a girl, you must kill it instantly as they are an abomination against God.
-0x69D0CD69=
+0x69D0CD69=注意：如果遇到了女性玩家，必须立刻击杀她们，因为上帝对她们深恶痛绝。
 
 ;0xCA63FCC9=Priests: Be warned, young warrior, and keep your tunic tight.
-0xCA63FCC9=
+0xCA63FCC9=牧师：小心，年轻的战士，系紧你的长袍。
 
 ;0x3AF31384=Warlock: Do not wank a warlock without finishing him off, if you value your life!
-0x3AF31384=
+0x3AF31384=术士：珍爱生命，帮术士手淫的时候必须让他打出来。
 
 ;0xC0044A27=Troll: Don't let your fellow players see you with one - but trolls are a load of fun. At just the right height, you can balance an ashtray on their head!
-0xC0044A27=
+0xC0044A27=巨魔：别让朋友看见你带了个巨魔，但巨魔真的很有趣。只要找对位置，你还可以在他们头上放住烟灰缸！
 
 ;0x3F56B64C=Elf: Elves have STDs and should not be trusted. They do have great record collections however.
-0x3F56B64C=
+0x3F56B64C=精灵：精灵都有性病，不要相信他们。但他们的收藏都很丰富。
 
 ;0xA9FA092E=Spells: You can cast a spell on your magic night stick at any time.  This is a great trick and is quite useful during guild parties.
-0xA9FA092E=
+0xA9FA092E=法师：你随时可以用法杖施放魔法。公会派对的时候来几下花的吧。
 

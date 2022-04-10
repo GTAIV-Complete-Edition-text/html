@@ -17,7 +17,7 @@
 0xF20DD1F5=现在甚至烧得更快！
 
 ;0x77987987=We have beefed up the ammonia and formaldehyde content so that Redwoods now burn faster than a bottle rocket on the 4th of July.  Before you can say emphysema, you'll be onto your second stick of pleasure.         
-0x77987987=我们提高了氨和甲醛的比例，红木牌香烟现在烧得比独立日的瓶装火箭还快。在你念完慢性肺气肿这五个字钱，就已经开始享受第二支烟的快感了。
+0x77987987=我们提高了氨和甲醛的比例，红木牌香烟现在烧得比独立日的瓶装火箭还快。在你念完慢性肺气肿这五个字前，就已经开始享受第二支烟的快感了。
 
 ;0x41DA989F=REDWOOD JUNIORS
 0x41DA989F=红木青春版

@@ -23,7 +23,7 @@
 0xCF6B3F3C=小时候母亲每天都告诉我：「现在这样还不够好，你的身体也没有那么棒。」我很感谢妈妈对我的这种教育。依我看，大码服装店就该直接关门，不能让小孩子觉得肥胖也是一种可以接受的生活方式。我在飞机上抽烟要挨骂，凭什么胖子就不用挨骂？！
 
 ;0x8288957C=I'm proud to be the face of Lipurgex and proud to be the thinspiration for millions of young girls around the world. Get down to 50lbs and then get a boob job - that's the way to achieve the ideal body, according to my agent. It's only going to get harder for me.  I don't want middle-aged men saying "Oh Jill was so much hotter when she was 12!".  My goal is to lose another 10lbs before each birthday.  With Lipurgex, I know that I can get there. Champagne, Lipurgex and my Didier Sachs diaper are all I need to survive and look great! Sometimes I black out for days but what does it matter... skinny is 
-0x8288957C=能够成为Lipurgex的形象大使是我的荣幸，能够成为全世界百万少女的骨感模范更让我倍感荣幸。减肥到40斤，再去隆个胸吧。据我的经纪人所说，这样就能创造出理想的身体曲线。对我来说，保持理想身材只会越来越难。我不想听到中年男人说「噢，Jill刚刚12岁的时候可比现在性感多了！」我的目标是在每个生日之前都瘦10斤。有了Lipurgex，我知道这个目标可以实现。只要有香槟、Lipurgex和我的Didier Sachs尿布，我就可以生存，也能维持美貌！虽然有时会昏迷几天，但那又怎么样呢... 骨瘦如柴就是
+0x8288957C=能够成为Lipurgex的形象大使是我的荣幸，能够成为全世界百万少女的瘦身动力更让我倍感荣幸。减肥到40斤，再去隆个胸吧。据我的经纪人所说，这样就能创造出理想的身体曲线。对我来说，保持理想身材只会越来越难。我不想听到中年男人说「噢，Jill刚刚12岁的时候可比现在性感多了！」我的目标是在每个生日之前都瘦10斤。有了Lipurgex，我知道这个目标可以实现。只要有香槟、Lipurgex和我的Didier Sachs尿布，我就可以生存，也能维持美貌！虽然有时会昏迷几天，但那又怎么样呢... 骨瘦如柴就是
 
 ;0x0AFBCAEA=HOT!!
 0x0AFBCAEA=性感！！
