@@ -41,7 +41,7 @@
 0x1ADE05D7=Eunux 很简单，在论坛上伸手求助被人冷嘲热讽上半年以后，你就能找到问题的答案了。花个几周研究网上的教程，你就能学会播DVD了。
 
 ;0xF8FA0797=Can you think of anything better than spending your weekend recompiling a kernel? Do you even know what we're talking about? A fucking kernel man! Eunux is completely free, so long as time has no value to you. All we ask in return is that you worship our founder. He is a geek god. If you speak to him nicely, he will tell you the meaning of life. Just don't mispronounce Eunux or he will make the system even less intuitive.           
-0xF8FA0797=还有什么能比周末重新编译内核更加快乐呢？你真的能看懂网页上的内容吗？内核懂不懂！Eunux 完全免费，只要你的时间成本不算成本。我们索要的回报只有一个，就是崇敬我们的创始人。他是极客之神。如果好好跟他说话，他会告诉你人生的意义。别把 Eunux 这个名字念错就行，否则他会把系统搞得更反直觉。
+0xF8FA0797=还有什么能比周末重新编译内核更加快乐呢？你真的能看懂网页上的内容吗？内核懂不懂！Eunux 完全免费，只要你的时间成本不算成本。我们需要的回报只有一个，就是崇敬我们的创始人。他是极客之神。如果好好跟他说话，他会告诉你人生的意义。别把 Eunux 这个名字念错就行，否则他会把系统搞得更反直觉。
 
 ;0xFAFB14C6=Come on! What better way to fuck capitalism in the ass than an operating system used by nobody?!! Don't kid yourselves - you're never going to get laid. Join the free software subculture instead. 
 0xFAFB14C6=来吧！要想狠狠搅和资本主义，使用没人用的操作系统不是再合适不过了吗？！！别骗自己了，你这辈子都脱不了处的。还是加入自由软件的亚文化吧。
