@@ -1,48 +1,48 @@
 ﻿;0xF4F1DC36=How it works...
-0xF4F1DC36=
+0xF4F1DC36=流程介绍...
 
 ;0x4A1941D0=First, pony up a quarter of a million dollars.  Receive the jacket with Highmen space logos all over it.  Then proceed to brag to all your rich friends while at fundraisers.
-0x4A1941D0=
+0x4A1941D0=首先，付清25万美元。您会收到印满Highmen宇航公司标志的夹克。 然后您就能在募捐活动中向所有富人朋友炫耀了。
 
 ;0x07CE25BC=Think of it as an amusement park ride for millionaires.
-0x07CE25BC=
+0x07CE25BC=把它看作是百万富翁的一次游乐场之行。
 
 ;0x4C6CF717=History suggests that the Highmen space experience is likely to play out in one of two ways:
-0x4C6CF717=
+0x4C6CF717=历史表明，Highmen宇航之旅可能会以以下两种方式之一进行：
 
 ;0xFA2EDB64=Before launch, an on-site extra insurance policy is sold to passengers as their families look on, weeping from behind a velvet rope at the end of the tarmac.
-0xFA2EDB64=
+0xFA2EDB64=在发射前，乘客们会被现场推销额外的保险，而他们的家人则在停机坪尽头的羽绒绳后看着他们哭泣。
 
 ;0x4491B770=The BlackbaronII mother ship climbs to about 50,000 ft. and releases the Spacetrotter2 rocket ship while the passengers violently shake.
-0x4491B770=
+0x4491B770=BlackbaronII母舰爬升至约50000英尺的高度，释放Spacetrotter2火箭飞船，乘客们感到剧烈抖动。
 
 ;0x5213CCFD=Spacetrotter2 blasts up to 63 miles high, runs out of gas and begins freefalling.
-0x5213CCFD=
+0x5213CCFD=Spacetrotter2飞船蹿升至63英里的高空，之后耗尽燃料开始自由落体。
 
 ;0x1EE670B5=Slutty spacehostesses in tight silver uniforms hand out complementary barf bags.
-0x1EE670B5=
+0x1EE670B5=穿着银色紧身衣的性感太空空姐开始分发备用的呕吐袋。
 
 ;0x6EA08562=Passengers float around in a confined space with a migraine for 5 minutes, trying to act like this was worth it.
-0x6EA08562=
+0x6EA08562=乘客们带着偏头痛，在狭窄的空间里漂浮5分钟，假装这是一次不虚此行的经历。
 
 ;0x1BDF23BC=Spacetrotter2 plunges back through the Earth's atmosphere.
-0x1BDF23BC=
+0x1BDF23BC=Spacetrotter2飞船重回地球大气层。
 
 ;0xCF8FF6EB=The wings open and Spacetrotter2 glides smoothly down to the ground.
-0xCF8FF6EB=
+0xCF8FF6EB=机翼打开，Spacetrotter2飞船平稳地滑翔到地面。
 
 ;0x7CE4AA04=OR
-0x7CE4AA04=
+0x7CE4AA04=或
 
 ;0xB669CE12=Spacetrotter2 explodes in a ball of white-hot fire killing everybody on board.
-0xB669CE12=
+0xB669CE12=Spacetrotter2飞船爆炸，变成一团炽热的火球，机上无人生还。
 
 ;0x976A2146=We start work on Spacetrotter3.
-0x976A2146=
+0x976A2146=我们着手研发Spacetrotter3飞船。
 
 ;0x8623E150=The internationally-recognized boundary of space is 62 miles above land.  Highmen Space Tours sends you a FULL MILE into space and gives you a FULL FIVE MINUTES of weightlessness.  If that's not worth $250,000, we don't know what is. 
-0x8623E150=
+0x8623E150=国际公认的太空边界是距地表62英里的高度。Highmen太空之旅会将您送入太空整整一英里，并给你整整五分钟的失重时间。如果这还不值25万美元，我们不知道什么才值得。
 
 ;0xF4C1BADE=All passengers are obliged to sign our 3,000-page waiver.
-0xF4C1BADE=
+0xF4C1BADE=所有乘客都必须签署我们长达3000页的免责声明。
 
