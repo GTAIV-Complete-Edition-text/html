@@ -1,48 +1,48 @@
 ﻿;0xAF24433B=Q. WHAT IS KRAPEA FURNITURE MADE OF?
-0xAF24433B=
+0xAF24433B=问：宜室的家具是什么材质的？
 
 ;0x832F32B1=A. Most of our furniture is made of particleboard, balsa wood or MDF. MDF releases formaldehyde into your home but this is the price you pay if you want to buy pseudo-modernist furniture for less than the cost of a round of drinks.
-0x832F32B1=
+0x832F32B1=答：我们的大部分家具是用颗粒板、轻木板或MDF板做的。MDF板会释放甲醛，但这就是既不肯掏钱，又想买仿现代主义家具的代价。
 
 ;0x04E287DE=Q. I'VE ONLY HAD MY WARDROBE FOR SIX MONTHS AND IT'S FALLING APART!
-0x04E287DE=
+0x04E287DE=问：我的衣柜才买回去半年，现在已经坏了！
 
 ;0x074A89C7=A. It lasted six months??!!!!!! You should be our happiest customer. Congratulations. 
-0x074A89C7=
+0x074A89C7=答：居然能用半年？？！！！！！！你应该是最幸福的顾客了。恭喜你。
 
 ;0x354A3659=Q. DO LINGONBERRIES REALLY EXIST?
-0x354A3659=
+0x354A3659=答：真的有越橘这种东西吗？
 
 ;0x68D35F15=A. We love the fact that you Americans are so suspicious of the Lingonberry!
-0x68D35F15=
+0x68D35F15=答：你们美国人总是怀疑越橘的真实性，我们很喜欢这一点！
 
 ;0xEC909F03=Q. WHY IS THERE NO CUSTOMER SERVICE? 
-0xEC909F03=
+0xEC909F03=问：为什么没有客服？
 
 ;0x37E8C798=A. Life is suffering. We sacrifice everything to keep our prices low and customer focus is an obvious service that is surplus to requirement. Would you like us to send you some meatballs? There is a number you can call that eventually connects you to an automated voicemail. The message will tell you to Ask Astrid on our website. That's me, by the way.
-0x37E8C798=
+0x37E8C798=答：生活很痛苦。我们为了压低价格牺牲了一切，客服已经超出了合理需求的范围。需要我们给你送几个肉丸吗？你可以电话联系我们，咨询我们的语音服务。语音会告诉你去官网问Astrid，也就是我。
 
 ;0xE542BC75=Q. WHAT IS KRAPEA'S RETURN POLICY?
-0xE542BC75=
+0xE542BC75=问：宜室的退换货政策是怎么样的？
 
 ;0xB7602A42=A. All our products are damaged, missing components or contain parts that do not fit together. The cruel irony is that we will not accept returns or exchanges if the box has been opened.
-0xB7602A42=
+0xB7602A42=答：我们所有的产品都有损坏、缺失零件、尺寸不合适的情况。最讽刺的是产品一经拆封概不退换。
 
 ;0xB16AAF04=Q. WHY CAN'T I ORDER ANYTHING ONLINE?
-0xB16AAF04=
+0xB16AAF04=问：为什么我不能在网上下单购物？
 
 ;0x563340F2=A. What?! And miss out on the store experience? Some items are available online but we only offer one piece from each of our ranges and double the price of everything under the guise of delivery charges. Anyway, you don't want delivery guys in your house. They always leave a steaming dump in your bed.
-0x563340F2=
+0x563340F2=答：什么？！那不是没有逛商场的体验了吗？部分商品确实在线上出售，但每种品类只有一款产品，价格还以运费的名义翻了一倍。不过嘛，你绝对不希望派送员进你家的。他们总会在你床上留下一坨热气腾腾的屎。
 
 ;0x7B6CE56E=Q. WHY DO YOU HAVE SUCH BIZARRE PRODUCT NAMES LIKE PLANKFOG, SLIPSHOD AND TOTTER?
-0x7B6CE56E=
+0x7B6CE56E=问：为什么你们的产品名那么奇怪，都是什么PLANKFOG、SLIPSHOD、TOTTER？
 
 ;0x675B70C8=A. We Swedes abuse vowels and consonants much like you Americans abuse prescription medicine. Most furniture names in the KRAPEA catalogue are Scandinavian slang for penis or an STD. We laugh and laugh thinking of Americans sleeping on their penis beds or herpes chairs. This gives us amusement, especially on days with only 3 hours of sunlight.
-0x675B70C8=
+0x675B70C8=答：我们瑞典人喜欢滥用元音辅音，就像你们美国人喜欢滥用处方药一样。宜室产品目录上的大部分家具名都是鸡巴或是性病在斯堪的纳维亚半岛的俗名。一想到美国人睡在鸡巴床上、坐在疱疹椅上，我们就笑得停不下来。这让我们很开心，尤其是在一天只有三小时阳光的时候。
 
 ;0xD196946D=Q. WHAT IS THAT WEIRD "CENTIMETER" WORD YOU KEEP MENTIONING?
-0xD196946D=
+0xD196946D=问：你们店里到处标注的那个「公分」是什么？
 
 ;0xECCBC711=A. Spot the American.
-0xECCBC711=
+0xECCBC711=答：鉴定为正宗美国人。
 
