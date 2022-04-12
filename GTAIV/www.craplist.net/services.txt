@@ -44,7 +44,7 @@
 0xACD20162=仓库出租，不问用途
 
 ;0x28DF61B8=Not ready to outsource?  Try hoaxsourcing!
-0x28DF61B8=没准备好接受外包？试试伪外包吧！
+0x28DF61B8=没准备好接受外包？试试外包威慑吧！
 
 ;0xD4958C85=Budget skydiving!!!
 0xD4958C85=亲民高空跳伞！！！
