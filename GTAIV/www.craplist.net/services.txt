@@ -23,10 +23,10 @@
 0x57A750FC=
 
 ;0xF3855F34=Is your partner starting to get suspicious?  Do you need an alibi?
-0xF3855F34=你的另一半是否开始怀疑了？需要不在场证明吗？
+0xF3855F34=另一半是否开始怀疑了？需要不在场证明吗？
 
 ;0xAFAE81F8=Home Cremation - make sure your loved one goes out in a blaze of glory!
-0xAFAE81F8=家庭火化 - 确保你的亲人在荣耀之火中离去！
+0xAFAE81F8=家庭火化 - 确保亲人在荣耀之火中离去！
 
 ;0xC50D6845=I'll look after your baby for FREE!
 0xC50D6845=免费替你带孩子！

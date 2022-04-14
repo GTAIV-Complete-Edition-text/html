@@ -1,6 +1,6 @@
 ﻿;0x26E4BCBD=Can't see the wood for the trees? The importance of a well-coiffed nether region cannot be over-stated. Women expect it, and when you casually mention it at a bar, watch as she licks her lips in envy. While the bald eagle remains a perfectly acceptable alternative, the latest trend among men is to shape rather than shave.
-0x26E4BCBD=
+0x26E4BCBD=只见树木，不见森林？精心打理自己的下体非常重要。女人就好这口。你可以在酒吧里随口一提，一定能看到她羡慕地舔起嘴唇。尽管白虎也是一种完全可以接受的选择，但最新的男性潮流已经从剃毛转向了造型。
 
 ;0x104CC32F=Surprise your lady by shaving one of these sexy new styles into your pubic region:
-0x104CC32F=
+0x104CC32F=选择一个性感的新造型，用阴部震惊你的女人吧：
 
