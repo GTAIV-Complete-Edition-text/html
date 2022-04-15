@@ -2,32 +2,32 @@
 0x280C9438=
 
 ;0x3617883A=Pole dancing to earn extra money.
-0x3617883A=钢管舞现可用于赚取外快。
+0x3617883A=现可通过钢管舞赚取外快。
 
 ;0x280C9438=-
 0x280C9438=
 
 ;0xDCCBA250=New penis upgrade is available! 
-0xDCCBA250=新的阴茎升级包现在可用！
+0xDCCBA250=全新阴茎升级包现已上线！
 
 ;0x280C9438=-
 0x280C9438=
 
 ;0x87B9752E=Everyone ignores you. 
-0x87B9752E=大家对你不理睬。
+0x87B9752E=所有人都不会理你。
 
 ;0xD5DD27D3=CLICK TO READ MESSAGE BOARD
 0xD5DD27D3=点 击 阅 读 留 言 板
 
 ;0x0CCD532F=Imagine you wake up, as if in a dream, in a 3-D world where you can fly and never grow old.  You can punch people you don't like, live in a cave or a castle, and live in your own reality, like people in Florida.  Welcome to MyOnlineMe, or MOM.  Unlike real life, in this virtual life you can be and do anything you want.  Buy a piece of land out in the woods.  Start a militia.  Meet women who are really men for a night of fun and laughter and never feel guilty about it.               
-0x0CCD532F=想象一下你在梦境般的世界中醒来，你可以在这个 3D 世界中飞翔，长生不老。你可以胖揍你讨厌的人，可以随心选择洞穴和城堡居住，像佛罗里达人一样活在自己的现实里。欢迎来到我的网络分身，简称MOM。不同于真实世界，在这个虚拟世界中，你想干啥就可以干啥。在森林里买下一块地，组建民兵部队，和玩得开的妹子约炮，事后还不用感到愧疚。
+0x0CCD532F=想象一下你在梦境般的世界中醒来，你可以在这个 3D 世界中飞翔，长生不老。可以胖揍你讨厌的人，也可以随心选择洞穴和城堡居住，像佛罗里达人一样活在自己的现实里。欢迎来到我的网络分身，简称MOM。不同于真实世界，在这个虚拟世界中，你可以成为任何人，做出任何事。在森林里买一块地，组建民兵部队，和人妖号共度一夜激情，事后还不用感到愧疚。
 
 ;0x57A726DF=MOM opened in 2005 and is now a 24 hour world inhabited by over a million people who are lonely, sitting in their bedrooms, jacked into the network.  Soon your physical surroundings will be irrelevant and we'll all live in self-storage containers with Ethernet cables for hair.  It's fantastic.                   
-0x57A726DF=MOM建站于2005年，现在有超过一百万在卧室自闭的网虫24小时活跃在这个世界。不久后，身边的真实世界将与你失去关联，大家都会生活在自己的茧房中，互相用网线连接起来。真不错。
+0x57A726DF=MOM于2005年开服，现在有超过一百万在卧室自闭的网虫24小时活跃在这个世界。不久后，身边的真实世界将与你失去关联，大家都会生活在自己的茧房中，互相用网线连接起来。真不错。
 
 ;0x9F30A272=Create your avatar.  Make him have a huge one.  Ride a tricycle and fling your own feces.  Virtual reality is what you make of it.  This new reality is just like the old reality.  Everybody hates you and if you don't pay the monthly fees you'll disappear.           
-0x9F30A272=创建你的角色吧。可以是身材高大的，边骑着三轮车边拿着屎乱扔。虚拟世界的样子取决于你。新的世界和旧的世界是一样的，如果你不每月续费的话，大家会讨厌你，你的角色也会消失。
+0x9F30A272=创建你的角色吧。该大的地方一定要大。骑上三轮车，宣泄你的怒火吧。虚拟现实中的一切取决于你。虚拟世界中的新现实和原先你所存在的现实是一样的。所有人都讨厌你，不每月续费的话，你的角色也会消失。
 
 ;0xB82B6158= My Online Me   Terms and Conditions   Privacy (Or Lack Thereof) Statement   Contacts
-0xB82B6158=我的网络分身   网站条款与规定   隐私（或隐私泄露）声明   联系我们
+0xB82B6158=我的网络分身   网站条款与规定   隐私保护(及泄露)声明   联系我们
 

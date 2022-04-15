@@ -1,44 +1,44 @@
 ﻿;0x09755962=We are happy to announce that we're teaming up with 
-0x09755962=我们很高兴地宣布我们的新合作商：
+0x09755962=我们很高兴地宣布霜碧的新合作商：
 
 ;0xCBDC7F21=myonlineme.com
-0xCBDC7F21=
+0xCBDC7F21=我的网络分身
 
 ;0x82D90971=  so that you can buy Sprunk in VIRTUAL REALITY!  Think about it, children of America; why spend billions of dollars on manufacturing soda and marketing campaigns when we can throw some banners on websites like  
-0x82D90971=。现在大家可以在「虚拟世界」中买到霜碧了！美国的子民们，思考一下我们花大价钱做饮料和抢占市场的好处吧：可以在这种网站
+0x82D90971=。现在大家可以在「虚拟现实」中买到霜碧了！美国的小朋友们，想想看：既然可以在
 
 ;0x26AC8B06=myroomonline.net
-0x26AC8B06=
+0x26AC8B06=MyRoom网
 
 ;0xA957E954=  or online virtual communities like 
-0xA957E954=或者是
+0xA957E954=和
 
 ;0xCBDC7F21=myonlineme.com
-0xCBDC7F21=
+0xCBDC7F21=我的网络分身
 
 ;0x5AC85E06=  where people control little virtual avatars in virtual worlds all day?  How great will it be when your avatar can  buy and drink virtual Sprunk, then get really virtually fat and never get any ass?  Just like you! We are extreme!!!! And radical! In fact, most of us snowboard!
-0x5AC85E06=这种人人有网络分身的虚拟社交网站上投广告。你能在虚拟世界里面买到喝到虚拟的霜碧，还能在把分身喝胖的同时不变笨，这多是一件美事。就像你一样，我们很极端！！！我们很激进！其实，我们都是嗑药的！
+0x5AC85E06=这样一泡就是一整天的虚拟社交网站上投广告，还有什么生产汽水、线下推广的必要吗？你能在虚拟世界里面买到虚拟霜碧喝，在虚拟分身喝胖的同时还不会变笨，多么美妙啊。像你一样，我们很极端！！！我们很激进！其实，我们都是嗑药的！
 
 ;0x3D9BE90A=Our television commercials feature hip hop stars rapping about how soda makes you better at sports and more attractive to the opposite sex.
-0x3D9BE90A=我们请说唱歌星拍电视广告，用说唱告诉你苏打饮料如何帮助运动和吸引异性。
+0x3D9BE90A=我们请嘻哈歌星拍电视广告，用说唱告诉你苏打饮料如何强化你的运动能力、助你吸引异性。
 
 ;0x802AB118=Our subliminal product placements brainwash you into believing that a bottle of sugary cancer juice is a status symbol.
-0x802AB118=我们用植入广告在潜意识中给你洗脑，是为了让你相信引发癌症的含糖饮料是地位的象征。
+0x802AB118=我们用植入广告在潜意识中给你洗脑，让你相信引发癌症的含糖饮料是地位的象征。
 
 ;0x0FB63677=We have our finger on the worryingly-fast pulse of popular culture. We understand you.  We are there for you.  We breakdance! Our logo is on everything in the world.  We won't let you down like your divorced parents and hands-on teachers.  Even when a daily diet of sugar and caffeine has turned you into a blind, toothless, 400lb diabetic with the bone mass of a newt, Sprunk will still be there with a catchy jingle and a celebrity endorsement to brighten up your day so you don't cry!  It is the essence of life. We can slam dunk! And we wear baggy clothes! 
-0x0FB63677=我们发现潮流文化发展之快令人担忧。对此我们表示理解，并为你分忧。我们迅速开展行动，把我们的商标推广全球。我们不会让你像你离婚的爹妈、你儿时的幼教一样感到失望。就算每天摄入的糖分和咖啡因让你失明、掉牙、超重、患上糖尿病，还有骨质严重流失，霜碧依然陪伴着你，用朗朗上口的广告和名人代言鼓励你。所以，请不要哭泣！这就是生活的本质。我们一定行！我们都是这种人！
+0x0FB63677=我们发现潮流文化发展之快令人担忧。对此我们表示理解，并为你分忧。我们迅速开展行动，把我们的商标推广全球。我们不会像你离婚的爹妈、儿时的幼教那样令你失望。就算每天摄入的糖分和咖啡因让你失明、掉牙、超重，患上糖尿病和骨质疏松，霜碧依然陪伴着你，用朗朗上口的广告和名人代言鼓励你。所以，请不要哭泣！这就是生活的本质。我们一定行！我们都是这种人！
 
 ;0xCB6D9C3A=Sprunk is carbonated water bursting with glucose, guarana, caffeine, pesticides, benzene and just enough alcohol to take the edge off.  Full of fruit (synthetic additives) and fiber (high fructose corn syrup), Sprunk is only 800 calories a can!        
-0xCB6D9C3A=霜碧是一种碳酸饮料，富含葡萄糖、瓜拉纳、咖啡因、杀虫剂、苯以及适量用于调节口感的酒精；富含水果（人工食品添加剂）和纤维（果葡糖浆）。一罐霜碧的热量，仅为800卡路里！
+0xCB6D9C3A=霜碧是一种碳酸饮料，富含葡萄糖、瓜拉纳、咖啡因、杀虫剂、苯以及适量用于调节口感的酒精。更有充足的水果(人工食品添加剂)和纤维(高果糖玉米糖浆)。一罐霜碧的热量仅为800卡路里！
 
 ;0xEE7D7E86=We are proud to have played such a prominent role in the burgeoning obesity epidemic.        
-0xEE7D7E86=我们很荣幸在迅速流行开来的肥胖症当中发挥了巨大作用。
+0xEE7D7E86=肥胖迅速成为了普遍现象，我们很荣幸能在其中发挥巨大作用。
 
 ;0x443A5480=Thanks to Sprunk, high schools are now full of paranoid, hyperactive psychopaths who spend their nights hallucinating and exhibiting violent behavior and their days asleep at their desks with a burning desire to urinate every two minutes.  
-0x443A5480=因为霜碧，现在的高中生里有许多偏执狂、多动症和精神病。他们晚上出现幻觉，行为暴力；白天趴在课桌上睡觉，每两分钟就顶不住想去小便。
+0x443A5480=多亏了霜碧，现在的高中生里有许多偏执狂、多动症和精神病。他们晚上出现幻觉，行为暴力；白天趴在课桌上睡觉，每两分钟就顶不住想去小便。
 
 ;0x0F699B83=Mood swings, panic attacks and high blood pressureall before puberty!  We understand you! We know social networking! 
-0x0F699B83=情绪波动、恐慌症和高血压在青春期之前全部都来了！我们了解你！我们懂得在线社交！
+0x0F699B83=青春期都没过，情绪波动、恐慌症和高血压全来了！我们了解你！我们懂得在线社交！
 
 ;0x184A8758=Sprunk can also be used to clean the rust off your car or to strip barnacles off the bottom of a ship.
 0x184A8758=霜碧也可以用来清理车上的铁锈和船底的藤壶。
