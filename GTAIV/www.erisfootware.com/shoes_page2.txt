@@ -1,15 +1,9 @@
 ﻿;0x583F6655=Putting The Count In Country Club
-0x583F6655=
+0x583F6655=在乡村俱乐部一锤定音
 
 ;0xC549B3FD=A classic canvas deck shoe, the unisex WASP is designed to be worn with no socks, a polo shirt and a sweater slung over the shoulders.  Perfect for dull museum openings, benefits, garden parties and banging that miserable wrinkled wife one more time out of guilt. Trust fund luxury.  Our biggest seller in New England! 
-0xC549B3FD=
+0xC549B3FD=经典款帆布平底鞋，男女通穿的这款WASP(白人昂撒新教徒)的理想搭配是搭配裸足、POLO衫和挂肩毛衣。无论是参加博物馆开馆仪式、慈善活动、花园聚会，还是出于内疚又干了一次自己的黄脸婆，这双鞋都很合适。信托基金级的奢侈品。新英格兰地区的头号热销产品！
 
 ;0x3785960B=$200
 0x3785960B=
-
-;0xED147BBF= DECIPHERING THE LINGO
-0xED147BBF=
-
-;0x9B780572= CLICK HERE FOR A MESSAGE FROM ERIS FOUNDER, PETER VASSAL
-0x9B780572=
 

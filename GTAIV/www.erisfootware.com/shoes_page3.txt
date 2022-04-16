@@ -1,15 +1,9 @@
 ﻿;0x0C629A9B=Raising More Than Your Game
-0x0C629A9B=
+0x0C629A9B=不止提高你的水平
 
 ;0xE6BDFFFC=The sneaker for women with more in the back.  A mule-style shoe with a massive wedge heel, the BADONKADONK packs some serious junk in the trunk.  Affectionately known as 'slip-offs'.  You'll love to see these in the air.
-0xE6BDFFFC=
+0xE6BDFFFC=这双女款鞋背后有着更多秘密。BADONKADONK(美臀摇摆)是一款凉鞋风的坡跟鞋，能够凸显你的翘臀。这种鞋也被亲切地称作「凉拖」。穿起来绝对好看。
 
 ;0xF3771405=Special Offer - $150!! 
-0xF3771405=
-
-;0xED147BBF= DECIPHERING THE LINGO
-0xED147BBF=
-
-;0x9B780572= CLICK HERE FOR A MESSAGE FROM ERIS FOUNDER, PETER VASSAL
-0x9B780572=
+0xF3771405=限时特惠 - $150！！
 
