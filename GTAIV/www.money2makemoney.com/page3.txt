@@ -1,11 +1,11 @@
 ﻿;0x1A97A731=The Roman Empire Wealth System is a revolutionary new wealth accelerator plan that guarantees returns of 5000% and more on your investment.       
-0x1A97A731=
+0x1A97A731=罗马帝国财富系统是一个革命性的财富提升计划，保证有超过投资金额5000%的回报。
 
 ;0x9909F3F9=All you need to do is sign up for our starter kit by wiring $20,000 to our off-shore charity (this is tax deductible!) and then find another 8 people willing to invest the same into you, so that everybody can move up a tier and soon you'll be just like Julius Caesar!  Exit the pyramid with millions of Guyanese dollars.  Then the two new Julius Caesars split into two new pyramids that both need to recruit 8 new juniors and so on into infinity.       
-0x9909F3F9=
+0x9909F3F9=你只需要向我们的海外基金电汇20000美元 (可免税) 来签订我们的新手方案，再拉8个愿意向你投资的人，这样大家就可以一级级地往上爬，不久后你就会成为恺撒大帝了！你带着几百万圭亚那元退出这个金字塔，然后分出两位新的恺撒大帝，各自又拉了8个人，形成两座新的金字塔，依此类推。
 
 ;0x290C0D76=How hard can it be to find 8 idiots?  Start with friends, relatives - anybody who knows and trusts you - and then target the elderly.  Tell them that it is e-commerce; that normally works.  Do as the Romans do!  People will pay tribute to you and give gifts of slaves with large packages!    
-0x290C0D76=
+0x290C0D76=拉8个傻逼入伙能有多难？从你的亲朋好友入手吧，只要是认识你相信你的人就行，重点关注老年人。告诉他们这个是电商项目，不用担心有问题。接下来就享受恺撒大帝的生活吧！大家大把大把地给你上贡，做你的奴隶！
 
 ;0x308C07DF="I became a millionaire in less than an hour! It really works!"     
 0x308C07DF=

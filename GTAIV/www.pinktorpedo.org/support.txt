@@ -1,111 +1,81 @@
-﻿;0x06B64E6A=Download Pink Torpedo to your computer, we'll make sure no other spyware is loaded, while selling your personal information. You can feel safe with us.
-0x06B64E6A=
-
-;0x79A9C4E0=24-hour support is always available here in our message boards forum. Can't find what you're looking for? Contact our support staff through the forums, and we'll do our best to respond within the next six to eight weeks to resolve your problem.
-0x79A9C4E0=
+﻿;0x79A9C4E0=24-hour support is always available here in our message boards forum. Can't find what you're looking for? Contact our support staff through the forums, and we'll do our best to respond within the next six to eight weeks to resolve your problem.
+0x79A9C4E0=论坛留言板24小时开放。找不到你想要的答案？在论坛留言板联系我们的工作人员，我们会在接下来的六到八周内尽快回应，帮你解决问题。
 
 ;0x016659B9=     T939448 wrote
-0x016659B9=
+0x016659B9=     T939448留言：
 
 ;0x37C89FAB=Dear Pink Torpedo Support:  
-0x37C89FAB=
+0x37C89FAB=尊敬的粉红鱼雷客服：
 
 ;0xB056D0B3=I told my girlfriend last night that I had a computer virus and she totally went bonkers. I said I don't know where I got it and she said it's that filthy bitch at the coffee shop. I totally denied it but it was that filthy bitch at the coffee shop. Can you help?
-0xB056D0B3=
+0xB056D0B3=昨晚我告诉女友说我中了电脑病毒，结果她就疯了。我说不知道怎么搞的就中了病毒，她说肯定是咖啡店的那个贱婊子弄的。我坚决否认，但实际上确实是咖啡店的那个贱婊子搞的。你能帮帮我吗？
 
 ;0xD96D3369=    Support wrote
-0xD96D3369=
+0xD96D3369=    客服留言：
 
 ;0x92409BB1=Yeah, for $99.99
-0x92409BB1=
+0x92409BB1=可以，付$99.99就行。
 
 ;0x0322B596=     Kerein Karr wrote
-0x0322B596=
+0x0322B596=     Kerein Karr留言：
 
 ;0x9BE9D273=Dear Pink Torpedo Support:
-0x9BE9D273=
+0x9BE9D273=尊敬的粉红鱼雷客服：
 
 ;0x8982FAEE=I put the Pink Torpedo in my system and it started making weird noises. Is this normal.        
-0x8982FAEE=
-
-;0xD96D3369=    Support wrote
-0xD96D3369=
+0x8982FAEE=我在电脑上安装了粉红鱼雷，然后就出现了奇怪的噪声，这正常吗？
 
 ;0x50074094=You need to run a diagnostics test but there is something wrong with your internal drive and you should throw the computer away and get a new one.
-0x50074094=
+0x50074094=你需要运行一下诊断测试。不过应该是硬盘出问题了，还是把这台电脑扔掉换新的吧。
 
 ;0x05E31F40=     Felix Martinez wrote
-0x05E31F40=
-
-;0x9BE9D273=Dear Pink Torpedo Support:
-0x9BE9D273=
+0x05E31F40=     Felix Martinez留言：
 
 ;0xCC777286=I gave a new mouse to a friend. They called and said it was totally stuck and dead and they couldn't get any response.
-0xCC777286=
-
-;0xD96D3369=    Support wrote
-0xD96D3369=
+0xCC777286=我送了朋友一个新的鼠标，他却打电话来说鼠标卡死了，根本没有反应。
 
 ;0x071A0EC0=Please see the end user license agreement for your mouse. This is not in the warranty.
-0x071A0EC0=
+0x071A0EC0=请阅读鼠标的最终用户许可协议。这个问题不在我们的售后范围之内。
 
 ;0xA42DC7F9=     Ayeda Glaten  wrote
-0xA42DC7F9=
-
-;0x9BE9D273=Dear Pink Torpedo Support:
-0x9BE9D273=
+0xA42DC7F9=     Ayeda Glaten留言：
 
 ;0xA0F8D226=My mom was playing Cavern of Sorrow and caught a computer virus from a young boy she met. Is LARPING the cause?
-0xA0F8D226=
-
-;0xD96D3369=    Support wrote
-0xD96D3369=
+0xA0F8D226=我妈玩Cavern of Sorrow的时候遇到了一个小男孩，被他传染了电脑病毒。是角色扮演的问题吗？
 
 ;0xC5AC33A1=You can catch viruses from anywhere. Buy another license agreement and your problems will be solved.
-0xC5AC33A1=
+0xC5AC33A1=病毒无处不在。再买一份授权许可吧，这样就没问题了。
 
 ;0x3B80FCF0=     Trotter wrote
-0x3B80FCF0=
-
-;0x9BE9D273=Dear Pink Torpedo Support:
-0x9BE9D273=
+0x3B80FCF0=     Trotter留言：
 
 ;0x92CB4AE6=WTF?  Some asshat put a virus on my computer and EVERY picture I've ever uploaded to 
-0x92CB4AE6=
+0x92CB4AE6=我操？有狗逼往我的电脑投毒，我发到
 
 ;0x05BAAD73=A Thousand Words
-0x05BAAD73=
+0x05BAAD73=一图千言
 
 ;0xA116C209= is now gone. Forever. Who would do such a thing? I also have a summons on my door and a letter of appearance or something. I use your software so that the government will leave me alone.
-0xA116C209=
-
-;0xD96D3369=    Support wrote
-0xD96D3369=
+0xA116C209=上的所有图片都不见了，永久消失。谁会干出这种事情？我家门上也被贴了传票和出庭信这些东西。我要用你们的软件让政府的人离我远点。
 
 ;0x0AC31C19=...
 0x0AC31C19=
 
 ;0x3A3D7004=     Keith Hoperbeck wrote
-0x3A3D7004=
-
-;0x9BE9D273=Dear Pink Torpedo Support:
-0x9BE9D273=
+0x3A3D7004=Keith Hoperbeck留言：
 
 ;0x50F8170F=I can't get this software to load at all.
-0x50F8170F=
-
-;0xD96D3369=    Support wrote
-0xD96D3369=
+0x50F8170F=软件根本用不了。
 
 ;0x8220BB05=Have you installed the CD?
-0x8220BB05=
+0x8220BB05=CD你装了吗？
 
 ;0x03627B9F=         
 0x03627B9F=
 
 ;0xC239807A=    Keith Hoperbeck wrote
-0xC239807A=
+0xC239807A=    Keith Hoperbeck留言：
 
 ;0xB49BFF75=This computer cost me $1,500. I ain't doing shit. You do it. That's what I pay you for.  
-0xB49BFF75=
+0xB49BFF75=买电脑花了我1500块钱。干活的是你，不是我。给你付钱就是为了这个。
 
