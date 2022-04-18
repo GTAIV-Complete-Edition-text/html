@@ -1,33 +1,33 @@
 ﻿;0x2C4E59AD=These days, massage therapy is touted as a panacea capable of curing everything from blindness to Ebola to bulimia.  We'll say just about anything if it keeps the vice squad away from our door.
-0x2C4E59AD=
+0x2C4E59AD=最近，按摩疗法被吹成了万能神药，从失明到埃博拉再到暴食症，都能通过按摩治好。只要不会被扫黄大队找上门，让我们说什么都行。
 
 ;0x478BA24F=Allegedly, hot stones help to loosen muscles, increase blood flow and relieve joint pain.  Embrace the healing power of the stone with a treatment that's basically the equivalent of rolling around a pizza oven for an hour.  We only use basalt riverbed stones and brain you with them if you don't tip well.
-0x478BA24F=
+0x478BA24F=据说，热石有助于放松肌肉、促进血液流动、舒缓关节疼痛。拥抱热石的治愈之力吧，虽然实际体验和在披萨炉里滚一小时差不多。我们只采用来自玄武岩河床的石头，如果给的小费不够多，你就等着被石头敲死吧。
 
 ;0x40091664=A variation of Hot Stone therapy, the Scottish massage involves a hairy redhead man in a skirt beating you with a brick while chanting unintelligible expletives and soccer songs.
-0x40091664=
+0x40091664=热石疗法的变种。苏格兰按摩的按摩师是一个穿着裙子的红发男子，身上毛发旺盛。在用砖头敲打你的同时，他还会念叨你听不懂的脏话，哼上几句足球的歌。
 
 ;0x816920EB=Search deep inside yourself for answers and corn with a massage that will literally make you weak at the knees.  Leave with a feeling of wellbeing and shame like nothing you've ever experienced before.  The only thing you've got to lose is your dignity.
-0x816920EB=
+0x816920EB=通过能让你字面意义上跪了的按摩，在自我深处寻找答案和未消化的玉米粒。带着健康和前所未有的耻辱离开按摩室。在这里你只会失去尊严。
 
 ;0x50700620=Get half-heartedly pummeled by one or more scowling, melancholic teenagers in thick eyeliner as they whine about the futility of existence, curse the mainstream and generally wallow in self-pity while threatening to cut themselves.  Then beat the fuck out of them.
-0x50700620=
+0x50700620=被几个化着眼妆皱着眉头的忧郁少年漫不经心地敲打，一边还要听他们哀叹人生的徒劳、痛骂主流社会、哭诉自己的不易，然后威胁着要自杀。记得好好教训他们一顿。
 
 ;0x1A95C558=If it wasn't for 
-0x1A95C558=
+0x1A95C558=要不是因为
 
 ;0x5E04D8C2=flat-pack furniture
-0x5E04D8C2=
+0x5E04D8C2=平板包装的家具
 
 ;0x56C9EDC8= , cell phones and smoking-hot blonde chicks, most Americans wouldn't even have heard of Sweden.  A Swedish massage stimulates circulation, relieves muscular tension and is the perfect way to unwind at the end of a hard day.  However, many return clients prefer to skip this part and go straight to the sex.  
-0x56C9EDC8=
+0x56C9EDC8=、手机和超性感的金发妹，大部分美国人绝对不会听说过瑞典。瑞典按摩能够刺激血液循环、放松肌肉，很适合作为辛苦一天后的放松。但是，大部分顾客更愿意跳过按摩，直接开始最后的性服务。
 
 ;0x131EECE6=Note: therapists are not real Swedes.
-0x131EECE6=
+0x131EECE6=注：按摩师并不是真正的瑞典人。
 
 ;0x171022B8=Are you overwhelmed with stress? Is your back knotted like a pretzel? Lie face down, grit your teeth and pray that you won't have to spend the rest of your life in a wheelchair while an 'esthetician' who did a two-week course at a community college tries to loosen your connective tissue by doing professional wrestling style elbow drops from a ladder directly into your essential organs.
-0x171022B8=
+0x171022B8=你是否压力山大？后背是否拧成了结？趴下来，咬紧牙关，祈祷自己不用这么早坐上轮椅。从社区学院两周毕业的按摩师会从梯子上跳下来给你一个职业摔角式的肘击，向你的重要器官直接发力，帮你放松结缔组织。
 
 ;0x2D3DB6F0=Have you ever fantasized about two strangers with their wandering hands all over you? Surrender yourself; mind, body and soul as you are awkwardly groped by a pair of masseurs (gender and ethnicity negotiable), secure in the knowledge that you've remained true to the vows of your marriage.
-0x2D3DB6F0=
+0x2D3DB6F0=你有幻想过被两个陌生人上下其手吗？乖乖投降吧，意识、肉体、灵魂都不要反抗，你正在被两个男按摩师(可选性别种族)猥亵。不要害怕，这样并没有违背你的结婚誓言。
 
