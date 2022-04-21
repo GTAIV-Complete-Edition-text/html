@@ -50,7 +50,7 @@
 0xE09BE4EB=伤害儿童，他们就永远都不会尿床了！
 
 ;0xF66A2D41=Aggressively promote the untold benefits of kneading a baby's spinal cord. Remember the three magic words: Lifetime Maintenance Care... make sure that they are flopping around the house like a seal by the time they reach puberty.
-0xF66A2D41=大吹特吹揉捏婴儿脊柱的好处。记住这个神奇的词语：终生维护保养... 让他们在青春期前都只能像海豹一样在家里蹦跶。
+0xF66A2D41=大吹特吹揉捏婴儿脊柱的好处。记住这个神奇的词语：终生维护保养... 让他们在青春期前都只能像海豹一样在家里打滚。
 
 ;0xE93BB2C2=YOU CAN NEVER HAVE TOO MANY X-RAYS!
 0xE93BB2C2=X光片永远不嫌多！
