@@ -32,7 +32,7 @@
 0x897FA269=确保你的资料有效！点此修正你的在线资料，改掉尼日利亚黑客黑进账户时胡写的内容。没有正确的地址，本行还怎么用预先批准的利率25%的信用卡天天轰炸你？！
 
 ;0x4294D58B=Please note that all personal data and banking transactions will be shared with government institutions, selected advertising sponsors and meth head identity thieves, or your money back.
-0x4294D58B=请注意，您的个人信息和交易记录将会共享给政府机构、特定的广告商，以及吸冰毒的身份窃贼，如不同意将退回所有款项。
+0x4294D58B=请注意，您的个人信息和交易记录将会共享给政府机构、特定的广告商，以及吸冰毒的身份窃贼，若非如此将退回所有款项。
 
 ;0x6E68D5F3=At Your Service... By Phone
 0x6E68D5F3=随时待命... 电话服务
