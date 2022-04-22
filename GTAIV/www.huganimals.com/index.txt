@@ -1,45 +1,45 @@
 ﻿;0xCC5E2E8C=Every year, thousands of animals are jilted by their owners and left to fend for themselves on the streets, stripped of the love and affection that they deserve.
-0xCC5E2E8C=
+0xCC5E2E8C=每年都会有成千上万只宠物被主人抛弃，在街头自生自灭，失去了得到宠爱的权利。
 
 ;0xFE4A653E=Hug Animals
-0xFE4A653E=
+0xFE4A653E=抱抱小动物
 
 ;0xE7461F21= is a revolutionary, holistic pet rescue center in the heart of Alderney City, committed to providing abandoned animals with the food and shelter and stimulation they need until permanent homes can be found.
-0xE7461F21=
+0xE7461F21=位于Alderney市中心，是一家革命性的宠物救助中心，致力于为被抛弃的小动物提供食物、居所和兴奋刺激，还会帮它们寻找新的主人。
 
 ;0x0DB6EB32=Pets make you feel good about yourself. They don't judge your flabby thighs or receding hairline. They don't have sudden headaches and they are always in the mood to play. They don't answer back and, no matter what you do to them, they still love you afterwards.  And they will lick peanut butter no matter where you put it.  With an animal, you get out what you put in.  Companionship, loyalty, subservience, girth...  everybody looks for something different in a soul-mate. From large dogs to small rodents... from farmyard animals to exotic imports... we will work to find the best match for you.
-0x0DB6EB32=
+0x0DB6EB32=宠物能让你自我感觉良好。它们不会嘲笑你松弛的大腿和后退的发际线。它们不会突然头疼，时时刻刻都能陪你玩耍。它们不会顶嘴，不论你对它们做了什么，事后它们依然爱你。而且你把花生酱抹在哪里它们就舔哪里。对于动物来说，你投入什么，就能得到什么。陪伴、忠诚、顺从、项圈... 每个人对灵魂伴侣都有着不同的需求。从大狗到鼠鼠，从田园品种到进口品种，我们会为你找到最好的对象。
 
 ;0x39EBAF18=At 
-0x39EBAF18=
+0x39EBAF18=就
 
 ;0xFE4A653E=Hug Animals
-0xFE4A653E=
+0xFE4A653E=抱抱小动物
 
 ;0x646226F8=, we believe in spending quality, one-on-one time with all our animals. In short, we teach them how to love again. We teach them to do what's natural - what they are hard-wired to do... just like you.  It is this uniquely intimate approach to animal re-conditioning that makes our pets so sensitive to the needs of their new owners.
-0x646226F8=
+0x646226F8=而言，我们认为最重要的是和小动物一对一度过高品质的时光。简言之，我们再次教会了它们如何去爱。教会了它们释放天性，发挥与生俱来的本领... 和你一样。正是这种亲密无间的调教，让我们的宠物对新主人的需求十分敏感。
 
 ;0xE555820A=We guarantee that you will notice the difference. If you are looking for an unconditional, non-committal, no-strings-attached relationship, you should adopt a pet from 
-0xE555820A=
+0xE555820A=我们保证，你一定能发现这些小动物的不同之处。如果想要朦胧、无条件、不求回报的感情关系，就来领养一只宠物吧，请联系
 
 ;0xFE4A653E=Hug Animals
-0xFE4A653E=
+0xFE4A653E=抱抱小动物
 
 ;0x4450F02B=.       
-0x4450F02B=
+0x4450F02B=。
 
 ;0x96EBA0A3=There is something inexplicably powerful about looking down at a pair of big brown eyes and thinking "I own you". As soon as you get your hands on one of our animals, as soon as you feel the touch of that wet nose on your skin, we promise that you will be smitten.
-0x96EBA0A3=
+0x96EBA0A3=望向一对水汪汪的大眼睛，心里想着「我是你的主人」，这种感觉妙不可言。在你的手摸到我们小动物的那一刻，在你感受到皮肤与湿湿的鼻子接触的那一刻，我们保证，你的心都会融化的。
 
 ;0xFE4A653E=Hug Animals
-0xFE4A653E=
+0xFE4A653E=抱抱小动物
 
 ;0xC3D998FC= is a non-profit organization, funded entirely by the sale of short videos of our pets with their new owners. We rely on you. These pets need a home. They need a warm bed to sleep in. Adopt an animal today.  They have a lot of love to give. 
-0xC3D998FC=
+0xC3D998FC=是非营利组织，全部资金都来源于出售小动物与新主人的短视频的收入。我们因你存在。这些小动物需要新家，它们需要温暖的被窝。现在就领养一只小动物吧！它们能给你海量的爱。
 
 ;0xC31B9AFC=Some people call us creepy - well, let's be very clear, there is nothing creepy about loving God's creatures, in any way you see fit. Nothing at all. It's not perverted. It's saving lives and self-expression all at once. This is a fact. You know why? Because you read it on the internet.      
-0xC31B9AFC=
+0xC31B9AFC=有人说我们是变态。呃，就直说了吧，不论从哪个角度出发，热爱主的造物都不是一件变态的事。一点都不变态，反而十分正常。既能挽救生命，又能表现自我。这是事实。何出此言？因为网上就是这么说的。
 
 ;0xA8201CBF=CLICK HERE TO VISIT OUR SPONSOR:
-0xA8201CBF=
+0xA8201CBF=点击查看我们的赞助商：
 
