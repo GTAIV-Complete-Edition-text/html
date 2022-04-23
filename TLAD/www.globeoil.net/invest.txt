@@ -1,36 +1,36 @@
 ﻿;0x861A2C51=We power the chainsaws that clear land for a bright new condominium complex.
-0x861A2C51=
+0x861A2C51=我们为电锯提供动力，开辟了建造公寓的土地。
 
 ;0x32C1BC3F=We power the generators that provide emergency light during a prison riot. 
-0x32C1BC3F=
+0x32C1BC3F=我们为发电机提供动力，让应急照明在监狱暴动中仍能点亮。
 
 ;0xDE5567AD=We power the helicopters that keep peace by neutralizing villages of threats.
-0xDE5567AD=
+0xDE5567AD=我们为直升机提供动力，消灭了存在威胁的村庄，保护了和平。
 
 ;0x7873A693=We power communities in Nigeria by employing local militia to protect our pipelines.
-0x7873A693=
+0x7873A693=我们为尼日利亚的社区提供动力，雇佣当地武装保护我们的输油管道。
 
 ;0xC2D70110=We power the trucks that carry goods across America, often jackknifing and killing families in station wagons.
-0xC2D70110=
+0xC2D70110=我们为卡车提供动力，让货物穿行美国，顺路把旅行车里的一家人压得整整齐齐。
 
 ;0x19CC0186=We power the SUV that mom takes her kids to school in, before stopping at a sleazy hotel to fuck her husband's best friend.
-0x19CC0186=
+0x19CC0186=我们为SUV提供动力，让妈妈送孩子上学，再去小旅馆里干老公的好哥们。
 
 ;0xC5E95252=We power the factories that mass produce the soda cans and plastic bottles that end up floating in the river.
-0xC5E95252=
+0xC5E95252=我们为工厂提供动力，大量生产易拉罐和塑料瓶，最后统统漂在河里。
 
 ;0xD057E057=We power the slaughterhouse that provides food for your family.
-0xD057E057=
+0xD057E057=我们为屠宰场提供动力，让你家有肉可吃。
 
 ;0xDB1C21D8=We power the crematorium that incinerates your handsy stepdad once and for all.
-0xDB1C21D8=
+0xDB1C21D8=我们为火葬场提供动力，让对你毛手毛脚的继父化为灰烬。
 
 ;0x0CEA3418=We power the airplanes that carry cocksucker executives to golf retreats in tropical locations.
-0x0CEA3418=
+0x0CEA3418=我们为飞机提供动力，载着那些混蛋高管去热带打高尔夫球。
 
 ;0x60B1FD13=We power the Congressmen who further our policy agenda.
-0x60B1FD13=
+0x60B1FD13=我们为议员提供动力，推动政策发展。
 
 ;0x81329B0A=We are ruthless in maximizing value for our shareholders.  By investing in Globe Oil, you can be part of a movement that began in 1908 with the invention of the internal combustion engine and continues to this day.  The technology hasn't changed much - because that would change the revenue structure at Globe Oil.  That's why our special Emerging Technologies Team identifies revolutionary inventors in the field of Energy Science, and as soon as one discovers how to run a car on water, they are summarily executed and never heard from again.
-0x81329B0A=
+0x81329B0A=为了最大化股东的收益，我们会不择手段。投资环球石油，你就可以加入内燃机这一始于1908年、至今仍在持续的运动。技术上没有什么大的变化，因为那是环球石油收入流的立身之本。因此我们成立了新兴技术特别工作组，时刻追踪能源领域的革新者。一旦有人发明了烧水的汽车，他就会立刻遭到处刑，从此销声匿迹。
 
