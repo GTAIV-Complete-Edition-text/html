@@ -8,7 +8,7 @@
 0xB0BACC87=
 
 ;0x1F83C19A= Male
-0x1F83C19A=
+0x1F83C19A= 男
 
 ;0x6C1F83B4=Location:
 0x6C1F83B4=
@@ -23,23 +23,23 @@
 0x3F398D1F=
 
 ;0x7D231CA3= Cultural Critic
-0x7D231CA3=
+0x7D231CA3= 文化评论员
 
 ;0xCA6ED4BF=Appearance:
 0xCA6ED4BF=
 
 ;0x35B02476= White omega male.
-0x35B02476=
+0x35B02476= 三流白人男性
 
 ;0x6C0E6BAA=Interests: 
-0x6C0E6BAA=
+0x6C0E6BAA=爱好:
 
 ;0x0A37D98B= Blogging.  Blogging about blogging.  Being Ostentatious. Everything Asian, especially porn.
-0x0A37D98B=
+0x0A37D98B= 写博客、写关于博客的博客、张扬招摇、亚洲的一切 特别是AV
 
 ;0xD657C067=Hi! My name is BIGDOG - I'm new to this blogging thing. I think i'm just what you've been waiting for...
-0xD657C067=
+0xD657C067=嗨！我叫BIGDOG，最近刚开始写博客。我应该就是你们所等待的人...
 
 ;0x9D04746C=With you in a bit. Watch this space
-0x9D04746C=
+0x9D04746C=很快就会回来。持续关注我吧...
 

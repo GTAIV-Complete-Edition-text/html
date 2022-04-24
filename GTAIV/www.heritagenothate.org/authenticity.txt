@@ -1,30 +1,30 @@
 ﻿;0x30266B3D=If you think this is just camping out with your buddies, think again. The cornerstone of historical reenactment is excessive bickering over authenticity and we take things very seriously.
-0x30266B3D=
+0x30266B3D=如果你觉得历史重现只是一群人出去野营，我劝你再好好想想。历史重现最重要的部分就是为了还原真实争执不下，我们都很较真。
 
 ;0x42DF1A93=We are firmly committed to portraying this defining moment in America's long and illustrious history as accurately as possible.  Heritage Not Hate isn't a hobby - it's a lifestyle:    
-0x42DF1A93=
+0x42DF1A93=这是美国光辉悠久的历史中的决定性时刻，我们致力于将其精准地描绘出来。要遗产不要仇恨并非是爱好，而是一种生活方式：
 
 ;0x1A86D5F1=Attendance at our weekly events is obligatory unless you have a doctor's note for gout, dysentery or malaria.  
-0x1A86D5F1=
+0x1A86D5F1=每周都要出席我们的活动，除非你有医生开具的痛风、痢疾、疟疾证明。
 
 ;0x46FE54D6=Understand this is about the North dictating to the South how we should live our lives.  Just think of the anti-smoking and helmet laws.   That's exactly how people felt 100 years ago when they were told they couldn't own people. 
-0x46FE54D6=
+0x46FE54D6=了解内战的本质是北方人对南方人的生活指手划脚。想想禁烟和骑摩托强制戴头盔吧。这就是100年前得知禁止蓄奴时南方人的感受。
 
 ;0x07EC3101=You must have the right uniform and equipment.  No trinkets or polyester clothes made in Taiwan.  No propane stoves, airbeds or zippers.  If you want slapdash, go join a medieval reenactment group. This is about authenticity.  
-0x07EC3101=
+0x07EC3101=你必须准备正确的服装和装备。不接受台湾制造的饰品和化纤服装。不接受燃气壁炉、气垫床和拉链。如果你想随便糊弄，出门左转中世纪重现俱乐部。我们要的是真实。
 
 ;0xD9DE576B=We will beat you for wearing a wrist watch and if we catch you using toilet paper, we will make sure that you are 'killed' within the first five minutes of battle and have to spend the next two days lying motionless in the sun while dogs eat your eyeballs.  
-0xD9DE576B=
+0xD9DE576B=敢戴手表的话我们就打死你。要是敢用厕纸，我们保证会让你在战役开始的五分钟内「牺牲」，接下来两天都只能像具尸体一样接受烈日暴晒，被狗啃掉眼球。
 
 ;0x1D039C7F=We expect you to sleep in canvas tents with straw on the floor and to live on salted meat and corn meal - no sneaking a Heartstopper from Burger Shot.  A Confederate soldier had his leg amputated with a rusty bayonet last year for ordering in a Chinese banquet.  
-0x1D039C7F=
+0x1D039C7F=我们要求你睡在铺了稻草的帆布帐篷里，每天只能吃咸肉和玉米粉。禁止溜到吃得饱汉堡吃心肺停止堡。去年有个联盟士兵吃了顿中式大餐，就被生锈的刺刀捅断了腿，最后截肢了。
 
 ;0x12C7BF3F=You must purge yourself of all knowledge of modern life, including this website.  
-0x12C7BF3F=
+0x12C7BF3F=你必须抛弃所有现代生活的知识，包括这个网站上的内容。
 
 ;0x8E773BC7=While we will chalk some historical errors down to inexperience, we will always point them out publicly and encourage the rest of the group to ridicule you for the duration of the weekend.     
-0x8E773BC7=
+0x8E773BC7=由于经验不足，我们都有可能犯下历史知识性的错误，但我们会公开指出错误，还会鼓励其他成员嘲笑你一个周末。
 
 ;0xA5779EF7=Remember:  to reenact authentically is to truly be alive.
-0xA5779EF7=
+0xA5779EF7=记住：忠实的重现才是真正地活着。
 

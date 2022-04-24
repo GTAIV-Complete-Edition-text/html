@@ -1,5 +1,5 @@
 ﻿;0xFC7055AE=The Uptown Riders are a group of urban riding enthusiasts based out of Northwood in Liberty City. Originally started as a lifestyle group, established for the discussion of sports bikes and the betterment of the community, Uptown Riders are branching out into a clothing line with more merchandi$ing to follow.
-0xFC7055AE=上城骑士由一群都市骑行爱好者组成，以自由城的Northwood为据点。最初我们因相似的生活方式聚在一起，而后一起讨论摩托跑车和如何改善社区，成立了俱乐部。现在上城骑士扩展到了服装行业，之后还会退出更多商品。
+0xFC7055AE=「上城骑士」热爱在都市中骑行，以自由城的Northwood为活动范围。最初我们因相似的生活方式聚在一起，而后一起讨论摩托跑车和如何改善社区，成立了俱乐部。现在上城骑士扩展到了服装行业，之后还会退出更多商品。
 
 ;0xC5C08261=It is important that we set an example for the youth and community in general. Therefore, all riding is done in as respectful a manner as possible and members of our group all obey Federal and State laws wherever that is possible.
 0xC5C08261=我们必须为当地的年轻人树立榜样。因此，我们的所有骑行活动都遵守一定规则，俱乐部的成员也都是遵纪守法的好公民。
