@@ -1,42 +1,42 @@
 ﻿;0xBE64217B=We need members!
-0xBE64217B=
+0xBE64217B=亟待成员加入！
 
 ;0xAD12E7ED=Our living history events almost always draw a crowd of police officers.  Avoid talking to them, unless they are offering to help you beat a slave.
-0xAD12E7ED=
+0xAD12E7ED=我们的历史重演总会和警察扯上关系。别跟他们说话，除非他们是来帮你打奴隶的。
 
 ;0xB1665B5C=They will compare you to furries or plushies and try to taunt you out of character.
-0xB1665B5C=
+0xB1665B5C=他们会拿你和兽装、玩偶皮套比较，气得你撕掉自己的设定。
 
 ;0xB1C7CEF7=People will ask stupid questions like, "Did they have milk back then?"
-0xB1C7CEF7=
+0xB1C7CEF7=会有人问各种傻逼问题，比如「那会儿有牛奶吗？」
 
 ;0xFE39B15F=Crazy Vietnam vets will rant at you for not having seen real combat.
-0xFE39B15F=
+0xFE39B15F=疯狂的越战老兵会对你大喊大叫，因为你没有真正上过战场。
 
 ;0xE3060425=Reenactment is about authenticity, and currently we are very low on anyone who wants to play the part of the meddling North.  What is a war of Northern aggression without people to play the yanks who came down south and told us how to run our business?  Also, non-Caucasian members would really make this Civil War reenactment feel authentic; however, for some reason, so far, none have tried to join us.  Come on, history buffs!  Reenactment needs bloodthirsty aggressors as well as victims.  Victims please apply.
-0xE3060425=
+0xE3060425=历史重演最重要的就是真实，但目前我们很缺扮演爱管闲事的北方人的成员。明明是北方侵略南方的战争，没人扮演扬基佬指指点点算什么？对了，如果有非白种人加入，内战重现也会变得更加真实，可惜至今都没有这种成员。来嘛，历史爱好者！历史重演既需要残暴的侵略者，也需要苦命的受害者。欢迎各位受害者加入。
 
 ;0x049C5D1E=Welcome to Heritage Not Hate, Liberty City's largest, most authentic and most anal-retentive American Civil War reenactment group.  It's where grown men get to dress up in itchy, woolen uniforms and play with toy guns and swords! 
-0x049C5D1E=
+0x049C5D1E=欢迎光临要遗产不要仇恨，自由城最大、最真实、最注重细节的美国内战重现组织。在这里，大人们穿上让人发痒的羊毛戏服，拿起玩具枪和玩具剑大打出手！
 
 ;0x19E07353=Experience history first-hand by shitting in a hole and sleeping out in the rain!  What could be more natural than a 50 year-old man pretending to be a 15 year-old union soldier?  With modern-day America so divided across political, social and geographic lines, there has never been a better time to look to the past for inspiration on killing your fellow American.  Historical reenactment is not just about sad, lonely men trying to drag themselves out of a mid-life crisis by running around a muddy field with a rubber musket and a sympathetic heart towards the people who died fighting the war against Northern aggression. 
-0x19E07353=
+0x19E07353=亲身经历历史，挖个坑拉屎，在雨中睡觉！50岁老头装作15岁的联邦军，这不是很自然吗？当下的美国在政治、社会、地理界线上同样严重撕裂，正是回望美国同胞自相残杀历史的绝佳时机。一群忧伤、寂寞的男人拿着塑料火枪在泥地中奔跑，以示对反抗北方入侵者牺牲的战士的同情，逃避中年危机的现实，历史重演并非只是这样的活动。
 
 ;0xFB74C6A1=Heritage Not Hate brings people of all ages, backgrounds and walks of life together.  Children can engage in non-combat roles and women can join up as nurses and busty wenches.  Guns and chicks in bodices - it doesn't get any better than that! 
-0xFB74C6A1=
+0xFB74C6A1=要遗产不要仇恨汇集了来自各行各业的男女老少。孩子们可以扮演非战斗人员，女人可以扮演护士和大波妹。要有枪，要有美女——这样再好不过了！
 
 ;0x83083652=Heritage Not Hate provides all the fun of war without the death and only a slight risk of disease.  We haven't had an injury since two Abraham Lincolns got in a clash after a day on the home-brew last week!  We play hide-and-seek, have midnight feasts and carry out raids on each other's tents.  You can hear the gunfire and cries of 'please sir, we ain't yankees' from miles away.  There are period dances and we get loaded every night on wine and beer.  Go easy though, the Northern boys got trashed last week and ended up losing the war!  Sexual promiscuity and swinging are commonplace and 'operations' in the infirmary tend to have a happy ending.  You also get to talk in an old tyme accent and smoke without fear of cancer!  What is there not to like? 
-0x83083652=
+0x83083652=要遗产不要仇恨能够带来战争的所有乐趣，但是既不会出现死亡，染上疾病的风险也很小。上周两位亚伯拉罕林肯喝完自酿酒拳脚相向之后，我们还没有出现过任何伤亡！我们一起躲猫猫、吃夜宵，还能偷袭别人营地的帐篷。几里之外你就能听到枪炮声和「求你了长官，我们不是扬基佬」的哭喊声。我们也会举办那个年代的舞会，每晚都能痛饮啤酒和葡萄酒。不过别喝太多，北方人上周就喝高了，结果输掉了内战！乱交野合经常发生，医务室里的「手术」往往会附带性服务。还需要你用古时候的腔调说话，抽烟时把患癌风险抛之脑后！有什么理由不喜欢呢？
 
 ;0x812B4A90=Live the trauma of conflict, feel the heat of the battle, enjoy the warmth of a man's embrace and then drive back home in your SUV for take-out and a shower.  To experience history is to understand it.  What are you doing this weekend? 
-0x812B4A90=
+0x812B4A90=再现冲突的创伤，感受战役的焦灼，享受兄弟的温暖，最后开着SUV回家，叫个外卖洗个澡。体验历史是为了理解历史。想好这周末要做什么了吗？
 
 ;0xDFDFB6FE=For more information, please hand-deliver a written letter to our secure mailbox in Northwood with a lengthy explanation of why you would make a good historical re-enactor.  Women should include pictures of their cleavage.  Note - we need slaves! 
-0xDFDFB6FE=
+0xDFDFB6FE=若想了解更多信息，请在我们位于Northwood的保险邮箱中投递手写信，写明自己能够成为历史重现者的理由。女性还需附上乳沟照片。注：急缺奴隶！
 
 ;0x09CBFAD9=Heritage Not Hate is a non-profit organization but membership does require a modest monthly fee.  We are also available for private functions such as weddings and bar mitzvahs. 
-0x09CBFAD9=
+0x09CBFAD9=要遗产不要仇恨是一个非营利组织，但成员仍需缴纳些许月费。我们也为婚礼、受戒仪式等私人宴会提供服务。
 
 ;0xD3DC6335=Into battle, my friends. Civilization is at stake! 
-0xD3DC6335=
+0xD3DC6335=加入战斗，朋友们。文明正在崩塌！
 

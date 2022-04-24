@@ -1,9 +1,9 @@
 ﻿;0xCB066C9E=Civil War reenactment couldn't be easier.  Simply pick your side - North or South.  Do you look better in blue or gray?
-0xCB066C9E=
+0xCB066C9E=内战重现非常简单。先选个边吧，南方还是北方？穿灰色更好看还是蓝色更好看？
 
 ;0x8479D8DC=We are short on Northern re-enactors at the moment as everybody wants to be Southern, for some reason.  Then decide on infantry, cavalry, artillery, etc.  Note: if you are in the cavalry you must bring a horse.  Otherwise, it's like showing up to a tennis match without a racquet.  And please don't expect to come straight in as Ulysses S. Grant or Robert E. Lee.  The best parts are reserved for the reenactment veterans and we want to see you wipe your ass with your hand and eat a few rats before you move up the ranks.      
-0x8479D8DC=
+0x8479D8DC=出于某种原因，我们现在很缺北方联邦军的扮演者，所有人都想扮演南方。之后还要选择扮演步兵、骑兵或是炮兵等兵种。注：扮演骑兵者需要准备马匹。否则就成不带球拍打网球了。新人请不要一上来就扮演联邦军总司令尤里西斯辛普森格兰特和联盟军总司令罗伯特爱德华李。最好的角色都是留给历史重演中的老兵的，升衔之前必须体验底层的生活，比如用手擦屁股和吃老鼠肉。
 
 ;0x8D7CE19D=Some battles are fully scripted; others are complex games of charging into a field, raping the locals, stealing the booze, getting drunk and setting homes on fire.  All members operate under a strict code of conduct:  if somebody points a gun at you, you MUST go down and play dead.   
-0x8D7CE19D=
+0x8D7CE19D=部分战役完全按照剧本进行，其余战役相对复杂，需要冲入战场烧杀掳掠饮酒狂欢。如果有人拿枪指着你，你就必须躺倒装死，所有成员都要遵守这条规则。
 
