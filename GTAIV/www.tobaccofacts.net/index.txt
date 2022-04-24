@@ -1,66 +1,66 @@
 ﻿;0xF4A8843B=Big tobacco takes the health of its customers very seriously and, following a recent spate of record-breaking lawsuit settlements, we desperately need to overhaul our image and show the world that we have a social conscience. The purpose of this website is to educate the general public about the potential, inconclusive dangers of smoking so that you can make an informed decision about buying our products with the coupons provided after you have learned more about the horrible alleged dangers of relaxing with a cool, refreshing cigarette.
-0xF4A8843B=
+0xF4A8843B=烟草大厂非常重视顾客的身体健康。在最近一项破纪录的诉讼和解案之后，我们迫切需要改变我们的形象，并向世界展示我厂的人文关怀精神。建立本站正是为了让大众了解吸烟潜在的不确定性威胁，帮助大众认识清爽提神的香烟背后传说着怎样恐怖的危险，以及清楚明白地知道是否要优惠购买我们的产品。
 
 ;0xD8617CC7=There are a lot of mixed messages in the media, so here are the facts:
-0xD8617CC7=
+0xD8617CC7=媒体上的观点鱼龙混杂，以下是几个例子：
 
 ;0x43BF41BC=SMOKING IS BAD FOR YOUR HEALTH
-0x43BF41BC=
+0x43BF41BC=吸 烟 有 害 健 康
 
 ;0x9349C34D=Some unsubstantiated medical research suggests that cigarette smoking MAY be linked to lung cancer, heart disease and respiratory problems. Just because a couple of chimps in a lab smoked some French cigarettes and got emphysema, doesn't prove a thing. There are more smokers in China than the entire population of the USA and most of them believe that smoking is good for you. Any cause-effect relationship is purely coincidental. Most people who go blind also masturbate. Does this mean that masturbation causes blindness? No. I hope. 
-0x9349C34D=
+0x9349C34D=一些未经证实的医学研究结果显示，吸烟「可能」与肺癌，心脏病和呼吸疾病有关。让黑猩猩在实验室里面抽法国烟患上肺气肿，这样得出的结论，证明不了什么。中国的烟民比美国人口都多，而且他们中的大部分还相信吸烟有益身体健康。这些所谓的因果关系都是纯属巧合。很多盲人都打过手冲，难道就意味着打手冲会导致失明吗？希望不是。
 
 ;0x83995A6E=SMOKING TAKES 10 YEARS OFF YOUR LIFE
-0x83995A6E=
+0x83995A6E=吸 烟 可 减 少 十 年 的 寿 命
 
 ;0x6463E788=This is pure speculation but, in any case, these are the 10 years that you spend pissing into a bag and eating through a straw. Give me a lifetime of looking cool and sexy any day. In any case, it is almost a certainty that scientists will find a cure for cancer before you have to worry about any of this stuff. I know we've been saying that for years but it's sure to happen someday. 
-0x6463E788=
+0x6463E788=以下纯属猜想，但不管怎么说，这所谓的十年，是和尿袋与食管度过的。我们想要过的是光鲜亮丽的日子。无论如何，你担心这事之前，科学家们肯定会找到根治癌症的办法。我知道大家一直都是这么说的，但它以后某天一定会发生。
 
 ;0x805ECF74=YOU SHOULD QUIT SMOKING
-0x805ECF74=
+0x805ECF74=你 应 该 戒 烟
 
 ;0x8F4D2370=You should certainly try, once you get to 40 or thereabouts. The trick is to stop before all the health problems kick in. Girls: Please bear in mind that YOU WILL GET FAT. Remember that you can always smoke light cigarettes, which are proven to have little or no harmful effects on the body. Smoking a light cigarette is like putting on a condom when you have sex. As for ultra lights, you can smoke those babies all day.
-0x8F4D2370=
+0x8F4D2370=活到40岁左右的时候，你当然可以试一试。不想身体出问题的秘诀就是戒烟。女生们请牢记：接受「你会变胖」的事实吧。淡烟是可以抽的，它已被证实几乎或完全对身体无害。抽淡烟就像做爱前要戴套一样。淡烟想要抽到爽，那你就抽一整天吧。
 
 ;0x366BEAC1=THERE IS NO SUCH THING AS A SAFE CIGARETTE
-0x366BEAC1=
+0x366BEAC1=没 有 安 全 的 香 烟
 
 ;0x22D11E32=Maybe. But there is also no such thing as a safe car. They both have the potential to kill you. Planes crash. Rubbers break. Mistakes happen. Life happens. NEWSFLASH: You are going to die.
-0x22D11E32=
+0x22D11E32=应该吧。但安全的汽车也是没有的。坠机，爆胎，操作失误，这些东西都有可能害死你。现实就是这样。冷知识：你快要死了。
 
 ;0x1B8CD2EE=SMOKING AGES YOU PREMATURELY
-0x1B8CD2EE=
+0x1B8CD2EE=吸 烟 可 导 致 早 衰
 
 ;0x0EE03642=It can be argued that, after a certain age, smoking can start to make women look haggard and men look rugged. It also makes you lose weight and feel more confident and your voice will drop a few octaves, which will get you chicks or in the case of chicks will also get you chicks, just a different kind of chick.
-0x0EE03642=
+0x0EE03642=可以肯定的是，人到了一定岁数后，吸烟可以让女性憔悴，让男性粗犷，也可以让人减肥，变得自信，嗓音变得低沉。这样的话你就可以泡到妞，也有可能妞也能泡到妞。这里说的妞，是另一层含义上的。
 
 ;0x2330C001=SMOKING ISN'T COOL
-0x2330C001=
+0x2330C001=吸 烟 不 帅
 
 ;0xE15E7A6C=We would never use the word cool (except for above). Certainly, smokers tend to be more creative and better lovers. One thing is for sure - you shouldn't feel guilty about smoking. It has helped children to gain peer acceptance for centuries and it is a great way to meet people. 97.43% of smokers have hooked up with a hottie when having a cigarette outside a nightclub.
-0xE15E7A6C=
+0xE15E7A6C=我们一般不用帅这个词（上面除外）。确实，吸烟的人更有创造力，更适合做情人。有一件事是可以确定的：你不用对吸烟感到自责。自古以来，吸烟帮助小孩在同龄人之间得到认同，也是搭讪他人的好办法。97.43%的烟民在夜店外面抽烟的时候，都约到了辣妹。
 
 ;0xA3C8F09E=SMOKING IS ADDICTIVE
-0xA3C8F09E=
+0xA3C8F09E=吸 烟 可 成 瘾
 
 ;0xAE77ED57=Don't believe everything that you read. There is no scientific proof. People are too quick to throw around words like 'deadly' and 'addictive'. Nicotine releases dopamine which makes you happy. Is wanting to be happy considered an addiction? Cigarettes help you to relax - they are like the adult version of a pacifier. Nobody ever committed a murder or ended up on the streets because of tobacco. People have compulsive personalities and cigarettes fill a void that would otherwise be plugged with crack. When people say they are "trying to quit", it's not the cigarette's fault.
-0xAE77ED57=
+0xAE77ED57=别信你看到的那一套了，根本毫无科学依据。什么「致命的」「成瘾的」，大家看完就忘到脑后了。尼古丁促进多巴胺分泌，让你感到开心。难道想要开心就代表上瘾吗？香烟帮助你放松，像是成人用的奶嘴。街头上自杀或者他杀的人，谁是死于香烟的？人是很难自控的，多亏了有香烟解决这个问题，不然就是毒品来解决了。要是有人说要戒烟，那也不是香烟的错。
 
 ;0x473443E1=CIGARETTES ARE FULL OF CHEMICALS
-0x473443E1=
+0x473443E1=香 烟 内 含 大 量 化 学 物 质
 
 ;0x2B9108BE=One man's chemical is another man's vitamin. It all comes down to semantics. Take a look on the back of your juice carton. 
-0x2B9108BE=
+0x2B9108BE=人体里的化学物质就是维生素。搞什么文字游戏呢？去看看果汁包装盒上的营养成分表吧。
 
 ;0x20E1B395=SMOKING IN BED IS DANGEROUS
-0x20E1B395=
+0x20E1B395=在 床 上 吸 烟 相 当 危 险
 
 ;0xBE255500=Ok, we'll give you that one. But so is smoking while filling up your gas tank or smoking while changing a baby's diaper. Life is full of dangers. 
-0xBE255500=
+0xBE255500=好吧，我们承认这点。但是边抽烟边加油，边抽烟边给孩子换尿布，不也一样很危险吗？生活本来就是充满危险的。
 
 ;0x0E4A02DB=What more do you want from us? Who ever heard of a company being forced to spend billions of dollars telling customers not to use its products? People can't even smoke on an airplane or in a movie theater any more. Are we the only ones who see the hypocrisy in the government brainwashing our customers with propaganda about the dangers of smoking when it relies on tax dollars from the tobacco industry to buy bombs to kill people? America was built on tobacco (and killing people) and we should never forget it.  But if you do need to take your mind off of it, a cool, relaxing, sexy and life-enhancing cigarette couldn't hurt. Be an individual. 
-0x0E4A02DB=
+0x0E4A02DB=你还想拿我们怎么样？你见过有哪个公司费大劲花上几十亿告诉自己的顾客别买自家产品的吗？大家现在被搞得都不能在飞机和电影院里面吸烟了，政府人前一套背后一套谁都知道，表面上宣传吸烟有害健康，背地里拿着烟草税来充军费去打仗。美国是建立在烟草（和战争）之上的国家，这点我们可不能忘了。但如果你真的很需要放松一会的话，一支凉爽、轻松、新鲜、提高生活质量的香烟，也不会害了你。希望大家独立思考吧。
 
 ;0x1C47D8B4=PLEASE VISIT OUR SPONSOR
-0x1C47D8B4=
+0x1C47D8B4=请 参 阅 我 们 的 赞 助 商
 
