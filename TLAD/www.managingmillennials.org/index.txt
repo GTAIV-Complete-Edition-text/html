@@ -1,18 +1,18 @@
 ﻿;0x9D9E101D=Some say they're cocky, self-absorbed narcissists. Others contend they're pampered, high maintenance crybabies. But nobody can argue with the fact that Millennials have completely unrealistic career expectations and an over-inflated sense of self-worth.
-0x9D9E101D=
+0x9D9E101D=有人说他们是骄傲自大、目中无人的自恋狂。也有人说他们是娇生惯养、很难伺候的爱哭鬼。但有一点毋庸置疑，千禧一代对职业生涯的期待非常不现实，他们的自我感觉都过于良好了。
 
 ;0xD88B3759=Born in the 80's and early 90's and completely devoid of any work ethic, Millennials were raised by parents who placed them on a pedestal and sheltered them from the harsh realities of life. Now droves of needy twenty-somethings are starting to infest the workplace. They want time off for yoga, plenty of signing bonuses, back rubs, free sushi and scuba lessons. They want to roll into work at noon, break for lunch at 1pm, go to Jazz Tae Kwon Do at 3pm and be home by 4pm to watch reruns of their blessed crappy 90's sitcoms. This is the dumbed-down generation that's been told it's clever. Just because they express their feelings with emoticons. Yes, you'd better believe it. The Millennials have arrived.
-0xD88B3759=
+0xD88B3759=80后和90后完全没有职业精神，作为在温室中长大的千禧一代，他们备受父母呵护，根本就没有接触过残酷的现实社会。这帮二十多岁的家伙就要占领职场了。他们想要做瑜伽的休息时间，想要签约奖金，想要有人搓背，想要免费寿司，还想要潜水培训。他们想要中午上班，一点吃午饭，三点去跳爵士舞、练跆拳道，四点之前下班回家看90年代的无脑喜剧重播。这一代人明明是愚民，却被称作最聪明的一代，只因为他们用颜文字表示情感。是的，不论你能不能接受，这都是事实。千禧一代已经来了。
 
 ;0x18D4E22F=Are you ready for the challenges of a multigenerational workforce? Most companies now have employees from three different generations working alongside each other: 
-0x18D4E22F=
+0x18D4E22F=准备好迎接跨代际合作的挑战了吗？现在许多公司的年龄结构由三代人构成：
 
 ;0x5EA39D8E=Baby-boomers (born 1946-1964), GenXers (born 1965-1979) and Millennials (born 1980-1994). Our management course, written by bitter, cynical and failing GenXers, will teach you everything you need to know to bridge the generation gap and get the most out of your whining, text-messaging, add-me-to-your-friends list Millennial employees. Generationism is one of the few prejudices that's still socially acceptable so let's milk the stereotypes while we still can.
-0x5EA39D8E=
+0x5EA39D8E=婴儿潮一代(1946-1964年出生)、X世代(1965-1979年出生)、千禧一代(1980-1994年出生)。我们的管理课程由苦闷悲观不得志的X世代编写，能够教你跨越代沟，最大程度地利用这帮无病呻吟、发着短信、加着好友的千禧一代员工。代际歧视已是为数不多能被社会认同的歧视，趁着这些刻板印象还管用的时候能捞一笔是一笔吧。
 
 ;0x26AB27BC=Flip flops and tramp stamps: The Do's and Don'ts of managing Millennials
-0x26AB27BC=
+0x26AB27BC=人字拖和大花臂：管理千禧一代时的为与不为
 
 ;0x80F2DEA2=Gen-X vs. Gen-Y - Generational warfare?
-0x80F2DEA2=
+0x80F2DEA2=X世代 vs Y世代 - 代际战争？
 

@@ -107,5 +107,5 @@
 0xBF938121=发表于 2 天前
 
 ;0x3764862A=I'm new to this blogging thing. 
-0x3764862A=
+0x3764862A=最近刚开始写博客。
 

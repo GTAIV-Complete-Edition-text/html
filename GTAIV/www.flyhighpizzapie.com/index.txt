@@ -1,153 +1,153 @@
 ﻿;0x168E9B59=For over 10 years, Fly High Pizza Pie has been bringing smiles to the faces of hungry customers across Liberty City. A family-owned business, we use only the freshest home-grown ingredients and pride ourselves on high-grade quality and discreet, speedy service.
-0x168E9B59=
+0x168E9B59=过去10年中，高飞披萨饼为自由城各地的饥饿顾客送去了笑容。自家生意，我们只用最新鲜的自种食材，并提供引以为傲的高品质、高保密、高速度服务。
 
 ;0x36501B4F=Why buy second-rate pizza from a shady street vendor when you can get the best stuff in town delivered straight to your door?! As soon as you catch your first whiff of a Fly High pizza, we guarantee you will never buy from anywhere else again. The finest herbs on the East Coast are but a phone call away. The best way to relax at the end of a hard day is with a Fly High Pizza Pie. Order now!
-0x36501B4F=
+0x36501B4F=明明有人能送货上门，又何必去路边小摊买次品披萨呢？！只要闻到过高飞披萨饼的味道，你就再也不会选择其他披萨了。只要一个电话，东海岸最好的草就能上门。辛苦一天后最好的放松，就是高飞披萨饼。赶快订购吧！
 
 ;0x8FD133A5=Open 24 hours!
-0x8FD133A5=
+0x8FD133A5=24小时营业！
 
 ;0x955CE3F0=Delivery only!
-0x955CE3F0=
+0x955CE3F0=只做外卖配送！
 
 ;0xC4815BC3=Free delivery for orders over $100! 
-0xC4815BC3=
+0xC4815BC3=满$100免配送费！
 
 ;0x2244F50E=Slice (around an eighth) - $60
-0x2244F50E=
+0x2244F50E=一片 (八分之一左右) - $60
 
 ;0xD08AFB80=Large Slice (approx quarter) - $110
-0xD08AFB80=
+0xD08AFB80=大片 (四分之一左右) - $110
 
 ;0xA35B5140=Half Pie - $180
-0xA35B5140=
+0xA35B5140=半块披萨 - $180
 
 ;0x076B003C=Whole Pie - $320
-0x076B003C=
+0x076B003C=整块披萨 - $320
 
 ;0xBBE18E78=Cash only. Not for re-sale. Please have the money ready when the delivery guy arrives and keep your hands where he can see them. We don't barter. Please tip.
-0xBBE18E78=
+0xBBE18E78=只收现金，禁止倒卖。请在配送员上门之前备好现金，把手放在配送员看得见的地方。拒绝以物易物，请付小费。
 
 ;0xD76095FF=PURPLE HAZE
-0xD76095FF=
+0xD76095FF=紫烟
 
 ;0xEFE418A2=You won't remember your first!
-0xEFE418A2=
+0xEFE418A2=让你忘记自己的第一次！
 
 ;0x16DC5E9C=Tomato sauce, mozzarella cheese, pepperoni, eggplant, beetroot, red onion.
-0x16DC5E9C=
+0x16DC5E9C=番茄沙司、马苏里拉奶酪、意式香肠、茄子、甜菜根、紫洋葱。
 
 ;0xF63C8D03=ACAPULCO GOLD
-0xF63C8D03=
+0xF63C8D03=阿卡普尔科黄金
 
 ;0x35CA64F8=You'll smell it two blocks away!
-0x35CA64F8=
+0x35CA64F8=两条马路之外都能闻到味道！
 
 ;0x0316EF8E=Tomato sauce, mozzarella cheese, cheddar cheese, chicken, yellow peppers, pineapple.
-0x0316EF8E=
+0x0316EF8E=番茄沙司、马苏里拉奶酪、切达干酪、鸡肉、黄辣椒、菠萝。
 
 ;0x5217B590=WHITE WIDOW
-0x5217B590=
+0x5217B590=白寡妇
 
 ;0x2E02F27C=You won't want to move after this!
-0x2E02F27C=
+0x2E02F27C=吃了以后包你不想动弹！
 
 ;0xD8BB3AFA=Olive oil and garlic sauce, mozzarella cheese, garlic, artichoke hearts, and topped with goat cheese.
-0xD8BB3AFA=
+0xD8BB3AFA=大蒜橄榄油酱、马苏里拉奶酪、大蒜、菜心、山羊奶酪。
 
 ;0x74590117=MOROCCAN CARAMELLO
-0x74590117=
+0x74590117=摩洛哥焦糖
 
 ;0x2DC84455=Get ready for some sticky fingers!
-0x2DC84455=
+0x2DC84455=让你的手指黏不拉几！
 
 ;0x3334E73E=Tomato sauce, mozzarella cheese, chorizo, sun-dried tomatoes, caramelized onions.
-0x3334E73E=
+0x3334E73E=番茄沙司、马苏里拉奶酪、西班牙腊肠、番茄干、焦糖洋葱。
 
 ;0x95FAE57C=SHROOM FEST (Seasonal)
-0x95FAE57C=
+0x95FAE57C=幻菇盛宴 (季节限定)
 
 ;0x1C5710B0=It will make you see things differently!
-0x1C5710B0=
+0x1C5710B0=换个角度看世界！
 
 ;0xFDE51D01=Tomato sauce, mozzarella cheese, gold tops, blue meanies, liberty caps and fresh herbs.
-0xFDE51D01=
+0xFDE51D01=番茄沙司、马苏里拉奶酪、古巴裸盖菇、暗蓝斑褶菇、半针裸盖菇、新鲜药草。
 
 ;0xCE23FAEF=SPECIAL OFFERS
-0xCE23FAEF=
+0xCE23FAEF=特别优惠
 
 ;0xF272C859=The 4:20 special - half-price slices after school!
-0xF272C859=
+0xF272C859=4:20特惠－放学后半价！
 
 ;0x4DD210C2=The Wake n' Bake special - 15% off all pizzas ordered before 
-0x4DD210C2=
+0x4DD210C2=早起一支烟特惠－10点之前全场披萨八五折！
 
 ;0x62CA8195=10am!
-0x62CA8195=
+0x62CA8195=_
 
 ;0xC1822976=If you like a bit of extra kick, why not order a Power Crust Pizza, dusted with our special seasoning? Warning: can cause psychotic behavior.
-0xC1822976=
+0xC1822976=如果你想来点猛的，何不试试撒有季节菜品的强力表壳披萨？警告：可能引起精神病行为。
 
 ;0x6B7C12D8=Soda
-0x6B7C12D8=
+0x6B7C12D8=苏打水
 
 ;0x77739671=- Don't let cottonmouth get the better of you!
-0x77739671=
+0x77739671=－别被干裂的口腔夺去快感！
 
 ;0x03A03E6D=Sprunk, E-Cola and Orang-O-Tang in one-liter and two-liter bottles (many uses for these after you are finished!) 
-0x03A03E6D=
+0x03A03E6D=一升装和两升装的霜碧、易可乐、橙汁汽水 (瓶子留着，吸完还能用)
 
 ;0x093C9697=Beer
-0x093C9697=
+0x093C9697=啤酒
 
 ;0x3FE17593=- Logger, Piswasser, Jakey's 
-0x3FE17593=
+0x3FE17593=－Logger啤酒、尿汤啤、Jakey拉格啤酒
 
 ;0x7C278430=Cigarettes
-0x7C278430=
+0x7C278430=香烟
 
 ;0xA4A6D3B6=- Redwood, Cardiaque and 69 Brand
-0xA4A6D3B6=
+0xA4A6D3B6=－红木、Cardiaque、69牌
 
 ;0x11483590=Nuggets
-0x11483590=
+0x11483590=小块
 
 ;0x2579ACFA=- Sometimes you don't want a whole slice. Fly High's nuggets are the perfect snack-size order for people on a budget.
-0x2579ACFA=
+0x2579ACFA=－有时一整片太多。高飞的小块披萨是手头紧张的人的完美选择。
 
 ;0x68B99D45=Mini Calzones
-0x68B99D45=
+0x68B99D45=迷你披萨饺
 
 ;0xD98BB220=- Pre-rolled pizzas for one! No cutlery required! Cheap, convenient and ready to choke down! 
-0xD98BB220=
+0xD98BB220=－包起来的披萨！无需餐具！便宜、便利、一口吞下！
 
 ;0x9680F9D2=Lots of candy!
-0x9680F9D2=
+0x9680F9D2=各种糖！
 
 ;0x304EF48F=Placing your order - 
-0x304EF48F=
+0x304EF48F=立刻下单－
 
 ;0xEB7D6B99=BE COOL! USE THE CODE.
-0xEB7D6B99=
+0xEB7D6B99=当心！用暗语点餐。
 
 ;0xBA78A3C4=Tell us the type of pizza you want and let us know the quantity, e.g.
-0xBA78A3C4=
+0xBA78A3C4=告诉我们你想要的披萨口味和数量。例：
 
 ;0x9346BD4A='Just a slice'
-0x9346BD4A=
+0x9346BD4A=「一片就行」
 
 ;0x2C7840F0='Extra cheese on half'
-0x2C7840F0=
+0x2C7840F0=「半块披萨多加奶酪」
 
 ;0x74AD25C1='A whole pie'
-0x74AD25C1=
+0x74AD25C1=「整块披萨」
 
 ;0xE36A8629=Please mention whether you need napkins (standard or king-size). Pizzas can be delivered in aluminum foil or vacuum sealed plastic bags.
-0xE36A8629=
+0xE36A8629=记得说明是否需要餐巾 (标准号/特大号)。可选择铝箔纸包装或塑料真空包装。
 
 ;0xCCC4B8DA=We find that at least half of our customers have problems remembering their phone number and address. If you can write these down before calling, it will save us all a lot of time and confusion.
-0xCCC4B8DA=
+0xCCC4B8DA=我们发现顾客中至少有一半的人记不住自己的手机号和住址。如果你能在下单之前写下这些信息，大家都能省下很多时间。
 
 ;0xB55EBCA7=Runners wanted! Excellent commission structure. Must be inconspicuous and comfortable with violence. Call for rigorous background check.
-0xB55EBCA7=
+0xB55EBCA7=招募运货员！高提成。要求外貌低调，能够适应暴力。联系我们进行严格的背景调查。
 

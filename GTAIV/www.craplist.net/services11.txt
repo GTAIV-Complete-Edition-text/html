@@ -2,7 +2,7 @@
 0x3CB14960=(美国)
 
 ;0x19CAD095=Not ready to outsource?  Well, nothing fires up productivity more than the prospect of losing the house and car!  As part of our hoaxsourcing services, we will send in some ringers - usually Indian and Chinese guys in suits - to loiter behind desks and whisper in corner offices for a week.  Rampant worker insecurity guaranteed!  
-0x19CAD095=没准备好接受外包？嗯，没有什么比失去房子和车子的前景更能激发生产力了！在伪外包服务中，我们会派一些假冒的外包老板(一般是穿正装的印度人和中国人)过来一周，在工位附近晃来晃去，到高级办公室里假装交谈。保证能让原有的员工心神不宁。
+0x19CAD095=没准备好接受外包？嗯，没有什么比失去房子和车子的前景更能激发生产力了！在外包威慑服务中，我们会派一些假冒的外包老板(一般是穿正装的印度人和中国人)过来一周，在工位附近晃来晃去，到高级办公室里假装交谈。保证能让原有的员工心神不宁！
 
 ;0xA723890C=For this and other cost-cutting ideas, visit  
 0xA723890C=关于更多节约成本的方法，请参考

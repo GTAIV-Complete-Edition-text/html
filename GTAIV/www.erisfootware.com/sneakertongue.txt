@@ -1,21 +1,18 @@
 ﻿;0x07583B7F=Deciphering the lingo 
-0x07583B7F=
+0x07583B7F=术语揭秘
 
 ;0x59228B25=Word of the week: 
-0x59228B25=
+0x59228B25=本周术语：
 
 ;0xF6B4CF42=FOXING
-0xF6B4CF42=
+0xF6B4CF42=FOXING
 
 ;0xCAF28256= [fok-sing] - noun.
-0xCAF28256=
+0xCAF28256= [fok-sing] - 名词，沿条
 
 ;0x1B43F73A=It sounds more fun than it is and in fact refers to the rubber rim found around the bottom of many canvas sneakers.  Not to be confused with dogging which often makes use of a rim but rarely a rubber.  Why this is important we don't know.
-0x1B43F73A=
-
-;0x9B780572= CLICK HERE FOR A MESSAGE FROM ERIS FOUNDER, PETER VASSAL
-0x9B780572=
+0x1B43F73A=这个词比你想的还要有趣，实际上它是指许多帆布鞋底部都有的一圈橡胶。别跟拉皮条搞混了，虽然都有个条字，但拉皮条总不会给你介绍橡胶的。我们也不知道这有什么好解释的
 
 ;0x0DE63A4C= EXCLUSIVE BAO "RAINBOW" COLLABORATION
-0x0DE63A4C=
+0x0DE63A4C= 画家阿宝独家联名款「彩虹」
 

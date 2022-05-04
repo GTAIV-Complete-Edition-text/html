@@ -5,7 +5,7 @@
 0xD90D9B25=我晚上出门时会穿一条Gutter & Blood长裤，一件Derriere衬衫，一双Didier Sachs休闲鞋和一块Crowex手表。都是黑的，都是紧身的。穿着必须得紧身。你得炫耀自己的身材。身上抹上油再出门。有时我也会混搭，穿合身的Unleaded牛仔裤和休闲夹克，或者穿Hinterland迷彩裤、低胸白色背心和凉鞋(记得修脚！)我他妈就是都市时尚王！我是街头达人，还是VIP。我发明了嘻哈。
 
 ;0x48987DDE=Most importantly... Accessorize! Never forget the bling. Women love jewelry on a man just as much as they love the spinning rims on your pimped-out ride. Jewelry says - 'I've arrived', 'I am the fucking man'.
-0x48987DDE=最重要的是...配饰！永远别落下珠光宝气。女人喜欢男人身上的珠宝，就像她们喜欢你那辆拉风的车上的旋转轮圈一样。珠宝象征着「老子来了」「谁他妈敢惹老子」。
+0x48987DDE=最重要的是... 配饰！永远别落下珠光宝气。女人喜欢男人身上的珠宝，就像她们喜欢你那辆拉风的车上的旋转轮圈一样。珠宝象征着「老子来了」「谁他妈敢惹老子」。
 
 ;0x5B477289=Don't be afraid of pink, especially salmon pink.
 0x5B477289=别绕着粉色走，肉粉色没什么大不了的。

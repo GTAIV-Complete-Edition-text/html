@@ -1,6 +1,6 @@
 ﻿;0x11237060=We at Eugenics Incorporated are doing far more than simply pimping out your progeny with musical ability, sporting prowess, a third nipple or testicle. We are changing the human species. After years of stupid people breeding like rabbits, our society is in decline. What chance do you have of producing the next Isaac Newton when the youth of today is mired in a cultural wasteland of self-medication and dumbed-down entertainment like the Shitty Singer Competition on CNT? Humanity is losing its edge. We must take action before it's too late. Time to clear out the dead wood. 
-0x11237060=
+0x11237060=我们优基因公司所能做到的，远不止是让你的孩子肌肉强健、体力超群，拥有第三个乳头或是睾丸。我们正在改变人类。多年以来，蠢人疯狂繁殖，我们的社会也日益衰落。现在的年轻人深陷自我麻木的文化荒漠，饱受类似于CNT《最烂歌手》这样的审丑娱乐毒害，怎么可能生出下一个伊萨克牛顿？人类正在失去未来。我们必须在为时已晚之前采取行动。是时候清除枯枝败叶了。
 
 ;0x7990FE06=As Eugenics spreads, Dr. Von Singer believes that humans will eventually split into two separate breeds. Genetic apartheid is coming! Scientists have proven that we are only about 5,000 genes away from chimpanzees. Do you want your child to be a chimp? Just look at how much bigger vegetables are, how much fatter battery-farmed chickens are, how much stronger weed is these days! If bioengineering can improve plants and animals to this extent, imagine what it can do for mankind? Don't condemn your baby to life as a genetic underdog. Jump on the Eugenics bandwagon now, before we hike up our prices even further.
-0x7990FE06=
+0x7990FE06=随着优基因技术的推广，Von Singer博士相信人类终会分化成两个族群。基因隔离制度近在眼前！科学研究表明，我们和黑猩猩只有大约5000个基因不同。你想让孩子变成猩猩吗？看看现在的蔬菜有多大，看看密集式鸡舍的鸡有多肥，看看这年头的大麻有多猛！既然生物工程能让动物植物达到这种水平，放到人类身上又会如何？别让你的孩子成为基因上的弱者。立刻加入优基因大军吧，再不来我们的价格还会更高。
 

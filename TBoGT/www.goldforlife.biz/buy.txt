@@ -1,15 +1,6 @@
-﻿;0x10B8C84E=HOME
-0x10B8C84E=
-
-;0x2D7F6D58=FAQs
-0x2D7F6D58=
-
-;0x2718EC8F=BUY GOLD NOW
-0x2718EC8F=
-
-;0x104A686D=We sell gold coins, bars, ingots, fillings, jewelry, marital aids and dust, which is perfect for sprinkling on desserts, pillows or mixing with cocaine to show your lady you are truly a man of sophistication and luxury.
-0x104A686D=
+﻿;0x104A686D=We sell gold coins, bars, ingots, fillings, jewelry, marital aids and dust, which is perfect for sprinkling on desserts, pillows or mixing with cocaine to show your lady you are truly a man of sophistication and luxury.
+0x104A686D=我们出售金币、金条、金锭、金牙、金首饰、金粉和黄金性爱玩具。金粉可以撒在甜点、枕头上，也可以混在可卡因粉末里，让你的女人知道你是锦衣玉食的纯爷们。
 
 ;0x91A36F76=Our web store is down for today while we sort out some minor regulatory issues with customs, the FIB and securities regulators, but check back tomorrow, as gold is always a great investment.
-0x91A36F76=
+0x91A36F76=由于需要和海关、FIB和证券管理机构处理合规问题，网店今日暂时关闭，明天再回来看看吧，黄金永远都值得投资。
 
