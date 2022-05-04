@@ -1,42 +1,42 @@
-﻿;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
-0xE773CCA2=
+;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
+0xE773CCA2=搞臭你心爱的明星！八卦、蜚语、丑闻、
 
 ;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
-0x5E1A6427=
+0x5E1A6427=分手、崩溃、争吵...以及一切我们可以偷拍到的秘密！
 
 ;0x1FE57A7B=Maybe he's not as stupid as he looks.  Cloe Parker's deadbeat fiancé, Tyler Dixon, who reportedly spends three hours every morning manscaping his facial hair, has demanded a $3-million dowry in response to the 900-page pre-nup that he was asked to sign earlier this month.  A self-confessed plastic surgery addict, Parker keeps the paparazzi on their toes by completely changing her appearance every six months and her latest breast implants are stuffed with rubies worth an estimated $30 million.  She rose to megastardom for being hot and rich but her life has turned into one long train wreck ever since she started dating the male backup dancer, who proudly claims that he has been smoking PCP since the age of 5 and lost his virginity to his mother at the age of 9.
-0x1FE57A7B=
+0x1FE57A7B=或许他并不像看起来的那么蠢。据说Cloe Parker那游手好闲的未婚夫Tyler Dixon每天早晨会花将近三个小时打理自己面部的毛发，由于这个月初他签下的那份有900多页的婚前协议，他目前被要求支付三百万美元的礼金。而至于自称整容成瘾患者的Parker，她靠着每半年就彻底改变一次外貌的手段让狗仔们欲罢不能，在最近一次整容中，她往自己的假奶里塞进了价值大约三千万美金的红宝石。她凭借着热辣性感又挥金如土的人设迅速蹿红，然而当她开始和那个宣扬自己5岁吸毒9岁上了他老母的后备舞者Tyler Dixon约会之后，Cloe Parker的人生就坠入了永无止尽的深渊。
 
 ;0xA571DE90=News doesn't get any bigger than a talentless socialite's downward spiral into drug addiction and sexual depravity and, as soon as the photos emerged of Cloe feeding her three-month-old baby French fries and a vanilla latte with a cigarette hanging out her mouth, we knew that we had a full-fledged celebrity meltdown on our hands.  Tyler Dixon - or Ty-Di as he has become known in the press - still maintains that Parker's baby is his even though she gave birth two months after the couple met and the child is black.  Cloe's father has not been shy about his disgust for his future son-in-law and this latest twist in the love story that has captured the hearts of a nation appears to have been the final straw for the billionaire."That gold-digging, pony-tailed, drugged-up excuse for a human being is not getting a cent out of me.  It's not the money - Cloe's 600-foot yacht costs $3 million a day just to sit in a harbor," he told our inside source, "I piss that kind of cash.  In fact, it's laughably cheap, which is all I would expect from a white trash slimeball like Dixon.  He's every father's worst nightmare."  Off the back of his new-found fame, Ty-Di plans to release a rap album later this year which we all look forward to trashing.  His lawyer told us, "If the trend of female celebrities marrying good old-fashioned, hard-working blue collar guys completely unaffected by fame and any of its trappings continues, we're going to see a lot more dowry deals on the table.  They've always worked well in India."
-0xA571DE90=
+0xA571DE90=无德无才的社交名流堕入药物成瘾和性丑闻的漩涡之中似乎永远都会是最大的新闻，当Cloe叼着烟给她三个月大的孩子喂薯条和香草拿铁的照片一出现，我们就知道又一位名人要栽在我们手里了。就算两人第一次见面两个月之后Parker就生产了，就算生下来的小孩皮肤从头黑到脚，Tyler Dixon，或是媒体口中的Ty-Di，始终坚称自己是这个孩子的亲生父亲。Cloe的父亲则毫不掩饰自己对这个未来女婿的厌恶之情，因此这段感动美国的爱情故事目前正经历的波折显然成了这名亿万富翁心中最后一根救命稻草。“我绝不允许那个汲于名利耽于毒品的马尾辫瘾君子从我这里拿走一分钱。当然，Chloe那600英尺游艇每天三百万美金的港口停泊费用不算。”他如此和我们的线人说道，“我偷偷朝这些钱上尿尿了，这堆东西廉价到可笑，Dixon在我眼里也大概就是这么个可悲可笑的玩意儿。有他当女婿是天下所有为人父母最可怕的噩梦。”凭借着新近获得的名声和关注，Ty-Di计划在下半年发行一张说唱专辑，在这里我们衷心祝愿他糊成一滩稀屎。他的律师告诉我们，“如果女名星不计声名嫁给老派勤劳蓝领男性的这波风潮延续下去，我们将有幸在未来见到更多的彩礼交易。这一制度在印度一向运行良好。”
 
 ;0xF2DC7BE5=Can things get any worse for Cloe Parker?  Let's hope so.  We have a team of photographers on her 24 hours a day and we hope to bring you more breaking news very soon.
-0xF2DC7BE5=
+0xF2DC7BE5=Cloe Parker还会步入更加糟糕的境地吗？让我们拭目以待。我们目前为她成立了一个24小时跟拍狗仔团，专为您呈现即将到来更劲爆的新闻。
 
 ;0x870AE621=Remember Cherice McCormic?  She was a hot celebrity during the 80's when our guard was down and fashion wasn't an issue.  Then the 90's and the 00's came around and a lot of ZEROs were looking for work.  We initially reported that McCormic was on a serious bender reduced to shooting skin flicks for crack.  But reports say she is faking it just to get into the news media again.  Friends say she can't even handle coffee and the whole thing is just an act.  COME ON MCCORMIC!  Man up and go off the edge.  Your country needs you.
-0x870AE621=
+0x870AE621=还记得Cherice McCormic吗？在八十年代时尚概念尚未成型之时，她曾是炙手可热的女明星。接着九十年代和新世纪纷至沓来，无数等着活干的无名之辈如潮水般将她淹没了。我们起初报道McCormic正陷入药物成瘾的危机大量吸食可卡因，但是有报道称她是为了重回新闻媒体视野中而自导自演了这场好戏。她的朋友说她连被咖啡都不会泡，更别说吸毒了，所谓的药物成瘾不过是精湛的演技罢了。来吧MCCORMIC！振作起来！悬崖勒马！你的国家需要你。
 
 ;0xCDFA22FC=- BREAKING NEWS: Straight backatcha biatch!!!
-0xCDFA22FC=
+0xCDFA22FC=-号外：绝对意义上的婊婊婊婊婊子！！！
 
 ;0xC07AC222=- Waning with the Stars Shocker!!!
-0xC07AC222=
+0xC07AC222=-和星光一起黯淡！！！
 
 ;0x9F517180=- Shortage of British judges for US talent shows
-0x9F517180=
+0x9F517180=-美国达人秀急缺英国评委
 
 ;0x62D823FE=- Fat Bitch!
-0x62D823FE=
+0x62D823FE=-肥婊子！
 
 ;0xD0EF5848=- To Brucie Kibbutz
-0xD0EF5848=
+0xD0EF5848=-致Brucie Kibbutz
 
 ;0x24775D88=- Pete - what kind of name is that for a famous kid?
-0x24775D88=
+0x24775D88=-Pete - 对名人之子来说这算个几把名字？
 
 ;0x8FF4EE11=- governor race takes to the chatrooms
-0x8FF4EE11=
+0x8FF4EE11=-政治竞赛遇上在线聊天室
 
 ;0x9AF90357=- Muldoon 'finds religion' 3 times in a week!!!
-0x9AF90357=
+0x9AF90357=-Muldoon一周皈依三次！！！
 

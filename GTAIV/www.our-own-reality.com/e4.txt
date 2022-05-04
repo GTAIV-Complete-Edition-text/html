@@ -1,30 +1,30 @@
-﻿;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
-0xE773CCA2=
+;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
+0xE773CCA2=搞臭你心爱的明星！八卦、蜚语、丑闻、
 
 ;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
-0x5E1A6427=
+0x5E1A6427=分手、崩溃、争吵...以及一切我们可以偷拍到的秘密！
 
 ;0xF1787F9B=The McIntosh Meltdown is exceeding all our expectations.  Even since her drug-crazed bender only minutes after checking out of rehab, our investigative journalists had been hounding her day and night in the hope that she would snap and provide us with some more tabloid gold.  And snap she did!  At approximately 2 AM this morning she spotted someone from our team taking photos through her bathroom window and, in what was undoubtedly a heroin-and-coke-fueled rage, she chased him down the street with a CARVING KNIFE!!!  This is clearly a woman on the edge.  Sex.  Drugs.  Alcohol.  Psychopathic behavior.  Kitchen utensils. We couldn't ask for much more.  Apart from a comeback, that is.  The time has come for her to rise again from the ashes and we are going to make it happen.  Stay glued to Our Own Reality for more developments in this incredible story.   This is a war we're winning:  The war on our own reality.
-0xF1787F9B=
+0xF1787F9B=McIntosh Meltdown完全超出了我们对她的预期。她刚出康复中心没几分钟就开始磕上了药，我们的调查记者不舍昼夜牢牢的追踪着她，希望她可以抓紧时间给我们的小报来几条猛料。她成功证明她做到了。今天大约凌晨两点左右当她发现我们的记者正通过浴室玻璃窗偷拍她时，海洛因还有可卡因毫无疑问助长了她的滔天怒火，她握着切肉刀冲出家门在大街上追杀记者！！！这确实是一个情绪极端不稳定的女人。性。药物。酒精。精神变态行为。厨具。我们无法再在她身上求索更多话题了。除了一遍又一遍的重复这一过程。现在，是她从余烬之中再一次涅槃的时候了，而我们，也必将努力促成这一切。密切关注Our Own Reality网站为您继续带来这一令人难以置信故事的后续发展。这是一场我们必将胜利的战役：与我们自己的现实之战。一切尽在Our Own Reality。
 
 ;0x09ED52CA=- BREAKING NEWS: Bryce Dawkins - You got MALE!!!
-0x09ED52CA=
+0x09ED52CA=-号外：Bryce Dawkins - 你搞了个男人！！！
 
 ;0xB87A0552=- Samantha Muldoon buys another baby!
-0xB87A0552=
+0xB87A0552=-Samantha Muldoon又买了一个婴儿！
 
 ;0xC7E658D4=- Shear Lunacy!
-0xC7E658D4=
+0xC7E658D4=-疯狂剪发！
 
 ;0x391868C4=- McTony: A microscopic maniac!!!
-0x391868C4=
+0x391868C4=-McTony：超微型疯子一个
 
 ;0x779E01C9=- 'Like' voted word of the year!
-0x779E01C9=
+0x779E01C9=-‘喜欢’当选年度词汇！
 
 ;0x9112632A=- POPPING boffo box office
-0x9112632A=
+0x9112632A=-POPPING票房领跑
 
 ;0x10CCF982=- More Madness From McIntosh!!!
-0x10CCF982=
+0x10CCF982=-McIntosh走火入魔！！！
 

@@ -1,36 +1,35 @@
-﻿;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
-0xE773CCA2=
+;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
+0xE773CCA2=搞臭你心爱的明星！八卦、蜚语、丑闻、
 
 ;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
-0x5E1A6427=
+0x5E1A6427=分手、崩溃、争吵...以及一切我们可以偷拍到的秘密！
 
 ;0x29B87D27=Shocking photos have emerged of English TV personality, Katt Maguire, relieving herself on the sidewalk.  And no, not a number 1!!!  Witnesses report that the 23-year-old staggered out of a London nightclub last Saturday with a beer in each hand, sparked up a cigarette and started singing soccer songs.  She then shouted something about needing to "pinch a loaf, innit" before pulling down her jeans and laying a coiler on the sidewalk in front of crowds of weekend revelers.  Apparently, English men find this behavior attractive in a woman.  Her excrement is now for sale on Craplist for starting bids of $300.
-0x29B87D27=
+0x29B87D27=英国电视明星Katt Maguire在大马路边拉屎的劲爆照片出现在了人们的眼前。对了，她绝不是在小便！！！目击者声称上周六看到一名23岁的女子两只手里拎着啤酒摇摇晃晃的走出伦敦一家夜店，点了一支烟后开始唱起足球队的队歌。接着在大喊了几句诸如“憋不住了，不憋了”之类的话之后就当着一大群周末外出放松的围观者的面脱下牛仔裤蹲在人行道上留下了一坨形状标致的大便。显然，英国男人发现女性的这种行为相当有吸引力。她的这坨大便目前在Craplist上出售，起拍价300美元。
 
 ;0x7ABBBC5E=Nobody is quite sure why she is so famous but she is seriously hot and has her labia pierced with a 7-carat diamond.  At a tearful press conference on CNT last night, January Natasha Vasquez appealed to the general public for support during the final stages of her extreme dieting regime.  "With my loyal fans behind me, I know I can do it," she gushed as a huge patch of her hair fell to the floor.  The beautiful socialite and daughter of billionaire businessman Alfonso Vasquez has become the perfect role model for an entire generation of teenage girls with major body image issues.  She has lost 20 lbs in the last five days but is determined to reach her target weight of 70 lbs so that she can break into TV work.  Looks like those cellulite photos were the wake-up call she needed.  You're welcome, January.  We will be following this one very closely.
-0x7ABBBC5E=
+0x7ABBBC5E=没人知道她为何如此出名，但她真的相当惹火，并且她的阴唇上还镶嵌着一颗7克拉的钻石，在昨晚CNT那场声泪俱下的新闻发布会中，January Natasha Vasquez向着公众呼吁在她极端节食计划的最后阶段给予相应的支持。“有我忠实的粉丝站在我身后，我知道我一定能够做得到，”她滔滔不绝的说着，她的头发纷纷扬扬的落着。这位容貌秀丽的社会名流，富商Alfonso Vasquez之女，已经在被形体问题困扰的少女群体中成为了完美的榜样。在过去的五天里，她减掉了整整20磅，并且她还在向为了能够从事电视演艺工作而设定的目标体重，70磅，迈出坚定的步伐。看来我们先前公布她肥硕体态的照片确实触及到了她的灵魂深处。不用客气，January。我们对此将保持密切关注。
 
 ;0xC0689418=- BREAKING NEWS: McIntosh goes for a drive-thru!!!
-0xC0689418=
+0xC0689418=-号外：McIntosh驾车勇往直前！！！
 
 ;0xBEBCA651=- Furries bored of doggie style
-0xBEBCA651=
+0xBEBCA651=-福瑞控们厌倦了后入式
 
 ;0xD504AEA5=- 'The Tower' makes out with a hobo!
-0xD504AEA5=
+0xD504AEA5=-‘巨塔’操了流浪汉！
 
 ;0x3FAE7853=- Parker & Von Crastenburg catfight!!!
-0x3FAE7853=
+0x3FAE7853=-Parker大战Von Crastenburg！！！
 
 ;0x86D69994=- English 'ladette' takes dump outside nightclub
-0x86D69994=
+0x86D69994=-英国女星夜店醉酒后当街拉屎
 
 ;0xA05D3F64=- JNV's EXTREME WEIGHT LOSS!!!
-0xA05D3F64=
+0xA05D3F64=-JNV爆瘦！！！
 
 ;0x6A4900AD=- Another castle for the investment king
-0x6A4900AD=
+0x6A4900AD=-投资皇帝的又一座宫殿
 
 ;0xD428CDD7=- Weazel to launch war channel
-0xD428CDD7=
-
+0xD428CDD7=-Weazel网将上线战争频道

@@ -1,48 +1,48 @@
-﻿;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
-0xE773CCA2=
+;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
+0xE773CCA2=搞臭你心爱的明星！八卦、蜚语、丑闻、
 
 ;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
-0x5E1A6427=
+0x5E1A6427=分手、崩溃、争吵...以及一切我们可以偷拍到的秘密！
 
 ;0xBC067395=To Brucie Kibbutz,
-0xBC067395=
+0xBC067395=致Brucie Kibbutz，
 
 ;0xEA742727=Please, whoever you are, LEAVE US ALONE!!!  Stop with the persistent emails and phone calls.  We are never going to post your workout photos or write an article on "how you roll".  You're a nobody and we're only interested in real people (IE celebrities).  You say that you're a lifestyle guru; so, get a life!
-0xEA742727=
+0xEA742727=无论你是谁，麻烦你，滚！！！别再不停打电话发邮件了。我们绝不会刊登你健身的照片或者写一篇“你咋这么屌”的文章。我们只对真人（例如：明星）感兴趣，而你屁都不是。你自称生活方式大师；那么至少，先活得像个人吧！
 
 ;0x567EE152=Yours condescendingly,
-0x567EE152=
+0x567EE152=比你高贵一万倍的，
 
 ;0x4C2530D1=The staff of Our Own Reality.
-0x4C2530D1=
+0x4C2530D1=Our Own Reality员工。
 
 ;0xB31321B1=P.S.  Thank you for the copy of your autobiography - it has sorted out that wobbly table in the cafeteria.
-0xB31321B1=
+0xB31321B1=P.S.  谢谢你寄来的自传 - 餐厅摇摇欲坠的桌子腿儿垫上它之后重获新生。
 
 ;0x605DF8A7=Tony McTony, the miniature multimillionaire whom we all love to hate, has been lambasted by famous friends in Vinewood for giving his latest son too normal a name.  "How are people ever going to know that he is the son of a celebrity with a name like Pete?  McTony is condemning him to a life of mediocrity.  The poor kid is going to be a laughing stock if he goes to Rodeo High and he certainly won't be invited to any of my kid's parties," snarled one Los Santos trophy wife.  This is McTony's 7th child born out of wedlock in the past six months and we wouldn't be the first to suggest that he is nothing more than a short man with a chip on his shoulder, a cupboard full of Mollis and something to prove.  McTony has little contact with any of his pocket-sized progeny but has insisted that they all wear the line of baby clothes that he designed with his distinctive logo: a yellow M on a red background.
-0x605DF8A7=
+0x605DF8A7=Tony McTony，我们又爱又恨的侏儒富翁，近日因为给他的小儿子取了一个过于平庸的姓名而饱受他Vinewood中朋友的诘责。“如果小孩名叫什么狗屁Pete，人们将从何得知他是名流之子？McTony亲手将他的儿子推入了平庸的二流生活之中。这个可怜的孩子去了Rodeo高中只会沦为笑柄，而且他绝对不会出现在我儿子任何派对的邀请名单里。”洛圣都一位极富声望的夫人咆哮着如是表示。这是McTony过去六个月中第七个私生子，我们不会是第一个暗示他不过是一个好勇斗狠、有一柜子壮阳药、急着想要证明什么的，矮子。McTony和他那一堆袖珍后代们都鲜有接触，但却坚持让他们都穿上他亲自设计的婴儿服，衣服上绣有独属于他的logo：红色背景上一个大大黄色的M。
 
 ;0xCDFA22FC=- BREAKING NEWS: Straight backatcha biatch!!!
-0xCDFA22FC=
+0xCDFA22FC=-号外：绝对意义上的婊婊婊婊婊子！！！
 
 ;0xC07AC222=- Waning with the Stars Shocker!!!
-0xC07AC222=
+0xC07AC222=-和星光一起黯淡！！！
 
 ;0x9F517180=- Shortage of British judges for US talent shows
-0x9F517180=
+0x9F517180=-美国达人秀急缺英国评委
 
 ;0x62D823FE=- Fat Bitch!
-0x62D823FE=
+0x62D823FE=-肥婊子！
 
 ;0xD0EF5848=- To Brucie Kibbutz
-0xD0EF5848=
+0xD0EF5848=-致Brucie Kibbutz
 
 ;0x24775D88=- Pete - what kind of name is that for a famous kid?
-0x24775D88=
+0x24775D88=-Pete - 对名人之子来说这算个几把名字？
 
 ;0x8FF4EE11=- governor race takes to the chatrooms
-0x8FF4EE11=
+0x8FF4EE11=-政治竞赛遇上在线聊天室
 
 ;0x9AF90357=- Muldoon 'finds religion' 3 times in a week!!!
-0x9AF90357=
+0x9AF90357=-Muldoon一周皈依三次！！！
 
