@@ -1,33 +1,33 @@
 ﻿;0x27BDF1A8=Ever since the lefties got bored of targeting the tobacco industry, Burger Shot has been taking a lot of flak. It's pathetic. Do-gooders who we should have killed during the Cold War telling us what freedom means? We're patriots, buddy. 
-0x27BDF1A8=
+0x27BDF1A8=自从老左们骂累了烟草行业后，吃得饱汉堡又成为了他们的攻击对象，真是可悲。放在在冷战时期，这群只会帮倒忙的人早就该杀了，现在却在这跟我们讲自由。我们可是爱国者啊，兄弟。
 
 ;0xEA47F922=What do you expect for less than a dollar? Chateaubriand? You get what you pay for. Our food is cheaper than dog meat! Sometimes ignorance is bliss. You don't want to know that your sister loves it up the ass and you don't want to know that your lunch is made from rancid animal intestines. But you wouldn't leave it alone, would you?!!!! So here are the facts:
-0xEA47F922=
+0xEA47F922=不到一块钱，你想买到什么？汉堡肉？那就对了。我们的食品比狗肉还便宜！眼不见为净，你肯定不想知道你的姐妹特别喜欢吃得饱汉堡，你也不想知道你的午饭是用烂肠子做的。但你确实离不开吃得饱汉堡了，对吧？！！！！所以，以下是几个真相：
 
 ;0x396DB729=- Your sister really takes it... a lot.
-0x396DB729=
+0x396DB729=你的姐妹真的很喜欢吃汉堡...吃得还很多。
 
 ;0x4C4215F4=- Your sister's friends have always laughed at you and assume you are penile puny.
-0x4C4215F4=
+0x4C4215F4=你姐妹的朋友总是笑话你，还猜你的鸡巴很小。
 
 ;0xF9F72DD4=- Most liberals are unsure of their sexual orientation.
-0xF9F72DD4=
+0xF9F72DD4=大多数自由派人士不确定自己的性取向。
 
 ;0x21D34B90=- 90% of taste comes from smell (kind of disgusting to think what you are tasting when the stench of a bum's butt mud hits you on a packed subway!). We pay flavor companies in Alderney billions of dollars to douse our food in sweet-smelling beef juice. Just like a girl puts on make-up, and dumps perfume on her poo-poo-la-la, we brush all our burgers with mascara to give them that flame-broiled look after they are nuked in the microwave. If we took away the chemically-manipulated smell and char-grill paint, you would be left with a damp, grey slab of livestock matter that smells like your grandmother's crotch. 
-0x21D34B90=
+0x21D34B90=食物90%的滋味来源于嗅觉（这么做可能有些恶心，试想一下，拥挤的地铁上流浪汉满是泥巴的屁股撞到你，是什么滋味）。我们掏了几十亿美元给Alderney的香料公司，让他们用香喷喷的牛肉汁来腌制我们的食物。正如女生要化妆，给自己的拉的屎喷香水一样，我们也在汉堡上刷睫毛膏。微波炉加热过后，看起来就像火烧了一样。没有工业气味和火燎颜色的加持，你能得到的只有一坨又灰又湿的玩意，像畜生拉出来的一样，闻起来和你奶奶的裤裆一个味。
 
 ;0xED5F4C52=- So much goes into a Burger Shot burger... including cigarette butts, used condoms, beer bottles, old newspapers, glue and antifreeze. We firmly believe that the life of a diseased animal should not be in vain and we make sure that nothing goes to waste: urine, vomit and fecal matter all get swept into the meat pit.
-0xED5F4C52=
+0xED5F4C52=我们的汉堡里面什么都有：烟头、套套、瓶盖、报纸、胶水，还有防冻剂。我们坚信，就算是病死的动物，也不应该丢了。所以，我们没有浪费任何东西：屎和尿全部一起加到肉里去了。
 
 ;0xEFAA407F=- We've stopped cooking our fries in lard and have switched to a mixture of hydrogenated vegetable oil and beef extract. Ssssh! Don't tell the gastronomically ludicrous religious freaks and the vegetarians! They have just as much saturated fat but, hey, that is better than cholesterol! 
-0xEFAA407F=
+0xEFAA407F=我们现在不用猪油炸薯条，改用氢化植物油和牛肉提取物了。嘘！别让那帮食物原教旨主义和素食主义知道了。他们吃的饱和脂肪和我们的一样多，但总比直接吃胆固醇好多了。
 
 ;0x4D42D0FC=- You can now get salad. Happy now?! Who goes to a fast food restaurant to eat salad? Sorry, but this makes us really angry. So angry, in fact, that we decided to load our salad cups with more fat than the burgers! Begrudgingly, we will also be adding deep-fried broccoli to the menu at the end of the year. Stick that in your artery and smoke it.
-0x4D42D0FC=
+0x4D42D0FC=我们现在上架沙拉了。开心了吧？谁会去快餐店点沙拉呢？很抱歉，这样子做让我们很生气，气得我们决定要在沙拉里面加更多脂肪，比汉堡的还多。很不好意思，我们年底还要上架炸得透透的西兰花。你们快把它们都吃到骨子里去吧。
 
 ;0xFD0AEC03=- Our food cannot be that bad. The burgers are 50% water, which is supposed to be good for you, and they work their way through your system like a tapeworm on speed. They are also great for a hangover. They'll give you one five minutes after finishing your meal. 
-0xFD0AEC03=
+0xFD0AEC03=我们的食物不可能是不健康的。汉堡有一半是由水组成，本来就对身体无害，并在你身体内像绦虫一样快速发挥作用。汉堡也很适合宿醉后吃，五分钟内就可以吃上一个。
 
 ;0x3A0DD6DA=- Just to keep you off our back, we are going to start putting very conservative estimates of fat and calorie content on the burger boxes. This way you can find out at least part of the horrifying truth AFTER you have purchased the sandwich. It is then up to you whether you eat it, throw it in the trash or save half for the next day (not recommended).
-0x3A0DD6DA=
+0x3A0DD6DA=为了让你对快餐说不，我们将在包装盒上注明一份非常保守的营养成分表。这样你至少可以在点餐后，知道一点快餐背后可怕的真相。是吃掉它，还是留一半到第二天（不推荐），由你决定。
 
