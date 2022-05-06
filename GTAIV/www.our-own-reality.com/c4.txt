@@ -1,36 +1,6 @@
-;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
-0xE773CCA2=搞臭你心爱的明星！八卦、蜚语、丑闻、
-
-;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
-0x5E1A6427=分手、崩溃、争吵...以及一切我们可以偷拍到的秘密！
-
-;0xAA19F169=In response to accusations that politics is too out of touch with popular culture, the two frontrunners in the race for governor, John Hunter and Michael Graves, took part an online flame war last night.  Hunter kicked off with, "I M in ur state houz steelin ur votez."  Graves hit back with, "Ohnoes!!1 I M IN UR DISTRICT PWNIN UR SENIORS!!!!"  The debate quickly descended into insults about libido.  A generation of lonely teenagers looked on in horror from their bedrooms.
-0xAA19F169=为了回应政治与流行文化过于脱节的指责，自由城州长两大候选人，John Hunter和Michael Graves，昨晚进入在线聊天室进行了一次互联网骂街大战。Hunter首先发起攻击：“窝就在你的底盘，窝还药偷你的选票。”与此同时Graves回击道：“我好啪啪哦！！我在泥老巢干翻泥全家！！！！”这场辩论赛很快就沦为了对对方性能力的各种嘲讽和侮辱。孤独的青少年们在各自的卧室里惊恐的围观了全程。
+﻿;0xAA19F169=In response to accusations that politics is too out of touch with popular culture, the two frontrunners in the race for governor, John Hunter and Michael Graves, took part an online flame war last night.  Hunter kicked off with, "I M in ur state houz steelin ur votez."  Graves hit back with, "Ohnoes!!1 I M IN UR DISTRICT PWNIN UR SENIORS!!!!"  The debate quickly descended into insults about libido.  A generation of lonely teenagers looked on in horror from their bedrooms.
+0xAA19F169=为了回应政治与流行文化过于脱节的指责，自由州的两大州长候选人，John Hunter和Michael Graves，昨晚进入在线聊天室进行了一次网络对喷。Hunter先手进攻：「窝就在你的底盘，窝还药偷你的选票。」Graves回击道：「偶好怕怕哦！！偶在泥老巢干翻泥全家！！！！」这场辩论很快就转向了对对方性能力进行嘲讽和侮辱。孤独的青少年在自家卧室里惊恐地围观了全程。
 
 ;0xC6248CB8=Samantha Muldoon has changed her religion 3 times in the last week.  She converted to Buddhism on a four-day trip to India but then realized on her return to the US that Kabbalah was a far more relevant faith and switched two days later.  However, she issued a press release yesterday to say that, following a visit from a sinister man in the dead of the night, she is now dedicating her life and, one would imagine, most of her money to the worship of Epsilon.  Is this the beginning of a breakdown?  Is the failure of her 20-minute marriage to Kirk Simplex taking its toll?  Is this news?  I'm just not sure any more...
-0xC6248CB8=Samantha Muldoon在上周短短的七天之内变更了三次信仰。她在印度为期四天的旅行中皈依了佛教，两天前当她回到美国时，她意识到犹太教才是正宗的信仰。然而，在昨日她发布的新闻稿则宣称，在一名凶恶的男子深夜造访之后，她现在将她的生命，以及，全部的财产，统统献给了埃普西隆邪教。这会是她崩溃的起点吗？这是她与Kirk Simplex短短二十分钟的失败婚姻酿成的后果吗？这算是新闻吗？我不知道...
-
-;0xCDFA22FC=- BREAKING NEWS: Straight backatcha biatch!!!
-0xCDFA22FC=-号外：绝对意义上的婊婊婊婊婊子！！！
-
-;0xC07AC222=- Waning with the Stars Shocker!!!
-0xC07AC222=-和星光一起黯淡！！！
-
-;0x9F517180=- Shortage of British judges for US talent shows
-0x9F517180=-美国达人秀急缺英国评委
-
-;0x62D823FE=- Fat Bitch!
-0x62D823FE=-肥婊子！
-
-;0xD0EF5848=- To Brucie Kibbutz
-0xD0EF5848=-致Brucie Kibbutz
-
-;0x24775D88=- Pete - what kind of name is that for a famous kid?
-0x24775D88=-Pete - 对名人之子来说这算个几把名字？
-
-;0x8FF4EE11=- governor race takes to the chatrooms
-0x8FF4EE11=-政治竞赛遇上在线聊天室
-
-;0x9AF90357=- Muldoon 'finds religion' 3 times in a week!!!
-0x9AF90357=-Muldoon一周皈依三次！！！
+0xC6248CB8=Samantha Muldoon在上周短短的七天之内变更了三次信仰。她在为期四天的印度之旅中皈依了佛教，之后又觉得犹太人的神秘哲学更有意义，在回到美国的两天以后改信卡巴拉教。然而，她在昨日发布的新闻稿中宣布，一名凶恶的男子深夜造访之后，她决定将她的一生以及全部的财产统统献给埃普西隆。这会是她崩溃的起点吗？这是她与Kirk Simplex短短二十分钟的失败婚姻酿成的后果吗？这算是新闻吗？我彻底糊涂了...
 

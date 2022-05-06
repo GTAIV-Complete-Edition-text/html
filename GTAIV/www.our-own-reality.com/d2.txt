@@ -1,81 +1,51 @@
-;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
-0xE773CCA2=搞臭你心爱的明星！八卦、蜚语、丑闻、
-
-;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
-0x5E1A6427=分手、崩溃、争吵...以及一切我们可以偷拍到的秘密！
-
-;0xE1EA4C81=Tyrone 'The Tower' Hancock just can't stop screwing up and we love him for it.  A basketball legend during the 1980's with the Liberty Penetrators, he has spent the last 20 years making headlines off the court for all the wrong reasons.  His battle with drugs and alcohol has been so well-publicized for so long that it is now almost impossible to imagine news without it.  'The Leaning Tower' was arrested by police in Liberty City's Middle Park early this morning for drunken behavior that culminated with him french-kissing a homeless man.  "It's all a blur." Hancock told reporters at the scene, "One minute, I was in a nightclub with a chick named Gloria, the next thing I know, it's daylight and I'm dry-humping a toothless bum on a park bench and slapping him in the face for the rest of his Burger Shot he went dumpster diving for.  I'll be honest with you - it's a bit of a low point.  I just hope my wife can forgive me."  To buy a pair of Eris Hancocks or for more exceptional footwear at unbeatable prices, please visit 
-0xE1EA4C81=巨塔Tyrone Hancock总是在不遗余力的搞砸一切事情，当然这也是为什么我们会这么爱他。作为八十年代自由穿透者队的传奇男篮选手，过去的二十年他总是因为各种破事而不停荣登场外头条新闻之首。他与毒品和酒精的斗争已经广为人知，现在人们甚至无法想象新闻内容里没了他将会怎样。这座摇摇欲坠的巨塔今早因醉酒后舌吻一名流浪汉而在自由城中央公园被警方逮捕。“我喝醉了。”Hancock在现场对记者说道，“上一秒我还在夜店里搂着一个叫Gloria的小妞，下一秒天已经亮了，而我在公园长椅上干了一个牙都掉光了的流浪汉，接着用他把垃圾堆翻个底朝天才翻出来的半个汉堡扇了他妈一耳光。我老实跟你说，我现在好像真的处在低谷期。我只希望我老婆能原谅我。”要以牛逼哄哄的价格购买一双Eris Hancocks或是其他更牛逼的鞋子，敬请访问
+﻿;0xE1EA4C81=Tyrone 'The Tower' Hancock just can't stop screwing up and we love him for it.  A basketball legend during the 1980's with the Liberty Penetrators, he has spent the last 20 years making headlines off the court for all the wrong reasons.  His battle with drugs and alcohol has been so well-publicized for so long that it is now almost impossible to imagine news without it.  'The Leaning Tower' was arrested by police in Liberty City's Middle Park early this morning for drunken behavior that culminated with him french-kissing a homeless man.  "It's all a blur." Hancock told reporters at the scene, "One minute, I was in a nightclub with a chick named Gloria, the next thing I know, it's daylight and I'm dry-humping a toothless bum on a park bench and slapping him in the face for the rest of his Burger Shot he went dumpster diving for.  I'll be honest with you - it's a bit of a low point.  I just hope my wife can forgive me."  To buy a pair of Eris Hancocks or for more exceptional footwear at unbeatable prices, please visit 
+0xE1EA4C81=高塔Tyrone Hancock总会捅出什么篓子，而这也是我们爱他的原因。作为八十年代自由城透人队的传奇球员，他在过去的二十年中因为球场之外的坏事频繁登上新闻头条。他与毒品和酒精的斗争已经广为人知，人们看到关于他的新闻就会想到这些。今早「斜塔」因醉酒后舌吻一名流浪汉在自由城的中心公园被警方逮捕。「恍恍惚惚的。」Hancock在现场告诉记者，「上一秒我还在夜店里，搂着一个叫Gloria的小妞，下一秒天就亮了，而我在公园长椅上和一个牙都掉光了的流浪汉摩擦亲热，然后又扇了他一耳光，把他从垃圾堆里翻出来的半个汉堡抢了过来。说句实话，这样的行为确实太过分了。希望老婆还能原谅我。」要以势不可挡的价格购买一双Eris Hancock战靴或其他优质鞋子，敬请访问
 
 ;0xB4A605E3=www.erisfootware.com
 0xB4A605E3=www.erisfootware.com
 
 ;0xEA957E07=Some days, you don't know why you put yourself through four years of journalism school.  Then, you remember all the times you've gotten pregnant and it becomes clear.  Cloe Parker and Jill Von Crastenburg fell out and made up no less than FIVE TIMES on a booze-fueled, pantyless romp through Liberty City's hottest nightclubs and our photographers were there to snap it all in high-res.  Here is the timeline so that you can play it over in your mind:
-0xEA957E07=有些时候，你会不知道自己为什么要在大学的新闻专业空耗四年的光阴。然后，你会记起所有新闻业给你带来欲仙欲死的高潮时刻，于是答案便不言自明了。Cloe Parker和Jill Von Crastenburg在自由城最火爆的夜店里大喝特喝，不穿内裤追逐打闹时起码摔翻了五！次！我们的摄影师正好在场并以高清无码的格式记录下了每一个瞬间。我们将时间线梳理好放在下面，以便您能够在自己的大脑里演个小剧场：
+0xEA957E07=有些时候，你会疑惑自己为什么要在大学的新闻专业浪费四年。然后，你会想起四年中的每次怀孕，答案便不言自明了。Cloe Parker和Jill Von Crastenburg在自由城最火爆的夜店里大喝特喝，在这场不穿内裤的狂欢中，两人闹掰又和好了不下五次！我们的摄影师正好在场，用高清照片记录下了每一个瞬间。以下是梳理好的时间线，方便你在脑海中上演小剧场：
 
 ;0x5B0D9A68=11:16 PM - Limo pulls up at celebrity hangout, Maisonette 9.
-0x5B0D9A68=晚上11:16 - 豪车停在了上流人士聚会场所，9号豪宅。
+0x5B0D9A68=晚上 11:16 - 豪车停在了名人的聚集地，9号豪宅。
 
 ;0x15CEDF18=11:19 PM - Parker and Crastenburg fall out of limo and roll on the sidewalk while paparazzi take crotch shots.
-0x15CEDF18=晚上11:19 - Parker和Crastenburg从车上摔下来滚到人行道上，狗仔队紧随在侧对着两人裆部猛拍。
+0x15CEDF18=晚上 11:19 - Parker和Crastenburg从车上摔了下来，滚到人行道上，狗仔队对着裙底猛拍。
 
 ;0x7C189864=11:20 PM - Parker and Crastenburg call each other 'crackhead sluts' and storm off in different directions.
-0x7C189864=晚上11:20 - Parker和Crastenburg互称对方是‘嗑药嗑傻了的婊子’跌跌爬爬走错方向。
+0x7C189864=晚上 11:20 - Parker和Crastenburg互称对方是「嗑药嗑傻了的婊子」，两人朝着不同方向愤怒地离开。
 
 ;0xE593A461=11:23 PM - Parker and Crastenburg have a tearful hug and tongue-kiss for photos before entering Maisonette 9.
-0xE593A461=晚上11:23 - Parker and Crastenburg在进入9号豪宅前对着镜头含泪相拥并舌吻。
+0xE593A461=晚上 11:23 - Parker和Crastenburg在9号豪宅门口对着镜头含泪相拥、舌吻。
 
 ;0xA782E81E=11:30 PM - Parker tears out a handful of hair from Crastenburg's head for saying hello to her ex-boyfriend.
-0xA782E81E=晚上11:30 - Parker忘了手里还抓着Crastenburg的头发就和前男友打招呼，从Crastenburg头上揪下一把头发。
+0xA782E81E=晚上 11:30 - Crastenburg向Parker的前男友打了声招呼，Parker为此扯下了一把Crastenburg的头发。
 
 ;0xF9B33E4D=11:43 PM - Parker and Crastenburg cry and tell each other that they're hot while grinding asses.
-0xF9B33E4D=晚上11:43 - Parker和Crastenburg在磨屁股的时候哭喊着告诉对方自己的屁股好烫。
+0xF9B33E4D=晚上 11:43 - Parker和Crastenburg在磨屁股的时候哭喊着夸对方的屁股性感。
 
 ;0xF7012380=11:56 PM - Crastenburg eye-gouges Parker, throws a glass of urine at her and calls her a 'backstabbing bitch'.
-0xF7012380=晚上11:56 - Crastenburg戳Parker的眼睛，向她身上泼了一杯尿并称她为‘背后捅刀子的婊子’。
+0xF7012380=晚上 11:56 - Crastenburg戳了Parker的眼睛，向她身上泼了一杯尿，称她为「背后捅刀子的婊子」。
 
 ;0x7755E2C1=12:07 AM - Crastenburg and Parker do shots, lines of coke and then grind on the bar together in a game we'll call "stinky pinky."
-0x7755E2C1=凌晨00:07 - Crastenburg和Parker疯狂喝酒嗑药，然后双双扭动着跳上吧台玩起了“臭臭小拇指”的互摸游戏。
+0x7755E2C1=凌晨 00:07 - Crastenburg和Parker疯狂喝酒嗑药，一起扭动着跳上吧台，玩起了「臭臭小拇指」的互扣游戏。
 
 ;0x5112BCC3=12:12 AM - Parker smashes a bottle over Crastenburg's head when she realizes that they are wearing the same ankle bracelet.
-0x5112BCC3=凌晨00:12 - 当发现两人戴着同款脚链时，Parker拎起酒瓶就给Crastenburg开了瓢。
+0x5112BCC3=凌晨 00:12 - 发现后，两人戴着同款脚链Parker抄起酒瓶就给Crastenburg开了瓢。
 
 ;0xB8FAE1AD=12:24 AM - Parker and Crastenburg smoke a cigarette together and make out on the dancefloor.
-0xB8FAE1AD=凌晨00:24 - Parker和Crastenburg共同抽完一支烟之后两人在舞池中央开始做爱。
+0xB8FAE1AD=凌晨 00:24 - Parker和Crastenburg一起抽了支烟，在舞池中央开始深吻。
 
 ;0xAC0DDD89=12:37 AM - Crastenburg cuts Parker's bra strap with a pocket knife for no apparent reason.
-0xAC0DDD89=凌晨00:37 - Crastenburg毫无预兆的用随身带的小刀割断了Parker胸罩的吊带。
+0xAC0DDD89=凌晨 00:37 - Crastenburg毫无预兆的用小刀割断了Parker胸罩的肩带。
 
 ;0x3F1E1DAC=12:56 AM - Crastenburg and Parker sashay out of Maisonette 9 arm-in-arm, confess their undying love for one another and pose for more photos before falling back into the limo.
-0x3F1E1DAC=凌晨00:56 - Crastenburg和Parker手挽手地从9号豪宅中步履蹒跚着走出来，口中念叨着她们对彼此永恒的爱意，并在摔回豪车之前搔首弄姿对着狗仔的镜头拍了更多照片。
-
+0x3F1E1DAC=凌晨 00:56 - Crastenburg和Parker手牵着手，大步流星地从9号豪宅中走了出来，口中念叨着对彼此永恒的爱意，在摔回豪车之前还不忘对着狗仔队的镜头搔首弄姿。
 
 ;0xE7BC9872=1:15 AM - Both girls vomit on each other. 
-0xE7BC9872=凌晨1:15 - 两个女孩吐在了对方身上。
+0xE7BC9872=凌晨 01:15 - 两个女孩吐在了对方身上。
 
 ;0x34A7EF21=meTV has already approached the two heiresses with a proposal to turn their feuding friendship into a reality TV show.
-0x34A7EF21=meTV栏目组已经与两位女继承人取得了联系，提议将他们的吵吵闹闹的友谊变成真人秀节目。
+0x34A7EF21=meTV栏目组联系了这两位富家女，提议将她们的吵吵闹闹的友谊变成真人秀节目。
 
-;0xC0689418=- BREAKING NEWS: McIntosh goes for a drive-thru!!!
-0xC0689418=-号外：McIntosh驾车勇往直前！！！
-
-;0xBEBCA651=- Furries bored of doggie style
-0xBEBCA651=-福瑞控们厌倦了后入式
-
-;0xD504AEA5=- 'The Tower' makes out with a hobo!
-0xD504AEA5=-‘巨塔’操了流浪汉！
-
-;0x3FAE7853=- Parker & Von Crastenburg catfight!!!
-0x3FAE7853=-Parker大战Von Crastenburg！！！
-
-;0x86D69994=- English 'ladette' takes dump outside nightclub
-0x86D69994=-英国女星夜店醉酒后当街拉屎
-
-;0xA05D3F64=- JNV's EXTREME WEIGHT LOSS!!!
-0xA05D3F64=-JNV爆瘦！！！
-
-;0x6A4900AD=- Another castle for the investment king
-0x6A4900AD=-投资皇帝的又一座宫殿
-
-;0xD428CDD7=- Weazel to launch war channel
-0xD428CDD7=-Weazel网将上线战争频道

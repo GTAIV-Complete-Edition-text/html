@@ -1,33 +1,6 @@
-;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
-0xE773CCA2=搞臭你心爱的明星！八卦、蜚语、丑闻、
-
-;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
-0x5E1A6427=分手、崩溃、争吵...以及一切我们可以偷拍到的秘密！
-
 ;0x96D49E01=Cloe Parker's reviled fiancé, Tyler Dixon, was spotted today GETTING A HAIRCUT in downtown Los Santos and, after a tip-off from one of our many inside sources, we had a team of photographers on the scene to capture this unbelievable piece of news on film.  Ty-Di asked for about two inches to be taken off the bottom of his trademark pony-tail and walked out looking exactly the same.  You'll remember where you were when you heard this - sitting alone in front of a computer with an empty life.
-0x96D49E01=Cloe Parker那受辱的未婚夫Tyler Dixon，今日被目击者发现在洛圣都商圈剪！头！发！了！经我们众多内部人员中某人报告之后，摄影团队在现场捕捉到了这个令人难以置信的新闻。Ty-Di要求把自己标志性的马尾辫剪短两英寸，剪完之后像个没事人一样走出理发店，样子看起来和他进去之前几乎完全一样。当你看到这个的时候你将会牢牢记住自己在哪 —— 独自坐在电脑前，耗费着空虚的一生。
+0x96D49E01=Cloe Parker那没出息的未婚夫Tyler Dixon今日被人发现在洛圣都商圈剪！头！发！了！根据我们安插的眼线提供的情报，摄影团队在现场抓拍到了这个令人难以置信的新闻。Ty-Di要求把自己标志性的马尾辫剪短五厘米，剪完出来后的样子和他进去之前几乎一模一样。你一定不会忘记看到这条新闻的时候自己在哪——独自坐在电脑面前虚度人生。
 
 ;0xD2AA9E27=It's tough at the top, especially when the top is five feet high.  The pint-sized playboy, Tony McTony, courts his fair share of controversy, but he was the one in court today facing charges of domestic violence.  Suzie Stickleman, an exotic dancer who works at The Triangle stripclub in Bohan, Liberty City, claims that the vertically-challenged billionaire beat her with an iron fist while they were making love.  McTony's sentence was reduced to three days of community service after a string of ex-girlfriends took to the stand and testified that "they had it coming to them."  Keep your eyes out for a diminutive roadsweeper over the next couple of weeks!!!
-0xD2AA9E27=站在山巅是很难的，尤其是这座山巅有足足五英尺高的时候。五短身材的花花公子，Tony McTony，不停上法庭起诉这起诉那，这一回却是以被控告家庭暴力的身份出现在法庭之上。Suzie Stickleman，一名在自由城Bohan区Triangle脱衣舞俱乐部工作的异域舞娘，指控这位挑战人类身高极限的亿万富翁在两人做爱的时候用藏在枕头下的铁拳殴打她。在他的一票前女友也都纷纷站出来作证说她们都有相同的经历之后，McTony被成功减刑为三天社区服务。在接下来的几周里，请留意矮子专用迷你扫路车！！！
-
-;0x09ED52CA=- BREAKING NEWS: Bryce Dawkins - You got MALE!!!
-0x09ED52CA=-号外：Bryce Dawkins - 你搞了个男人！！！
-
-;0xB87A0552=- Samantha Muldoon buys another baby!
-0xB87A0552=-Samantha Muldoon又买了一个婴儿！
-
-;0xC7E658D4=- Shear Lunacy!
-0xC7E658D4=-疯狂剪发！
-
-;0x391868C4=- McTony: A microscopic maniac!!!
-0x391868C4=-McTony：超微型疯子一个
-
-;0x779E01C9=- 'Like' voted word of the year!
-0x779E01C9=-‘喜欢’当选年度词汇！
-
-;0x9112632A=- POPPING boffo box office
-0x9112632A=-POPPING票房领跑
-
-;0x10CCF982=- More Madness From McIntosh!!!
-0x10CCF982=-McIntosh走火入魔！！！
+0xD2AA9E27=高处不胜寒，特别是在高处只有不到一米六的时候。五短身材的花花公子Tony McTony不停上法庭告这告那，这回却以被被告的身份出现在裁决家庭暴力的法庭之上。Suzie Stickleman，一名在自由城Bohan区Triangle脱衣舞俱乐部工作的异域舞娘，指控这位挑战人类身高极限的亿万富翁在做爱的时候用藏在枕头下的铁拳殴打她。在他的一票前女友纷纷站出来作证，说她们都有相同的经历之后，McTony被成功减刑为三天社区服务。在接下来的几周里，请留意矮子专用迷你扫路车！！！
 

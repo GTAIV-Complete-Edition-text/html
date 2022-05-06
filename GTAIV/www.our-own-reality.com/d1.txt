@@ -1,35 +1,29 @@
-;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
-0xE773CCA2=搞臭你心爱的明星！八卦、蜚语、丑闻、
-
-;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
-0x5E1A6427=分手、崩溃、争吵...以及一切我们可以偷拍到的秘密！
-
-;0x6B96C3A8=What an incredible day for news this is turning out to be.  Kerry McIntosh cut short her 4-day rehab program last night and embarked on a one-woman drugs and booze bender that ended in catastrophe when she crashed her car through the front window of a Wigwam Burger restaurant.  Sources close to the model told us that, after three days of pampering at the $20,000-a-night treatment center in Los Santos, she felt confident that she had conquered her addictions and was ready to get back on the party circuit.  Despite police reports that she was nine times over the legal alcohol limit and tested positive for cocaine, heroin, methamphetamine, and halitosis, McIntosh remains adamant that she only had one glass of wine, a stool softener and a sleeping pill.  "That's our story and we're sticking to it," said her agent who also confirmed that McIntosh is currently on her way to another luxury rehab resort, this time in space.  America loves nothing more than to watch a celebrity unravel under the media microscope and Kerry McIntosh seems determined not to disappoint her fans.  The McIntosh Meltdown is shaping up to be one of the most important stories of the year and we promise to rehash every detail with excruciating monotony over the coming days.
-0x6B96C3A8=对于新闻界来说，今天多么令人难以置信的一天。Kerry McIntosh昨晚缩短了她原定四天的康复计划，并用单身疯狂吸毒夜取而代之，这场闹剧最终以她的车一头扎进Wigwam Burger餐厅的前窗收场。了解这名女模特的消息人士告诉我们，在洛圣都每晚两万美元的治疗中心享受了三天的呵护之后，她有自信已经克服了毒瘾并已准备好重返无尽的狂欢派对中。尽管警方的报告显示她体内酒精含量超过法定限度的9倍，且可卡因、海洛因、甲基安非他命以及口臭试验均呈阳性反应，McIntosh始终坚称她只喝了一杯小酒、服用了大便软化剂以及一片安眠药。“这就是我们的行事风格，我们也会一如既往的坚持下去。”她的经纪人说道，她还证实了McIntosh目前正在前往另一家康复疗养院的路上，这一次地点是在外太空中。美国民众对媒体用手里的显微镜肢解名人的场景爱到骨子里，而Kerry McIntosh看起来好像并不打算让她的粉丝们失望。“McIntosh倒大霉”有望成为今年的头号热门话题，因此我们承诺将会在接下来的日子用绝对单调的嗓音翻来覆去重复这场事件中的每一个细枝末节。
+﻿;0x6B96C3A8=What an incredible day for news this is turning out to be.  Kerry McIntosh cut short her 4-day rehab program last night and embarked on a one-woman drugs and booze bender that ended in catastrophe when she crashed her car through the front window of a Wigwam Burger restaurant.  Sources close to the model told us that, after three days of pampering at the $20,000-a-night treatment center in Los Santos, she felt confident that she had conquered her addictions and was ready to get back on the party circuit.  Despite police reports that she was nine times over the legal alcohol limit and tested positive for cocaine, heroin, methamphetamine, and halitosis, McIntosh remains adamant that she only had one glass of wine, a stool softener and a sleeping pill.  "That's our story and we're sticking to it," said her agent who also confirmed that McIntosh is currently on her way to another luxury rehab resort, this time in space.  America loves nothing more than to watch a celebrity unravel under the media microscope and Kerry McIntosh seems determined not to disappoint her fans.  The McIntosh Meltdown is shaping up to be one of the most important stories of the year and we promise to rehash every detail with excruciating monotony over the coming days.
+0x6B96C3A8=对于新闻界来说，今天多么令人难以置信的一天。Kerry McIntosh昨晚提前结束了原定四天的康复计划，在毒品和酒水中独享到场男性狂欢了一夜，最终开着车一头扎进了Wigwam汉堡店的橱窗。这名女模特的亲友告诉我们，在洛圣都每晚两万美元的治疗中心享受了三天呵护之后，McIntosh相信自己已经克服了毒瘾，时刻都能回到无尽的派对狂欢当中。尽管警方的报告显示她的血液酒精浓度超过酒驾标准的9倍，且可卡因、海洛因、冰毒以及口臭试验均呈阳性反应，McIntosh依然坚持自己只喝了一杯小酒、服用了一片大便软化剂和一粒安眠药。「这就是我们的主张，坚决不改。」她的经纪人说道。经纪人还证实了McIntosh目前正在前往另一家豪华康复戒毒中心的路上，这一次是在外太空。美国民众最爱看的就是媒体用显微镜肢解名人，而Kerry McIntosh似乎也不会让她的粉丝失望。「McIntosh塌房」有望成为今年的头号热门话题，我们也会在接下来的几天不断发稿，翻炒相关事件中的每一个细节。
 
 ;0x615C74FE=Fierce debate has been raging among the furry community regarding acceptable sexual positions.  Long-term furries are keen to find ways to spice up their sex life while remaining as true as possible to anthropomorphic realism.  Some traditionalists, however, are outraged.  "How many bunny rabbits do you see going at it in the reverse cowgirl?" said one 37-year-old otter.  We'd like to see pics.
-0x615C74FE=福瑞社区论坛就可接受的性爱体位展开了激烈的辩论。老福瑞控们热衷于给自己性生活增添些趣味的同时尽可能保留一些拟人化的现实主义。然而，福瑞控中的保守派则被彻底激怒了，“你见过多少兔兔是用女上位操来操去的？”37岁的化名为水獭的网友如是说道。我们还挺想看看照片的。
+0x615C74FE=兽控社区就可接受的性爱体位展开了激烈的辩论。一些兽控老人倾向给自己性生活增添趣味，同时尽可能保留一些拟人化的真实细节。然而，兽控中的原教旨主义者则被彻底激怒了，「你见过用女上位交配的兔兔吗？」37岁的水獭如是说道。我们还挺想看看照片的。
 
 ;0xC0689418=- BREAKING NEWS: McIntosh goes for a drive-thru!!!
-0xC0689418=-号外：McIntosh驾车勇往直前！！！
+0xC0689418=－号外：McIntosh翻车了！！！
 
 ;0xBEBCA651=- Furries bored of doggie style
-0xBEBCA651=-福瑞控们厌倦了后入式
+0xBEBCA651=－兽控厌倦了后入式
 
 ;0xD504AEA5=- 'The Tower' makes out with a hobo!
-0xD504AEA5=-‘巨塔’操了流浪汉！
+0xD504AEA5=－「高塔」操了流浪汉！
 
 ;0x3FAE7853=- Parker & Von Crastenburg catfight!!!
-0x3FAE7853=-Parker大战Von Crastenburg！！！
+0x3FAE7853=－Parker大战Von Crastenburg！！！
 
 ;0x86D69994=- English 'ladette' takes dump outside nightclub
-0x86D69994=-英国女星夜店醉酒后当街拉屎
+0x86D69994=－英国女星夜店醉酒后当街拉屎
 
 ;0xA05D3F64=- JNV's EXTREME WEIGHT LOSS!!!
-0xA05D3F64=-JNV爆瘦！！！
+0xA05D3F64=－JNV爆瘦！！！
 
 ;0x6A4900AD=- Another castle for the investment king
-0x6A4900AD=-投资皇帝的又一座宫殿
+0x6A4900AD=－投资皇帝的又一座宫殿
 
 ;0xD428CDD7=- Weazel to launch war channel
-0xD428CDD7=-Weazel网将上线战争频道
+0xD428CDD7=－Weazel推出战争频道
