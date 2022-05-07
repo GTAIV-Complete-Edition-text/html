@@ -35,7 +35,7 @@
 0xC3BF3D6D=教育自己
 
 ;0x8BE296E4=When people started getting tubes in their throats, the left-wing loons started getting chips on their shoulders and blaming cigarettes for everything from global warming to the spread of soccer in the US.  Learn about the potential, inconclusive dangers of smoking on 
-0x8BE296E4=当人们在喉咙里插上管子，左翼蠢人开始在肩上植入芯片，将从全球变暖到足球盛行的一切问题都归罪于香烟，学习一下抽烟造成的尚无定论的潜在风险吧：
+0x8BE296E4=人们在喉咙里插上管子，左翼蠢人开始破口大骂，将从全球变暖到足球盛行的一切问题都归罪于香烟，学习一下抽烟造成的尚无定论的潜在风险吧：
 
 ;0xF51A07ED=www.tobaccofacts.net
 0xF51A07ED=

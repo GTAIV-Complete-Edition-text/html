@@ -74,7 +74,7 @@
 0xAFEF6C34=
 
 ;0x050934A3=Eunux user group?
-0x050934A3=Eunux用户群？
+0x050934A3=Eunux 用户群？
 
 ;0xD54B9E07= (Rotterdam Hill)
 0xD54B9E07=

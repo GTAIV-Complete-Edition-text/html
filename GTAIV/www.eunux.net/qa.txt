@@ -20,7 +20,7 @@
 0x418CE9C2=我还是更喜欢 To$$ OS！
 
 ;0x77439AD5=You.  Are.  A.   Retarded.  Noob.  To$$ OS is a lie.  A worldwide lie.  And the sooner you come to grips with the  fact that you've been OWN3D the sooner you will be on the path to  redemption.   
-0x77439AD5=你。是。弱。智。菜鸡。To$$ OS 是个骗局，骗了全世界的人。早日认清自己被人控制的事实，早日获得救赎。
+0x77439AD5=你。是。弱。智。菜鸡。To$$ OS 是个骗局，骗了全世界的人。早日认清自己被人控制的真相，早日获得救赎。
 
 ;0x04A86F2E=Why haven't I heard  of Eunux?
 0x04A86F2E=我怎么没听说过 Eunux？
@@ -143,7 +143,7 @@
 0xF9D69181=操你妈！我们的吉祥物很有意思！
 
 ;0x4B33DC25=Do you find it fun wondering whether every email is going to corrupt your system?  Do you like playing with worms and spreading them to all your friends?  To$$ OS is responsible for all known viruses including Bird Flu, SARS and Ebola. Virus writers do not want to touch Eunux which means it is immune to annoying spyware.  Do you get turned on by total strangers fucking in your hard drive?    
-0x4B33DC25=你们是不是觉得读封邮件都有可能崩溃的系统很有趣？你们是不是很喜欢电脑中毒，还要发给自己的朋友？To$$ OS 是所有已知病毒的幕后黑手，包括禽流感、非典和埃博拉。病毒制造者都不想碰 Eunux 说明这个系统免疫间谍程序。自己的硬盘被压根不认识的人乱搞的时候你们是不是很兴奋？
+0x4B33DC25=你们是不是觉得读封邮件都有可能崩溃的系统很有意思？你们是不是很喜欢电脑中毒，还要发给自己的朋友？To$$ OS 是所有已知病毒的幕后黑手，包括禽流感、非典和埃博拉。病毒制造者都不想碰 Eunux 说明这个系统免疫间谍程序。自己的硬盘被压根不认识的人乱搞的时候你们是不是很兴奋？
 
 ;0xABD04818=Do you get turned on by  thousands of total strangers playing with your source code?
 0xABD04818=自己的源码被几千几万个压根不认识的人乱搞的时候你们是不是很兴奋？
@@ -191,7 +191,7 @@
 0x265CDB94=怎么没办法安装新硬件？比如打印机。
 
 ;0x98D5F9FF=A printer?!  Paper is  dead.  IM fool!
-0x98D5F9FF=打印机？！纸片已死。给我用IM软件，蠢蛋！
+0x98D5F9FF=打印机？！纸片已死。给我用 IM 软件，蠢蛋！
 
 ;0xBA690408=Why is everything on  Eunux so ugly?
 0xBA690408=为什么 Eunux 上的所有东西都很丑？
@@ -293,10 +293,10 @@
 0xAC32B684=这么暴躁干嘛？
 
 ;0x2C6FFE9D=I'm twelve - give me a fucking break!
-0x2C6FFE9D=我12岁，别鸡巴烦我了！
+0x2C6FFE9D=我 12 岁，别鸡巴烦我了！
 
 ;0x88DBC1F9=If I have already  bought or stolen To$$ OS, why on earth would I want to switch to Eunux when I  need graduate-level programming experience to install anything, my modem won't  work, it's slow, WiFi doesn't work well, DTP and CAD are non-existent, the file  manager is shit, the interface sucks, I can't edit photos, I can't play games,  movies or music, there's no tech support etc. etc. etc...?
-0x88DBC1F9=如果我已经买了或者偷了 To$$ OS，到底有什么必要换成 Eunux？想用 Eunux 的话，需要有专门学过的编程经验才能安装东西，猫也用不了，很慢，WiFi也不好使，更没有桌面排版软件和计算机制图软件，文件管理器也很烂，界面也很难看，不能修图，更不能玩游戏、看电影、听音乐，还没有售后服务... ？
+0x88DBC1F9=如果我已经买了或者偷了 To$$ OS，到底有什么必要换成 Eunux？想用 Eunux 的话，需要有专门学过的编程经验才能安装东西，猫也用不了，很慢，WiFi 也不好使，更没有桌面排版软件和计算机制图软件，文件管理器也很烂，界面也很难看，不能修图，更不能玩游戏、看电影、听音乐，还没有售后服务... ？
 
 ;0xC36E597A=My operating system is mine, not created and controlled by a  monstrous corporation. It's MINE. IT'S MINE!!!!  I'm fucking hax0r! I'm one 133t  dude!! 
 0xC36E597A=我用的操作系统是自己的，不是哪家怪物企业制造控制的。它是我的东西。是！我！的！！！！老子是 hax0r！老子是精英好吗！！
