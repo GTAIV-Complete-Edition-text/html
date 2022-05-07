@@ -1,5 +1,5 @@
 ﻿;0x64B6773F=Let us break this down for you: if you consume more calories than you can burn off, you put on weight. You are fat because you have no self-control, fat-ass. Nobody said that you are supposed to eat it every day! Oh wait, we did! If you spent the last five years eating all your meals at Burger Shot and now weigh 400 pounds, don't try to throw it back in our face. Why aren't all the drunks suing Wife Beater gin or Jakey's lager? Do you want us to start saying to customers, "I think that you've had enough fries for one day, buddy." You have all had it too easy for too long. When your idea of a workout is trying to tip your burger tray into an over-sized trashcan without the lid flapping shut and covering you in gherkin mulch, you probably need to take a look at your lifestyle choices. Why do you think that we stopped filling your drinks for you? Why do you think that we now throw an empty cup in your face and scowl in the direction of a disease-ridden soda dispenser? Get some exercise! Enough of the 'Burger Shot made me fat' lawsuits! You will never win - we have more litigators than you have had fresh vegetables.
-0x64B6773F=我们给你分析一下吧：如果你摄入太多的热量无法消化，你就会变胖。你变胖是因为你没有自控力，你个死胖子。谁告诉你每天都要吃快餐的？哦，好像是我们。要是这五年内你天天光顾吃得饱汉堡，搞得现在体重300斤，那也不要来怪我们。你有见过那帮酒鬼去法庭告Wife Beater gin和Jakey's lager两家公司的吗？你是不是想让我们说「兄弟，你今天吃太多薯条了」？你真是不知好歹。当你觉得所谓锻炼身体就是吃酸黄瓜和把餐盘放到垃圾桶里，还懒得盖盖子，你就得好好审视一下自己的生活方式了。你想想为什么我们不帮你打饮料，而是把杯子丢给你，让你自己去打？动起来吧！别再去法庭上告我们，说「吃得饱汉堡把我弄胖了」！你赢不了的！我们的律师比你吃过的青菜还多。
+0x64B6773F=我们给你分析一下吧：如果摄入的热量过多无法消化，你就会变胖。会变胖是因为你没有自控力，死胖子。谁告诉你每天都要吃快餐的？哦，好像是我们。要是你这五年天天光顾吃得饱汉堡，搞得现在体重360斤，那也不要来怪我们。你有见过那帮酒鬼去法庭告Wife Beater琴酒和Jakey拉格啤酒两家公司的吗？你是不是想让我们告诉顾客「兄弟，你今天吃太多薯条了」？你们真是不知好歹。如果觉得所谓锻炼身体就是把餐盘倒到垃圾桶里，一边防着盖子突然合上、酸黄瓜掉到身上，那你可得好好审视一下自己的生活方式了。想想为什么我们不帮你打饮料，而是把杯子丢给你，让你自己去打吧？动起来吧！别再去法庭上告我们，说「吃得饱汉堡把我弄胖了」！你赢不了的！我们的律师比你吃过的青菜还多。
 
 ;0x787211FA=Also, while you are at it:
 0x787211FA=还有下面这些：
@@ -20,7 +20,7 @@
 0x08A55FE5=不要
 
 ;0xA08B617D=telling us how much better the fries are at Wigwam Burger.
-0xA08B617D=和我们说Wigwam Burger家的薯条有多好吃。
+0xA08B617D=和我们说隔壁Wigwam汉堡的薯条有多好吃。
 
 ;0x08A55FE5=STOP
 0x08A55FE5=不要
@@ -32,8 +32,8 @@
 0x08A55FE5=不要
 
 ;0x899D1ADD=spreading urban myths about battered cysts and rats' heads (or at least direct them at Cluckin' Bell).
-0x899D1ADD=传我们的菜里有脓包和死老鼠的头了（传成是铛铛钟炸鸡的可以）。
+0x899D1ADD=传我们的菜里有脓包和死老鼠的头了 (传成是铛铛钟炸鸡的可以)。
 
 ;0x6F3CA1C2=Maybe then, and only then, we will stop charging you for extra sauce.
-0x6F3CA1C2=可能，也只能这么做，我们才不会收取额外的酱料费。
+0x6F3CA1C2=可能只有你们哪天不做这些事了，我们才会免费提供额外的酱料包。
 
