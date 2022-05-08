@@ -17,7 +17,7 @@
 0x75596030=
 
 ;0xDB270FA8=REPORTS
-0xDB270FA8=
+0xDB270FA8=新闻报道
 
 ;0xA6DF84F7=This material may not be published, broadcast, rewritten, or redistributed.
 0xA6DF84F7=

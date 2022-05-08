@@ -35,7 +35,7 @@
 0x558679D5=$750 出租避难室
 
 ;0x31FEEC7B= (Downtown Broker) 
-0x31FEEC7B=
+0x31FEEC7B= (Broker中心区)
 
 ;0x13F3B8C4=$2600 / 1BR - Really shitty apartment with hot neighbors
 0x13F3B8C4=$2600 / 独卧 - 公寓很烂，邻居很烧

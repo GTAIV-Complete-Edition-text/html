@@ -2,7 +2,7 @@
 0x51E27725=吃得饱汉堡招人啦！！
 
 ;0x7A0D3C76=High school dropouts, crack moms, migrant workers, fine art graduates, parolees, YOU! Calling all disadvantaged groups! Work for Burger Shot! We will employ you when nobody else will! We even hire people rejected by Wigwam Burger. All work is part-time and we do not pay overtime. Most employees last about three weeks. If you make it past a month, we will promote you to Service Expert (no pay raise). We will give you some nominal training, like how to over-salt food so that people buy more drinks. After all, we don't want to lose our federal tax breaks. To find out more about what it's like to work for one of the biggest companies in the world, visit 
-0x7A0D3C76=高中辍学、吸毒妈妈、进城打工、美术生、缓刑犯、你！接收一切弱势群体！来吃得饱汉堡上班吧！别人不雇我们雇！Wigwam汉堡店不要的人我们也要。所有岗位都是兼职，加班不给钱。大多数员工干了三周就跑了。如果你能干够一个月，我们会升你为服务专家(无提薪)。上岗前会稍微进行一些培训，比如怎么放盐可以让顾客多买饮料。毕竟我们也不想丢掉国家的税费优惠。想知道全球最大的企业之一的工作状况，请查看我们的官网
+0x7A0D3C76=高中辍学、吸毒妈妈、进城打工、美术生、假释犯、你！接收一切弱势群体！来吃得饱汉堡上班吧！别人不雇我们雇！Wigwam汉堡店不要的人我们也要。所有岗位都是兼职，加班不给钱。大多数员工干了三周就跑了。如果你能干够一个月，我们会升你为服务专家 (工资照旧)。上岗前会稍微进行一些培训，比如怎么放盐可以让顾客多买饮料。毕竟税都减了，肯定要狠狠地赚一把。想知道全球最大的企业之一的工作状况，请查看我们的官网
 
 ;0xF97C643A=www.burgershot.net
 0xF97C643A=

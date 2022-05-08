@@ -1,27 +1,9 @@
-﻿;0x52F50EAE=Home
-0x52F50EAE=
-
-;0x1A55813C=Language of Love
-0x1A55813C=
-
-;0xBE9EF411=Wishful Drinking
-0xBE9EF411=
-
-;0x0077C37E=Beer Boogie
-0x0077C37E=
-
-;0xE50AC71E=Partners
-0xE50AC71E=
-
-;0xA1B68015=How Do You Know?
-0xA1B68015=
-
-;0x8FD914C8=Nothing helps you get your groove on like a bucketful of strong lager, especially if you are a Southerner.  Here are some tried and tested moves for Piswasser drinkers that will have you tearing up the dance floor in no time:          
-0x8FD914C8=
+﻿;0x8FD914C8=Nothing helps you get your groove on like a bucketful of strong lager, especially if you are a Southerner.  Here are some tried and tested moves for Piswasser drinkers that will have you tearing up the dance floor in no time:          
+0x8FD914C8=猛灌拉格啤酒，化身节奏舞王，南方人喝了效果加倍。下面是几个经过实战检验的动作，供尿汤啤的各位酒客在舞池中惊艳全场。
 
 ;0xB52F524A=Men:  Start to run on the spot.  Then, headbang with lots of air guitar.  Punch the air.  Let out the odd roar.  Throw in a moonwalk if you feel confident enough. You look great. Everyone agrees.          
-0xB52F524A=
+0xB52F524A=男：开始原地奔跑，然后边甩头边耍空气吉他，对着空气挥拳，放声咆哮，够自信的话还可以来个月球步。你超帅的，大家都这么认为。
 
 ;0x6ED2DB26=Women:  Close your eyes.  Reach your arms up above your head.  Stand with your legs apart.  Stick out your booty and thrust downwards in a circular motion as if you are grinding a traffic cone.  Sexy as hell.          
-0x6ED2DB26=
+0x6ED2DB26=女：闭上眼睛，高举双臂，张开双腿，撅起屁股开始画圈，想想自己正绕着一个路锥摩擦。太性感了。
 

@@ -2,7 +2,7 @@
 0xBCD972F2=相信他，他可是医生。
 
 ;0x401AAA64="You see those chubby kids all the time, scarcely able to lift that last bacon-cheeseburger to their blubbery jowls. At Eugenics Incorporated International, we design perfect babies, but perfect babies can grow into imperfect adults. I recommend that my clients give Lipurgex to their bundle of joy at 2 years old, when obesity starts. You're never too young to start."
-0x401AAA64=「看看那些小胖子，手里的最后一个培根芝士堡几乎举到不层次分明的下巴上面。在优基因国际公司，我们能够打造完美的婴儿，但再完美的婴儿都有可能长成不完美的大人。我强烈建议优基因的客户在孩子两岁时就给他服用Lipurgex，因为这是肥胖的萌芽期。减肥永远都不嫌早。」
+0x401AAA64=「看看那些小胖子，手里的最后一个培根芝士堡几乎举不到层次分明的下巴上面。在优基因国际公司，我们能够打造完美的婴儿，但再完美的婴儿都有可能长成不完美的大人。我强烈建议优基因的客户在孩子两岁时就给他服用Lipurgex，因为这是肥胖的萌芽期。减肥永远都不嫌早。」
 
 ;0x0A49A3FF=Dr. Stephen Von Singer
 0x0A49A3FF=Stephen Von Singer医生

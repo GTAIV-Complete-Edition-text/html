@@ -65,7 +65,7 @@
 0x57A5E1B0=照片
 
 ;0x913B99F2=Moody goths with their hair pulled down over one eye.  Weird kids dressed as sexually frustrated ninjas.  Machine gun wielding jocks with faux-hawks brandishing bottles of beer.  Undeveloped ugly girls sucking lollipops in sports bras.  Bare-chested suburban gangster-wannabes in bandanas.  Idiots.  Visogoths.  Losers.  This is the MyRoom community - and MyRoom narcissists spend days taking photo after photo in the bathroom mirror or from strange angles above their heads, in search of the perfect shot that makes them look less like the person they so detest.  Then they crank up the contrast, edit out the acne and paint in the missing teeth.  If anybody looks bad in their MyRoom pictures, then you know they must be really ugly in real life, and any girl without a full body shot is almost certainly fat.  Remember: never look directly at the camera, always tilt the head and pout like you are trying to squeeze out a 3-day-baked turd.          
-0x913B99F2=头发遮住一只眼睛的阴暗哥特人、打扮成性感忍者的奇怪小孩、挥舞机枪的壮汉和高举啤酒瓶的刺头、发育不良的丑女穿着运动背心吸棒棒糖、戴着头巾露着胸的乡村杀马特、白痴、视觉哥特、失败者。这就是MyRoom社区，MyRoom的自恋狂要么对着卫生间镜子拍照，要么从头顶上的诡异角度拍照，好让拍出来的照片不像自己讨厌的自己。然后拉高对比度，磨一磨皮，补几颗牙。如果有人的MyRoom照片都很丑，那他现实中一定更丑。不发全身照的姑娘多少有点胖。记住：永远不要直勾勾地盯着镜头，学会歪头嘟嘴，摆出一副吸烤了三天的屎的样子。
+0x913B99F2=头发遮住一只眼睛的阴暗哥特人、打扮成性感忍者的奇怪小孩、挥舞机枪的壮汉和高举啤酒瓶的刺头、发育不良的丑女穿着运动背心吸棒棒糖、戴着头巾露着胸的乡村杀马特、白痴、视觉哥特、失败者。这就是MyRoom社区，MyRoom的自恋狂要么对着卫生间镜子拍照，要么从头顶上的诡异角度拍照，好让拍出来的照片不像自己讨厌的自己。然后拉高对比度，磨一磨皮，补几颗牙。如果有人的MyRoom照片都很丑，那他现实中一定更丑。不发全身照的姑娘多少有点胖。记住：永远不要直勾勾地盯着镜头，学会歪头嘟嘴，摆出一副正在吸烤了三天的屎的样子。
 
 ;0x92C433FA=FRIENDS
 0x92C433FA=好友

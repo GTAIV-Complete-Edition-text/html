@@ -32,7 +32,7 @@
 0x5E4462F0=Eunux 有数百万个不同的版本，被称为「发行版」，或者说「疯发版」。例如：RedTwat 328.4、Ucuntu 293.6、Slackcrack 784.9 和 Knobbix 136.7。部分版本是真正好用的，但我们不会告诉你具体是哪个版本——折腾才是乐趣所在！Eunux 几乎兼容一切，性生活除外。Eunux 几乎是全能的，只是不能听音乐、看电影、打游戏，没法用来娱乐。这是全世界最好的操作系统。
 
 ;0x2FED096F=But, before you shit the tighty-whities your Mom bought you, it gets even better: as a Eunux user, you will have the chance to be part of a cult-like community and learn a secret handshake. You will finally belong somewhere!        
-0x2FED096F=但是，在你吓得把屎拉到你妈给你买的小内内上之前，还有一个好消息：成为 Eunux 用户以后，你会成为社区信徒的一份子，学到识别同好的安好。你终于找到了家一样的归属感！
+0x2FED096F=但是，在你吓得把屎拉到你妈给你买的小内内上之前，还有一个好消息：成为 Eunux 用户以后，你会成为社区信徒的一份子，学到识别同好的暗号。你终于找到了家一样的归属感！
 
 ;0x77E45944=Why would you want a glitzy, out-of-the-box, plug-and-play, one-size-fits-all desktop solution when you can buy a computer a piece at a time and build it from scratch?
 0x77E45944=明明能自己买配件组装，为什么要选择外表光亮、开箱即用、即插即用、千人一面的台式整机呢？

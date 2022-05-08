@@ -92,7 +92,7 @@
 0x816ADA44=
 
 ;0x469D6C78=uve only got 29 frends.  LUSER!!!
-0x469D6C78=才29个好友 飞舞！！！
+0x469D6C78=才29个好友 沸物！！！
 
 ;0x6DD5CD1B=joylesssatin
 0x6DD5CD1B=

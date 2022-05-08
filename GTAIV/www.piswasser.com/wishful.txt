@@ -1,60 +1,42 @@
-﻿;0x52F50EAE=Home
-0x52F50EAE=
-
-;0x1A55813C=Language of Love
-0x1A55813C=
-
-;0xBE9EF411=Wishful Drinking
-0xBE9EF411=
-
-;0x0077C37E=Beer Boogie
-0x0077C37E=
-
-;0xE50AC71E=Partners
-0xE50AC71E=
-
-;0xA1B68015=How Do You Know?
-0xA1B68015=
-
-;0xDAD39756=We all know that beer makes you sharp and insightful.          
-0xDAD39756=
+﻿;0xDAD39756=We all know that beer makes you sharp and insightful.          
+0xDAD39756=众所周知，啤酒能赐予你敏锐的洞察力。
 
 ;0x345F2BD5=Email us your drunken pearls of wisdom!          
-0x345F2BD5=
+0x345F2BD5=通过邮件告诉我们你酒后的灵光一现吧！
 
 ;0x0B46B25D="A stray dog really will eat anything that you vomit." 
-0x0B46B25D=
+0x0B46B25D=「流浪狗真的会把人吐出来的东西吃得一干二净。」　
 
 ;0x3EB9009F=- Jimbo, Las Venturas          
-0x3EB9009F=
+0x3EB9009F=- Jimbo，拉斯文加斯
 
 ;0x31C24279="Never assume it's a 'she'."
-0x31C24279=
+0x31C24279=「不要先入为主，觉得TA一定是『她』。」
 
 ;0xC18BF008=- Dave, Liberty City          
-0xC18BF008=
+0xC18BF008=- Dave，自由城
 
 ;0xBACEFB1C="Insecure 40-year-old women can be vindictive bitches when you turn them down at 2 AM."
-0xBACEFB1C=
+0xBACEFB1C=「四十岁怨妇真的很可怕，别在凌晨两点跟她提分手。」 
 
 ;0xAB1BED29=- Sean, Los Santos          
-0xAB1BED29=
+0xAB1BED29=- Sean，洛圣都
 
 ;0x934E23C4="A grown man can have hours of fun with a supermarket cart." 
-0x934E23C4=
+0x934E23C4=「大人也可以乘着购物车玩上好几个小时。」
 
 ;0x4BC76A10=- Steve, San Fierro          
-0x4BC76A10=
+0x4BC76A10=- Steve，圣辉洛
 
 ;0x6A823BE9="Police officers don't take kindly to being tipped when they drop you off."
-0x6A823BE9=
+0x6A823BE9=「警察叫你下车的时候，可不要给他们小费。」
 
 ;0x84AA4EE3=- Suzie, Carcer City          
-0x84AA4EE3=
+0x84AA4EE3=- Suzie，卡瑟市
 
 ;0xE0C9DC39="Never tell a doorman that 'he looks pretty when he's angry.'"
-0xE0C9DC39=
+0xE0C9DC39=「别跟夜店看门人说『生气的你最美』。」
 
 ;0x5E1D3201=- Deano, Carson General Hospital           
-0x5E1D3201=
+0x5E1D3201=- Deano，卡森综合医院
 

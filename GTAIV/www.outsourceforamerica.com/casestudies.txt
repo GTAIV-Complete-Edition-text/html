@@ -47,7 +47,7 @@
 0xC90BFB05=Amir：是的。
 
 ;0x430012DA=Doug: It's pretty good.       
-0x430012DA=Doug：真实太棒了。
+0x430012DA=Doug：真是太棒了。
 
 ;0x41CCB6CB=Amir: Thanks. Have you tried re-booting?       
 0x41CCB6CB=Amir：谢谢。您有尝试过重新启动吗？
@@ -92,7 +92,7 @@
 0x81D97AFC=Doug：开什么玩笑，乔治？那我上周订的东西呢？
 
 ;0xC00D8B8E=Amir: I am just editing a sitcom. Can I help you with anything else today? I have 36 people on hold, some from companies who pay us much more than FRUIT.       
-0xC00D8B8E=Amir：刚才在剪情景剧。今天有什么我能帮您的吗？后面还有36人等待，有些是客户的公司付的钱比水果公司更多。
+0xC00D8B8E=Amir：刚才在剪情景剧。今天有什么我能帮您的吗？后面还有36人等待，有些公司付的服务费比水果公司更多。
 
 ;0x69BCE9D6=Doug: To be honest, George, I am losing my mind over here. Can we not just talk for a while? Tell me more about hot foreign women.       
 0x69BCE9D6=Doug：说实话，乔治，我要疯了。要么我们随便聊聊？跟我讲讲性感的外国女性吧。

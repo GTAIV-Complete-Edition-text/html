@@ -23,7 +23,7 @@
 0xA8E50B26=赢家
 
 ;0xDED818F1=chillin wit my souljahs and blazin a tree
-0xDED818F1=和弟兄们一起浪，哈着草
+0xDED818F1=和弟兄们一起浪，哈草
 
 ;0x2FD5AA0E=Lancaster, Liberty City
 0x2FD5AA0E=自由城, Lancaster
@@ -35,7 +35,7 @@
 0x0E7D8F0B=娘们
 
 ;0x0389A07C=gangsta
-0x0389A07C=道上
+0x0389A07C=混道上的
 
 ;0x2CDD55A2=ladeez, ringtonez, rap, hardcore, havin a gd time, gettin wasted with my boyz, wearin all ma bling
 0x2CDD55A2=娘们、铃声、说唱、硬核、享乐、和弟兄们喝酒、穿上所有珠宝
