@@ -1,168 +1,144 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x04915A94=>activities
-0x04915A94=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
+﻿;0x04915A94=>activities
+0x04915A94=>活动
 
 ;0xE407107D=jobs
-0xE407107D=
+0xE407107D=招聘
 
 ;0x2958A881=| 
 0x2958A881=
 
 ;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
+0x702DA6A7=课程
 
 ;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
+0xD96A9E35=服务
 
 ;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
+0x71036CBC=房产
 
 ;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
+0xD141F921=失物寻物
 
 ;0x3F951FF4=sale/wanted
-0x3F951FF4=
+0x3F951FF4=交易
 
 ;0xC2F12958=ACTIVITIES
-0xC2F12958=
+0xC2F12958=活动
 
 ;0x63F4FD0A=Carpool to Bohan on Friday/Saturday nights???
-0x63F4FD0A=
+0x63F4FD0A=周五/周六晚上，拼车去Bohan？？？
 
 ;0x0ACD75E4= (Varsity Heights)
 0x0ACD75E4=
 
 ;0xEF1471E5=Political Group seeks cause and scapegoat
-0xEF1471E5=
+0xEF1471E5=政治团体寻求奋斗目标和替罪羔羊
 
 ;0x9DE3C136= (America)
-0x9DE3C136=
+0x9DE3C136= (美国)
 
 ;0xFF6AA59E=Tablet PC enthusiasts?
-0xFF6AA59E=
+0xFF6AA59E=平板电脑爱好者？
 
 ;0x83533C71= (Port Tudor)
-0x83533C71=
+0x83533C71= (Tudor港)
 
 ;0x7B0B70C1=Players wanted for cross-dressing rugby team!!!!
-0x7B0B70C1=
+0x7B0B70C1=女装橄榄球队招收成员！！！！
 
 ;0x0C661445= (Westminster)
 0x0C661445=
 
 ;0xA06DF764=COED TRAMPOLINE CLUB NEEDS GIRLS!
-0xA06DF764=
+0xA06DF764=男女混合的蹦床俱乐部招妹子！
 
 ;0x5E4693B4= (Steinway)
 0x5E4693B4=
 
 ;0x1CCEFB1B=Female tennis partner in Meadows Park??
-0x1CCEFB1B=
+0x1CCEFB1B=草地公园附近求个打网球的女队友？？
 
 ;0xCEB6777C= Meadows Park)
-0xCEB6777C=
+0xCEB6777C= (草地公园)
 
 ;0x492B64C9=Want to join me for some urban hunting?
-0x492B64C9=
+0x492B64C9=想加入我的都市狩猎小队吗？
 
 ;0x5BBD6BD0= (Hatton Gardens)
 0x5BBD6BD0=
 
 ;0x892FCFC6=Kids bodybuilding on Friday nights - we're hands on!
-0x892FCFC6=
+0x892FCFC6=周五晚上的儿童健身 - 亲自体验！
 
 ;0xAFEF6C34= (Schottler)
 0xAFEF6C34=
 
 ;0x050934A3=Eunux user group?
-0x050934A3=
+0x050934A3=Eunux 用户群？
 
 ;0xD54B9E07= (Rotterdam Hill)
 0xD54B9E07=
 
 ;0x3747ACCD=Hangover club?  Meet on Sundays to wallow in self-pity?
-0x3747ACCD=
+0x3747ACCD=宿醉俱乐部？周日见个面，一起诉苦吧？
 
 ;0x65B48C91= (Lower Easton)
 0x65B48C91=
 
 ;0xD45DA6B2=Parents Against Tofu Eating (PATÉ)
-0xD45DA6B2=
+0xD45DA6B2=反豆腐家长联盟(PATÉ)
 
 ;0x9FD6D80A= (Berchem)
 0x9FD6D80A=
 
 ;0xEDA102AB=Will you hold me?  SWM 185lb
-0xEDA102AB=
+0xEDA102AB=你能锁住我吗？170斤白人直男
 
 ;0xA66CC5DE= (Normandy)
 0xA66CC5DE=
 
 ;0x65841CE1=Elderly swingers???
-0x65841CE1=
+0x65841CE1=老而不僵，放荡不羁？？？
 
 ;0x357A29A2= (Firefly Island)
 0x357A29A2=
 
 ;0x5CB2C409=Anyone want to play Ultimate Disc (not in the dark) and 
-0x5CB2C409=
+0x5CB2C409=有人想玩极限飞盘吗(不是私下玩)？
 
 ;0xB9918968=smoke some weed in about 30 minutes?
-0xB9918968=
+0xB9918968=顺便再抽半小时大麻？
 
 ;0x0B2515CB= (Middle Park)
-0x0B2515CB=
+0x0B2515CB= (中心公园)
 
 ;0x3A9B033F=Failing police officer needs people to stage a crime.  $$$$
-0x3A9B033F=
+0x3A9B033F=失意的警察找人演一出捉贼的戏 $$$$
 
 ;0x6D3C733B= (Purgatory)
 0x6D3C733B=
 
 ;0x02243DE3=Short on cash... Looking for doppelgangers to share gym membership etc.
-0x02243DE3=
+0x02243DE3=手头紧... 找个替身共享健身房会员啥的
 
 ;0x34604134= (Leftwood)
 0x34604134=
 
 ;0xD63B55D4=Support group for straight adult men who love boy bands
-0xD63B55D4=
+0xD63B55D4=喜欢男团的直男请进，我们有互助会
 
 ;0x0A9519BD= (South Slopes)
 0x0A9519BD=
 
 ;0x2843CE41=Good pool player needed to hustle drunk tourists
-0x2843CE41=
+0x2843CE41=找个台球高手，一起赚醉酒游客的钱
 
 ;0xE82C0956= (Liberty City)
-0xE82C0956=
+0xE82C0956= (自由城)
 
 ;0x2C9B8F88=Photography hobbyist want to take pics - my services for yours!
-0x2C9B8F88=
+0x2C9B8F88=摄影爱好者想拍几张照片 - 服务换服务！
 
 ;0xA908AE2C= (Middle Park East)    
-0xA908AE2C=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0xA908AE2C= (中心公园东)
 

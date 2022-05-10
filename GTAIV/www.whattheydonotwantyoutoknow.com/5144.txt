@@ -1,90 +1,90 @@
 ﻿;0x1EEB9871=Glitches in the network, dial a number and life will change.
-0x1EEB9871=
+0x1EEB9871=网络有漏洞，拨打这些号码，改变生活
 
 ;0xC2954BC2=Back
-0xC2954BC2=
+0xC2954BC2=返回
 
 ;0xBEBC14F4=Posted by MathsGeek
-0xBEBC14F4=
+0xBEBC14F4=发布者：MathsGeek
 
 ;0x46817710=Holy shit!  More numbers that change the world around you.  Are we all living in a massively multiplayer online game in the future?  Is that all that life in Liberty City actually is?  I wish there was a number I could call to get Stacy Schwartz to give me a handjob. She lets me do her maths homework, but won't even talk to me in public. 
-0x46817710=
+0x46817710=我操！又有可以改变世界的号码了。我们真的生活在一个大型网游中吗？你看到的自由城一定是真实的吗？真希望有个号码，一打过去Stacy Schwartz就过来帮我打飞机。我帮她写数学作业，但她在别人面前都不搭理我。
 
 ;0xD2A1D38A= Here are some really useful numbers to know when in LC.
-0xD2A1D38A=
+0xD2A1D38A=以下是自由城必备实用号码。
 
 ;0x1671563F= You want health and weapons?
-0x1671563F=
+0x1671563F=　想不想加血、获得武器？
 
 ;0xF75CC2DD= Call 
-0xF75CC2DD=
+0xF75CC2DD=　拨打
 
 ;0x97249BC7=GTA-555-0100
-0x97249BC7=
+0x97249BC7=GTA-555-0100
 
 ;0x6847129D= After some weapons?
-0x6847129D=
+0x6847129D=　再来点武器？
 
 ;0xF75CC2DD= Call 
-0xF75CC2DD=
+0xF75CC2DD=　拨打
 
 ;0x9DFC7FAA=GUN-555-0150
-0x9DFC7FAA=
+0x9DFC7FAA=GUN-555-0150
 
 ;0x2FE2C780= You want some advanced weaponry?
-0x2FE2C780=
+0x2FE2C780=　想不想要高级的武器？
 
 ;0xF75CC2DD= Call 
-0xF75CC2DD=
+0xF75CC2DD=　拨打
 
 ;0x1C087EF7=GUN-555-0100
-0x1C087EF7=
+0x1C087EF7=GUN-555-0100
 
 ;0x0F261677= Got poor health? Sort it out.
-0x0F261677=
+0x0F261677=　快没血了？安排上。
 
 ;0xF75CC2DD= Call 
-0xF75CC2DD=
+0xF75CC2DD=　拨打
 
 ;0x98A54D67=DOC-555-0100
-0x98A54D67=
+0x98A54D67=DOC-555-0100
 
 ;0x772D3C38= You wanted? Get your rating down.
-0x772D3C38=
+0x772D3C38=　被通缉了？降低通缉度吧。
 
 ;0xF75CC2DD= Call 
-0xF75CC2DD=
+0xF75CC2DD=　拨打
 
 ;0xF2107DA7=COP-555-0100
-0xF2107DA7=
+0xF2107DA7=COP-555-0100
 
 ;0xEAC4BFF5= Feeling brave? Get your wanted level up.
-0xEAC4BFF5=
+0xEAC4BFF5=　感觉自己很牛逼？提高通缉度吧。
 
 ;0xF75CC2DD= Call 
-0xF75CC2DD=
+0xF75CC2DD=　拨打
 
 ;0x74047E5A=COP-555-0150
-0x74047E5A=
+0x74047E5A=COP-555-0150
 
 ;0x408E740E= Too hot? Too cold? Change the climate.
-0x408E740E=
+0x408E740E=　天气太热？太冷？换换天气吧。
 
 ;0xF75CC2DD= Call 
-0xF75CC2DD=
+0xF75CC2DD=　拨打
 
 ;0x306B1FA4=HOT-555-0100
-0x306B1FA4=
+0x306B1FA4=HOT-555-0100
 
 ;0x5DA4122D=Posted by LibertyDon
-0x5DA4122D=
+0x5DA4122D=发布者：LibertyDon
 
 ;0x4AA24A4D=WTF?
-0x4AA24A4D=
+0x4AA24A4D=啥玩意？
 
 ;0x1F4C3713=Posted by JohnnyXXX
-0x1F4C3713=
+0x1F4C3713=发布者：JohnnyXXX
 
 ;0x60960E10=Nice one, man.  Thx for the info.
-0x60960E10=
+0x60960E10=真不错，哥们。感谢你的情报。
 

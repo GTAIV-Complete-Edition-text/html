@@ -1,84 +1,42 @@
-﻿;0x04E72159=Username:
-0x04E72159=
-
-;0x71E5FA68= Inyapuper     
+﻿;0x71E5FA68= Inyapuper     
 0x71E5FA68=
 
-;0xB0BACC87=Sex:
-0xB0BACC87=
-
-;0x10CF1FEE= Male     
-0x10CF1FEE=
-
-;0x6C1F83B4=Location:
-0x6C1F83B4=
-
 ;0xB16EC4A4= San Fierro     
-0xB16EC4A4=
-
-;0xD0F33C72=Age:
-0xD0F33C72=
-
-;0x3F398D1F=Profession:
-0x3F398D1F=
-
-;0xC3C6F99B= High-school student     
-0xC3C6F99B=
-
-;0xCA6ED4BF=Appearance:
-0xCA6ED4BF=
+0xB16EC4A4= 圣辉洛
 
 ;0x87E79E68= Skinny, glasses, red hair     
-0x87E79E68=
-
-;0x0EEC57CE=Interests:
-0x0EEC57CE=
+0x87E79E68= 皮包骨头、戴眼镜、红头发
 
 ;0x793C04FF= Chess, video games, Dutch windmills, Internet    
-0x793C04FF=
-
-;0x10263027=UPDATED - 2 HOURS AGO
-0x10263027=
+0x793C04FF= 下棋、电子游戏、荷兰风车、互联网
 
 ;0x8A1CC112=OH MY GOD!!!  Lisa is going to be here - in San Fierro - for some LARPing  festival and she wants to me meet me!!  I am so excited and nervous.  I can't wait to pretend we're being invaded by goblins.  Wish that I hadnt told her I work out now.  I'm going to have to dye my hair as well.  Ill probably upchuck on her or blow my load in my pants.  I'll try to pplay it cool but I know ill end up saying something retarded.  Either way, I love her.  Yes!!      
-0x8A1CC112=
-
-;0x09758B37=UPDATED - 1 DAY AGO
-0x09758B37=
+0x8A1CC112=我的天哪！！！Lisa要来了！来到圣辉洛！是来参加什么拉普节的，还想顺路见我一面！！我既兴奋，又紧张。我等不及想假装我们被地精入侵了。真希望之前没告诉她我已经长大了。还要再染个发。我可能会射她一身，甚至在裤子里就爆浆了。我会尽量耍酷的，不过最后多半会说出很弱智的话吧。不管怎样，我爱她就行了。好耶！！
 
 ;0x929B64A4=God I hate myself.  I foolishly decided i'd try to open a new chapter in my life that included some self-worth and self-confidence.  So I'm at this meeting with a bunch of old men and they keep trying to undress me.  Stupid Epsilon idea that was.  Thought that I would start by styling my hair into a faux hawk for school today but it seriously backfired.  Last time I listen to a fucking lad mag. Everybody kept laughing and yelling that I had an electric vag on my head.  Ive so had it with all the redhead jokes.  Get over it.  I have recessive genes, get over it.  Why do guys take all the shit?  Chicks get called fiery, strawbery blonde, auburn and I get carrot crotch scrawled on my gym bag.  I'm sure that Shakespere, Twain and Sartre didn't have to put up with this crap and they were redheads.  Not that these names mean anything to the filistines in my school.    
-0x929B64A4=
+0x929B64A4=天哪，我讨厌自己。我犯蠢了，居然想翻开具有自信和自我价值的人生新篇章，于是我就来到了这里，和一群想要把我扒光的老头子见面。埃普西隆出的蠢主意。我想改变形象，就理了个莫西干头，结果和想象中完全不一样。以后再也不信什么时尚杂志了。学校里的人不是笑我，就是说我头上长了个电过的逼。我受够了这些拿红头发开玩笑的家伙。会过去的。我有隐性基因，会过去的。为什么都信这套说辞？小妞就是火一般的草莓色金发，我就要被人嘲笑成胡萝卜头？我相信莎士比亚、马克吐温、保罗萨特就不会遇到这种事，他们也是红头发。学校里的土包子连这些名字都不知道。
 
 ;0xD080E898=To top it off, Jose found out that I had built an internet shrine to his mother and beat me senseless with a hockey stick at lunchtime.  He seemed to take particular offense to thhe poem about languishing in Leyia's love canal...  
-0xD080E898=
+0xD080E898=再说一件事吧，Jose发现我在网上对着他妈妈发情，中午用曲棍球棒狠狠修理了我。他似乎很不喜欢我写的那句Leyia的爱之运河日渐干涸...
 
 ;0x059DDE5E=There are times when I want to end my life.  I can't believe I'm 19 and still in high school.  The world is repulsve and I feel like I deserve better.    
-0x059DDE5E=
-
-;0x1BC9D538=UPDATED - 3 DAYS AGO
-0x1BC9D538=
+0x059DDE5E=有时真的想结束自己的生命。我都19岁了，却还在上高中，难以置信。这个世界太恶心了，我应该得到更友善的对待。
 
 ;0xEF806EE3=OMG! i'm in such a good mood this morning.   Leyiat,  Jose and I are going on a bike ride and I can't hardly stand it.  We have one of those bikes with 3 seats.  Is this a date?  I hope so.  She has no idea how much I think of her.  I only spelled it in gasoline on the grounds of a monastaryt and set it on fire   I was thinking of her this morning and my little brother came bursting into my room and I'm like totally going at it with myself.  DOES ANYONE FRIGGIN KNOCK??? well I beat him till he cried.  It helps me not thnk about having to take exams so I can go to college.  What happens if I go to college and nobody likes me?  I like all my friends right here and I'm pretty sure if I move into a drorm or something thenm I'll have to shower with other guys which I will not deal with well at all.  What if someone slips something in my Logger beer and I wake up at a frat house?  I've watched Weazel news, so I know to be REALLY paranoid.  
-0xEF806EE3=
+0xEF806EE3=天哪！今早我心情太好了。Leyia、Jose和我准备一起骑自行车，我已经急不可耐了。到时候是骑那种三连座的自行车。这算是约会吗？但愿如此。她不知道我有多想她。我只会在院子里用汽油写上她的名字，然后一把火烧了。今早我就在想她，结果弟弟突然进我房间，搞得我很尴尬。敲　个　门　会　死　吗　？？？我把他揍了一顿，揍到他哭出来了。让我想到了不考试也能上大学的话会怎样。上了大学没有人喜欢我怎么办？我很喜欢现在这些朋友。而且我很确定，如果搬进宿舍，那我多半得和不太处得来的人一起洗澡。万一有人往我的啤酒里下药，把我拐进小黑屋怎么办？我经常看Weazel新闻，所以非常多疑。
 
 ;0x4EFDA512=Which reminds me, why does nobody comment on my blog?  It's not like I'm laying my soul out on the line here.  It's the cute things that kill in life, which is why if anyone makes one of those smiley face things at me I'll freak my shit.    
-0x4EFDA512=
+0x4EFDA512=想起来了，我的博客怎么没人评论？不是说我把自己掏个底朝天写在这儿，然后傻傻地等评论。我写的都是生活中比较高兴的事情，所以要是有人能对着这些内容笑出来我就很开心了。
 
 ;0xB004B388=I'm coming up on 5 years since the first time Lisa and I chatted online.  I looked at the transcript the other day and can't believe I said half of that.  I mean, the things I said are the reason we are where we are today, but, typing in all caps, "I DON'T HAVE ANY DISEASES" and "I WANT TO SNIFF YOUR SHIRT" is a little embarrassing.  But I was hooked from the getgo, especially to her prescription painkillers. I've wired her money six times to come see me.  I can't wait till she finally shows up at my door.     
-0xB004B388=
-
-;0xBD59C62E=UPDATED - 5 DAYS AGO
-0xBD59C62E=
+0xB004B388=从我和Lisa第一次网聊算起，已经有五年了。前几天我翻了翻聊天记录，有点不相信自己说过这么多话。就是说，曾经说过的话决定了我们现在的处境。但是，夹了一堆感叹号的「老！子！没！病！」和「让！我！闻！闻！你！的！衬！衫！」实在有点尴尬。但我一开始就被她迷住了，尤其是她那些处方止痛药。为了和她见上一面，我打了六次钱过去。等不及她来到我家门口的那一天了。
 
 ;0x2FCEBBED=Every girl I pass in the street is another who could have loved me and be a receptacle of my love seed.  We stay up watching old films and planing our future together.  She makes me brekfast in the morning.  I watch her bouncing around the room in her underwear.  The light reflects off her eyes.  She smiles at me.  Then slaps me hard across the face and calls me Marvin.  We make love and then sleep until lunchtime.  Then she kills herself.  But none of this happens because ITS ALL IN MY HEAD!!!!  
-0x2FCEBBED=
+0x2FCEBBED=路上见到的所有姑娘都可以是爱我的人，是我爱之精华的容器。一起看着电影，规划着未来。每天她都会给我准备早餐。我看着她只穿内裤在房间里四处转悠。灯光从她的眼睛里折射出来。她对我笑了。然后给了我一巴掌，叫了我一声Marvin。我们做了爱，睡到了中午。然后她自杀了。但这一切都没有发生，全都是我　想　象　出　来　的！！！！
 
 ;0x7F0A4FF8=The bandages came off my penis today and I think that it actually looks bigger!!!  Maybe there is some justice in the world...  Mom keeps asking where all the bread is going which is getting a bit embarassing!!!  
-0x7F0A4FF8=
+0x7F0A4FF8=今天把鸡巴上的绷带拆下来了，感觉确确实实是大了！！！看来世上还是存在公道的... 妈妈一直问我面包都去哪儿了，有点尴尬啊！！！
 
 ;0xF570D135=Totally violated my physics exam and chess carnival was awesome, btw!!  I felt like I finally fit in somewhere.  A serisouly big step forward.     
-0xF570D135=
-
-;0x63A064A0=(PREVIOUS POSTS)
-0x63A064A0=
+0xF570D135=体育考试彻底挂了，不过棋类嘉年华很好玩！！终于有我的容身之处了。迈出了一大步。
 

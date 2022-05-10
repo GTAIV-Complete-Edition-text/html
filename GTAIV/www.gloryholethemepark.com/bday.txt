@@ -1,3 +1,3 @@
 ﻿;0x01A876BE=Information regarding BIRTHDAY PARTIES coming soon!
-0x01A876BE=
+0x01A876BE=关于生日派对的信息即将上线！
 

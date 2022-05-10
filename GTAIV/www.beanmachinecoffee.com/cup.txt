@@ -1,45 +1,18 @@
-﻿;0x52F50EAE=Home
-0x52F50EAE=
-
-;0x244E8099=Specials
-0x244E8099=
-
-;0xAD935D05=Cup Sizes
-0xAD935D05=
-
-;0xC46A285A=Franchising Opportunities
-0xC46A285A=
-
-;0x951A1C18=Buy Our Coffees
-0x951A1C18=
-
-;0x0910409E=Caffeine Is Not a Drug
-0x0910409E=
-
-;0x8512F7FC=Become a Rep
-0x8512F7FC=
-
-;0xC14112B2=10 Reasons to Boycott 
-0xC14112B2=
-
-;0xF275475D=Your Local Coffeehouse
-0xF275475D=
-
-;0x270C6897=Bean Machine's drinks are served in the following cup sizes:
-0x270C6897=
+﻿;0x270C6897=Bean Machine's drinks are served in the following cup sizes:
+0x270C6897=冰的咖啡为饮品提供以下尺寸的杯型：
 
 ;0xCFAAE0AA=Medio:  24 oz.
-0xCFAAE0AA=
+0xCFAAE0AA=中杯(Medio)：24盎司
 
 ;0x56D8D915=Enorme:  32 oz.
-0x56D8D915=
+0x56D8D915=大杯(Enorme)：32盎司
 
 ;0x910CA80B=Colossale:  80 oz.
-0x910CA80B=
+0x910CA80B=超大杯(Colossale)：80盎司
 
 ;0x1C17EB2F=Look, here is the reality:  our patience is hanging by a very thin thread.  We provide you with a faux-bohemian environment in which to escape the emptiness of your miserable lives and we tolerate you nursing a ghetto latte all day, taking up seats while fleecing the free WiFi.  All we request in return is that you order your drinks using the Italian-Columbian terminology above.  Is that too much to ask?
-0x1C17EB2F=
+0x1C17EB2F=听着，跟你说点实话：我们的耐心是非常有限的。我们为你创造了伪波西米亚的环境，让你摆脱自己空虚可悲的生活。强忍着恶心给你冲上一整天的意呆利拿铁，还让你坐在店里蹭免费WiFi。我们只要求你用上面这些源于意大利-哥伦比亚的术语点单。这样的要求很过分吗？
 
 ;0xBDAC065D=We created this ridiculous lingo to give you morons the illusion of a cosmopolitan lifestyle but you insist on throwing it back in our face.  We don't care if you think that it makes no sense.  If you're too stupid to grasp the fact that 'Medio' means 'Small', then drink your coffee at Burger Shot.  Please note that any attempts to order 'small, 'medium' or 'large' will be met with a derisory snicker and a booger floater.  You've been warned.        
-0xBDAC065D=
+0xBDAC065D=我们创造了这些可笑的术语，让你们这些白痴觉得自己过上了国际化的生活，你们却拒绝接受。我们不在乎你觉得这三个词很多余。如果你笨到看不出「中杯」其实是「小份」，还是请你去吃得饱汉堡喝咖啡吧。请注意，如果你想用「小份」「中份」「大份」点单，就会被人鄙夷嘲笑、嗤之以鼻。别怪我们没警告你。
 

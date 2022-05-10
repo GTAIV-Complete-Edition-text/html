@@ -1,129 +1,114 @@
 ﻿;0xE74E5ED3=UNITED IN LOVE
-0xE74E5ED3=
+0xE74E5ED3=因爱联合
 
 ;0xBA2205C2=We sat in silence as our America was taken over. We sat in disbelief as characters on sitcoms and TV shows spewed hate towards us.  We sat disgusted as propaganda from "nutritionists" infiltrated our schools.  Now, we sit at computers and stew. We are united.
-0xBA2205C2=
+0xBA2205C2=美国被人占领的时候，我们没有说话。情景剧和综艺向我们发泄仇恨的时候，我们难以置信。所谓「营养学家」的鬼话入侵学校的时候，我们深恶痛绝。现在，我们坐在电脑前心烦意乱。我们联合。
 
 ;0x50941660=We love our meat. Love your meat too.
-0x50941660=
+0x50941660=爱吃肉不是错，肉食者不鄙。
 
 ;0x043A1D2D=FACT: 
-0x043A1D2D=
+0x043A1D2D=真相：
 
 ;0xA05963CA=Killing animals is not cruel
-0xA05963CA=
+0xA05963CA=杀害动物并不残忍
 
 ;0xA686BD28=Animals kill each other, sometimes on TV.  Some say survival of the fittest.  Others say, "Hamsters eat their babies too." However, there's a reason why we don't keep polar bears as pets.  Don't kid yourself - your cat wouldn't think twice about tearing you from limb to limb if it weighed 400 pounds!  We didn't spend millions of years fighting our way up the food chain to live out our days on Tofu turkey roasts and bean casseroles.  Prehistoric man would not have made it very far if he had sat around handing out crudites and spinach dips while organizing marches in protest of the treatment of the saber-toothed tiger.  We kill to survive, like on TV.  We are simply better at killing than animals.  Hate the game, not the player. Only a very stupid species stops doing the thing they are best at, surely?
-0xA686BD28=
-
-;0x043A1D2D=FACT: 
-0x043A1D2D=
+0xA686BD28=动物本身就在自相残杀，有时在电视上也能看见。有人说适者生存，有人说仓鼠食子。总之，我们人类不养北极熊当宠物是有原因的。别开玩笑了，要是你家猫也有400斤，那你绝对会被它生吞活剥！人类花了几百万年时间登上食物链高处，可不是为了吃素烧鹅和豆角砂锅的。要是史前人类每天吃蔬菜沙拉和酱菠菜，一边还游行抗议杀害剑齿虎，人类早就绝种了。人类为了生存杀戮，电视上就是这么演的。我们只是比动物更加擅长杀戮。要恨就恨这场杀戮游戏本身，而不是憎恨参与者。只有蠢到无可救药的种族才会放弃自己最擅长的事，不是吗？
 
 ;0xB036C637=Vegetarianism is not good for the environment
-0xB036C637=
+0xB036C637=素食主义对环境没有好处
 
 ;0x014DFECE=It's very simple:  man needs oxygen, oxygen comes from plants, vegetarians eat plants.  Growing plants for consumption is a very inefficient way of generating food and, pound for pound, far more energy and resources are expended on filling the bellies of soap-shy vegetarians than our carnivorous friends.  Methane is about twenty times stronger than carbon dioxide as a greenhouse gas and a major cause of global warming.  And we all know that the biggest outputters of methane are cows and vegans. As a result, we want to kill both, before we boil. 
-0x014DFECE=
-
-;0x043A1D2D=FACT: 
-0x043A1D2D=
+0x014DFECE=很简单：人类需要氧气，氧气来源于植物，素食主义者吃的是植物。植物种植作为获取食物的方式过于低效，同样体重的两个人，喂饱素食主义者需要的能量和资源绝对比肉食主义者多。甲烷的温室效应比二氧化碳强了20倍，而我们都知道甲烷的两大来源就是牛和素食主义者放的屁。因此我们决定在地球被煮熟之前把两者都杀了。
 
 ;0xD233E59F=Vegetables are not good for you
-0xD233E59F=
+0xD233E59F=蔬菜对你没有好处
 
 ;0xB1495479=As a vegetarian, you have two choices:  if you're rich, you buy organic and take your chances with slugs, bugs, worms and E. Coli; if not, you dine on a smorgasbord of pesticides, herbicides and fungicides.  You do not need a PhD in Molecular Biology to work out that something designed in a lab to exterminate insects and rodents is unlikely to carry a lot of health benefits.  Either way, in today's pesticide infested world, you're playing Russian Roulette with your lower digestive tract. Get back on the meat, before you end up on the slab.
-0xB1495479=
-
-;0x043A1D2D=FACT: 
-0x043A1D2D=
+0xB1495479=作为一个素食主义者，你有两个选择：如果你很有钱，那就选择有机种植的蔬菜，祈祷自己不会吃到鼻涕虫、菜青虫、毛毛虫和大肠杆菌；要是没那么有钱，你也可以对着杀虫剂、除草剂和防霉剂大快朵颐。就算没学过分子生物学，动动脑子也能想到杀虫剂和老鼠药对身体健康准没好处。总之，在这个被农药污染了的世界，吃素就是在拿自己的肠道玩俄罗斯轮盘赌。赶在为时已晚之前选择吃肉吧。
 
 ;0xF38DA25E=Meat-eating is no more exploitative than plant-killing
-0xF38DA25E=
+0xF38DA25E=残害植物是比吃肉更严重的剥削
 
 ;0x92371E3A=Put the slaughterhouse photos away.  They're all doctored in graphics editing software to make the animals frown.  What about the illegal immigrants who toil the fields for a few dollars a day to pick the designer vegetables for your finger buffets and brunch canapes?  Vegetarians saturate the media with images of battery hens and then deny that there is nothing sinister about a combine harvester slashing up fields of genetically-modified, identically-sized baby carrots.  It's just not right. 
-0x92371E3A=
-
-;0x043A1D2D=FACT: 
-0x043A1D2D=
+0x92371E3A=别相信那些屠宰场照片。动物的痛苦表情都是用修图软件伪造出来的。想想那些种地的非法移民，一天的收入只有几块钱，而你却吃着优质蔬菜的自助餐和开胃菜。素食主义者一边在媒体上大量投放饲料鸡的画面，一边又坚称开联合收割机碾过大片转基因小胡萝卜田无罪。贱不贱哪？
 
 ;0x8CA6C1D0=Only meat can sober you up at 4am
-0x8CA6C1D0=
+0x8CA6C1D0=只有肉食才能让你在凌晨4点清醒过来
 
 ;0x53A0249A=When you are shitfaced and need to get home, are you going to eat steamed broccoli?  No. You need meat.  Millions of kebab shops, burger stands and hotdog carts around the world are living proof that a lentil cookie will never hit the spot after 12 pints of Jakey's Lager. Or am I making this up? 
-0x53A0249A=
-
-;0x043A1D2D=FACT: 
-0x043A1D2D=
+0x53A0249A=大晚上的喝个烂醉，却又急着回家，你需要的是清蒸西兰花吗？不，你需要的是肉。全世界的数百万烧烤店、汉堡店、热狗店都能说明，喝下12品脱拉格啤酒以后，扁豆曲奇绝对填不饱肚子。总不能是我编出来的吧？
 
 ;0x63A2AC46=Vegetarians give bad head
-0x63A2AC46=
+0x63A2AC46=素食主义者能力不太行
 
 ;0x1AE1493B=Take our word for it. We've tried, men and women. 
-0x1AE1493B=
+0x1AE1493B=相信我们。我们试过了，各位男男女女。
 
 ;0x04ECE09F=Vegetables are a side dish at most, not a lifestyle.  They can work occasionally, if deep-fried in lard, but they can never replace man's fundamental need to flame-grill his fellow mammals.  Beef, pork, lamb, cat, chicken, penguin... LoveYourMeat.com is a glorious celebration of all the meats that we know and love.
-0x04ECE09F=
+0x04ECE09F=素食最多作为配菜，不应该成为生活方式。只有用猪油炸过，素食才勉强能当主食。但素食永远不可能满足人类的基本需求，最终人类还是要靠煎炸哺乳动物的同类才能生存。牛肉、猪肉、羊肉、猫肉、鸡肉、鸽子肉... 「吃肉好」是对我们熟知且热爱的肉类的歌颂。
 
 ;0x8A2A151F=For every dinner party that's been ruined by an undernourished tree-hugger spouting anecdotes about poultry-processing and veal-fattening while you are trying to suck the last of the marrow from a rack of ribs;  for every man and woman who has known the joy of arising slick-faced from a steaming animal carcass, this is the website for you.  Don't fall for the hype.  Until we feel an instinctive urge to graze in our backyard or chew cud at the weekends, we should embrace the base desire in all of us to rip flesh from the bone at every opportunity.
-0x8A2A151F=
+0x8A2A151F=晚宴上有个营养不良的环保疯子，大谈特谈禽类加工和牛肉增肥，毁了所有人的兴致，而你还在吸着排骨里的最后一点骨髓。面色红润、懂得享用热腾腾的动物尸体的各位，这就是为你们准备的网站。别被铺天盖地的宣传骗了，只要本能没有驱使你去后院吃草或者反刍食物，我们就应该服从茹毛饮血的原始欲望。
 
 ;0xC1E49CFF=Stop this vegetarian madness before we are left with an ashen-faced nation of 120-pound weaklings who spend half the day on the crapper.  Wake up and smell the tofu!  You can't!  It has no smell.
-0xC1E49CFF=
+0xC1E49CFF=阻止疯狂的素食主义者吧，否则我们就要变成每天有一半的时间窝在厕所里的100斤干尸了。醒醒吧，闻闻豆腐的味道！但你做不到！因为豆腐没有气味。
 
 ;0x7B33A11E=THE BEST WAY TO GET THE KIDS TO EAT THEIR GREENS!
-0x7B33A11E=
+0x7B33A11E=让孩子吃下蔬菜的最好方法！
 
 ;0xD6688A65=Ever noticed how supermarket shelves are stacked full of vegetarian meals designed to look like meat dishes?  What is this obsession with 'mock meats'?  Is it not laughable to call fungus, seaweed and milk curds stuffed into a plastic sack a sausage?  Or mushroom granola bean curd stamped into bacon strips?  Like a celibate man with a blow-up doll, vegetarians self-righteously shun animal products and then spend their lives trying to simulate them at every meal.
-0xD6688A65=
+0xD6688A65=你有没有发现，超市货架上全是用素食仿制的肉菜？为什么非要搞这种「人造肉」？把蘑菇、海藻和奶酪打在一起，装进塑料袋，这玩意就成香肠了？蘑菇、燕麦、豆干压在一起，就成培根肉条了？这就像是说要禁欲的人买了个充气娃娃，素食主义者大义凛然地拒绝了动物制品，然后想方设法地用素食复原每一道肉菜。
 
 ;0x252DB6F9=Well, straight back at you, plant-killers! LoveYourMeat.com is proud to announce its 'Faux Flora' range of mock vegetables.  Try our chickpeas, beefroot, porktatoes and boargettes. They're in the shape of vegetables - but it's all meat.  Fool your hippie friends at an outdoor BBQ with chicken parts in the shape of blocks of marinated tofu.
-0x252DB6F9=
+0x252DB6F9=好吧，原数奉还，植物杀手！吃肉好在此隆重宣布「伪素」系列仿制素食，尝尝我们的鸡肉豌豆、牛肉菜根、猪肉土豆和野猪葫芦吧。看起来都是蔬菜，实际上全是肉。下次出门烧烤的时候，用鸡肉做的豆腐干戏弄你的嬉皮朋友吧。
 
 ;0xFDCC6D9E=FLESH ON FLESH: PORN RAW AND UNCOOKED 
-0xFDCC6D9E=
+0xFDCC6D9E=肉上加肉：原汁原味的卖肉黄片
 
 ;0xB5F185E3=While we concede that vegetables have their place in porn, nothing gets the juices flowing like a barely-legal teenager knee-deep in pastrami getting love by a bratwurst.  Choking the chicken, slapping the salami, beating the meat, spanking the monkey, bopping the baloney, plucking the duck, flogging the dolphin, petting the parrot, chaffing the chimp...there's no escaping the fact that sex and meat are inextricably combined in the recesses of our twisted psyches.  Take one piglet with an apple in its mouth and one girl with a rubber ball in her mouth and you have a recipe for a spit roast with a difference!
-0xB5F185E3=
+0xB5F185E3=不得不承认，黄片里的蔬菜确实能挑大梁，但绝对比不上跪在五香牛肉里的妙龄少女被腊肠进进出出。扼住鸡脖，拍打香肠，大力搓肉，拍猴屁股，轻拍大根，拔去鸭毛，鞭笞海豚，抚摸鹦鹉，戏弄猩猩... 不可否认，在人类心中，性爱与肉类之间存在密不可分的联系。找一只猪崽，用苹果堵住它的嘴，再找一个姑娘，用橡胶球堵住她的嘴，这就是你与众不同的烧烤配方！
 
 ;0x8117437C=Succumb to your animal instincts and check out our exclusive collection of sizzling meat-movies.  Thighs, breasts, rump, tongue...and loads of naked chicks as well! And mercifully, not a broccoli floret in sight.
-0x8117437C=
+0x8117437C=屈服于你的动物本能，看看我们独家收录的滋滋卖肉大片吧。大腿、胸部、臀部、舌头... 还有许多裸体烧鸡！更美妙的是，绝对没有西兰花入镜。
 
 ;0xF091CECC=Buy two DVDs today and we will throw in 'Pounding and Breading the Meat Curtains III' for free!
-0xF091CECC=
+0xF091CECC=现在购买两份DVD，还会免费赠送《肉蛋冲鸡III》！
 
 ;0x7AA3A3ED=PATE
 0x7AA3A3ED=
 
 ;0x615B4569=CLICK HERE 
-0x615B4569=
+0x615B4569=点此
 
 ;0x23ABB984=for advice on vegetarianism from PATE: Parents Against Tofu Eating
-0x23ABB984=
+0x23ABB984=获取由反豆腐家长联盟(PATE)提供的关于素食主义的建议。
 
 ;0xA237BF2F=Vegan Problems?
-0xA237BF2F=
+0xA237BF2F=如何应对素食者？
 
 ;0x615B4569=CLICK HERE 
-0x615B4569=
+0x615B4569=点此
 
 ;0xE11496C5=for tips on dealing with a Vegan.
-0xE11496C5=
+0xE11496C5=获取对付素食主义者的方法。
 
 ;0x92BE6DFD=LoveYourMeat.com Toothpaste 
-0x92BE6DFD=
+0x92BE6DFD=吃肉好牙膏
 
 ;0x662785D5=The only way to start your day! Available in bacon, roast chicken and Peking duck flavors.  Smooth or chunky.
-0x662785D5=
+0x662785D5=开启新一天的唯一选择！现已推出培根、烤鸡和北京烤鸭风味。细腻粗糙均可。
 
 ;0xB839C25D=Carne Convention 
-0xB839C25D=
+0xB839C25D=肉食习俗展
 
 ;0x7952999C=Join us at the 'Carne Convention' in Guadalajara!  LoveYourMeat.com will be sponsoring the 'Around the World in 40 Meats' Exhibition.  Showcasing delicacies such as Pony Pot Roast from France, Monkey Meatloaf from Cameroon and Chihuahua Carpaccio from China, this is an event not to be missed!
-0x7952999C=
+0x7952999C=加入我们在瓜达拉哈拉进行的肉食习俗展吧！吃肉好决定赞助「40种肉环游世界」展览会。展出的菜品包括法国的马肉锅、喀麦隆的猴肉卷、中国的吉娃娃肉片，千万不要错过！
 
 ;0x602062A2=Hardcore Carnivore 
-0x602062A2=
+0x602062A2=硬核肉食者
 
 ;0x8B095E63=So vicious, it's delicious!  Do you like a bit of seal with your sushi or parakeet on your pizza?  We are the specialists in culinary contraband.  Call us today.  Confidentiality guaranteed.
-0x8B095E63=
+0x8B095E63=狂暴至极，如此美味！想在寿司里来点奶酪吗？又或者是披萨上的鹦鹉肉？我们是烹饪违禁品的专家。立刻联系我们，保证保密。
 

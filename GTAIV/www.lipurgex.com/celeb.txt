@@ -1,39 +1,39 @@
 ﻿;0x920B3652="Hi!!!  I'm Jill Von Crastenburg!  For the next six months, I will be telling everyone about the wonders of Lipurgex.  In the past, I always struggled with weight gain.  I used to fluctuate between 60 and 80 pounds and I felt like such an 
-0x920B3652=
+0x920B3652=「嗨！！！我是Jill Von Crastenburg！在接下来的六个月内，我会向所有人宣传Lipurgex的神奇效果。以前我总是为增加的体重烦恼，体重在50到70斤之间来回波动，感觉自己像头
 
 ;0x9DA0DA60=OBEAST!
-0x9DA0DA60=
+0x9DA0DA60=肥猪！
 
 ;0x2B1BF670= Then I discovered Lipurgex and it changed my life. I haven't eaten anything for three weeks and the weight is dropping off more quickly than I can drop dress sizes! When I was a size 2, I felt so 
-0x2B1BF670=
+0x2B1BF670=后来我发现了Lipurgex，它改变了我的人生。我足足三周没吃任何东西，体重降得比衣服尺码还快！当能穿上XS尺码的衣服时，我还是觉得有点
 
 ;0x528D146D=PUDGY...UGGGH!
-0x528D146D=
+0x528D146D=微胖... 啊啊啊！
 
 ;0xA20697A8= Like my father keeps telling me, size 0 is the new size 6! I used to dread my bikini shots but now I can't wait to be pushed down to the water's edge in a wheelchair and lifted into the surf. 
-0xA20697A8=
+0xA20697A8=正如父亲一直告诉我的，XXS码才是未来的S码！以前我还会为泳装照担心，但现在我已经等不及被人用轮椅推到海边，抬着冲浪了。
 
 ;0x4FFC2199=Last week I decided to fly from Liberty City to Los Santos for dinner. I boarded the plane and they sat me next to this huge sweaty guy. In First Class!!! (Normally I never go commercial, but I had to for the benefit of this anecdote) His leg kept brushing my gold Derriere mini-dress. Disgusting! That's what you get for trying to mingle with the common people, I suppose. Of course I asked for the plane to be landed immediately so that I could call my father and get him to send the private jet. Fat is so 
-0x4FFC2199=
+0x4FFC2199=上周我决定从自由城飞到洛圣都吃个晚餐。登机后空乘安排我坐到了一个浑身是汗的胖子旁边。这还是头等舱！！！(我一般不乘商业航班，出于剧情需要，这里还是得乘一下) 他的腿一直在我的金色Derriere迷你裙上摩擦。恶心！我想这就是接触平民的结果吧。当然，我当场命令机组降落，联系父亲派出了私人飞机。肥胖真的
 
 ;0x351A4723=NASTY! 
-0x351A4723=
+0x351A4723=令人作呕！
 
 ;0xCF6B3F3C=As a young girl, my mother told me every day "you're not OK as you are and your body is not OK as it is" and I'm grateful for this fine nurturing approach to motherhood. I think that clothes stores for large people should all be shut down before kids start to think that this kind of lifestyle is acceptable. I get harassed for smoking on the plane so why should they get away with it?! 
-0xCF6B3F3C=
+0xCF6B3F3C=小时候母亲每天都告诉我：「现在这样还不够好，你的身体也没有那么棒。」我很感谢妈妈对我的这种教育。依我看，大码服装店就该直接关门，不能让小孩子觉得肥胖也是一种可以接受的生活方式。我在飞机上抽烟要挨骂，凭什么胖子就不用挨骂？！
 
 ;0x8288957C=I'm proud to be the face of Lipurgex and proud to be the thinspiration for millions of young girls around the world. Get down to 50lbs and then get a boob job - that's the way to achieve the ideal body, according to my agent. It's only going to get harder for me.  I don't want middle-aged men saying "Oh Jill was so much hotter when she was 12!".  My goal is to lose another 10lbs before each birthday.  With Lipurgex, I know that I can get there. Champagne, Lipurgex and my Didier Sachs diaper are all I need to survive and look great! Sometimes I black out for days but what does it matter... skinny is 
-0x8288957C=
+0x8288957C=能够成为Lipurgex的形象大使是我的荣幸，能够成为全世界百万少女的瘦身动力更让我倍感荣幸。减肥到40斤，再去隆个胸吧。据我的经纪人所说，这样就能创造出理想的身体曲线。对我来说，保持理想身材只会越来越难。我不想听到中年男人说「噢，Jill刚刚12岁的时候可比现在性感多了！」我的目标是在每个生日之前都瘦10斤。有了Lipurgex，我知道这个目标可以实现。只要有香槟、Lipurgex和我的Didier Sachs尿布，我就可以生存，也能维持美貌！虽然有时会昏迷几天，但那又怎么样呢... 骨瘦如柴就是
 
 ;0x0AFBCAEA=HOT!!
-0x0AFBCAEA=
+0x0AFBCAEA=性感！！
 
 ;0x270C92A5="
-0x270C92A5=
+0x270C92A5=」
 
 ;0x3D811925=Do you want to look like Jill Von Crastenberg? 
-0x3D811925=
+0x3D811925=你想像Jill Von Crastenberg一样瘦吗？
 
 ;0x20B62635=Buy Lipurgex today!
-0x20B62635=
+0x20B62635=立刻购买Lipurgex吧！
 

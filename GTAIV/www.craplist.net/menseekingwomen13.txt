@@ -1,57 +1,12 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3B0CB221=>
-0x3B0CB221=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x0CE017A1=women seeking men
-0x0CE017A1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3A8FADC1=missed connections
-0x3A8FADC1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x7B578CD5=MEN SEEKING WOMEN
-0x7B578CD5=
-
-;0x55BE0406=Relationships start in my hot tub - 33
-0x55BE0406=
-
-;0x03396A56=(Westdyke)
+﻿;0x03396A56=(Westdyke)
 0x03396A56=
 
 ;0x9F925F29=Do you want to have some fun tonight?  I want to find a sexy young chick for a steamy first date in my hot tub.  And when I say my hot tub, I mean my parents' hot tub.  8 different whirl speeds, baby!!!  Let's turn up the heat!!  They're away for the next week so we'll have the whole place to ourselves.  We can drink some cognac, smoke some grass and get butt nekkid!!  Maybe we'll make a few warm jets of our own!  I'm 33 years old, str8, 5'10", 6.5c, athletic, real cute and super smart.  You must be smoking hot and under 80lb.  Hit me up with your pix and stats.  
-0x9F925F29=
+0x9F925F29=今晚想来点乐子吗？我想邀请一位性感年轻的姑娘，来我家的热水浴池享受湿哒哒的初次约会。好吧，其实是我爸妈家的热水浴池。八档转速，宝贝！！！一起烧起来吧！！下周爸妈都不在家，我们可以在整栋房子里尽情狂欢。喝点干邑白兰地，哈点草，脱光衣服！！说不定还能自产自销点什么！我33岁，直男，178，16cm，运动型，很英俊，超聪明。你必须性感到爆，36kg以下。带图带身材数据联系。
 
 ;0x3ABDBB51=Bring party favors! 
-0x3ABDBB51=
+0x3ABDBB51=记得带派对小礼物！
 
 ;0x00258716=PostingID: 698008023
-0x00258716=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x00258716=帖子ID：698008023
 

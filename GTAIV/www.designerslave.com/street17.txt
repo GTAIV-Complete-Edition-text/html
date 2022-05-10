@@ -1,15 +1,6 @@
-﻿;0xF596456B=RUNWAY SLAVES
-0xF596456B=
-
-;0xA6A66E86=STREET SLAVES
-0xA6A66E86=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
-;0x84AA5A4D=To Die For
-0x84AA5A4D=
+﻿;0x84AA5A4D=To Die For
+0x84AA5A4D=强烈渴望
 
 ;0x34ABFBDB=A famous clothes store in the heart of Liberty City's Suffolk shopping district, VC TM tries very hard to be trendy. We have got our hands on some great rejects from five seasons ago! Spiked belts for $10!!! Wristbands for $5!!!  Cool!!
-0x34ABFBDB=
+0x34ABFBDB=位于自由城Suffolk区中心地带购物街的知名服装店。VC TM仍在努力向潮流进军。我们拿到了一批五个季度前的次品！带钉刺的腰带$10！！！腕带$5！！！酷！！
 

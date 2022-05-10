@@ -1,69 +1,12 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x04915A94=>activities
-0x04915A94=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xC2F12958=ACTIVITIES
-0xC2F12958=
-
-;0x892FCFC6=Kids bodybuilding on Friday nights - we're hands on!
-0x892FCFC6=
-
-;0xEA767626=(Schottler)
+﻿;0xEA767626=(Schottler)
 0xEA767626=
 
 ;0x640AC72A=Do you have a kid that needs to lose some fat, or do you just like watching teens work out?   Kids spend too much time lying in front of the TV and playing video games where they make a lizard eat mushrooms and beat up monkeys.  Our pre-teen bodybuilding club meets every Friday night from 6-9 PM.  Just $40 per session!!!!!  This also covers tanning and dietary supplements.  Cheaper than a babysitter!  Drop them off and then go out drinking!  Make sure your preteen is sculpted rather than quilted.
-0x640AC72A=
+0x640AC72A=你家孩子需要减肥吗？还是说你单纯喜欢看小朋友健身呢？现在的小孩花在电视和游戏上的时间太多了，特别是那个蜥蜴吃蘑菇，然后和猴子打架的游戏。我们的青少年健身俱乐部每周五晚6-9点上课，一次课只要$40！！！！！同时还提供美黑和营养剂。比保姆还便宜！送孩子过来，然后自己喝酒去吧！让你的孩子凹凸有致，而非松松垮垮。
 
 ;0x8F5C6395=Email us for before-and-after photos. 
-0x8F5C6395=
+0x8F5C6395=邮件联系，我们会给你前后对比图。
 
 ;0x6D99A787=PostingID: 494533799
-0x6D99A787=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x6D99A787=帖子ID：494533799
 

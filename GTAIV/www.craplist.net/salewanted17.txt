@@ -1,75 +1,15 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x7DFD8D83=>sale&wanted
-0x7DFD8D83=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x074F3216=SALE / WANTED
-0x074F3216=
-
-;0xFC5D9FB6=Designer brands at a fraction of retail - up to 99% off!
-0xFC5D9FB6=
-
-;0x05204770=(Liberty City)
-0x05204770=
-
-;0x89B137DC=Do you love designer labels but hate the price tags?  Are you prepared to take the end-of-line stock that nobody else will buy?  Are you tired of being arrested for shoplifting?  Will you settle for fake Asian imports in place of the real thing?
-0x89B137DC=
+﻿;0x89B137DC=Do you love designer labels but hate the price tags?  Are you prepared to take the end-of-line stock that nobody else will buy?  Are you tired of being arrested for shoplifting?  Will you settle for fake Asian imports in place of the real thing?
+0x89B137DC=你是否喜欢名牌服饰却害怕上面的价格标？你是否想买其他人都不会买的尾货？你是否厌倦了偷东西被抓？你愿不愿意用亚洲生产的山寨版代替正品？
 
 ;0x809FACB5=www.designerslave.com
 0x809FACB5=
 
 ;0x327F7CD1= is the premium online store for heavily-discounted and badly-counterfeited fashion wear.
-0x327F7CD1=
+0x327F7CD1=是出售低价低仿时装的高端在线商城。
 
 ;0x7285CB61=Some of it has been worn, some of it is stolen, some of it is fake - ALL of it is CHEAP!  
-0x7285CB61=
+0x7285CB61=有些是穿过的，有些是偷来的，有些是山寨的——价格都是便宜的！
 
 ;0x02D38542=PostingID: 454643633
-0x02D38542=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x02D38542=帖子ID：454643633
 

@@ -1,81 +1,75 @@
 ﻿;0x3FB3EF0A=Now that there are sports that you can participate in while sitting with a cigar and martini in your hand, why not visit the sports centers in LC?  It is impossible to get bored in Liberty City, unless you're a religious freak, and then it's a pretty boring place.  Once you have had your fill of sightseeing, eating and drinking, there is a wealth of other fun activities available to help you work off that last Heartstopper from Burger Shot.
-0x3FB3EF0A=
+0x3FB3EF0A=现在的运动甚至可以手里拿着雪茄和马提尼进行，考虑一下自由城的体育馆吧？一般人在自由城绝不会感到无聊，除非你是宗教怪人，那就真的很无聊了。如果你逛够了，吃饱了，喝足了，这里就有很多能帮你消化掉刚在吃得饱汉堡买的心肺停止堡的娱乐活动。
 
 ;0xA8AEE2A9=The best sports are those that require no fitness whatsoever.  Challenge one of the locals to a game of darts, hustle somebody on the pool table and get in a knife fight, or if you don't mind sharing sweaty footwear with strangers, show off your ten-pin bowling skills at Memory Lanes.     
-0xA8AEE2A9=
+0xA8AEE2A9=最好的运动就是不需要那些健身什么的运动。向当地居民挑战飞镖，在台球桌上大杀特杀，直到和对手真人快打，如果你不介意和陌生人分享脚汗，就去回忆球道露一手保龄球吧。
 
 ;0x0A49A909=Memory Lanes at Golden Pier
-0x0A49A909=
+0x0A49A909=黄金码头的回忆球道
 
 ;0xF42B4B0C=Westminster, Algonquin       
-0xF42B4B0C=
+0xF42B4B0C=Algonquin, Westminster
 
 ;0xC2BB7654=Memory Lanes at Firefly Island
-0xC2BB7654=
+0xC2BB7654=Firefly Island的回忆球道
 
 ;0x38F18054=Broker        
 0x38F18054=
 
 ;0xDCE4A755=If you think Liberty City is a war zone, you should check out the dating scene.  People in Liberty City date a lot, or at least that's what they tell you.  Nowadays, drinking and stalking are not the only ways to meet someone of the opposite sex - online dating is the future.  You don't have to worry about fluffing your pick-up lines, you can be generous with the truth and photo-editing can really broaden your options.  It's a gamble; you might get killed but you might also find the love of your life.  
-0xDCE4A755=
+0xDCE4A755=如果你觉得自由城是一片战区，你就该看看约会的情况。自由城的居民经常约会，至少他们是这么说的。现在，喝酒和尾行已不再是遇见异性的仅有方式——网恋才是未来。不用担心说错话，你可以大大方方的说实话，修图技术也能大大增加你的选择面。这是一场赌博，你或许会遇害，但也有机会找到此生挚爱。
 
 ;0xCAAC6EC2=Love-Meet.net
-0xCAAC6EC2=
+0xCAAC6EC2=觅爱网
 
 ;0x18BC55FE= is a premium Liberty City dating service with a database full of desperate people looking for hand jobs, domestic violence, and romance.   Desperation and anonymity are powerful aphrodisiacs. Real perverts like to use 
-0x18BC55FE=
+0x18BC55FE=是自由城的优质网恋平台，数据库中满是渴求手活、家暴和浪漫的饥渴男女。迫切的需求和匿名的特性简直是究极春药。真正的变态都喜欢在
 
 ;0x37D143C5=Craplist
 0x37D143C5=
 
 ;0xD57B7B04= to meet society's worst dregs for no-holds-barred smut.     
-0xD57B7B04=
+0xD57B7B04=上结识社会渣滓，满足毫无保留的情欲。
 
 ;0x05C29F1C=After a night spent spanking a lap dancer in a seedy nightclub, you can feel better about yourself by taking your walk of shame into one of Liberty City's many museums:       
-0x05C29F1C=
+0x05C29F1C=在乱七八糟的夜店跟脱衣舞女玩了一晚上，找个博物馆参观一下能让你不那么自责：
 
 ;0xC5F142A9=Randolf Art Center
-0xC5F142A9=
+0xC5F142A9=Randolf艺术中心
 
 ;0xDAC24B0E=Galveston Avenue between Obsidian Street and Nickel Street, Middle Park West, Algonquin       
-0xDAC24B0E=
+0xDAC24B0E=Algonquin, 中央公园西, Galveston大道上, Obsidian街与Nickel街之间
 
 ;0x2CEB2922=Current Exhibits:       
-0x2CEB2922=
+0x2CEB2922=当前展览：
 
 ;0x6882F1E4=Philips Van Der Philip is the Dutch 'aesthetic minimalist', who creates paintings that look as little like the subject matter as possible. Critics say that Van Der Philip has exposed the gap between subject and object like no one else before.        
-0x6882F1E4=
+0x6882F1E4=Philips Van Der Philip是荷兰的「美学极简主义者」，他的画作以尽可能的不像描绘的对象为目标。评论家说Van Der Philip的作品中展现出的客体与主体间的巨大鸿沟可谓是前无古人。
 
 ;0x7F6F5D05=Adam Biggs is the world-renowned 'abstract literalist' who painted nothing but circles during the 1950's and 60's.                
-0x7F6F5D05=
+0x7F6F5D05=Adam Biggs是世界闻名的「抽象白描主义者」，他在上世纪50年代和60年代的画作全都是圆圈。
 
 ;0x5C0AA9D6=National Union of Contemporary Arts - NUCA
-0x5C0AA9D6=
+0x5C0AA9D6=国立当代艺术馆 - NUCA
 
 ;0x92ACD395=Dukes Boulevard at Bunker Hill Avenue, East Island City, Dukes       
-0x92ACD395=
-
-;0x2CEB2922=Current Exhibits:       
-0x2CEB2922=
+0x92ACD395=Dukes, 东岛城, Dukes大道与Bunker Hill大道交汇处
 
 ;0xA82742DB=Bao is an incredible and original Chinese artist who paints with pandas.  More specifically, he sings and shouts at pandas until they do the painting for him.       
-0xA82742DB=
+0xA82742DB=Bao是一位令人惊奇的中国原创画家，与熊猫一起完成画作。更确切地说，是他朝着熊猫唱歌大叫，逼着熊猫替他画画。
 
 ;0x7E8CDE81=Simon & Nigel are two middle-aged British homosexuals who take photographs of themselves reenacting famous atrocities in history, dressed as gorillas.            
-0x7E8CDE81=
+0x7E8CDE81=Simon & Nigel是两位来自英国的中年同性恋，他们会在照片中打扮成猩猩重演历史上的知名暴行。
 
 ;0x83C772AC=Libertonian Museum
-0x83C772AC=
+0x83C772AC=自由城博物馆
 
 ;0x50798B7D=Columbus Avenue opposite Pyrite Street, Middle Park, Algonquin       
-0x50798B7D=
-
-;0x2CEB2922=Current Exhibits:       
-0x2CEB2922=
+0x50798B7D=Algonquin, 中心公园, Columbus大道与Pyrite街交汇处
 
 ;0x5B62DBE5=History, Heraldry, Egypt, Dinosaurs        
-0x5B62DBE5=
+0x5B62DBE5=历史、纹章、埃及、恐龙
 
 ;0x29114411=NOTE: CLOSED FOR RENOVATION        
-0x29114411=
+0x29114411=注：闭馆翻修中
 

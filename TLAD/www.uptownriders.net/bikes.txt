@@ -2,41 +2,41 @@
 0xEC7F0608=
 
 ;0xD0A896EE=A cutting edge race-replica, this bike features a 1000cc liquid cooled in-line 4 cylinder engine which produces over 180bhp through a 6 speed gearbox to its 200 section rear race spec rubber. Its thoroughbred components ensure a nigh on 200mph limit can be reached easily whilst its 320mm dinner plate sized brake discs bring things to a stop on mo' fuckin' dime. The single sided rear swingarm perfectly shows off its lightweight alloy rear wheel while the Underseat exhaust makes sure your bitch's ass stay warm!
-0xD0A896EE=
+0xD0A896EE=先进的赛车设计，这款摩托搭载了1000cc的液冷四缸发动机，借助六档变速箱，经由200节链条向赛车级橡胶后轮输出超过180制动马力。在原装部件的加持下更能轻易达到200mph的速度上限，320mm的刹车盘更让刹车一捏就停。单摇臂的设计完美展示了这款车型的轻质合金后轮，而后座正下方的排气管更能保证你家娘们大腿不会着凉！
 
 ;0xA5F6FFAE=BATI 801R
 0xA5F6FFAE=
 
 ;0x02DA4DA5=The ultimate Italian stallion! A rare as shit and $$$ version of the 801, this got an even more out there 195bhp block to propel it to past warp 20, motherfuckers!!! Lightweight alloys and carbon fiber make this faster than its street version too. This one will ensure everyone else plays catch-up!
-0x02DA4DA5=
+0x02DA4DA5=意大利终极种马！极其稀有，极其费$$$的801，极限制动马力提升至195，扭矩超过20，太鸡巴猛了！！！轻质合金和碳纤维也让801R比普通款速度更快。这辆车能让所有人吃你的尾气！
 
 ;0xD443B084=DOUBLE T
 0xD443B084=
 
 ;0x25A57B40=Modern street bike for the soldiers, this 900cc in-line 4 produces 170bhp. It dominated the market 'til the 801 showed on the scene. Still a capable weapon in the right hands - its agility and availability mark it out as a true modern classic. User-friendly and reliable, this 180mph rocket has few vices and is still lighter than most of its $$$ rivals!
-0x25A57B40=
+0x25A57B40=为普通人准备的现代街车，900cc的四缸发动机能更产生170制动马力。直到801发布之前，这款车型都是市场上的霸主。在好人手里依然是一款好用的武器，机动性和质量让它在现代复古车型中脱颖而出。易于上手，质量可靠，这台时速180mph的火箭少有缺陷，重量还比其他$$$的对手都要轻！
 
 ;0xFE5A4C3E=DOUBLE T DRAG
 0xFE5A4C3E=
 
 ;0x34079D98=Created as much for Sunset Strip as the drag-strip, this lowered and stretched version of the Double T with chrome bling and custom paintwork. Cruise on it at 10 mph or dial it up to a ton. Its 900cc tuned road engine turns out 20bhp more than the standard model.
-0x34079D98=
+0x34079D98=既是为了穿梭日落大道，又是为了参加直线加速，这款压低拉长版的Double T在镀铬层上绘制了涂装。以10mph的低速缓缓迅游，或是一拧到底奔向极限。精心调整过的900cc发动机相较于普通款可以多提供20制动马力。
 
 ;0xD5714678=Anything more than straight lines and the long drag inspired bike will struggle, you hear?
-0xD5714678=
+0xD5714678=除了直道和参加直道赛用的摩托都无可匹敌，听见了吗？
 
 ;0x364A6B45=HAKUCHOU
 0x364A6B45=
 
 ;0xF6DD501B=The grand tourer to top them all! Able to blaze coast to coast with ease thanks to its 1300cc monster. 200bhp "bullet train" engine and wind tunnel developed bodywork this bike is the one to choose!! The Hakuchou is a King mother fucking missile. Twisties might tie this bitch in a knot though. Keep it straight lining on this beast.
-0xF6DD501B=
+0xF6DD501B=旅游车的登顶之旅！得益于1300cc的怪兽级发动机，这款车型能够轻松往返于东西海岸。200制动马力的「子弹头」发动机和流线型车体，这款车不容错过！！Hakuchou就他妈是超音速导弹。遇见曲折的道路可能有点难受。驾驭这头猛兽在直道上狂奔吧。
 
 ;0xB286340D=HAKUCHOU DRAG
 0xB286340D=
 
 ;0xAD67A3E1=The true "King of Bling". This ultra long and lowered chromed behemoth is capable of blistering acceleration thanks to its drag-inspired swingarm and race prepped engine turning out in the region of 250bhp.
-0xAD67A3E1=
+0xAD67A3E1=真正的「华丽之王」。这台超长的镀铬猛兽专于瞬间加速，直道特化的摇臂和赛车等级的发动机让它的制动马力达到了惊人的250。
 
 ;0xB4CE70FF=Form over function however means that you might struggle to bring it back down again - the single front 330mm brake disc aint gonna clam this bitch easy. At least the crowds who gather to see the wreckage will enjoy the un-interrupted view of the chromed front wheel! Yeah!
-0xB4CE70FF=
+0xB4CE70FF=外形大于功能，但这意味着想要稳稳当当地刹住车并非易事，前轮的330mm单刹车盘远不足以让它冷静下来。不过凑过来看车子尸体的人们至少能完全看到镀铬的前轮！耶！
 

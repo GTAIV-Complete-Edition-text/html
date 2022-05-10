@@ -1,51 +1,51 @@
 ﻿;0xEDE38757=Welcome to one of the thousands of official websites for Eunux, the open source operating system that geeks love! Just imagine your car being put together by hundreds of people in their spare time. That's the same as the open source movement.
-0xEDE38757=
+0xEDE38757=欢迎来到 Eunux 的数千个官网之一。Eunux 是深受极客热爱的开源操作系统！想象一下几百号人在业余时间造了辆车，这就是开源运动。
 
 ;0x1B3062BB=Eunux, masturbation, vandalism... all the best things in life are free. Why pay $300 to a mega-corporation so you can run $oftware compatible with 99% of computers on the planet when you can join the open source insurgency and be at the ground floor of a revolution?! The underlying source code is available for anyone to modify and redistribute freely which means that you can see how the system works! Doesn't this excite you?! Compiling code r0xx0rz! We're going to bankrupt the $oftware monopoly.
-0x1B3062BB=
+0x1B3062BB=Eunux、自慰、破坏公物... 生活中最美好的东西都是免费的。既然能加入开源大军，成为革命事业的基石，为什么还要花上 $300，向巨型企业购买能在地球上 99% 的电脑上运行的商业系铳？我们的源代码是公开的，允许任何人修改和二次分发，可以深入探索系统背后的原理！这不是很牛逼吗？！自己编译才是王道！我们要让软件垄断破产。
 
 ;0x6EBE4BB0=Just imagine what would happen if all the fancy clothing stores released copies of their designs?!
-0x6EBE4BB0=
+0x6EBE4BB0=想象一下，高端服装品牌把设计图纸公布出来会怎么样？！
 
 ;0xA79F53AC=You would never buy clothes again, right?
-0xA79F53AC=
+0xA79F53AC=从此以后再也不用买衣服了，对吧？
 
 ;0x7EBF7BC5=Only a fool would pay for something when he can get it for free.
-0x7EBF7BC5=
+0x7EBF7BC5=既然有免费版，白痴才会选择付钱。
 
 ;0xEC22F132=Why buy a house when you can make one out of scrap?
-0xEC22F132=
+0xEC22F132=明明能自己建，何必向别人买房？
 
 ;0xBA3C57DE=Why go to a supermarket when you can home-farm?
-0xBA3C57DE=
+0xBA3C57DE=明明能自己种，何必去超市买菜？
 
 ;0xD4E00E93=Why buy a car when you can make one yourself?
-0xD4E00E93=
+0xD4E00E93=明明能自己造，何必去展厅买车？
 
 ;0x9B2156EA=At Eunux.net, we all drive around in wooden go-carts powered by hairdryers that we made in our backyards.
-0x9B2156EA=
+0x9B2156EA=在 Eunux.net，我们都开木板卡丁车，用自制染发剂驱动。
 
 ;0xEF0A162A=L33t!
-0xEF0A162A=
+0xEF0A162A=精英捏！
 
 ;0x5E4462F0=There are literally millions of different versions of Eunux called distributions or 'distresses', such as RedTwat 328.4, Ucuntu 293.6, Slackcrack 784.9 and Knobbix 136.7. A few of them actually work but we're not going to tell you which ones - that's all part of the fun! Eunux is compatible with almost everything, apart from a sex life, and can do almost anything, except music, movies, games or fun in general. It is the best operating system in the world.
-0x5E4462F0=
+0x5E4462F0=Eunux 有数百万个不同的版本，被称为「发行版」，或者说「疯发版」。例如：RedTwat 328.4、Ucuntu 293.6、Slackcrack 784.9 和 Knobbix 136.7。部分版本是真正好用的，但我们不会告诉你具体是哪个版本——折腾才是乐趣所在！Eunux 几乎兼容一切，性生活除外。Eunux 几乎是全能的，只是不能听音乐、看电影、打游戏，没法用来娱乐。这是全世界最好的操作系统。
 
 ;0x2FED096F=But, before you shit the tighty-whities your Mom bought you, it gets even better: as a Eunux user, you will have the chance to be part of a cult-like community and learn a secret handshake. You will finally belong somewhere!        
-0x2FED096F=
+0x2FED096F=但是，在你吓得把屎拉到你妈给你买的小内内上之前，还有一个好消息：成为 Eunux 用户以后，你会成为社区信徒的一份子，学到识别同好的暗号。你终于找到了家一样的归属感！
 
 ;0x77E45944=Why would you want a glitzy, out-of-the-box, plug-and-play, one-size-fits-all desktop solution when you can buy a computer a piece at a time and build it from scratch?
-0x77E45944=
+0x77E45944=明明能自己买配件组装，为什么要选择外表光亮、开箱即用、即插即用、千人一面的台式整机呢？
 
 ;0x1ADE05D7=Eunux is easy - after about six months of getting flamed on message boards when asking for help, you'll finally figure out the answer to your questions, and, after a few weeks of online tutorials, you should be able to play a DVD.
-0x1ADE05D7=
+0x1ADE05D7=Eunux 很简单，在论坛上伸手求助被人冷嘲热讽上半年以后，你就能找到问题的答案了。花个几周研究网上的教程，你就能学会播DVD了。
 
 ;0xF8FA0797=Can you think of anything better than spending your weekend recompiling a kernel? Do you even know what we're talking about? A fucking kernel man! Eunux is completely free, so long as time has no value to you. All we ask in return is that you worship our founder. He is a geek god. If you speak to him nicely, he will tell you the meaning of life. Just don't mispronounce Eunux or he will make the system even less intuitive.           
-0xF8FA0797=
+0xF8FA0797=还有什么能比周末重新编译内核更加快乐呢？你真的能看懂网页上的内容吗？内核懂不懂！Eunux 完全免费，只要你的时间成本不算成本。我们需要的回报只有一个，就是崇敬我们的创始人。他是极客之神。如果好好跟他说话，他会告诉你人生的意义。别把 Eunux 这个名字念错就行，否则他会把系统搞得更反直觉。
 
 ;0xFAFB14C6=Come on! What better way to fuck capitalism in the ass than an operating system used by nobody?!! Don't kid yourselves - you're never going to get laid. Join the free software subculture instead. 
-0xFAFB14C6=
+0xFAFB14C6=来吧！要想狠狠搅和资本主义，使用没人用的操作系统不是再合适不过了吗？！！别骗自己了，你这辈子都脱不了处的。还是加入自由软件的亚文化吧。
 
 ;0xB86EC663=Become Eunux today!
-0xB86EC663=
+0xB86EC663=立刻成为 Eunux 吧！
 

@@ -1,36 +1,36 @@
 ﻿;0xFD86EDCA="Both my wife and I have spent most of our lives in and out of therapy for depression and rampant narcissism. When we discussed this with Dr. Von Singer, he told us about a new genetic modifier he had discovered that makes you feel like you're permanently on ecstasy. Our daughter is such a gift. She's everyone's best friend! All she does is walk around all day with a bottle of water, hugging people. Her quivering jaw is so cute! We couldn't have done it without Eugenics Incorporated!"
-0xFD86EDCA=
+0xFD86EDCA=「我和妻子一生中的大部分时间都在抑郁和自恋中度过。与Von Singer博士交流以后，他向我们推荐了一种最近发现的修饰基因，可以让人永远有一种嗑了摇头丸的感觉。我们的女儿真是太棒了，她是所有人的挚友！她每天都只是带着瓶水四处晃悠，拥抱别人。她发抖的下巴真是太可爱了！没有优基因公司，我们的家庭绝不会是今天这样！」
 
 ;0xA581BF98=Pete & Sandy, Los Santos
-0xA581BF98=
+0xA581BF98=Pete & Sandy，洛圣都
 
 ;0xC6D922F9="We got it wrong the first time. We were to keen to avoid a perma-grinning sitcom kid so we decided to mix in a few off-center characteristics like aloof, campy, self-deprecating and arrogant. You can imagine our surprise when, after a couple of years, we realized that we'd given birth to a British kid! Luckily, the team at Eugenics Incorporated was very understanding and offered us a free exchange. Thanks Dr. Von Singer!"
-0xC6D922F9=
+0xC6D922F9=「第一次我们搞错了。我们本来不想要一个永远笑着的小逗逼，所以稍微加了点冷淡、做作、自我否认、傲慢的性格进去。几年之后我们也很惊讶，发现这是典型的英国孩子！幸好，优基因公司的团队非常体谅我们，提供了一次免费换货的机会。谢谢Von Singer博士！」
 
 ;0xC2CBFE7F=Ian & Judy, Liberty City
-0xC2CBFE7F=
+0xC2CBFE7F=Ian & Judy，自由城
 
 ;0x3655BE7B="We were delighted with our first child from Eugenics Incorporated but we wanted to switch things up the second time. Why be boring?! Nobody looks quite like our Cymon. Gray hair, glow-in-the-dark skin and one massive eye in the middle of his forehead. He's a little freak! Also he can jump really high and doesn't feel pain. We feel so blessed! All rich people should genetically engineer their kids!!"
-0x3655BE7B=
+0x3655BE7B=「我们对优基因公司的第一个孩子很满意，第二次想换换胃口。那么无聊干嘛？！没人长成我们家Cymon那样。灰色的头发，黑暗中会发光的皮肤，额头中间还有一只巨大的眼睛。他就是个小怪兽！我们非常快乐！所有有钱人都应该用基因工程改造自己的孩子！！」
 
 ;0x5AAAB7B4=Ethan & Sky, Vice City
-0x5AAAB7B4=
+0x5AAAB7B4=Ethan & Sky，罪城
 
 ;0xCA10149E="I had always dreamt of having a daughter but I'm a very overprotective dad. I couldn't get the image out of my head of some tattooed punk deflowering the barely-teenage apple of my eye round the back of a Wigwam Burger. I woke up in cold sweats as I imagined myself castrating boys with my bare hands for daring to even glance at my little princess in the wrong way. At the same time, however, the last thing I wanted to look at over the breakfast table was a pudgy monstrosity with a face like a smacked ass. A complete Catch 22, until I spoke to Eugenics Incorporated. Dr. Von Singer designed me a beautiful daughter who is completely asexual and terrified of the outside world. Home schooling works for us and we're very happy. Thank you!"
-0xCA10149E=
+0xCA10149E=「我一直都想要一个女儿，但又是一个过度保护孩子的父亲。我的梦中总会出现这样的场景，某个有纹身的小混混在Wigwam汉堡后门当着我的面奸污我未成年的宝贝女儿。随后就会梦到自己徒手阉掉了对我女儿不怀好意的所有男人，带着冷汗惊醒。但是与此同时，我最不想看到的场面就是餐桌对面坐着一个又矮又胖的丑八怪，脸长得跟猴屁股似的。直到和优基因公司联系之前，这完全是一个死循环。Von Singer博士为我设计了美丽的女儿，没有性器官，同时还畏惧外面的世界。自己在家教孩子的模式很适合我们，我们生活得非常幸福。谢谢你们！」
 
 ;0x6EB25CC3=Ray, Las Venturas
-0x6EB25CC3=
+0x6EB25CC3=Ray，拉斯文加斯
 
 ;0xA7F24CEF="I needed someone to take over the family guttering business, and certainly didn't want it to be a girl. I had seen my nephews grow up, leave home and go to college. Ungrateful bastards! However, with the help of Eugenics Incorporated, I was able to design the perfect son for my needs. Below-average IQ, ambitionless but a physical warrior, Frankie is captain of every sports team, bottom of every class and firmly established as the school bully. He's everything I could have wished for! Let me tell you, he's not shy in the locker room! He started shaving at the age of 4! My only fear is that he might end up getting a football scholarship but I'm confident that his addictive personality will take care of that by 9th grade. Bioengineering - so much easier than beating your kids into shape!"
-0xA7F24CEF=
+0xA7F24CEF=「我需要有人继承家族事业，但又不希望被女孩继承。我看着那几个侄子长大、离家、进入大学。这群忘恩负义的混蛋！但是，在优基因公司的帮助下，我按自己的需求设计出了完美的儿子。低于平均水平的智商，没有野心的蛮力战士，Frankie能够成为任何运动队的队长，也会在任何班级中垫底，最后他成了校园一霸。完全是我理想中的样子！再告诉你一件事，在更衣室他也完全不会害羞！他从4岁就开始脱毛了！我只担心他有可能拿到橄榄球奖学金，但我相信，他那容易上瘾的性格会在九年级之前体现出来。生物工程——不打一样能成器！」
 
 ;0x2833A94C=Elmer, Bone County
-0x2833A94C=
+0x2833A94C=Elmer，骨漠郡
 
 ;0x1957CF8A="After a lot of discussion, we decided on an IQ of 150 for our son, Julius. He's 3 now and has just learned Mandarin Chinese. He's doing very well at school and recently wrote his first book report on 'Gender Bias in Homer's Iliad'. He has extremely high standards and tried to set himself on fire when he got 9 out of 10 on a math test. The teacher made a mistake. He boycotted Christmas last year and has vowed to speak only in Nietzsche quotes until we return his confiscated crossword book. Such a little rascal! He's a bit neurotic and calls social services whenever we try to touch him but we're very proud. And we'll have shipped him off to college by the age of 8! Thanks, Eugenics Inc.!"
-0x1957CF8A=
+0x1957CF8A=「经过大量讨论以后，我们决定为自己的儿子Julius设定150的智商。现在他3岁，已经学会说中文的普通话了。他在学校里表现很好，最近看了《荷马史诗中的性别偏见》后还写出了他的第一篇读书体会。他对自己要求很高，在满分10分的数学考试中只得了9分就想要自焚。最后发现是老师改错了。去年他开始抵制圣诞节，还发誓只引用尼采的文字说话，直到我们把没收的填字游戏大全还给他才恢复正常。这个小坏蛋！他有点神经质，而且每次我们想摸他的时候都会联系社工，但我们还是很骄傲。在他8岁之前我们就能把他送进大学了！感谢优基因公司！」
 
 ;0x99A5FD7A=Dave & Brian, San Fierro
-0x99A5FD7A=
+0x99A5FD7A=Dave & Brian，圣辉洛
 

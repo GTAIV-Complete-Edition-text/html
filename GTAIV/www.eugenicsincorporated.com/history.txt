@@ -1,9 +1,9 @@
 ﻿;0xA2E29963=The term Eugenics is derived from the Greek word 'Eugenes', which means 'making babies for money'. For some years now, a number of fertility clinics around the world have offered parents the opportunity to choose the sex of their baby, a service that has proved extremely popular in China and India. However, over the last 20 years, scientists like Dr. Von Singer have been working tirelessly to map out the 25,000 genes that make up the human genome. Most people assumed that the Human Genome Project was some kind of campaign to promote the decoration of suburban front yards with tacky little bearded figurines but the reality is that germinal choice technology has now advanced to the point where you can hand-pick the genetic make-up of your child. At Eugenics Incorporated, brains and beauty are firmly on the shopping list.
-0xA2E29963=
+0xA2E29963=「优基因(Eugenics)」这个名字源于希腊语的「优生(Eugenes)」，意思是说「靠孩子赚钱」。多年以来，全世界的许多生育诊所都会提供选择孩子性别的服务，这项服务更是盛行于中国和印度。但是，在过去的20年中，Von Singer博士这样的科学家不辞辛劳地工作，分析构成人类基因组的25000个基因。许多人认为人类基因组计划只是一场改善郊区住宅前院的运动，会为住户布置上俗气的小胡子雕像。但现实是胚胎选择技术已经足够先进，甚至可以亲手选择如何修饰孩子的基因。在优基因公司，美丽与智慧都是购物清单上的必选项。
 
 ;0x266D9DA1=The 1980's were IVF, the 1990's were PGD; the 21st century is the age of SPROG: Selective Prenatal Recombination of Optimal Genes. Pioneered by Dr. Von Singer at Eugenics Incorporated, SPROG is at the cutting edge of advanced reproductive technologies, enabling customers to design their perfect baby by ticking a few boxes in a glossy catalogue.
-0x266D9DA1=
+0x266D9DA1=八十年代时是IVF (体外受精)，九十年代时是PGD (胚胎基因筛查)，而21世纪则是SPROG的世纪：产前最优基因定向重组。由优基因公司的Von Singer博士领头研究，SPROG正是生殖领域最前沿的技术。只需要在产品目录上打几个钩，就能为客户设计出他们的完美神童。
 
 ;0x4F1B8342=Make a bioengineered baby today! 
-0x4F1B8342=
+0x4F1B8342=立刻用生物工程制造神童吧！
 

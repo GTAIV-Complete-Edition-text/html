@@ -1,75 +1,15 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3EEFFC59=>services
-0x3EEFFC59=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xC4E8DD35=SERVICES
-0xC4E8DD35=
-
-;0x47A1E8A7=Fly High Pizza Pie - baked to perfection!
-0x47A1E8A7=
-
-;0x05204770=(Liberty City)
-0x05204770=
-
-;0x097D5FDC=A family-owned business, we use only the freshest home-grown ingredients and pride ourselves on high-grade quality and discreet, speedy service.  Why buy second-rate pizza from a shady street vendor when you can get the best stuff in town delivered straight to your door?!  The finest herbs on the East Coast are but a phone call away.  The best way to relax at the end of a hard day is with a Fly High Pizza Pie.  
-0x097D5FDC=
+﻿;0x097D5FDC=A family-owned business, we use only the freshest home-grown ingredients and pride ourselves on high-grade quality and discreet, speedy service.  Why buy second-rate pizza from a shady street vendor when you can get the best stuff in town delivered straight to your door?!  The finest herbs on the East Coast are but a phone call away.  The best way to relax at the end of a hard day is with a Fly High Pizza Pie.  
+0x097D5FDC=自家生意，我们只用最新鲜的自种食材，并提供引以为傲的高品质、高保密、高速度服务。明明有人能送货上门，又何必去路边小摊买次品披萨呢？！只要一个电话，东海岸最好的草就能上门。辛苦一天后最好的放松，就是高飞披萨饼。
 
 ;0xD85D1C82=Order now!  
-0xD85D1C82=
+0xD85D1C82=赶快订购吧！
 
 ;0xA0865B31=Free delivery for orders over $100!
-0xA0865B31=
+0xA0865B31=满$100免配送费！
 
 ;0xDEEE4D4C=www.flyhighpizzapie.com 
 0xDEEE4D4C=
 
 ;0x106D60A0=PostingID: 242000420
-0x106D60A0=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x106D60A0=帖子ID：242000420
 

@@ -1,66 +1,9 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x04915A94=>activities
-0x04915A94=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xC2F12958=ACTIVITIES
-0xC2F12958=
-
-;0xEF1471E5=Political Group seeks cause and scapegoat
-0xEF1471E5=
-
-;0xCB164FC0=(America) 
-0xCB164FC0=
+﻿;0xCB164FC0=(America) 
+0xCB164FC0=(美国)
 
 ;0x29DEC64A=We formed the Centermost Party back in art college but, after years of meeting every day in Bean Machine coffee, we are still no closer to a cohesive manifesto.  Free wifi, jittery sexless activists and procrastination seem to go hand in hand.  We are really struggling to find a cause; something that will bind us as a group and propel us into the national spotlight.  Should we raise the school-leaving age or lower the age of consent?  Should we bring back smoking in public places or ban drinking everywhere except gentlemen's clubs?  Should it be illegal to curse?  This politics thing is much more difficult than we thought and that latest batch of white widow certainly isn't helping matters.  We need to find a way to organize nationally but at the moment we can't even agree on who picks up the tab for the whipped cream sticky toffee gunkaccinos.  Give us a policy we can believe in!  Ideas for scapegoats would also be much appreciated.  We're not going to get anywhere without a fall guy and it seems so boring to target the immigrants yet again. 
-0x29DEC64A=
+0x29DEC64A=还在艺校的时候，我们就组建了折中党。虽然这几年每天都在冰的咖啡开会，但是到现在都没有确定一个共同的行动路线。免费WiFi、紧张的性冷淡活动家和拖延症似乎是绝配。我们迫切需要一个奋斗目标，然后靠这个目标将个人凝聚成组织，引起全国关注。是要延长义务教育年限，还是降低性同意年龄？是要取消公共场所禁烟，还是禁止在除了绅士俱乐部以外的地方喝酒？是不是应该立法禁止爆粗？政治比我们想象中更难，而且新进的那批白寡妇(大麻)也没帮上忙。我们要在全国建立组织，可是现在都没能就谁给奶油太妃贡卡奇诺买单达成共识。给我们一个令人信服的政策宗旨吧！想来当替罪羊也可以。没有替死鬼的话，我们肯定成不了事。而且再把移民拿出来当目标似乎也有些无聊了。
 
 ;0x44438E34=PostingID: 424556523
-0x44438E34=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x44438E34=帖子ID：424556523
 

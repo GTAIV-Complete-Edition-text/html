@@ -1,87 +1,87 @@
 ﻿;0x5D7806FC="I used to weigh 180lbs and my life sucked! I felt like no man would ever be interested in me. My sister would try to make me feel better by sending postcards of Reuben's paintings and telling me how larger women are revered in certain cultures. Great!!!  So basically my only hope of finding a husband was to travel back in time 400 years or move to the Pacific Islands! What a bitch! Since I started taking Lipurgex, I have lost 70lbs and I feel great! The aftertaste is a bit like burnt turpentine but I'm a food-processing machine! Nothing stays in my system for more than a few seconds. I'm still single but at least now I know it's just because I'm not a very nice person."
-0x5D7806FC=
+0x5D7806FC=「以前我有160斤重，人生糟糕透顶！感觉不可能会有男人看上我。姐姐想让我振作起来，给我寄来了印着鲁本斯的画的明信片，还说有些地方的文化是以胖为美。好啊！！！看来我找到老公的希望只有往回穿越400年或者移民太平洋小岛了！太贱了！自从服用了Lipurgex，我的体重下降了60斤，感觉整个人好多了！药的余味有点像烧焦的松脂，但现在的我就是无情的食品处理机器！吃下去没几秒就都排到体外了。虽然依然单身，但我知道这只是因为我的性格还不够好。」
 
 ;0x7587DB54=Helen, 47, Las  Venturas
-0x7587DB54=
+0x7587DB54=Helen, 47岁, 拉斯文加斯
 
 ;0xF49BA9F5="I am desperate to reach a BMI of 10 or below so that I can get into modeling. BMI is calculated by dividing your weight by your age and multiplying by the number of pieces of fried chicken you eat on a weekly basis. With the help of Lipurgex, I am now very close to achieving my goal.  I take about 36 pills a day. I  don't sleep, I don't eat. Can you imagine how much I get done?! I had to stop driving because I kept fainting at the wheel and vomiting on the windshield but I am down to 70lbs! I'm a Lipurjunki! I can't get enough of Lipurgex! In fact, if I don't have it, I get extremely violent. I can't begin to tell you how good Lipurgex makes you feel.  You have to try it!
-0xF49BA9F5=
+0xF49BA9F5=「我非常想让自己的BMI小于等于10，就此进军模特圈。BMI是这样计算的：体重除以年龄，再乘上你一周吃几块炸鸡。服用Lipurgex之后，我就快达成目标了。我一天吃大约36片药，不眠不食。你能想象我的经历吗？我时常会昏倒在驾驶座上，抑或是吐满挡风玻璃，也因此被迫放弃开车，但我现在只有60斤重了！我就是Lipurgex瘾君子！我对Lipurgex永远都嫌少！说实话，一旦没药吃，我就会格外暴躁。都不知道该怎么形容Lipurgex带给人的良好感觉。一定要亲自体验！
 
 ;0x270C92A5="
 0x270C92A5=
 
 ;0xF5B8236B=Vicky, 17, Los Santos
-0xF5B8236B=
+0xF5B8236B=Vicky, 17岁, 洛圣都
 
 ;0xB7444FDC="Whats the sstatus with  my order??!!! It's sstarting to weear  off!!! I just ate a black forrest xcake. Pleaese send nmore.
-0xB7444FDC=
+0xB7444FDC=「我的订单什么时候能送？？！！！已经压不住隐了！！！刚吃了一块嘿森林蛋糕。麻烦多送点过来。
 
 ;0xDDBE83A0=I feelk lik I have bugs crawling all over my skinm. I need Lipurgex!!!! Sorryu for the bad typing - one side of my boddy has gone numb...
-0xDDBE83A0=
+0xDDBE83A0=感觉身上又蚂蚁在爬。我需要Lipurgex！！！！打错字了抱歉，半边身体已经麻木了..._
 
 ;0x270C92A5="
 0x270C92A5=
 
 ;0x5A57670B=Maria, 22, Liberty City
-0x5A57670B=
+0x5A57670B=Maria, 22岁, 自由城
 
 ;0x9520A8E7="I used to blast a joint and then wolf down a pint of cookie dough ice-cream but with Lipurgex I can smoke as much weed as I want without ever getting the munchies! When I take the green pills, I feel invincible. When I take the red pills, I  pass out within 10 seconds. Wild!! The fecal incontinence can be annoying but that oily orange discharge is trippy, man! My colon has never felt so clean!
-0x9520A8E7=
+0x9520A8E7=「以前我抽一支大麻就要吃一品脱曲奇冰淇淋。自从有了Lipurgex以后，我想抽多少就抽多少，连甜点都省了！咽下绿药片后，我感觉自己无人能挡。咽下红药片后，我十秒内就会昏倒。太猛了！！大便失禁是有点麻烦，但排出的橙色油状物太魔幻了，老兄！我的肠道从未如此干净！
 
 ;0x6B475FB5="    
-0x6B475FB5=
+0x6B475FB5=」
 
 ;0x81681437=Xavier, 26, San Fierro
-0x81681437=
+0x81681437=Xavier, 26岁, 圣辉洛
 
 ;0x3F8E6AE8="I only had a few days before I went on vacation and I was desperate to get in shape. I necked a couple of bottles of Lipurgex and lost 30lbs in 48 hours! My friends couldn't stop talking about how skinny I looked! They also commented on the hair loss, facial tics and slurred speech but who cares?!!! I rocked that bikini!
-0x3F8E6AE8=
+0x3F8E6AE8=「离度假的日期只有几天了，必须尽快瘦身。我吞了几瓶Lipurgex，短短48小时就减掉了将近30斤！我的朋友都忍不住说我太瘦了！他们还提到了我现在脱发、面部抽搐、口齿不清，但这重要吗？！！！穿比基尼够性感就行了！
 
 ;0xD7C9211A=One tip - don't mix Lipurgex with tequila.
-0xD7C9211A=
+0xD7C9211A=小贴士：吃了Lipurgex别喝龙舌兰。
 
 ;0x568260ED=I went out for a few drinks and woke up three days later dangling naked from a suspension harness in a Barbadian waiter's basement.  I would urge anyone to try Lipurgex. They love diet pills in Brazil and it has the most beautiful people in the world! I take Lipurgex every day... every hour, in fact.  I go blind from time to time 
-0x568260ED=
+0x568260ED=喝了几杯龙舌兰我就昏倒了，三天后才醒过来。醒来时在一个巴巴多斯服务员的地下室里，被人吊在架子上，浑身赤裸。我强烈推荐所有人尝试Lipurgex。巴西人就很喜欢减肥药，那里也有全世界最美丽的人！我每天都要吃Lipurgex... 好吧，其实每个小时都吃。虽然时不时会失明，
 
 ;0x5ADBAFD2=but I look 
-0x5ADBAFD2=
+0x5ADBAFD2=但我看起来
 
 ;0x15603D91=HOT!!!
-0x15603D91=
+0x15603D91=很性感！！！
 
 ;0x270C92A5="
 0x270C92A5=
 
 ;0xD156DF1E=Beth, 19, Vice City
-0xD156DF1E=
+0xD156DF1E=Beth, 19岁, 罪城
 
 ;0x4D0589BB="Until 2 months ago, I  hadn't seen my feet since the 1980s. 
-0x4D0589BB=
+0x4D0589BB=「自从上世纪九十年代，我就没见过自己的脚了，直到两个月前。
 
 ;0x0E7125D0=I couldn't work out why I was so big! Then I read in a magazine that when the body takes in more calories than it can burn off, the excess energy is stored as fat!  Quite a shock, I can tell you.  But how I am supposed to burn calories when I spend all day sitting in front of a computer screen and all night sitting in front of a TV screen? What can you do when your family has a  history of intolerance to fruit and vegetables?  Then I discovered Lipurgex. Within 4 weeks, I had lost 80lbs! 
-0x0E7125D0=
+0x0E7125D0=我一直不知道自己为什么体型这么大！然后我在杂志上读到了，一旦身体摄入超过消耗量的卡路里，过剩的能量就会转化为脂肪存储！太震惊了，真的。但我白天对着电脑，晚上对着电视，哪有机会消耗能量呢？一边还有家族性的果蔬不耐受，这该怎么办呢？后来我发现了Lipurgex。服药四周后，我瘦了足足70斤！
 
 ;0xCDC473EB=My idea of exercise used to consist of crawling to the kitchen to fish out a waffle from the toaster... now I am constantly hyper!!! I flap my bat-wings at the world!!! The queasiness and racing heart take some getting used to (imagine 20 espressos on an empty stomach!) but Lipurgex is  celebrity-endorsed so it must be safe.  People used to stare at me because I was so fat; now I just think everyone is staring at me because I am so paranoid. Buying Lipurgex was the best move I ever made. Leave me alone stop following me." 
-0xCDC473EB=
+0xCDC473EB=对我来说，以前运动是指往返厨房清洗面包机... 现在我24小时都精力旺盛！！！向世界挥动我的蝙蝠翼！！！恶心呕吐和心率加速需要适应一下 (想象一下空腹喝下20杯意式浓缩！) 但Lipurgex有名人代言，一定是安全的。以前我很胖，别人都盯着我看。现在多半是因为我太多疑，他们才会盯着我吧。购买Lipurgex是我最明智的选择。离我远点，别再跟踪我了。」
 
 ;0x5682F949=Toby, 36, England
-0x5682F949=
+0x5682F949=Toby, 36岁, 英国
 
 ;0x09286685="I was so fed up with the stereotype of fat women being jolly and giving good head. My fat acceptance group claimed that Western society has been brainwashed into desiring an unnatural body shape when, in fact, we are innately predisposed to find plumpness attractive because for millennia before us it was a sign of prosperity and wealth. 
-0x09286685=
+0x09286685=「我受够了胖姑娘口活棒的刻板印象。我的肥胖认同小组说西方社会的审美已经被洗脑了，都喜欢不自然的体型，其实人类天生更喜欢丰满的体型，因为在一千年前，肥胖是富贵的象征。
 
 ;0x036D1CA7=BULLSHIT!!!
-0x036D1CA7=
+0x036D1CA7=放屁！！！
 
 ;0x80455438=  By that measure, everyone on the West Coast should be penniless and the majority of Texas should be rich beyond their wildest dreams.  For years I thought that smoking was the only way to suppress appetite. Then a friend recommended Lipurgex. I was a little worried about the levels of amphetamine - sorry, On Fei Taa Ming - but the label on the  bottle says Lipurgex is non-habit-forming.  And I trust Dr. Von Singer! 
-0x80455438=
+0x80455438=照这么说，整个西海岸都是穷鬼，德州的大部分人反倒富得流油。多年来我一直认为只能靠抽烟抑制食欲，然后一个朋友向我推荐了Lipurgex。当时我对安非他命——抱歉，应该是On Fei Taa Ming——的剂量还有点担心，但瓶子标签上写着Lipurgex不具有成瘾性。我也相信Von Singer医生！
 
 ;0x0D50481F=I must have been so depressed before Lipurgex because whenever I don't have it I feel like committing suicide. It's changed my life.
-0x0D50481F=
+0x0D50481F=服用Lipurgex之前的我一定很抑郁，因为现在我吃不上Lipurgex就会有自杀的念头。Lipurgex改变了我的人生。
 
 ;0x270C92A5="
 0x270C92A5=
 
 ;0x55ACE6B8=Abby, 32, Liberty City
-0x55ACE6B8=
+0x55ACE6B8=Abby, 32岁, 自由城
 

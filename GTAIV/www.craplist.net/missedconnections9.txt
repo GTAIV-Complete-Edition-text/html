@@ -1,57 +1,18 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x6520FC0D=>missed connections
-0x6520FC0D=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x0CE017A1=women seeking men
-0x0CE017A1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x0E776B53=MISSED CONNECTIONS 
-0x0E776B53=
-
-;0x5838E52F=You're a hot flight attendant, I was drunk 
-0x5838E52F=
+﻿;0x5838E52F=You're a hot flight attendant, I was drunk 
+0x5838E52F=你是性感的空姐，我当时喝醉了
 
 ;0xD1A59DB6=(Cerveza Heights)
 0xD1A59DB6=
 
 ;0x0046E315=I was the loaded guy in the suit on flight 207 from Los Santos to Liberty City.  I kept asking you to get things out of the overhead locker.  I threw peanuts at the disabled kid.  You told me you would call the police if I didn't stop singing.  I puked in the in-flight magazine and then passed out.  You were wearing lots of make-up and a tight skirt.  
-0x0046E315=
+0x0046E315=我是从洛圣都飞往自由城的207次航班上的那个西装男。当时喝醉了，一直让你从行李架上拿东西，还朝那个残疾孩子扔花生。你说我再唱下去就要报警了。我吐在了机上杂志里，昏过去了。你化了很厚的妆，穿着紧身裙。
 
 ;0x70802FE4=Let's start over.  
-0x70802FE4=
+0x70802FE4=我们从头来过吧。
 
 ;0x6BEED6AB=Cocktails on Saturday? 
-0x6BEED6AB=
+0x6BEED6AB=周六喝杯鸡尾酒？
 
 ;0x1BC618FA=PostingID: 882035073
-0x1BC618FA=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x1BC618FA=帖子ID：882035073
 

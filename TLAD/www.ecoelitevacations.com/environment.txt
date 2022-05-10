@@ -1,15 +1,15 @@
 ﻿;0x9800CAB6=So, what makes a vacation an eco-vacation? Mostly just clever marketing...
-0x9800CAB6=
+0x9800CAB6=怎样的旅行才算是生态旅行？主要看营销手段是否高明...
 
 ;0x6DC962FA=What could be more environmentally-friendly than driving to the airport in your SUV and flying 10,000 miles to stay in a 5-star jungle retreat with a bunch of other self-important liberals? We have to cut down a few forests, pollute a few rivers, erode a few footpaths and drain the local communities of their limited natural resources but that's a small price to pay for making rich western tourists feel less guilty about the lavish lifestyles they lead for the other 51 weeks of the year. Make sure to leave money for the "Local Sustainability Fund." At the end of the week, the jar is emptied by the bartender and all of the local people get drunk on your money.
-0x6DC962FA=
+0x6DC962FA=开着SUV去机场，飞越一万英里，落地后和一帮自命不凡的自由派住进五星级丛林小屋，这可太环保了。虽然我们砍倒了几片树林，污染了几条河流，踩出了几条步道，榨干了当地有限的自然资源，但这些代价都不足挂齿，因为绿色旅游能让富有的西方游客对自己铺张浪费的生活方式没那么内疚，毕竟他们一年要奢靡地过上51周。临走之前一定记得给「当地可持续发展基金」捐款。在行程的最后一天，酒保会倒空最后一滴酒，当地居民也会在被你包场的酒吧里喝个烂醉。
 
 ;0xBEEDC72B=When we displace the indigenous population from their sacred lands to make way for the construction of eco-resorts where fruity Americans can get massages, we offer them something in return: the gift of gentrification. We teach them about the joys of competition, the harsh realities of a market economy, and the fair balance of a consumer culture that funnels all the revenues back to the First World. What native wouldn't jump at the chance to give up farming and sell ethnic trinkets to stoned Western tourists instead? Nothing restores dignity to a poverty-stricken rural community like turning them into a sideshow for over-privileged gap year students and 30-something professionals in cargo pants.              
-0xBEEDC72B=
+0xBEEDC72B=尽管我们强制原住民搬离他们世代生存的土地，将其改造成生态旅游景点，供脑子有病的美国人享受按摩，但我们也给了原住民回报：中产阶级化。我们教会了他们竞争的乐趣，市场经济的残酷现实，以及消费文化的公正平衡，所有收入最终都会流回第一世界。从此告别种田，改行向傻不拉几的西方游客出售特色饰品，哪个土著会拒绝这种机会呢？想要恢复贫穷乡下地区的尊严，最好的办法就是把他们本身变成一道风景，供温室里的学生和穿着工装裤的三十多岁专家观赏。
 
 ;0xD7FD6808=Staying in a purpose-built eco-lodge, drinking bottled water and driving around in an air-conditioned jeep really gives people a new perspective on the complex socio-political issues of a country. Instead of simply clutching their wallets to their chests and yelling at the local savages for not speaking English, eco-tourists are encouraged to spend time learning about indigenous cultures and fostering relationships with the natives by enjoying the great deals of 2 for $20 T-shirts that feature cute rain forest creatures on them.
-0xD7FD6808=
+0xD7FD6808=住在特别建造的生态小屋里，喝着瓶装水，打着空调开吉普车，任何人体验过这样的生活后都会对国家的社会政治问题产生全新看法。生态旅行者会对当地的原生文化进行了解，花$20购买两件印有可爱雨林动物的短袖，借机与当地土著联络感情。不像那帮土老帽，时刻把钱包攥在胸前，生怕被人抢走，还会因为当地的野蛮人不说英语就对他们大喊大叫。
 
 ;0x92AD2726=Baggage handlers and corrupt officials will benefit too - by planting drugs into your luggage or surf or bodyboard bag so you unwittingly take all the risk while they make all the money. And if the stoned baggage handler on the other end in Bali forgets to take out the package - you'll get to spend some extra time in an Indonesian prison really getting to know the local way of life.              
-0x92AD2726=
+0x92AD2726=行李搬运工和腐败的官员也能从中获利，在你的行李箱、冲浪板、背包里放上毒品，让你在不知不觉中成为毒骡，背上风险。一旦巴厘岛那边的行李工吸大了忘记把毒品拿出来，你就得去印度尼西亚的监狱里体验真正的当地生活了。
 

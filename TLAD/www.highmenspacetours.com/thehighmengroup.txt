@@ -1,18 +1,18 @@
 ﻿;0x3A07DAF3=The Highmen Group
-0x3A07DAF3=
+0x3A07DAF3=Highmen集团
 
 ;0xED226881=The Highmen Group is owned by Jefferson Springfield Jr, a visionary  passive-aggressive Southern entrepreneur with a demonical grin and a flair for  self-aggrandizement.
-0xED226881=
+0xED226881=Highmen集团由Jefferson Springfield Jr所有，他是一个富有远见，消极进取的南方企业家，有着恶魔般的笑容和自我吹嘘的天赋。
 
 ;0xFC4E642F=Music stores, soft  drinks, airplanes, hot air balloons, trains, banking, cell phones, condoms,  machine guns, rockets, gold teeth, vodka...Springfield will not stop until the  Highmen logo is emblazoned on every product on every shelf in the world. He made his first million at the age of 3,  bought his first Third World country at the age of 10 and was awarded a presidential medal for services to campaign funding
-0xFC4E642F=
+0xFC4E642F=音乐商店、软饮料、飞机、热气球、火车、银行业、手机、避孕套、机关枪、火箭、金牙、伏特加... 在全世界所有货架上的产品都印上Highmen的标志之前，Springfield不会停止扩张的脚步。他在3岁时赚到了第一个一百万，在10岁时买下了第一个第三世界国家，在13岁时因帮助筹措竞选资金而被授予总统奖章。
 
 ;0x2D28E27B=at the age of 13.
-0x2D28E27B=
+0x2D28E27B=_
 
 ;0x54C500BE=He now spends most of his time and marketing budget on promoting his philanthropy, trying to break world records and very occasionally wondering what other 
-0x54C500BE=
+0x54C500BE=现在，他把大部分时间和营销预算都花在推广他的慈善事业上，试图打破世界纪录。
 
 ;0x51CB258F=people see in 'art'.
-0x51CB258F=
+0x51CB258F=偶尔也想探查他人在「艺术」方面的洞见。
 

@@ -1,21 +1,15 @@
 ﻿;0xAC5D8545=Stand Out From The Crowd 
-0xAC5D8545=
+0xAC5D8545=从人群中脱颖而出
 
 ;0x9C4D79C2=Eris is redefining the limits of taste with the new NDanger range. The NDanger is a Japanese-designed golf, tennis, ten-pin bowling shoe hybrid crafted from the rarest animal pelts in the world today.  Available in Giant Panda, Snow Leopard and Black Lemur, this luxury sports shoe features ivory eyelets, eaglet aglets and laces made from braided gorilla hair.  A shoe for the true Eristocrat.  Live dangerously.  Be the hunter, not the prey.
-0x9C4D79C2=
+0x9C4D79C2=通过全新推出的NDanger(濒危)系列，Eris重新定义了品味的限制。NDanger是一款日本设计的高尔夫、网球、保龄球多用鞋，用当今世界最珍稀的动物毛皮制成。可选择大熊猫、雪豹、黑狐猴三种款式，鞋上还有象牙孔眼、雏鹰带扣和用猩猩毛制成的花呗。这双鞋为真正的Eris贵族打造。行走在危险边缘。成为猎手，而不是猎物。
 
 ;0x217BDA5C=$20,000!
-0x217BDA5C=
+0x217BDA5C=$20,000！
 
 ;0xC855F8A9= Limited availability! Extreme limited edition.
-0xC855F8A9=
+0xC855F8A9=限量发售！究极限量版。
 
 ;0x946F1259=This line will be reissued in five years as the Eris Xtinct. 
-0x946F1259=
-
-;0xED147BBF= DECIPHERING THE LINGO
-0xED147BBF=
-
-;0x9B780572= CLICK HERE FOR A MESSAGE FROM ERIS FOUNDER, PETER VASSAL
-0x9B780572=
+0x946F1259=这条产品线会在五年之内以Eris Xtinct(灭绝)的名义复刻。
 

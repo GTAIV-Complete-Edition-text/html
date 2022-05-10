@@ -1,27 +1,27 @@
 ﻿;0x5800C368=My friends, fellow believers - Shutting down my radio show was not something I did lightly. I have received your letters of sadness from throughout the country. Thanks to the many incarcerated listeners who have sent pictures and shivs. It was out of necessity to end this - in that it is inevitable what is about to happen and I must protect myself and my research from harm.  
-0x5800C368=
+0x5800C368=朋友们，信者们，经过深思熟虑，我最终选择了停播自己的电台节目。我收到了来自全国各地的信件，也知道大家的悲伤。感谢许多从监狱寄来照片和刀片的听众朋友。节目停播也是迫不得已，因为我们无法逃脱即将到来的命运，而我也需要保护自己和研究成果，以免遭受各种威胁。
 
 ;0x5DE91201=Thanks to the guys at 
-0x5DE91201=
+0x5DE91201=感谢来自
 
 ;0xEF1349BC=liesdamnlies.net
 0xEF1349BC=
 
 ;0x31E9AE78= and 
-0x31E9AE78=
+0x31E9AE78=、
 
 ;0xA6AA98C3=domestobotlovers.com
 0xA6AA98C3=
 
 ;0x5171DB56= for the rally they held in support of me. Throughout this Rocket Summer, I have prepared my ship - as I call my underground bunker - in preparation for what will be an apocalypse of catastrophic, planet-wide proportions. Y2K is very real, and those that do not prepare will perish. Nostradamus, Cicero, even Abraham Lincoln predicted this day, the day when computers would fuck mankind sideways. And I for one am not going to go down like a spaceship in the desert and be left to rot. My robot creations and I have been digging for 5 years. The day has come.  
-0x5171DB56=
+0x5171DB56=的朋友，感谢你们为我举办支持活动。经过这个火箭之夏，我已经准备好了自己的战舰——也就是我的地下堡垒——用来躲避即将来临的全球性末日浩劫。千年虫真实存在，不做准备的人将会灭亡。诺查丹玛斯、西塞罗、甚至是亚伯拉罕林肯都预言了这天，电脑将在这天毁灭人类。我不想像降落沙漠的太空飞船一样烂在那里等死。我已经和我的机器人共同挖掘了五年。这一天终于要来了。
 
 ;0xAA80D052=The million year picnic begins my friends...  
-0xAA80D052=
+0xAA80D052=百万年的野餐要开始了，朋友们...
 
 ;0x8A6A8758=I will emerge 10 years from now to take us to that new place - with a new radio show and the wisdom I've gained from living underground with my robot friends.  
-0x8A6A8758=
+0x8A6A8758=我会在这里避难十年，直到到达新的家园。那里会有新的电台节目，还会有我在地下生活期间从机器人朋友身上得到的智慧。
 
 ;0xE18E5F5E=Has the future already happened someplace else? Don't believe what they tell you. It begins here. As I close the hatch - remember what I have taught you. Krant, and good luck.
-0xE18E5F5E=
+0xE18E5F5E=未来已经在哪里发生了吗？不要相信他们说的鬼话。未来从这里开始。舱门就要关上了，记住我告诉你们的事。Krant，各位好运。
 

@@ -1,36 +1,6 @@
-﻿;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
-0xE773CCA2=
-
-;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
-0x5E1A6427=
-
-;0x7D9449FC=Kirk Simplex has bounced back from his 20-minute marriage to pop star, Samantha Muldoon, with the purchase of his 8th English castle.  The filthy-rich hedge fund manager, who personally made over $3 billion last year, told reporters, "This one was a spur-of-the-moment thing, I have to admit.  That's what happens when you get drunk and surf the net."  When he is not slaying the markets or trying to forget that women never spoke to him before he was rich, Simplex amuses himself by buying up historic landmark sites in Europe and decking them out with tacky, modern fittings, then burning them down...
-0x7D9449FC=
+﻿;0x7D9449FC=Kirk Simplex has bounced back from his 20-minute marriage to pop star, Samantha Muldoon, with the purchase of his 8th English castle.  The filthy-rich hedge fund manager, who personally made over $3 billion last year, told reporters, "This one was a spur-of-the-moment thing, I have to admit.  That's what happens when you get drunk and surf the net."  When he is not slaying the markets or trying to forget that women never spoke to him before he was rich, Simplex amuses himself by buying up historic landmark sites in Europe and decking them out with tacky, modern fittings, then burning them down...
+0x7D9449FC=Kirk Simplex从与流行歌星Samantha Muldoon的20分钟失败婚姻中恢复了过来，买下了他在英国的第八座城堡。这位肮脏的对冲基金经理去年为自己赚到了超过30亿元，他告诉记者：「不得不说，会这么做单纯是一时兴起。喝醉以后跑去上网是会这样的。」没有在市场拼杀或是试图忘掉女性对曾经身无分文的自己置之不理时，Simplex会买下欧洲的历史性地标建筑，配以现代俗气的装潢，然后一把火把它们烧光取乐...
 
 ;0x3CDAC34E=The Weazel Network is launching a new channel next month called Weazel War, which will be 24/7, heavily-edited footage of US forces kicking ass around the world.  The channel has billed itself as, "round-the-clock acts of heroism interspersed with tear-jerking displays of social conscience.  And a lot of commercials, of course."
-0x3CDAC34E=
-
-;0xC0689418=- BREAKING NEWS: McIntosh goes for a drive-thru!!!
-0xC0689418=
-
-;0xBEBCA651=- Furries bored of doggie style
-0xBEBCA651=
-
-;0xD504AEA5=- 'The Tower' makes out with a hobo!
-0xD504AEA5=
-
-;0x3FAE7853=- Parker & Von Crastenburg catfight!!!
-0x3FAE7853=
-
-;0x86D69994=- English 'ladette' takes dump outside nightclub
-0x86D69994=
-
-;0xA05D3F64=- JNV's EXTREME WEIGHT LOSS!!!
-0xA05D3F64=
-
-;0x6A4900AD=- Another castle for the investment king
-0x6A4900AD=
-
-;0xD428CDD7=- Weazel to launch war channel
-0xD428CDD7=
+0x3CDAC34E=Weazel电视网将在下个月推出全新频道「Weazel战争」，24小时不间断地播放美军在世界各地横扫千军的精剪片段。该频道的宣传简介如下：「全天候宣扬英雄主义，间或插播催人泪下的社会公益内容。当然还有很多广告。」
 

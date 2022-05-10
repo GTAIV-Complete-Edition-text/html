@@ -43,6 +43,12 @@
 ;0xF70A6469= Stevie
 0xF70A6469=
 
+;0xA46DB69D= Government spying with Window Cleaning Platforms.
+0xA46DB69D=
+
+;0x09A83764= TheAuditor
+0x09A83764=
+
 ;0x44932859= Fun with Friends.
 0x44932859=
 

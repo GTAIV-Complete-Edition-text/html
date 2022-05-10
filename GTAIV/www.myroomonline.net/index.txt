@@ -1,8 +1,8 @@
 ﻿;0x396F42E3=Welcome to myroomonline.net, the most trafficked and least secure website on the planet!  MyRoom is part of Internet 2.0 - where we make a new Internet that looks shittier than the old one.  MyRoom is a place where creepy old men can set up a fake profile and chat with vulnerable underagers.  MyRoom is a place where every girl claims she's a model and every guy claims he's hung.  MyRoom is a place where everyone wants to be your friend and you're always alone.  MyRoom is like, totally a place where you're and your and it's and its are completely interchangeable. MyRoom is a place where moody teenagers in heavy eyeliner and tight jeans can whine incessantly about the tragedy of their lives.  Forget drugs - MyRoom is the most addictive vice out there.  It starts out as a bit of fun and ends up destroying you.  You sit there obsessively clicking the refresh button, desperate for your fix of messages and friend requests.  You don't sleep, you don't eat.  You just sit in your room, like a hikikomori.       
-0x396F42E3=
+0x396F42E3=欢迎来到MyRoom网，地球上拐卖人口最多和最不安全的网站！MyRoom是互联网2.0的一部分，这个新互联网比以前更加糟糕。在MyRoom网，变态老头可以伪造个人信息，和脆弱的未成年人聊天。MyRoom网的女人都自称模特，男人都自称很大。MyRoom网的所有人都想认识你，但你永远都是孤身一人。在这里，你可以颠倒是非黑白，不分善恶曲直。MyRoom网给了涂着眼影、穿着牛仔裤的多愁善感的青少年一个空间，无休无止地抱怨生活悲惨。忘了毒品吧，MyRoom网才是最让人上瘾的东西。一开始挺好玩，到最后毁了你。坐在电脑面前痴痴地点着刷新，等待着新消息和好友申请。不用吃饭，不用睡觉，像家里蹲一样窝在房间里。
 
 ;0x7CE6735F=Suddenly, you define yourself by how many "friends" you have. You flunk out of school, you lose your job.  You browse so many profiles that you start to think that you recognize everybody you pass in the street.  You touch yourself to strangers' personal photos. You set up a second profile so that you can post more comments on your main page.  You have 9,000 friends, all of whom you have never met in person.  It's amazing how popular you can feel sitting alone in a dark room night after night.  Girls might ignore you at school but at least you can cyber-stalk them when you get home using an online alias.  MyRoom isn't just for emos, scenesters, attention whores and sexual predators.  Well, actually, it is, but that's not the point.  We are taking over the world.  Nowadays kids give out their MyRoom address instead of their phone number.  There's only so long you can hold out.  Register today.  Privacy is over.  You're already on here somewhere.       
-0x7CE6735F=
+0x7CE6735F=突然，你开始以「好友」数量界定自己。然后被学校劝退，被老板辞退。刷完如此多的个人主页，你有种自己认识马路上所有人的感觉。你开始对着陌生人的照片自慰。你建了个小号，给自己的主页刷起回复。你加了9000个好友，全部都素未谋面。尽管是在小黑屋中一人度过的日日夜夜，依然能感受到其他人的温暖。在学校里被女生无视，在网上尽管用小号跟踪她们的最新动态。MyRoom网不仅仅为玻璃心、表演者、认知厨和性捕食者服务。虽然是事实，但那不是重点。我们要掌控世界。现在的小孩都留MyRoom链接，不留手机号了。你又能坚持多久不用呢？立刻注册吧。隐私已死，你早就在别人的动态里了。
 
 ;0x8FD67764=hUnybUn167
 0x8FD67764=
@@ -29,53 +29,53 @@
 0xD66D0166=
 
 ;0x701BD7CE=PROFILE
-0x701BD7CE=
+0x701BD7CE=个人主页
 
 ;0x353102A7=Tips for creating the perfect MyRoom page:     
-0x353102A7=
+0x353102A7=创造完美MyRoom主页的小技巧：
 
 ;0x1368BB75=. Express yourself with a garish multicolored background.  Your page should be as ugly and distracting as possible.  Make it look like a peacock ate a crayon box and shit on the internet.       
-0x1368BB75=
+0x1368BB75=－用花哨的彩色背景表现自己。越丑越好，越瞎眼越好。看起来要像孔雀吃蜡笔，彩色的屎拉网上了。
 
 ;0xF124F88E=. Use a font color that is as similar to the background color as possible.  The idea is that people should feel physically nauseated after reading a couple of sentences.       
-0xF124F88E=
+0xF124F88E=－前景色和背景色尽量接近。因为这样别人没看几行就会恶心想吐了。
 
 ;0x6A244483=. Cover the page with seizure-inducing glitter graphics.     
-0x6A244483=
+0x6A244483=－用能引发癫痫的巨大闪烁图片填满页面。
 
 ;0x9A30E7A7=. Post pictures of celebrities and pornstars that you have found on the internet.  MyRoom positively encourages mass-copyright infringement.     
-0x9A30E7A7=
+0x9A30E7A7=－传一些网上找的名人和AV明星的照片。MyRoom网鼓励、支持侵权行为。
 
 ;0xF6927BAA=. Set up embedded music files that launch at maximum volume as soon as somebody clicks on your page.  Include ones with lots of profanity.     
-0xF6927BAA=
+0xF6927BAA=－在主页放置音乐播放器，一点进来就用最大音量播放。有很多脏话的歌也没问题。
 
 ;0xF473CF84=. Write shitty poetry and add some cheesy quotations like "live each day as if it were your last".     
-0xF473CF84=
+0xF473CF84=－写点打油诗，抄几句「把每一天当成最后一天对待」之类的鸡汤。
 
 ;0xFB56DD9A=. Make identity theft easy by listing every single piece of personal information you can think of, including birthday, address, phone number, mother's maiden name, first pet's name and social security number.  Then wonder why a creepy man is shooting loads on your bedroom window.       
-0xFB56DD9A=
+0xFB56DD9A=－把能想到的所有个人信息清清楚楚地列出来，降低身份盗窃的难度。比如生日、住址、手机号码、母亲婚前的姓氏、第一只宠物的名字、社会安全号码。卧室窗户上被变态打过飞机了再想想怎么回事。
 
 ;0x0B80950F=. Write down every last detail of your sordid little existence so that future employers have a full history of your sexual promiscuity and drug use.       
-0x0B80950F=
+0x0B80950F=－写下放荡生活的所有细节，让你未来的雇主清楚知道你的性生活史和吸毒史。
 
 ;0xF151A2D9=. Remember to spend every spare minute tweaking your profile.  You are SO important!          
-0xF151A2D9=
+0xF151A2D9=－每时每刻都要调整个人主页。你「非常」重要！
 
 ;0x57A5E1B0=PHOTOS
-0x57A5E1B0=
+0x57A5E1B0=照片
 
 ;0x913B99F2=Moody goths with their hair pulled down over one eye.  Weird kids dressed as sexually frustrated ninjas.  Machine gun wielding jocks with faux-hawks brandishing bottles of beer.  Undeveloped ugly girls sucking lollipops in sports bras.  Bare-chested suburban gangster-wannabes in bandanas.  Idiots.  Visogoths.  Losers.  This is the MyRoom community - and MyRoom narcissists spend days taking photo after photo in the bathroom mirror or from strange angles above their heads, in search of the perfect shot that makes them look less like the person they so detest.  Then they crank up the contrast, edit out the acne and paint in the missing teeth.  If anybody looks bad in their MyRoom pictures, then you know they must be really ugly in real life, and any girl without a full body shot is almost certainly fat.  Remember: never look directly at the camera, always tilt the head and pout like you are trying to squeeze out a 3-day-baked turd.          
-0x913B99F2=
+0x913B99F2=头发遮住一只眼睛的阴暗哥特人、打扮成性感忍者的奇怪小孩、挥舞机枪的壮汉和高举啤酒瓶的刺头、发育不良的丑女穿着运动背心吸棒棒糖、戴着头巾露着胸的乡村杀马特、白痴、视觉哥特、失败者。这就是MyRoom社区，MyRoom的自恋狂要么对着卫生间镜子拍照，要么从头顶上的诡异角度拍照，好让拍出来的照片不像自己讨厌的自己。然后拉高对比度，磨一磨皮，补几颗牙。如果有人的MyRoom照片都很丑，那他现实中一定更丑。不发全身照的姑娘多少有点胖。记住：永远不要直勾勾地盯着镜头，学会歪头嘟嘴，摆出一副正在吸烤了三天的屎的样子。
 
 ;0x92C433FA=FRIENDS
-0x92C433FA=
+0x92C433FA=好友
 
 ;0xC056A0F3=You used to have to invest time and energy to make friends.  MyRoom has changed all that.  This isn't social networking - it's an online bath house.  It's a popularity war, and you're losing.  From the moment you register on MyRoom, boosting your friend count becomes your sole goal in life.  Begin with real friends, then friends of friends, then people you were at elementary school with, then anybody you have exchanged eye contact with at any point in your life and then just start begging total strangers to 'add you'.  Soon you'll be adding any old pervert to your Friend list if it means keeping up with that bitch who sits next to you in science class.  If you whore yourself enough and get enough 'friends', you might even become a celebrity (i.e. you get to do porn or have  a llama shit on you on a reality TV show).  That's how fame works nowadays.  Remember:  always try to misspell friend - frend and freind both work well.  Grammar and spelling is irrelivent.  This is the Internets.            
-0xC056A0F3=
+0xC056A0F3=过去需要投入大量时间精力交友，但MyRoom网改变了一切。这不是社交网络，这就是线上澡堂。这是一场人气的战争，而你节节败退。从注册MyRoom账号的那一刻起，好友数就成了你唯一的人生目标。先加现实朋友，再加朋友的朋友，然后是小学同学，加完了再加所有对上过视线的人，没人可加了就去求陌生人「加我」。只要能把科学课坐你边上的婊子比下去，加几个老变态也无所谓。如果推销得够好，加了够多「好友」，说不定你就成名人了 (就是说能拍黄片，能去真人秀接羊驼屎了)。这年头的名声就这点作用嘛。记住：不一定要打成「朋友」，打成「盆友」和「胖友」也是没问题的。病句和错别字都无所谓，这就是互联网。
 
 ;0xFF598CD7=COMMENTS
-0xFF598CD7=
+0xFF598CD7=评论
 
 ;0xBD6DFC03=Comments are the new currency for the online generation.  Without them, your existence in MyRoom soon starts to feel meaningless.  Seasoned MyRoomers have been known to get suicidal if they receive less than 50 comments a day.  In MyRoom, there's no need for ice-breakers - you can fly straight in with a filthy opener like "i waana hump u".  You can have deep conversations with your friends like "uk ok?", "yeah kewl".  Comments make you feel loved.  It's not like you're going to walk up to somebody in the street and ask them repeatedly if they think you're hot.  In MyRoom, you can.  Persistence is the key to success:  send out constant bulletins asking people to "NeWpIcspLzZzzzZcmMMtubITcHLOL!!!!".  Comments allow old men to shower naïve girls with flattery in the hope that one will be insecure enough to let them come over while her parents are at the store.  Comments are the bread and butter of the MyRoom experience.  Do whatever it takes to get them.  Remember: use LOL and the caps lock as much as possible.       
-0xBD6DFC03=
+0xBD6DFC03=评论是网络一代的新货币。没有评论，你就会觉得自己在MyRoom网没有存在价值。有些MyRoom老油条就因为一天收不到50条评论想自杀。在MyRoom网没必要客套。大可一开口就是污的「想和你滚床单」。也可以和好友对暗号「炮，来？」「好，走」。评论让你感受到爱。在马路上不能随便拉个人一直问「我性感吗」，但在MyRoom网可以。坚持就是成功的秘方：日复一日地留言「来点新图ballball了浑身像有麻衣在爬www！！！！」评论让老头子有机会向无知少女发射糖衣炮弹，趁着父母不在家就「应邀拜访」。评论就是MyRoom用户的精神食粮。用尽一切手段收割评论吧。记住：多打www，多敲感！叹！号！！！！！
 

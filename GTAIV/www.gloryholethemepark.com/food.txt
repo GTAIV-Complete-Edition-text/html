@@ -1,6 +1,6 @@
 ﻿;0x9FEEC6C4=Featuring:
-0x9FEEC6C4=
+0x9FEEC6C4=招牌餐食：
 
 ;0xE2985CE0=And also remember to visit:
-0xE2985CE0=
+0xE2985CE0=也别忘了去这些店：
 

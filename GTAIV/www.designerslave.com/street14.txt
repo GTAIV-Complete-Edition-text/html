@@ -1,12 +1,3 @@
-﻿;0xF596456B=RUNWAY SLAVES
-0xF596456B=
-
-;0xA6A66E86=STREET SLAVES
-0xA6A66E86=
-
-;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
-
-;0xFC6298ED=Classic menswear in the colors of the American flag! Since being ditched by the hip hop community, Gaunt prices are lower than ever. Sweatshirts for just $4! And we think they are real!
-0xFC6298ED=
+﻿;0xFC6298ED=Classic menswear in the colors of the American flag! Since being ditched by the hip hop community, Gaunt prices are lower than ever. Sweatshirts for just $4! And we think they are real!
+0xFC6298ED=美国国旗配色的经典男装！被嘻哈社群抛弃之后，Gaunt的价格就一跌再跌。运动衫只要$4！我们觉得是正品！
 

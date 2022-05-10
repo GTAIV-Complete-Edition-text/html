@@ -1,69 +1,15 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x04915A94=>activities
-0x04915A94=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xC2F12958=ACTIVITIES
-0xC2F12958=
-
-;0xEC777A08=Will you hold me?  SWM 185lbs
-0xEC777A08=
+﻿;0xEC777A08=Will you hold me?  SWM 185lbs
+0xEC777A08=你能锁住我吗？170斤白人直男
 
 ;0x3DDEA22C=(Normandy)
 0x3DDEA22C=
 
 ;0x05870C13=I'm looking for a wrestling buddy in the Normandy area.  I left college 4 years ago and I can't tell you how much I miss going at it with another man.  I have a mat and can host.  Just bring your spandex and a whole load of testosterone.  TEABAG ME!  I want someone who is going to take it seriously but keep it fun.  Lots of banter, high-fives and chest-bounces.  I want to get in shape and work up a sweat.  Let's turn off the AC and bond! 
-0x05870C13=
+0x05870C13=在Normandy附近寻找摔跤手。我于四年前大学毕业，至今依然怀念和另一个男人搏斗的感觉。我家里有摔跤垫，我也会主持流程。你带上紧身裤和男子气概过来就行了。在我身上蹲起吧！我想找一个既能认真比赛，又能顾及乐趣的人。玩笑、击掌、胸肌，都要多多的。我想锻炼形体，满身大汗。关掉空调，一起加深感情吧！
 
 ;0x24E007BF=(I'm not gay! This is about masculinity.) 
-0x24E007BF=
+0x24E007BF=(我不是基佬！只是被男子气概吸引了)
 
 ;0x8DF0DBFF=PostingID: 4945800421
-0x8DF0DBFF=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x8DF0DBFF=帖子ID：4945800421
 

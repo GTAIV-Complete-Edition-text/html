@@ -1,51 +1,6 @@
 ﻿;0x272FDD43=Shakespeare on Drugs       
-0x272FDD43=
-
-;0xB2E6169D=at the Magic Curtain Theater               
-0xB2E6169D=
+0x272FDD43=药出莎士比亚
 
 ;0x3DEA3A9F=This play introduces us to a young Shakespeare who is crippled with writer's block and eats a facefull of LSD to counteract it.  He is about to stab himself in the heart when the Queen arrives dressed as a commoner, rips the knife from his hand, makes a speech with cryptic sexual allusions that must have been witty 400 years ago but make no sense now, throws it into the fire and then teaches him how to smoke hash through a wine bottle.  Gradually, we witness Shakespeare's creative awakening through mind-expanding narcotics as he begins working late into the night, playing a lute, filling pages with paranoid ramblings about ghosts, floating daggers, witches and elves while munching incessantly on chocolate and candy.  
-0x3DEA3A9F=
-
-;0xF3910972=Comedy
-0xF3910972=
-
-;0xC6E7884E=Split Sides Comedy Club
-0xC6E7884E=
-
-;0x8AA65C5E=Perestroika
-0x8AA65C5E=
-
-;0xC955B883=Theaters
-0xC955B883=
-
-;0xCDC184A9=Banging Trash Can Lids For An Hour
-0xCDC184A9=
-
-;0xA583B356=Fairy Body Paint
-0xA583B356=
-
-;0x5D2F1304=WTF - A Tale of Online Love
-0x5D2F1304=
-
-;0xFC3CBB33=The Wind From Below
-0xFC3CBB33=
-
-;0xDC0A2704=Swinging Puppets
-0xDC0A2704=
-
-;0xF7EFD26D=The Gulls
-0xF7EFD26D=
-
-;0x87A8C779=Shakespeare on Drugs
-0x87A8C779=
-
-;0x6EA4F5E2=The Flying Whore
-0x6EA4F5E2=
-
-;0x568FD944=Abandon Shit
-0x568FD944=
-
-;0x7632D670=Raincoat Exposé
-0x7632D670=
+0x3DEA3A9F=本剧向观众讲述了遇到创作瓶颈的年轻莎士比亚通过大量迷幻药攻克难关的故事。就在莎士比亚江郎才尽，即将掏心自杀时，微服私访的女王出现，夺过他手中的刀扔进火炉，用大概只有400年前的古人才能听懂的骚话激情演说，然后教会了莎士比亚如何用葡萄酒瓶抽大麻。我们见证了莎士比亚的创意在飞叶子的过程中逐渐苏醒，他开始通宵写稿，弹鲁特琴，一边写下关于幽灵、浮空匕首、女巫、精灵的偏执幻想，一边不断地嚼着巧克力和糖。
 

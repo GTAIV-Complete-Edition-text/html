@@ -1,18 +1,18 @@
 ﻿;0xF596456B=RUNWAY SLAVES
-0xF596456B=
+0xF596456B=名牌大甩卖
 
 ;0xA6A66E86=STREET SLAVES
-0xA6A66E86=
+0xA6A66E86=潮牌大甩卖
 
 ;0xC427CDB0=AUTHENTICITY
-0xC427CDB0=
+0xC427CDB0=关于真实性
 
 ;0x23C709C3=Get real. Do you really think that you are going to get a $4000 Didier Sachs suit for $40 without getting on your knees and blowing half of Texas? You are poor. We know this. Occasionally you will find the genuine article on Designer Slave, handpicked from high-end stores by our street team in the dead of night. More commonly you will find the rejects from last season's sale bins. 
-0x23C709C3=
+0x23C709C3=动动脑子吧。真觉得没有跪在地上给半个德州的人口过，就能花$40买到$4000的Didier Sachs衣服？你很穷，我们懂的。偶尔你也能在跳楼大甩卖找到正品，都是我们的街头小分队深夜去高端商店精心挑选的。但是一般来说，你买到的都是上个季度没卖出去的次品。
 
 ;0x03AB3B79=Most of the time, however, you will find shady replicas with off-center or misspelled logos.  Fashion designers aren't stupid. They make you pay hundreds of dollars for a crappy t-shirt and then turn you into a walking billboard by emblazoning their logo on the front while they sit around in Ibiza blowing snort up each others hineys. Every year designers bring out a whole new range in different colors and with different accessories rendering your whole wardrobe redundant for at least a decade. What would you rather do? Line the pockets of a billionaire designer or put a few cents in the blistered hand of a Chinese child-worker?  
-0x03AB3B79=
+0x03AB3B79=然而，大部分情况下你都会收到非法的仿品，LOGO不是印歪了就是印错了。时装设计师也不是傻子，一件垃圾短袖卖你几百块钱，还在前面印上大大的LOGO，把你变成行走的广告牌，自己却在伊维萨岛和美女亲热。设计师每年都会推出全新款式，还会加上各种装饰，用够穿十年的衣服填满你家衣柜。你会怎么选？是给这帮年入百万的设计师送钱，还是给手指起泡的中国童工一点辛苦费？
 
 ;0xCF87E552=The shadow economy of counterfeit fashion is booming. Is it safer to buy online than off a Triad in Chinatown or out of a trunk in Bohan? Don't be a moron. We can move stuff much more quickly over the internet. A knock-off is better than nothing. Just make sure that you can pull it off. You are unlikely to fool anyone when you turn up for your shift at Cluckin' Bell with a Didier Sachs handbag.
-0xCF87E552=
+0xCF87E552=山寨时装的灰色经济十分景气。通过网络下单会比去唐人街找三合会买或者去Bohan哪辆车的后备箱买更安全吗？别傻了。挂在网上就省得转移货物了。山寨版总比没有好。只要你够自信就可以了。但是拎着Didier Sachs的包去铛铛钟上班就是一眼山寨了。
 

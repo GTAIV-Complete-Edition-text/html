@@ -1,6 +1,6 @@
 ﻿;0x97BE457C=You Wanna Do Some Stunt Jumps - Look Here! 
-0x97BE457C=
+0x97BE457C=想耍特技跳吗？看看这里！
 
 ;0xC2954BC2=Back
-0xC2954BC2=
+0xC2954BC2=返回
 

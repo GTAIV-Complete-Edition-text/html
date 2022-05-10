@@ -1,15 +1,15 @@
 ﻿;0x8426542D=Eunux was created back in the early 1990's somewhere in the freezing backwaters of Europe by a teenage visionary called Eunus, who worked on code all day and all night, while tending to his parents' livestock.
-0x8426542D=
+0x8426542D=Eunux 诞生于九十年代初期，由当时居住在欧洲最冷清的地区的年轻大神 Eunus 创造，他不分昼夜地埋头写代码，一边还要帮忙照料父母养的牲口。
 
 ;0xB96A321A=Eunus was a visionary who saw a gap in the operating system market. Commercial OS publishers had based their entire business model on the foolish assumption that the vast majority of consumers buy a computer to send emails, download music, edit photos and surf porn. In Eunus's more advanced mind, To$$ OS and  
-0xB96A321A=
+0xB96A321A=Eunus 是一个有远见的人，他看到了操作系统市场上的空缺。商业操作系统公司的盈利模型有一个愚蠢的假设，就是绝大部分消费者购买电脑是用来发邮件、下音乐、修照片、看黄片的。在 Eunus 前卫的大脑中，To$$ OS 和
 
 ;0xBABD70B1=FRUIT
-0xBABD70B1=
+0xBABD70B1=水果公司
 
 ;0xBE848069= had completely overlooked a whole cross-section of society: Sad middle-aged men who love to take things apart, 13-year-old social misfits who need something to fill the void between blogging and masturbating, and sadomasochists who love to delay operation of their computer as long as possible.
-0xBE848069=
+0xBE848069=完全忽略了社会中的某些群体：喜欢折腾东西的悲哀中年男性，需要给写博客和自慰之间的空闲时间找点事干的13岁社恐少年，以及喜欢让电脑的响应尽可能慢的SM爱好者。
 
 ;0x02D9D43A=It remains unclear whether Eunux was an attempt at a global communist conspiracy or whether Eunus just realized that it wasn't good enough to sell but, rather than charge hundreds of dollars for his product like any self-respecting American, Eunus made the radical decision to give it away for free. And so the dream of the open source movement was born, just like the Messiah, forlorn and in a manger.
-0x02D9D43A=
+0x02D9D43A=没人知道 Eunux 是不是向全球推广共产主义的阴谋，也没有人知道是不是 Eunus 自己也清楚这个系统作为商品还不够好。但是，不像自命不凡的美国人，Eunus 没有向用户收取几百美元的使用费，而是做出了免费发布的激进决定。自此，开源运动的梦想诞生，正如弥赛亚孤身一人在马槽中降世。
 

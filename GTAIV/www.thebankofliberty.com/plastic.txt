@@ -1,39 +1,6 @@
-﻿;0xE253C598=Identity Theft Policy
-0xE253C598=
-
-;0x6D402909=Kids Kredit
-0x6D402909=
-
-;0xB058CCFC=International Wire Transfers
-0xB058CCFC=
-
-;0x368B9352=Debt Consoldiation
-0x368B9352=
-
-;0xCC2A1722=Home Equity Loans
-0xCC2A1722=
-
-;0x6AA54E4F=Plastic Surgery Loans
-0x6AA54E4F=
-
-;0x88C3B8C4=Off-Shore Bank Accounts
-0x88C3B8C4=
-
-;0x97B7449C=Bachelor Party Loans
-0x97B7449C=
-
-;0xB7872DC7=Brokerage
-0xB7872DC7=
-
-;0x6AA54E4F=Plastic Surgery Loans
-0x6AA54E4F=
-
-;0x17CDA04A=Whether you're looking for a tummy tuck before the summer vacation or to add a couple of inches to an aging and frankly inadequate penis, Bank of Liberty has a loan package to suit you.
-0x17CDA04A=
+﻿;0x17CDA04A=Whether you're looking for a tummy tuck before the summer vacation or to add a couple of inches to an aging and frankly inadequate penis, Bank of Liberty has a loan package to suit you.
+0x17CDA04A=无论你是想在暑假来临前做个腹部拉皮，还是想给年久失修的软弱鸡巴做个加长，自由城银行都能为你提供合适的贷款。
 
 ;0x3CD92700=Fast approval.  No credit check.  Confidentiality not quite guaranteed. Desperation rates guaranteed.
-0x3CD92700=
-
-;0x55F4BBAF=Bank of Liberty uses subliminal advertising throughout all its websites.
-0x55F4BBAF=
+0x3CD92700=快速审批。不看征信。不承诺保密。保证高利。
 

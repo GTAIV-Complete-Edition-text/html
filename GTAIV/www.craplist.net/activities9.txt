@@ -1,69 +1,12 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x04915A94=>activities
-0x04915A94=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0xC2F12958=ACTIVITIES
-0xC2F12958=
-
-;0x050934A3=Eunux user group?
-0x050934A3=
-
-;0xADFAC069=(Rotterdam Hill)
+﻿;0xADFAC069=(Rotterdam Hill)
 0xADFAC069=
 
 ;0x699B85CB=Are you part of the open source movement?  I want to hear from any Eunux users in the Rotterdam Hill area.  The best operating system in the world!  Who wants to meet up at my place on Saturday nights?  We can recompile a kernel and then watch some porn.  I have a load of energy drinks and my mom is going to make pancakes.  I am interested in learning more about Knobbix 136.7.   Let's talk source code!  L33t!!
-0x699B85CB=
+0x699B85CB=你是开源运动的一份子吗？我想得到住在 Rotterdam Hill 一带的 Eunux 用户的回应。这可是全世界最好的操作系统！有想在周六晚上来我家聚会的吗？我们可以重新编译一次内核，然后看点黄片。我有很多能量饮料，我妈还会做一些煎饼。我很想多了解一些 Knobbix 136.7 发行版。一起聊聊源码吧！精英捏！！
 
 ;0x538811D2=www.eunux.net
 0x538811D2=
 
 ;0xA9510C0A=PostingID: 494537334
-0xA9510C0A=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0xA9510C0A=帖子ID：494537334
 

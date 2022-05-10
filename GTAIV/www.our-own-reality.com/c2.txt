@@ -1,42 +1,12 @@
-﻿;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
-0xE773CCA2=
-
-;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
-0x5E1A6427=
-
-;0x63D8A110=With more and more reality talent shows in the pipeline, senior executives at meTV have admitted that they are struggling to find enough British assholes to sit on the panel.  British people are abnormally cranky and fat American housewives just love a tarty brit.
-0x63D8A110=
+﻿;0x63D8A110=With more and more reality talent shows in the pipeline, senior executives at meTV have admitted that they are struggling to find enough British assholes to sit on the panel.  British people are abnormally cranky and fat American housewives just love a tarty brit.
+0x63D8A110=随着越来越多的选秀节目进入筹备阶段，meTV的高管坦言英国来的混账也越来越难找了，评委席已无人可坐。英国人异常的暴躁，奈何生活在美国的肥胖主妇只喜欢风骚的英国人。
 
 ;0x229B52DB=Let's call a spade a spade.  The latest snaps of Jill Von Crastenburg walking her dog have got us all asking ourselves the same question:  is she starting to look a little chubby?  One photo in particular appears to show some visible wobble in the midriff area.  We asked some of our bitchy PR girls to pore over a bunch of recent photos of Jill and they all agreed that she looks about half a pound heavier than six months ago.  How could she let herself go like this?  Has she given up on life?  Will 
-0x229B52DB=
+0x229B52DB=大家实话实说吧。看了Jill Von Crastenburg外出遛狗的最新照片，我们都冒出了同一个问题：她看起来是不是有点胖了？其中一张照片甚至把她腹部的赘肉拍得一清二楚。我们找公司里刻薄的公关小姐仔细研究了Jill最近的照片，所有人都同意她看起来确实比半年前胖了大概半磅。她怎么能让自己沦落至此？难道她已经放弃生活了吗？
 
 ;0xAEF49BB3=Lipurgex
-0xAEF49BB3=
+0xAEF49BB3=Lipurgex
 
 ;0xA50D2806= cancel her endorsement contract?  Or is she pregnant?  World famine is going to have to take a back seat.  This is too important.
-0xA50D2806=
-
-;0xCDFA22FC=- BREAKING NEWS: Straight backatcha biatch!!!
-0xCDFA22FC=
-
-;0xC07AC222=- Waning with the Stars Shocker!!!
-0xC07AC222=
-
-;0x9F517180=- Shortage of British judges for US talent shows
-0x9F517180=
-
-;0x62D823FE=- Fat Bitch!
-0x62D823FE=
-
-;0xD0EF5848=- To Brucie Kibbutz
-0xD0EF5848=
-
-;0x24775D88=- Pete - what kind of name is that for a famous kid?
-0x24775D88=
-
-;0x8FF4EE11=- governor race takes to the chatrooms
-0x8FF4EE11=
-
-;0x9AF90357=- Muldoon 'finds religion' 3 times in a week!!!
-0x9AF90357=
+0xA50D2806=会取消她的代言合同吗？还是说她怀孕了？世界饥荒的问题先放一边，Jill发胖这件事才是重中之重。
 

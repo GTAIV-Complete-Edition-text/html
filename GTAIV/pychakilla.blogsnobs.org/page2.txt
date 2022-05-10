@@ -1,84 +1,33 @@
-﻿;0x04E72159=Username:
-0x04E72159=
-
-;0xF0D04777= Pychakilla 
-0xF0D04777=
-
-;0xB0BACC87=Sex:
-0xB0BACC87=
-
-;0x6246637D= Female 
-0x6246637D=
-
-;0x6C1F83B4=Location:
-0x6C1F83B4=
-
-;0x4C0732B5= Las Venturas 
-0x4C0732B5=
-
-;0xD0F33C72=Age:
-0xD0F33C72=
-
-;0x3F398D1F=Profession:
-0x3F398D1F=
-
-;0x98F2BD7D= College student 
-0x98F2BD7D=
-
-;0xCA6ED4BF=Appearance:
-0xCA6ED4BF=
-
-;0x6E2B41B9= Curly brown hair, pretty summer dresses, white pumps, girly smile, eyes of steel. 
-0x6E2B41B9=
-
-;0x0EEC57CE=Interests:
-0x0EEC57CE=
-
-;0x83798476= Pottery, poetry, civil war reenactments, animals 
-0x83798476=
-
-;0xC4338853=UPDATED - 11 DAYS AGO
-0xC4338853=
-
-;0x298BC964=OMFGMHHLH - and I do mean hurts like hell.  I feel like a small man with an anvil has been using my head for his medevil games of blacksmithery and averice.  Last night was incredible, and I've spent the entire day in bed with Jack.  We met at jen's party.  He was wearing this thing with safety pins and a cartoon tail, and he made this incredible comment about the lawns of castles or something, I was WASTED ON ACID, but we left the party and walked around the city until we could barely stand it.  I was reading a magazine upside down in a 24/7 at one point, and I think we got thrown out, but one thing is certain, jack stayed in my bed, and it was incredible.  My back hurts.  He kept babbling nicknames at me, something about how I'm his little crash test dummy.  He even made me put those weird yellow and black stickers on my tits and he screamed "help, I can't stop" and went face first into them hollering about airbags save lives.  It was cute until he fell asleep with a cigarette in his mouth and it dropped and nearly burned down my curtains, if you know what I mean.  Shit.
-0x298BC964=
+﻿;0x298BC964=OMFGMHHLH - and I do mean hurts like hell.  I feel like a small man with an anvil has been using my head for his medevil games of blacksmithery and averice.  Last night was incredible, and I've spent the entire day in bed with Jack.  We met at jen's party.  He was wearing this thing with safety pins and a cartoon tail, and he made this incredible comment about the lawns of castles or something, I was WASTED ON ACID, but we left the party and walked around the city until we could barely stand it.  I was reading a magazine upside down in a 24/7 at one point, and I think we got thrown out, but one thing is certain, jack stayed in my bed, and it was incredible.  My back hurts.  He kept babbling nicknames at me, something about how I'm his little crash test dummy.  He even made me put those weird yellow and black stickers on my tits and he screamed "help, I can't stop" and went face first into them hollering about airbags save lives.  It was cute until he fell asleep with a cigarette in his mouth and it dropped and nearly burned down my curtains, if you know what I mean.  Shit.
+0x298BC964=我的老天爷啊，头都快痛炸了，真的好痛啊。感觉像是有个小人在我头上扮成了中世纪的铁匠，疯狂地敲打。昨晚太棒了，我和Jack在床上度过了一整天。我在Jen的派对上遇到他的。他穿的衣服上有很多别针，还戴了根卡通尾巴。他对城堡草皮还是什么东西的这句评价太棒了，当时我嗑药嗑嗨了，但我们还是一起离开了派对，在城里一直散步散到不想再走了。我在24/7便利店里看杂志，还拿反了，然后我俩好像被店员赶出去了。但有一件事是肯定的，Jack上了我的床，感觉太棒了。我的背好痛。他一直用各种名字称呼我，说什么我是他的试验假人。他还让我在奶子上贴上奇怪的黄黑色贴纸，然后大喊「救命啊，停不下来了」，一头撞进了我的奶子，说安全气囊能够救人。一切都挺好的，直到他叼着烟睡着了，从嘴里掉下来的烟头差点把我的窗帘烧了，不知道你有没有读懂。妈的。
 
 ;0x23724830=UPDATED - 12 DAYS AGO
-0x23724830=
+0x23724830=发表于 12 天前
 
 ;0xBA32D4D8=DUMDUMS!!    
-0xBA32D4D8=
+0xBA32D4D8=大家好啊！！
 
 ;0xA12E0BB5=It's spring break, and while everyone is cavorting around in some place where a person who makes three pesetas an hour shoves ping pong balls inside themand half assedly shakes some stupid marichas around, I'm here, on campus, and even the dining hall is closed.   I like to sit in that big empty dining hall and pretend I'm a star.  I'm dying my hair green, to match the world bank protest I'm going to in a couple of weeks.  If the world is a bank, I'm going through withdrawl.  Shit.  That was brilliant.  I have decided to beceome a writer.  You have inspired me to share more of myself with the world, readers!!!    
-0xA12E0BB5=
+0xA12E0BB5=放春假了。别人都在尽情玩乐，去时薪三比塞塔的游乐园套圈圈、摇沙锤。而我还在学校里，就连食堂都关门了。我喜欢坐在空空荡荡的食堂里，假装自己是个明星。为了参加几周后的世界银行抗议，我把头发染绿了。如果世界是个银行，那我一定是在经历扣费。天，写得真好。我决定了，以后要当个作家。你们是我向世界分享生活的动力，读者们！！！
 
 ;0x17A72890=Jen is having some weird party tonight where you have to dress as your favorite slaveowner.  I've never done anything like that, so why not.
-0x17A72890=
-
-;0x556BF586=UPDATED - 14 DAYS AGO
-0x556BF586=
+0x17A72890=Jen今晚要参加一个奇怪的派对，需要打扮成自己最喜欢的奴隶主。我从来没参加过这种活动，那就一起去吧。
 
 ;0xF192C5C8=I woke up today singing. A bum starting poking me with a stick in the park this afternoon.  He was such a skeezeball but I let him do it.      
-0xF192C5C8=
+0xF192C5C8=今天我刚起床就在唱歌。下午在公园里被一个乞丐用棍子戳了。这个死变态，但我没有管他。
 
 ;0x6F981044=Jen took me to my very firrst nightclub!! Very different from the hodowns back home a lot less fighting and hardly any incest. It was quite possibly the best night of my life.  Jen met her hand-twin and a bald British guy tried to stick his mottled tongue down my throat.  He said he had a place up in the country we could go.  I don't think he's been with a girl in a long time.  We drank shots of tequila and I danced with an immigrant!!!  Why not throw caution to the wind?!!  You're only young once.    
-0x6F981044=
+0x6F981044=Jen带我去了夜店，人生头一次去啊！！和老家的舞会完全不一样，没人打架，也没有乱伦。可能是我人生中最棒的一夜了。Jen遇到了她的替身，还有一个想把长斑的舌头伸到我喉咙里的秃顶英国人，他说他在乡下有栋房子，邀请我们做客。感觉他很长时间没接触过女人了。我们喝了几杯龙舌兰，还和一个移民跳了舞！！！何不把警惕抛在脑后？！！年轻只有一次。
 
 ;0x007E0B03=I spent the last couple of hours hanging all the power cables in my room over the back of chairs.  I have to let all the bad energy drain out or Mom will die.      
-0x007E0B03=
+0x007E0B03=刚才的几个小时，我都在房间里布置电线，把线都挂到椅子后面。必须得把负能量都释放掉了，不然我妈就要死了。
 
 ;0x180CCBF6=Nearly finished my costume for the 
-0x180CCBF6=
+0x180CCBF6=顺带一提，我给
 
 ;0xB535D82C=civil war reenactment
-0xB535D82C=
+0xB535D82C=南北战争重演
 
 ;0x06019106=, btw!!
-0x06019106=
-
-;0x63A064A0=(PREVIOUS POSTS)
-0x63A064A0=
-
-;0xA4647A74=(NEXT POSTS)
-0xA4647A74=
+0x06019106=做的服装就快完工了！！
 

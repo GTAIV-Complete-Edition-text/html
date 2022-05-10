@@ -1,66 +1,6 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x7DFD8D83=>sale&wanted
-0x7DFD8D83=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x074F3216=SALE / WANTED
-0x074F3216=
-
-;0x57A0EBBF=Do you want 10 inches and more?
-0x57A0EBBF=
-
-;0x61D042F0=(Liberty City) 
-0x61D042F0=
-
-;0xC4FF6054='Free The Bass' only stocks the biggest, baddest subwoofers out there.  Loud stereos impress people, especially girls.  You're young, you're angry, you're insecure.  Get the attention you deserve.  In the urban jungle, it is all about who has the loudest roar.  Subwoofers are a statement of your virility.  How big is yours? 
-0xC4FF6054=
+﻿;0xC4FF6054='Free The Bass' only stocks the biggest, baddest subwoofers out there.  Loud stereos impress people, especially girls.  You're young, you're angry, you're insecure.  Get the attention you deserve.  In the urban jungle, it is all about who has the loudest roar.  Subwoofers are a statement of your virility.  How big is yours? 
+0xC4FF6054=「Free The Bass」公司只卖最大最响的低音炮。大声外放能给别人深刻的印象，对姑娘特别有效。你很年轻，你很愤怒，你很不安。获得你应有的存在感吧。在都市丛林，最重要的就是声音要大。低音炮就是你男子气概的象征。你的气概够大吗？
 
 ;0x50D60EEB=PostingID: 454677956
-0x50D60EEB=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x50D60EEB=帖子ID：454677956
 

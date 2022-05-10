@@ -5,7 +5,7 @@
 0x0E371409=
 
 ;0xD82305E9=AMERICAN TRAVEL GUIDE
-0xD82305E9=
+0xD82305E9=美国人旅游指南
 
 ;0x359A2509=Everything you need to know about traveling in Europe. 
 0x359A2509=欧洲旅游，你需要了解的一切。

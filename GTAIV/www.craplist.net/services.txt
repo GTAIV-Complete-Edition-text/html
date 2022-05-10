@@ -1,132 +1,57 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x3B0CB221=>
-0x3B0CB221=
-
-;0xD96A9E35=services
-0xD96A9E35=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0xE407107D=jobs
-0xE407107D=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x69D4F298=activities
-0x69D4F298=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x702DA6A7=classes
-0x702DA6A7=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x71036CBC=housing
-0x71036CBC=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0xD141F921=lost & found
-0xD141F921=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x3F951FF4=sale/wanted
-0x3F951FF4=
-
-;0xC4E8DD35=SERVICES
-0xC4E8DD35=
+﻿;0xC4E8DD35=SERVICES
+0xC4E8DD35=服务
 
 ;0x9E26D1AF=Blue collar male escorts - competitive rates!!
-0x9E26D1AF=
-
-;0x9A87A2D3= (North Holland) 
-0x9A87A2D3=
+0x9E26D1AF=蓝领牛郎 - 价格实惠！！
 
 ;0x864EB878=Think yourself hot with hypnosis
-0x864EB878=
+0x864EB878=借助催眠，相信自己很性感
 
 ;0x75F8295D= (Chinatown) 
-0x75F8295D=
+0x75F8295D= (唐人街)
 
 ;0x7332A9F4=Want some Chinese takeout?
-0x7332A9F4=
+0x7332A9F4=想来点中国外卖吗？
 
 ;0x739E9046= (outcall only) 
-0x739E9046=
+0x739E9046= (上门服务限定)
 
 ;0x6EE4C188=TOPLESS TAX RETURNS!!!
-0x6EE4C188=
+0x6EE4C188=TOPLESS税务！！
 
 ;0x57A750FC= (Alderney) 
 0x57A750FC=
 
 ;0xF3855F34=Is your partner starting to get suspicious?  Do you need an alibi?
-0xF3855F34=
-
-;0xF352E4C2= (Liberty City) 
-0xF352E4C2=
+0xF3855F34=另一半是否开始怀疑了？需要不在场证明吗？
 
 ;0xAFAE81F8=Home Cremation - make sure your loved one goes out in a blaze of glory!
-0xAFAE81F8=
-
-;0xF352E4C2= (Liberty City) 
-0xF352E4C2=
+0xAFAE81F8=家庭火化 - 确保亲人在荣耀之火中离去！
 
 ;0xC50D6845=I'll look after your baby for FREE!
-0xC50D6845=
-
-;0xFD1A51FC= (Steinway) 
-0xFD1A51FC=
+0xC50D6845=免费替你带孩子！
 
 ;0x9D165BBC=I need an exterminator!
-0x9D165BBC=
+0x9D165BBC=急需灭虫专家！
 
 ;0x4FA4A786= (Fort Side) 
 0x4FA4A786=
 
 ;0xF98DCD12=Can somebody unblock my toilet??!!!!
-0xF98DCD12=
-
-;0x0D07F383= (Port Tudor) 
-0x0D07F383=
+0xF98DCD12=谁来帮我通下马桶？？！！！！
 
 ;0xACD20162=No questions asked storage
-0xACD20162=
-
-;0x923E4725= (East Island City) 
-0x923E4725=
+0xACD20162=仓库出租，不问用途
 
 ;0x28DF61B8=Not ready to outsource?  Try hoaxsourcing!
-0x28DF61B8=
-
-;0xA388F5A2= (America) 
-0xA388F5A2=
+0x28DF61B8=没准备好接受外包？试试外包威慑吧！
 
 ;0xD4958C85=Budget skydiving!!!
-0xD4958C85=
+0xD4958C85=亲民高空跳伞！！！
 
 ;0x663DFBE0= (Northwood) 
 0x663DFBE0=
 
 ;0x47A1E8A7=Fly High Pizza Pie - baked to perfection!
-0x47A1E8A7=
-
-;0xF352E4C2= (Liberty City) 
-0xF352E4C2=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x47A1E8A7=高飞披萨饼 - 完美烘焙！
 

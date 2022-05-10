@@ -1,51 +1,9 @@
-﻿;0x2BB28C94=LIBERTY CRAP LIST
-0x2BB28C94=
-
-;0x6520FC0D=>missed connections
-0x6520FC0D=
-
-;0xC3F57F47=[ POST ]
-0xC3F57F47=
-
-;0x0CE017A1=women seeking men
-0x0CE017A1=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x9F41091F=men seeking men
-0x9F41091F=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x5496CAB5=men seeking women
-0x5496CAB5=
-
-;0x2958A881=| 
-0x2958A881=
-
-;0x22C0A9F1=AVOID SCAMS AND FRAUD BY DEALING LOCALLY 
-0x22C0A9F1=
-
-;0x0E776B53=MISSED CONNECTIONS 
-0x0E776B53=
-
-;0x47653A9A=Were you on the bus from Chinatown to Lancaster last night at around 1 AM?
-0x47653A9A=
-
-;0xF35E3A41=(Lancaster)
-0xF35E3A41=
+﻿;0x47653A9A=Were you on the bus from Chinatown to Lancaster last night at around 1 AM?
+0x47653A9A=昨晚1点左右，你在从唐人街到Lancaster的公交车上吗？
 
 ;0xAA488D5F=I was the young man who fell asleep and shat himself in the back row.  As I woke up to the horrifying aftermath of 9 pints of Patriot and 3 Chihuahua hotdogs, I saw a guy in a Liberty Penetrators t-shirt laughing and taking pictures of me on his cell phone.  If you or anybody else has photos of me in my brown shorts, I'm begging you not to post them online.  Have a heart.  It happens to us all. 
-0xAA488D5F=
+0xAA488D5F=我是在公交车上睡着了拉稀的那个年轻人。喝了9品脱爱国者啤酒，吃了3个吉娃娃热狗，醒来时就成了这副惨状。我看见一个穿着自由城透人队短袖的家伙边笑边用手机拍了照片。如果你(别人也是)有我裤子拉稀的照片，求求你别发到网上。给您跪了，大家互相体谅一下。
 
 ;0x13B4C341=PostingID: 882035003
-0x13B4C341=
-
-;0x7A1FA60A=About CRAP
-0x7A1FA60A=
-
-;0x73D5A30D=. Privacy Policy . Contact Us
-0x73D5A30D=
+0x13B4C341=帖子ID：882035003
 
