@@ -1,21 +1,21 @@
 ﻿;0x9B05D0DF=Product: The Black Pill 
-0x9B05D0DF=
+0x9B05D0DF=产品：黑色药丸
 
 ;0x4384CA18=Quantity: 60 capsules
-0x4384CA18=
+0x4384CA18=净含量：60片
 
 ;0xA29E4DB9=Our price: $36.99
-0xA29E4DB9=
+0xA29E4DB9=价格：$36.99
 
 ;0x83C7D749=Are you stuck in a rut?  Do you feel overwhelmed and undervalued?  Nothing recharges the batteries and gets your life back on track like a blackout.  Take a break from yourself for a few weeks with the Black Pill.  You won't know what you did but you will spend a lifetime piecing it back together.  One minute, you're sitting at your desk, surfing porn and wondering what happened to all your hopes and dreams, the next, it's ten days later and you're fighting naked with wild dogs on a beach in Venezuela.    Live the adventure.  Get into the black.   
-0x83C7D749=
+0x83C7D749=你有没有犯批瘾？你是否感到压力山大和不被重视？没有什么比这黑色玩意儿更能给你充电，让你的生活回到正轨。休息几周，吃点黑药片。你不知道自己做了什么，但你会用一生的时间把它拼凑起来。前一分钟，你坐在办公桌前，浏览色情片，想知道你所有的希望和梦想都怎么了，紧接着就是十天后，你在委内瑞拉的海滩上赤身裸体地与野狗搏斗。体验冒险。进入黑暗。
 
 ;0x6FEAE585=Major credit cards accepted.
-0x6FEAE585=
+0x6FEAE585=可使用主要信用卡支付。
 
 ;0x93D0CCD8=All purchases are non-refundable.
-0x93D0CCD8=
+0x93D0CCD8=所有购买不得退款。
 
 ;0x246A54CE=All liabilities are denied.
-0x246A54CE=
+0x246A54CE=一经售出概不负责。
 
