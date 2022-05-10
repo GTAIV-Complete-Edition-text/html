@@ -1,15 +1,15 @@
 ﻿;0xB7ECFEEC=RIP
-0xB7ECFEEC=
+0xB7ECFEEC=RIP
 
 ;0x8D015297=HARPER
-0x8D015297=
+0x8D015297=HARPER
 
 ;0xA57B6CF2=1962-2006
-0xA57B6CF2=
+0xA57B6CF2=1962-2006
 
 ;0xA6E4BA7E=Harper died doin' what he was best at - cookin' up crank. Having lost an ear in a ice lab explosion back in '03, and not giving a shit about it, Harper prided himself on bein' the best cook of crystal south of the Canadian border. He had the purest shit and he didn't sell to homos - which is rare in this world of hypocrites and sellouts. He was an artisan and a patriot. Whenever I raise a pipe to my lips I'll miss this guy. I hope that ice cools him down in the firey pits of hell. The next time I see this SOB he'll be tweeking with the devil.
-0xA6E4BA7E=
+0xA6E4BA7E=Harper死于他所最擅长的事情————“疯狂烹饪”。在03年的一次冰毒实验室爆炸后失去一只耳朵的他对此仍然不在意，他为自己是美加边境最牛逼的冰毒厨师而骄傲。他能做出最纯净的货而且不向人类出售————在这个充满虚伪与背叛的世界上，对得起这个称谓的已经不多了。他是一个工匠，也是一个爱国者。每次要爽上一口时我都会想起他。我希望冰毒能让他在地狱的油锅里冰凉下来。下次我见到这个狗日的，估计他都已经和恶魔一起吸嗨了。
 
 ;0x85A978F8=After viewing use back arrow to return
-0x85A978F8=
+0x85A978F8=浏览后按箭头返回
 
