@@ -1,15 +1,15 @@
 ﻿;0xB7ECFEEC=RIP
-0xB7ECFEEC=
+0xB7ECFEEC=RIP
 
 ;0xA725E77E=MITCH
-0xA725E77E=
+0xA725E77E=MITCH
 
 ;0xB1B5C923=1944-1985
-0xB1B5C923=
+0xB1B5C923=1944-1985
 
 ;0x92662D7A=Mitch loved hole too much for his own good. Unlike most of us who pay the price with alimony and VD, Mitch paid with his life. He had an old lady getting purple puppies on the back of his chopper when they both got hit by a freight train. I can't wait to twist the wick with this guy on the great free ride to Hell.
-0x92662D7A=
+0x92662D7A=米奇为了日批付出了沉重代价。与我们大多数人以赡养费和性病为代价不同，米奇是以生命为代价的。他让一位老太太把紫色的小狗放在他的摩托后面，结果他们都被货运火车撞了。我迫不及待地想和这家伙一起下地狱。
 
 ;0x85A978F8=After viewing use back arrow to return
-0x85A978F8=
+0x85A978F8=浏览后按箭头返回
 
