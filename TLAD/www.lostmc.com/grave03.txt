@@ -1,15 +1,15 @@
 ﻿;0xB7ECFEEC=RIP
-0xB7ECFEEC=
+0xB7ECFEEC=RIP
 
 ;0xAF2E4FD9=BOZO
-0xAF2E4FD9=
+0xAF2E4FD9=二傻
 
 ;0x141B6E85=1961-1999
-0x141B6E85=
+0x141B6E85=1961-1999
 
 ;0x79BD6827=Never one to suck it to the bulls, Bozo gave a big fuck you to the cherry tops when they tried to pull him over one time. Long story short, an argument led to an altercation led to bullets bein' exchanged. Bozo had taken out three cops when one of 'em got a lucky head shot. The SOB wasn't even breaking the speed limit. He'll be missed.
-0x79BD6827=
+0x79BD6827=这家伙绝对不好惹。有一次，当警察试图让二傻停车时，二傻狠狠地揍了他们一顿。长话短说，一场争论变成了了一场争吵，变成了子弹的交换。博佐干掉了三个警察，其中一个幸运地被击中头部。呜咽声甚至没有超过限速。我们会想念他的。
 
 ;0x85A978F8=After viewing use back arrow to return
-0x85A978F8=
+0x85A978F8=浏览后按箭头返回
 
