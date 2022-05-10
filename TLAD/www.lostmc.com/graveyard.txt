@@ -1,9 +1,9 @@
 ﻿;0x6B5E5FD9=THE GRAVEYARD
-0x6B5E5FD9=
+0x6B5E5FD9=墓地
 
 ;0x199BB7B1=Click on any tombstone...      
-0x199BB7B1=
+0x199BB7B1=点击任意墓碑...
 
 ;0x85A978F8=After viewing use back arrow to return
-0x85A978F8=
+0x85A978F8=在浏览后点击箭头返回
 
