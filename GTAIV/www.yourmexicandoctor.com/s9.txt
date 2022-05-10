@@ -1,21 +1,21 @@
 ﻿;0xD4FD0540=Product: Grin
-0xD4FD0540=
+0xD4FD0540=产品：Grin
 
 ;0xE1616949=Quantity: 90 capsules
-0xE1616949=
+0xE1616949=净含量：90片
 
 ;0x63CD9463=Our price: $25
-0x63CD9463=
+0x63CD9463=价格：$25
 
 ;0xED445E05=Raising a family in the suburbs is tough, especially if you are a convicted sex offender.  With the stresses of modern society, it can be difficult to maintain a loving, exploratory sexual relationship with your partner while countering the temptations to kill your own children.  Grin is scientifically formulated to help cure the anxiety, depression, and lack of self-confidence that comes with living a new life in the suburbs.  It's safe and non-addictive.  After all, what could be habit-forming about a pill that makes you feel better all of the time?    
-0xED445E05=
+0xED445E05=在郊区抚养一个家庭是很困难的，尤其对于一个被定罪的性犯罪者。在现代社会的压力下，你很难与伴侣保持一种充满爱的、探索性的性关系，同时又能抵制杀害自己孩子的欲望。Grin的科学配方有助于治疗郊区新生活带来的焦虑、抑郁和缺乏自信。它安全且不会上瘾。毕竟，一片能让你一直感觉更好的药片会让你养成什么样的习惯呢？
 
 ;0x6FEAE585=Major credit cards accepted.
-0x6FEAE585=
+0x6FEAE585=可使用主要信用卡支付。
 
 ;0x93D0CCD8=All purchases are non-refundable.
-0x93D0CCD8=
+0x93D0CCD8=所有购买不得退款。
 
 ;0x246A54CE=All liabilities are denied.
-0x246A54CE=
+0x246A54CE=一经售出概不负责。
 
