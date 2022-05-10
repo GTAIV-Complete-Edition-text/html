@@ -1,21 +1,21 @@
 ﻿;0xDBBF03CE=Product: Alad-in 
-0xDBBF03CE=
+0xDBBF03CE=产品：Alad-in 
 
 ;0x62F81C77=Quantity: 30 capsules
-0x62F81C77=
+0x62F81C77=净含量：30片
 
 ;0xD976DE16=Our price: $17.99
-0xD976DE16=
+0xD976DE16=价格：$17.99
 
 ;0x0A830689=One of the best-selling painkillers on the market today, Alad-in has proven to be phenomenally successful in rural America.  The time-release outer coating is easily removed and Alad-ins can be eaten, snorted or injected into the neck.  This has a street value of around $300.  
-0x0A830689=
+0x0A830689=现在市面上最畅销的止痛药之一。事实证明，阿拉丁在美国农村地区取得了惊人的成功。缓释外层很容易去除，可以食用、鼻吸或颈部注射。它的一般价格约为300美元。
 
 ;0x6FEAE585=Major credit cards accepted.
-0x6FEAE585=
+0x6FEAE585=可使用主要信用卡支付。
 
 ;0x93D0CCD8=All purchases are non-refundable.
-0x93D0CCD8=
+0x93D0CCD8=所有购买不得退款。
 
 ;0x246A54CE=All liabilities are denied.
-0x246A54CE=
+0x246A54CE=一经售出概不负责。
 
