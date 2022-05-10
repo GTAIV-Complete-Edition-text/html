@@ -1,21 +1,21 @@
 ﻿;0xAE8F24FE=Product: Ampheterate
-0xAE8F24FE=
+0xAE8F24FE=产品：Ampheterate
 
 ;0x62F81C77=Quantity: 30 capsules
-0x62F81C77=
+0x62F81C77=净含量：30片
 
 ;0x11A83974=Our price: $20 
-0x11A83974=
+0x11A83974=价格：$20
 
 ;0xEEB2A0A4=Stay alert and on edge 24/7 with Ampheterate.  Side effects include chain-smoking, verbal diarrhea and post-nasal drip that tastes like battery acid.  Masturbate like a frenzied chimp with no results and bite your nails until your fingers bleed.  Work an extra shift tomorrow with Ampheterate.  Strippers swear by it.  Sleep and the ability to ejaculate really are over-rated. This is real energy.   
-0xEEB2A0A4=
+0xEEB2A0A4=使用Ampherate 让你全天保持机警。副作用包括不停吸烟、多语症和尝起来像电池酸的鼻后滴注。像疯狂的黑猩猩一样手淫，毫无结果，咬指甲直到手指流血。Ampheterate助力你明天的加班。脱衣舞娘靠它发誓。睡眠和射精能力的作用确实被高估了。这才是真正的能量。
 
 ;0x6FEAE585=Major credit cards accepted.
-0x6FEAE585=
+0x6FEAE585=可使用主要信用卡支付。
 
 ;0x93D0CCD8=All purchases are non-refundable.
-0x93D0CCD8=
+0x93D0CCD8=所有购买不得退款。
 
 ;0x246A54CE=All liabilities are denied.
-0x246A54CE=
+0x246A54CE=一经售出概不负责、
 
