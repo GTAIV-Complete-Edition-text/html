@@ -1,15 +1,12 @@
 ﻿;0xB7ECFEEC=RIP
-0xB7ECFEEC=RIP
+0xB7ECFEEC=
 
 ;0xCFD9F597=Night Hog
-0xCFD9F597=夜猫子
+0xCFD9F597=
 
 ;0x5468B135=1950-1982
 0x5468B135=
 
 ;0xEDD1EB8A=No one knows where and when and why we started warring with those corporate sell-out bigoted bastards in the A.O.D. But we do know that Night Hog was the first casualty of that fucked up on again off again bullshit. He took two barrels to the face and didn't even stop giving it - died standing on his feet firing off his automatic like a true hero. You were never one for sentiment, Night Hog, but we miss you. I hope you're sticking it to those Deadbeats in the underbelly.
-0xEDD1EB8A=没人知道我们何时，何地，何因开始与死亡天使那群虚伪僵化的杂种交战。但我们实实在在知道，夜猫子是在欺骗中第一个失去生命的。他拿着两杆枪，冲锋陷阵，直至最后一刻————站着用自动武器倾泻子弹中死去，像一个真正的英雄。你从来都不是一个多愁善感的人，夜猫子，但我们想念你。我希望你能永远抗击死妈天使。
-
-;0x85A978F8=After viewing use back arrow to return
-0x85A978F8=在浏览后点击箭头返回
+0xEDD1EB8A=没人知道我们何时、何地、何故开始与死亡天使那群虚伪顽固的杂种交战。但我们清清楚楚地知道，Night Hog是断断续续的纷争中的第一个牺牲者。他拿着两杆枪冲锋陷阵，奋战到最后一刻——用自动武器倾泻着子弹，像真正的英雄般站着死去。你从来都不是一个多愁善感的人，Night Hog，但我们会怀念你的。希望你能永远抗击死妈天使。
 

@@ -1,15 +1,12 @@
 ﻿;0xB7ECFEEC=RIP
-0xB7ECFEEC=RIP
+0xB7ECFEEC=
 
 ;0x16D47634=DIRTY SUE
-0x16D47634=肮脏SUE
+0x16D47634=
 
 ;0xFA3C5011=1971 - 2001
-0xFA3C5011=1971 - 2001
+0xFA3C5011=
 
 ;0x83CF4597=Sue died an outlaw thru and thru - he was riding a chopper drunk and giving the finger to the Man. It's a shame he didn't realize he was on the wrong side of the road and a tanker was heading right for him. They say one of his ears got found a mile down the big slab. I'm proud to pick up a piece of Dirty Sue on my rubbers when I next go on a run.
-0x83CF4597=Sue死于一场危险驾驶————他喝醉了骑着摩托车，对着一个人竖中指。丢人的是他没注意到他正在逆行与此同时一辆油罐车呼啸而来。有人说在现场一英里外的路面上捡到了他的一只耳朵。能在下次跑步时候在我的皮靴上沾上一块肮脏Sue可是我的荣幸。
-
-;0x85A978F8=After viewing use back arrow to return
-0x85A978F8=浏览后按箭头返回
+0x83CF4597=Sue至死仍是一个无法无天的好汉——他酒后驾驶摩托车，一边还对着条子竖中指。只可惜他没发现自己正在逆行，一辆油罐车迎面而来。据说有人在现场一英里外捡到了他的一只耳朵。能在下次跑步的时候踩到一块Dirty Sue可是我的荣幸。
 
