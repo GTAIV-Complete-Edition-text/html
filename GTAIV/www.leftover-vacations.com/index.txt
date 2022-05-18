@@ -1,23 +1,23 @@
 ﻿;0x232AE571=Last minute travel is the best kind of travel, especially if you've accidentally killed your girlfriend or received word of a federal indictment.        
-0x232AE571=旅游的最好方式就是说走就走，特别适合过失杀人和收到诉状后用来跑路。
+0x232AE571=旅游的最好方式就是说走就走，特别是在过失杀人和收到诉状后赶着跑路。
 
 ;0x5BBB331C=We've bought up the entire excess inventory from airlines and hotels and have put together some truly amazing vacations to places you've never thought of going.        
-0x5BBB331C=我们把航空公司和酒店的余票都买了下来，以前未曾想过的旅游去处现在成为了现实。
+0x5BBB331C=我们把航空公司的余票和酒店的空房都买了下来，拼凑出了你意想不到的各种行程。
 
 ;0xB023BCE1=Why pay the airline and hotel directly when a dubious online intermediary can slash your costs by hiding all the extra charges until your credit card details have already been processed?  Our database is packed with too-good-to-be-true deals designed to seduce and deceive the customer with false advertising.  
-0xB023BCE1=以你的信用卡信息为代价，一个半真不假的在线中介平台就可以砍掉官方赚的差价帮你省钱。还有什么必要在官方的平台买票？我们的数据库显示，很多看上去好得令人难以置信的东西，配上夸张的宣传，都是设计用来吸引并蒙骗顾客的。
+0xB023BCE1=既然能在可疑的在线平台买到低价旅游套餐，何必直接找航司和酒店买票订房？收到信用卡账单的时候，你才会发现我们的低价其实少算了很多杂七杂八的费用。我们的数据库中满是划算到有点假的套餐，配上夸张的宣传，专坑贪便宜的顾客。
 
 ;0xA445D865=Like any successful business, the travel industry is all about connections... and our flights have LOTS of them.  We fill up empty seats with empty promises.        
-0xA445D865=正如很多成功的事业一样，搞旅游想发财靠的也是人脉...为了卖出去机票，我们骗顾客上当。
+0xA445D865=和很多成功的事业一样，旅游业想发财也需要各种转机... 而我们有的是需要转机的行程。我们空口说白话，填满了航班上的空位。
 
 ;0x5884BA76=All special offers are subject to impossible-to-meet conditions, all purchases are non-refundable and we reserve the right to cancel any part of the itinerary at the last minute.
-0x5884BA76=所有的优惠条件都不可能达到，所有的付款都不能退款。我们保留行程开始前取消任何安排的权利。
+0x5884BA76=所有低价均以几乎无法满足的条件计算。一旦付款概不退款。我们保留出发前取消行程中任何安排的权利。
 
 ;0xFC2B0158=You're our 10,000th customer!        
 0xFC2B0158=你是我们的第10000个顾客！
 
 ;0x1BBDD020=You have been selected to join our exclusive Travel Club!  Enjoy special discounts, amazing offers and unique package deals all for the low promotional rate of $2,000 per year!  A telemarketer will call you every 10 minutes for the rest of your life!       
-0x1BBDD020=恭喜你已被选为我们高级旅行俱乐部的会员！即刻享受特惠折扣、惊爆特价和神奇大礼包吧！每年至少帮你优惠2000元！接下来的半辈子，促销电话每十分钟就给你打过来！
+0x1BBDD020=恭喜你，你已被选为我们高级旅行俱乐部的会员！即刻享受特惠折扣、惊爆特价和神奇大礼包吧！会员年费折后只需2000元！接下来的半辈子，你每十分钟都会接到一个促销电话！
 
 ;0x122B6CFE=Be an adventurer!      
 0x122B6CFE=开始冒险吧！
