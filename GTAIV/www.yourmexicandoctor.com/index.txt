@@ -1,41 +1,41 @@
 ﻿;0x614F9534="Long-term health care can put a tremendous strain on finances, especially for the elderly who spend their glory years shitting themselves and absent-mindedly walking into traffic. 
-0x614F9534=长期的医疗保健支出会带来巨大的经济负担，尤其是那些年轻时候糟蹋自己身体，脑子发抽马路当客厅的老年人。
+0x614F9534=「长期医保会给钱包带来巨大负担，对那些年轻时作践身体、走路不看车的老年人来说更是如此。
 
 ;0xDCE711AD=I cannot recommend yourmexicandoctor.com highly enough. You won't find quality drugs on the Internet for lower prices.  And I'm a doctor, so you can trust me." 
-0xDCE711AD=我忍不住向你推荐yourmexicandoctor.com。你不会在网上找到更便宜的高质量药品了。而且我是名医生，你可以相信我。
+0xDCE711AD=倾情推荐『你的墨西哥医生』，为你提供全网最低价的高质量药品。我可是医生啊，放心地相信我吧。」
 
 ;0x2E22FA74=Are you being shafted by your retirement plan?  Maybe you have no medical insurance?  Or are you simply tired of doctor shopping to fill your addiction to prescription drugs?
-0x2E22FA74=你是否被你的退休计划所困扰？或许你没有医疗保险？或者你只是厌烦了找医生买药来满足你的瘾？
+0x2E22FA74=你是不是正在为退休金发愁呢？你是不是没买过医疗保险呢？抑或是处方药上瘾，又懒得跑去医院呢？
 
 ;0x14733207=America is the land of opportunity, that is until you get sick, and then you are never more than one chronic illness away from bankruptcy. Why fritter away your life savings on overpriced, quality-controlled medication when you can buy foreign-made versions of US-approved drugs online for a fraction of the cost? Pay up to 99% less than you would in the United States on www.yourmexicandoctor.com.
-0x14733207=美国是一片机遇之地。也就是说直到你生病。当你可以在网上购买外国制造，美国批准的药品时为什么要把你的毕生积蓄花费到价格昂贵，质量控制的药品？在www.yourmexicandoctor.com购买，在美国至多节省99%。
+0x14733207=美国是机遇之地。当然，得病以后就不是了，你离破产的距离只有一种慢性病。既然能在网上买到外国仿制、美国批准的药品，为什么还要把毕生积蓄花到价格昂贵、保障质量的国产药上？向『你的墨西哥医生』购买药品，价格低至本土药店的百分之一。
 
 ;0x1388EBA7=¡No hay nada más simple!
-0x1388EBA7=¡No hay nada más simple!（没有比这更简单的了！）
+0x1388EBA7=¡No hay nada más simple! (没有比这更简单的了！)
 
 ;0x39895FA3=All medicine is shipped out in official-looking containers and we are very flexible with the definition of 'personal consumption'. What have you got to lose? Actually, don't answer that. It might be your hearing from spending years obliterated on muscle relaxants! Check out these incredible bargains from south of the border instead:
-0x39895FA3=所有药品都在正规外观的集装箱内运入而我们对于“个人消费”十分灵活。你能失去什么?事实上，根本不用说。这可能是你多年来因为肌肉松弛剂而丧失的听力！看看这些来自南方邻居的价廉美物吧：
+0x39895FA3=所有药品都装在正品同款的集装箱内入境，我们对于「个人使用」的判断也十分灵活。你也没什么可以失去了吧？算了，我们不想知道答案。说不定就是长期被你用肌肉松弛剂摧残的听力！看看这些来自南方邻居的廉价美物吧：
 
 ;0x3C620F7B=Blissikin
 0x3C620F7B=
 
 ;0x12282E97=36-hour Mollis
-0x12282E97=
+0x12282E97=36小时Mollis
 
 ;0xDCE547F2=Debonaire
 0xDCE547F2=
 
 ;0x3C4F0337=Ampheterate
-0x3C4F0337=
+0x3C4F0337=安非他雷
 
 ;0x9359F5D9=Bubox
-0x9359F5D9=
+0x9359F5D9=黑死素
 
 ;0x060FC6E2=The Black Pill
-0x060FC6E2=
+0x060FC6E2=黑视丸
 
 ;0x642CF33E=Giggle Cream
-0x642CF33E=
+0x642CF33E=咯咯霜
 
 ;0x0DA60E54=Sooth
 0x0DA60E54=

@@ -1,21 +1,12 @@
 ﻿;0x733C91DE=Product: Silencers
-0x733C91DE=产品：Silencers
+0x733C91DE=品名：Silencers
 
 ;0x62F81C77=Quantity: 30 capsules
-0x62F81C77=净含量：30片
+0x62F81C77=规格：30片
 
 ;0xE65D540B=Our price: $12.99
-0xE65D540B=价格：$12.99
+0xE65D540B=惊爆价：$12.99
 
 ;0x9AC642B0=From sad to happy in one blackout!  Get all the effects of sniffing gasoline without the stigma.  Common side effects include uncontrollable sweating and spontaneous orgasms while yawning.  Wear thick underwear and avoid the elevator.    
-0x9AC642B0=一瞬间破涕为笑!在无需社死的情况下获得闻汽油的所有爽点。常见的副作用包括无法控制的出汗和打哈欠时的自发高潮。穿厚内衣，避开电梯。
-
-;0x6FEAE585=Major credit cards accepted.
-0x6FEAE585=可使用主要信用卡支付。
-
-;0x93D0CCD8=All purchases are non-refundable.
-0x93D0CCD8=所有购买不得退款。
-
-;0x246A54CE=All liabilities are denied.
-0x246A54CE=一经售出概不负责。
+0x9AC642B0=瞬间破涕为笑！无需社死就能获得闻汽油的所有快感。常见的副作用包括无法控制的出汗和打哈欠时的自发高潮。穿厚内衣，避开电梯。
 

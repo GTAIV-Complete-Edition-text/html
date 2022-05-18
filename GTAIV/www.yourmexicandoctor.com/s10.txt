@@ -1,21 +1,12 @@
 ﻿;0x628D44E4=Product: Lipurgex
-0x628D44E4=Lipurgex
+0x628D44E4=品名：Lipurgex
 
 ;0x4384CA18=Quantity: 60 capsules
-0x4384CA18=净含量：60片
+0x4384CA18=规格：60片
 
 ;0xDDFF7088=Our price: $59.99
-0xDDFF7088=价格：$59.99
+0xDDFF7088=惊爆价：$59.99
 
 ;0xF2169EC7=The #1 selling diet pill!  Lipurgex's revolutionary proprietary formula of caffeine, laxatives, diuretics, painkillers and the magic ingredient, On Fei Taa Ming, halts the hunger sensation in the brain while jacking you up so high you'll never want to come down again.  Lipurgex's ground-breaking 'Dual Exit System' violently expels toxins from the body and after a few hours we guarantee that you will no longer derive any pleasure from the taste of food.  Take the 'Green for Go' pill in the morning and the 'Red for Stop' pill in the evening.    
-0xF2169EC7=最畅销的节食药！Lipurgex的革命性专有配方，包括咖啡因，泻药，利尿剂，止痛药和神奇成分，安-非-他-明，可以相当阻断大脑中的饥饿感，同时把你刺激得根本停不下来。Lipurgex开创性的“双出口系统”暴力地清除身体内的毒素而在几个小时后我们保证你再也无法从品尝食物中获取快乐了。早上服用“绿色开始”，晚上服用“红色停下”。
-
-;0x6FEAE585=Major credit cards accepted.
-0x6FEAE585=可使用主要信用卡支付。
-
-;0x93D0CCD8=All purchases are non-refundable.
-0x93D0CCD8=所有购买不得退款。
-
-;0x246A54CE=All liabilities are denied.
-0x246A54CE=一经售出概不负责，
+0xF2169EC7=最畅销的减肥药！Lipurgex独家的革命性配方包含咖啡因、泻药、利尿剂、止痛药，以及神奇成分On Fei Taa Ming。这一配方能够阻断大脑的饥饿感，还能让你亢奋到根本停不下来。Lipurgex开创性的「双出口机制」能够激烈地排除身体中的毒素，包你几小时后就再也无法从食物中获得快感。白天吃一片「绿启动」，晚上吃一片「红停止」。
 

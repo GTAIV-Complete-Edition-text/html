@@ -1,21 +1,12 @@
 ﻿;0x068F13BB=Product: Hingmyralgan
-0x068F13BB=产品：Hingmyralgan
+0x068F13BB=品名：Hingmyralgan
 
 ;0xE1616949=Quantity: 90 capsules
-0xE1616949=净含量：90片
+0xE1616949=规格：90片
 
 ;0x67CFD946=Our price: $35
-0x67CFD946=价格：$35
+0x67CFD946=惊爆价：$35
 
 ;0x061DFF6B=Kick your nervous system into gear with Hingmyralgan.  Hingmyralgan takes your pain away in seconds and makes even the shittiest TV show seem like the best thing you've ever watched.  Chug a couple of beers and you'll be more drunk than the bride's mother at a shotgun wedding.    
-0x061DFF6B=Hingmyralgan可以引爆你的神经系统。它短短数秒让你的疼痛烟消云散，就算是看春晚也会像是在看超级爽片一样。再来几杯啤酒，保证你比婚礼上嫁出去自己大肚子女儿的母亲喝的还要醉。
-
-;0x6FEAE585=Major credit cards accepted.
-0x6FEAE585=可使用主要信用卡支付。
-
-;0x93D0CCD8=All purchases are non-refundable.
-0x93D0CCD8=所有购买不得退款。
-
-;0x246A54CE=All liabilities are denied.
-0x246A54CE=一经售出概不负责。
+0x061DFF6B=Hingmyralgan可以引爆你的神经系统。短短数秒，你的疼痛就会烟消云散，再难看的电视节目都会变成超级爽片。配上几杯啤酒，包你喝得比婚礼上看着大肚子女儿出嫁的母亲都醉。
 

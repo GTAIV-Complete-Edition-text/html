@@ -1,21 +1,12 @@
 ﻿;0x9A154C6C=Product: Bubox
-0x9A154C6C=产品：Bubox
+0x9A154C6C=品名：黑死素
 
 ;0x9D72C94E=Quantity: 100 units
-0x9D72C94E=净含量：100单位
+0x9D72C94E=规格：100单位
 
 ;0x603F540F=Our price: $300
-0x603F540F=价格：$300
+0x603F540F=惊爆价：$300
 
 ;0x652A3826=You've heard of injecting botulism so that you can lock your eyebrows and speak like a bad ventriloquist for a few weeks.  Well, have you ever thought of injecting the bubonic plague?  Bubox is the new cosmetic treatment that is taking Vinewood by storm.  Shoot a dose of Bubox into your cheek and soon all your droops and wrinkles will be miraculously replaced with blistered black patches and scaly blotches.  Nobody will be able to pinpoint your age, at least for the 12-24 hours that you will be alive.  Don't grow old gracefully.  Pay thousands of dollars to fill your face full of lethal toxins instead.    
-0x652A3826=你已经听说过注射肉毒杆菌，这可以让你在几周内紧锁眉毛，像一个蹩脚的口技演员一样说话。你有没有想过注射黑死病？Bubox是一种新的席卷好麦坞的美容疗法。在脸颊上喷一剂Bubox，很快你所有的下垂和皱纹都会奇迹般地被起泡的黑斑和鳞片状斑点取代。没有人能准确地确定你的年龄，至少在你活着的12-24小时内。不要优雅地变老。支付数千美元，让你的脸充满致命的毒素。
-
-;0x6FEAE585=Major credit cards accepted.
-0x6FEAE585=可使用主要信用卡支付。
-
-;0x93D0CCD8=All purchases are non-refundable.
-0x93D0CCD8=所有购买不得退款。
-
-;0x246A54CE=All liabilities are denied.
-0x246A54CE=一经售出概不负责。
+0x652A3826=大家都听说过注射肉毒素，注射后的几周内你都会眉头紧锁，说话像是嘴里含了根鸡巴一样。那么，你有没有考虑过注射黑死病？黑死素是一种席卷好麦坞的新型美容疗法。往脸颊上来一针黑死素，脸上的下垂和皱纹都会奇迹般地消失，被起泡的黑斑和鳞片状的斑点取代。没有人能猜到你的真实年龄，至少在你人生最后的12-24小时之内是猜不到的。拒绝优雅地变老，支付数千美元，让你的脸上充满致命毒素。
 

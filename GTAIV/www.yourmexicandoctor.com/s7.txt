@@ -1,21 +1,12 @@
 ﻿;0x46DC51B5=Product: Giggle Cream
-0x46DC51B5=产品：Giggle Cream
+0x46DC51B5=品名：咯咯霜
 
 ;0x3BF12363=Quantity: 5 canisters
-0x3BF12363=净含量：5罐
+0x3BF12363=规格：5罐
 
 ;0x66CD991C=Our price: $20
-0x66CD991C=价格：$20
+0x66CD991C=惊爆价：$20
 
 ;0xAB75C89F=Because dessert should be funny!  Giggle Cream was all the rage in the 1980's but it is now banned in the USA following a spate of lethal accidents.  Well, don't let the FDA legislate your fun!  We have a stockpile of Giggle Cream that we are very eager to get off the premises as soon as possible.  One stray cigarette and Tijuana could be razed to the ground.  Propel yourself into the laughter zone with whipped cream and nitrous oxide.  Get high and eat munchies at the same time with Giggle Cream!  
-0xAB75C89F=因为甜点应该很有趣！Giggle霜在20世纪80年代风靡一时，但在一系列致命事故之后，它现在在美国被禁止使用。好吧，别让FDA限制你的乐趣！我们有一堆Giggle霜，我们非常渴望尽快离开这里。一支流浪香烟和蒂华纳可能会被夷为平地。用鲜奶油和一氧化二氮让自己尽情大笑。Giggle霜让你嗨得不停，享受零食！
-
-;0x6FEAE585=Major credit cards accepted.
-0x6FEAE585=可使用主要信用卡支付。
-
-;0x93D0CCD8=All purchases are non-refundable.
-0x93D0CCD8=所有购买不得退款。
-
-;0x246A54CE=All liabilities are denied.
-0x246A54CE=一经售出概不负责。
+0xAB75C89F=甜点就应该让人快乐！咯咯霜在20世纪80年代风靡一时，但在一系列致命事故之后遭到有关部门封杀。好吧，别让FDA限制你的乐趣！我们有一堆咯咯霜需要尽快脱手。吸上一罐，蒂华纳就会被夷为平地。用鲜奶油和笑气让自己尽情大笑。咯咯霜让你嗨得不行，嘴上不停！
 

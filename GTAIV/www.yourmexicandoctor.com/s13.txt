@@ -1,21 +1,12 @@
 ﻿;0x9678DAC1=Product: H4PP1
-0x9678DAC1=产品：H4PP1
+0x9678DAC1=品名：H4PP1
 
 ;0x4384CA18=Quantity: 60 capsules
-0x4384CA18=净含量：60片
+0x4384CA18=规格：60片
 
 ;0xC22CF224=Our price: $28.99
-0xC22CF224=价格：$28.99
+0xC22CF224=惊爆价：$28.99
 
 ;0x0A4B38BD=Think happy thoughts!  H4PP1 works by taking away the ability to think or feel.  Float through your day on a cloud of numb disinterest.  Scrape yourself off the bottom of the barrel and rearrange your body chemistry forever with H4PP1.  Warning:  if you ever stop taking it, you will kill yourself.  
-0x0A4B38BD=想想快乐的事吧！H4PP1能让你失去思考与感受的能力，让你一整天都飘飘欲仙醉生梦死。投身美酒坛子，把身体里的化学反应都永远交给H4PP1吧。警告：如果你停止服用，你就会自杀。
-
-;0x6FEAE585=Major credit cards accepted.
-0x6FEAE585=可使用主要信用卡支付。
-
-;0x93D0CCD8=All purchases are non-refundable.
-0x93D0CCD8=所有购买不得退款。
-
-;0x246A54CE=All liabilities are denied.
-0x246A54CE=一经售出概不负责。
+0x0A4B38BD=想想高兴的事吧！H4PP1能让你失去思考与感受的能力，一整天都飘飘欲仙、醉生梦死。做出绝路上唯一的选择，把体内的化学反应永远交给H4PP1吧。警告：一旦停药，你就会自杀。
 

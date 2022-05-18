@@ -1,21 +1,12 @@
 ﻿;0x535009DF=Product: Sooth Cough & Cold Medicine
-0x535009DF=产品：Sooth Cough & Cold Medicine
+0x535009DF=品名：Sooth咳嗽感冒药
 
 ;0x6F9A293A=Quantity: 10 bottles
-0x6F9A293A=净含量：10瓶
+0x6F9A293A=规格：10瓶
 
 ;0x4330B753=Our price: $49.99
-0x4330B753=价格：$49.99
+0x4330B753=惊爆价：$49.99
 
 ;0x53B8B500=Sooth's special formula of Codeine, Morphine, and Alcohol will make you forget all your cough and cold symptoms.  It will also make you forget who you are and where you've been.  Side effects include having sex with strange men and chasing birds.  Slur your words for a couple of hours and then sleep for two days.    
-0x53B8B500=Sooth的特殊配方可待因、吗啡和酒精会让你和所有咳嗽和感冒症状拜拜。这也会让你忘记你是谁，你去过哪里。副作用包括与陌生人发生性关系和追逐鸟类。说几个小时的脏话，然后睡两天。
-
-;0x6FEAE585=Major credit cards accepted.
-0x6FEAE585=可使用主要信用卡支付。
-
-;0x93D0CCD8=All purchases are non-refundable.
-0x93D0CCD8=所有购买不得退款。
-
-;0x246A54CE=All liabilities are denied.
-0x246A54CE=一经售出概不负责。
+0x53B8B500=Sooth用可待因、吗啡和酒精打造的特殊配方，让你忘却自己咳嗽和感冒的症状。同时也会让你忘记自己是谁、去过哪里。副作用包括与陌生人发生性关系和追着鸟跑。口齿不清几个小时，整整睡上两天两夜。
 

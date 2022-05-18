@@ -1,21 +1,12 @@
 ﻿;0xD4C15205=Product: Debonaire 
-0xD4C15205=产品：Debonaire
+0xD4C15205=品名：Debonaire
 
 ;0xEBA7C5F1=Quantity: 200 cigarettes
-0xEBA7C5F1=净含量：200根
+0xEBA7C5F1=规格：200根
 
 ;0x09C56C3D=Our Price: $29.99
-0x09C56C3D=价格：$29.99
+0x09C56C3D=惊爆价：$29.99
 
 ;0x6C10D3DA=Generic cigarettes that don't taste generic.  At this price, you can't afford not to smoke!  You might find that these cigarettes taste a little different from your normal Debonaires and that the name is misspelled on some of the packaging (Hernando won't work in this town again).  This is all in your head.  After a few packs, we promise that it will start to feel less like you are sucking on a tractor exhaust.  
-0x6C10D3DA=味道不普通的普通香烟。以这个价格，你不能不抽烟！你可能会发现，这些香烟的味道与你平常的Debonaire有些不同，而且一些包装上的名字拼错了（Hernando不会在这座城继续工作了）。这都刻在你脑子里。几包之后，我们保证你会开始感觉不那么像是在吸吮拖拉机的排气管。
-
-;0x6FEAE585=Major credit cards accepted.
-0x6FEAE585=可使用主要信用卡支付。
-
-;0x93D0CCD8=All purchases are non-refundable.
-0x93D0CCD8=所有购买不得退款。
-
-;0x246A54CE=All liabilities are denied.
-0x246A54CE=一经售出概不负责。
+0x6C10D3DA=味道不普通的普通香烟。如此低廉的价格，再不抽就亏大发了！你可能会发现，这些香烟的味道与平常抽的Debonaire不太一样，有些包装上的名字还印错了 (山寨的Hernando已经骗不到人了)。但这些其实是你的错觉。抽个几包，你就不会觉得自己是在吸拖拉机的排气管了。
 
