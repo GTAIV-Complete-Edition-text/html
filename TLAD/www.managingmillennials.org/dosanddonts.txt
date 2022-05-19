@@ -8,10 +8,10 @@
 0x5EB6395B=生活在数字世代的千禧一代都有一种错觉，觉得自己很受欢迎。他们不仅提笔忘字，而且还没有专注力。他们觉得，往MP3里下歌不是人人都会，所以只有自己会玩电子产品。他们认为，打电话的同时看邮箱、听播客、看视频很牛逼，所以自己做事效率高，做的事都很有意义。他们相信，在
 
 ;0xF45679E4=MyRoom
-0xF45679E4=
+0xF45679E4=MyRoom网
 
 ;0x991C199A= page, they have superior communication skills. Remember, these people put their painfully boring diaries online, give it a new name like "blog" and assume that their idiotic opinion actually matters. This means, as a manager or coworker of a millennial, you will need to pretend to seriously consider all their naïve ideas. Lie to them about how vital their contribution is to the success of your company.
-0x991C199A=网加的几百个网友就能够证明自己高超的沟通技能。记住，这些人会把又臭又无聊的日记发到网上，美其名曰「博客」，搞得跟自己的那点弱智想法很重要一样。换言之，作为千禧一代的管理者和共事者，你需要装作真的有在考虑他们的幼稚想法。连哄带骗，就说没有他就没有公司今天的成功，公司离不开他。
+0x991C199A=加的几百个网友就能够证明自己高超的沟通技能。记住，这些人会把又臭又无聊的日记发到网上，美其名曰「博客」，搞得跟自己的那点弱智想法很重要一样。换言之，作为千禧一代的管理者和共事者，你需要装作真的有在考虑他们的幼稚想法。连哄带骗，就说没有他就没有公司今天的成功，公司离不开他。
 
 ;0x5C37F3C4=Good luck trying to have a productive meeting or delegating  work. Start thinking of yourself as a babysitter rather than a boss. Millennials hate to be micromanaged yet cannot complete any task without continuous supervision and back talk. They've had their whole lives organized for them and lack the capacity to think or solve problems on their own. This is Generation WHY - don't expect any initiative; you need to show them exactly what to do every step of the way. If not, you will absolutely enjoy the look on their face when you fire them. You haven't seen stunned disbelief until a 20-something who has been coddled by mommy and daddy her whole life is told to hit the bricks. Toots.
 0x5C37F3C4=如果你想跟千禧一代开会开出什么结果，或者是给他们分配工作，祝你好运。你要把自己当成保姆，不能有老板的架子。他们不喜欢事无巨细的管理，喜欢顶嘴，但没人盯着催着他们又什么都不会做。这就是没有任何主动性的歪世代。当然，你也可以炒了他们，那时他们的神色一定能让你愉悦。二十多岁的家伙被爸爸妈妈娇惯了一辈子，突然知道自己下岗了，他们一定会目瞪口呆。
@@ -35,7 +35,7 @@
 0x8912DB9B=这一代人喜欢看同龄富人出境的电视节目。他们相信，有些人能靠寿命只有几个月的社交平台发财，他们也可以。每个千禧一代都觉得自己注定会在30岁之前成为百万富翁。而你这个年纪更大的管理者则是他们的拦路虎。当然了，也有好处，千禧一代大多不介意一路睡到高层。不过，你必须把接下来的这条警告牢记于心。
 
 ;0xEBD7B566=These digerati believe that EVERYTHING needs to be recorded, blogged about, and posted online. Only bang your employees in a hotel and make them leave their camera-phones and other electronics in the car. Set an 
-0xEBD7B566=这些电脑高手认为所有东西都需要录下来、写成博客、发到网上。所以你只能选择酒店开房，还得让他们把拍照手机之类的电子产品放在车里。用
+0xEBD7B566=这些电脑高手认为所有东西都需要记录留底、写成博客、发到网上。所以你只能选择酒店开房，还得让他们把拍照手机之类的电子产品放在车里。用
 
 ;0x351E83FD=Eyefind
 0x351E83FD=
