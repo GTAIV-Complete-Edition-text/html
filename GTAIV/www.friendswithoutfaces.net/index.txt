@@ -1,34 +1,30 @@
 ﻿;0x21A385A9=sponsor
 0x21A385A9=赞助商
 
-;0x21A385A9=sponsor
-0x21A385A9=赞助商
-
 ;0xD12AB03E=Do you remember the glory days, before the Internet, when people used to spend time writing and corresponding? Special paper was chosen. The letter was written with the utmost care. A stamp was placed on the enevelope, and you headed to the post office. Each day, you would go to the mailbox, your soul empty when there was no response yet? 
-0xD12AB03E=你还记得在因特网之前的荣光么？那时的人们还在花时间写信和回信。人们选择特殊的信纸，用最关心的口吻写信。在信封上贴上一枚邮票，然后前往邮局。每天你都会去邮箱检查。当还没有回信时，你的灵魂会变得空虚么？
+0xD12AB03E=你还记得因特网出现之前的光荣时光吗？当时的人们仍在通过书信往来。人们选择特殊的信纸，用最关心的口吻写信。在信封上贴上邮票，然后前往邮局。每天你都会检查邮箱，没收到回信时，你的灵魂会变得空虚吗？
 
 ;0x0404CD22=Have you always wanted the joy of receiving a letter through the mail that has been read and censored by three sets of government officials? Do you long for the anticipation of waiting eight weeks for a response from somebody with the same comprehension of the English language as a child with Fetal Alcohol Syndrome?
-0x0404CD22=你是否一直想要在邮箱收取被官方政府阅读，审查三次的信件的喜悦？你是否期待一封来自对英语有同样理解的有胎儿酒精综合征的孩子回信长达八个礼拜？
+0x0404CD22=被三个部门的官员阅读、审查，之后再投递邮箱，这是不是你期待已久的乐趣？患有胎儿酒精综合征的孩子用英语回信，运输八周才能送信上门，这是不是你心往神驰的仪式感？
 
 ;0x436CA29E=Come enjoy a world where you can communicate the old fashioned way. Maybe you want to experience the faint but erotic scent of a Ukrainian girl's perfume as you open the envelope? You see, people were hooking up with strangers across the globe long before the arrival of 
-0x436CA29E=快来享受一个可以用老式方式交流的世界。也许你想在你打开信封时体验一下乌克兰妹子的淡淡的有性欲的香水味？你看，人们早在到达之前就全球勾搭陌生人了。
+0x436CA29E=快来享受这个使用老派方式交流的世界吧。打开信封时传来乌克兰妹子勾起性欲的淡淡香水味如何？你看，早在
 
 ;0xF45679E4=MyRoom
-0xF45679E4=MyRoom
+0xF45679E4=MyRoom网
 
 ;0x31E9AE78= and 
-0x31E9AE78=
+0x31E9AE78=、
 
 ;0x86725152=LoveMeet
-0x86725152=觅爱
+0x86725152=觅爱网
 
 ;0x08A4E2C0= . Don't listen to the government and the media - not all foreigners are murderous savages who yearn for the US to bring democracy to their countries. A pen pal is still a great way to make new friends, learn about different cultures, practice another language, launder illicit goods or even find love. 
-0x08A4E2C0=不要听政府和媒体胡说八道。不是所有渴望美国给他们国家带来民主的外国人都是凶残的野蛮人。笔友仍然是结交新朋友的好方法，学习不同的文化，练习其他的语言，把非法货物洗白，甚至还能找到真爱。
+0x08A4E2C0=出现之前，人们就在全球勾搭陌生人了。不要听政府和媒体胡说八道。那些渴望美国给他们国家带来民主的外国人并非都是凶残的野蛮人。写信仍然是结交朋友的好方法，更能了解不同的文化，练习其他的语言，洗白非法的货物，甚至还能找到真爱。
 
 ;0x97830088=The world is full of girls desperate enough to marry an overweight bald guy twice their age as long as he feeds them pills and top shelf vodka. There is something about the formality of written correspondence that makes the process of admitting to a stranger that you were molested so much more pleasant. 
-0x97830088=世界上充满了这种女生，她们不顾一切的要嫁给老她们两倍的超肥秃头男，只要这秃头男给她们提供药片和上等的伏特加。写信的的书面规范性使得向陌生人承认你被调戏的过程变得更加有趣。
+0x97830088=世界上有很多这种女生，只要能嗑上药、能喝到上等伏特加，她们甚至愿意嫁给年纪是自己两倍的超肥秃头男。考虑到书面礼仪的存在，思考如何向陌生人坦言自己儿时遭遇过性骚扰也成了一件趣事。
 
 ;0xBE6D9DB1=The Friends Without Faces database contains thousands of lonely people who are not only ready to be your friend; they are prepared to prove it - by writing out a letter in full and sending it out to you by snailmail. Find your perfect pen pal on Friends Without Faces today! Converse with a stranger on the other side of the planet the old fashioned way! A starving teen in Africa will be so grateful to hear how you hate your parents because they won't buy you the latest Panoramic cell phone or Eris sneakers. Letter writing has become a lost art in the age of IM and text messaging. We need to slow it back down. Forget "ur hot msg me l8r", we say, bring back longhand!
-0xBE6D9DB1=素未谋面的朋友（网站）的数据库中有成千上万的孤独的人。他们不仅准备好成为你的朋友，而且他们还准备好证明这一点，通过写一封完整的信并通过蜗牛邮件发送给你。今天在素未谋面的朋友（网站）找到你的完美笔友！与地球另一边的陌生人以老式的方式交谈！一个非洲饥饿的青少年会非常感激听到你多么讨厌你的父母，因为他们不会给你买最新的Panoramic手机或Eris运动鞋。在IM（即时消息）和短信时代，写信已经成为了一门消失的艺术。我们需要放慢这种消失的速度。忘记“亻尔真火尧er
-，火辶束禾厶我8”，让我们说，手写复兴！
+0xBE6D9DB1=「素未谋面的朋友」的数据库中有成千上万的孤独的人。他们不仅准备好成为你的朋友，而且还会证明这一点——完完整整地写一封信，用龟速的邮件寄到你家。现在就来素未谋面的朋友寻找自己的完美笔友吧！以老派的方式与地球另一端的陌生人交流！听到你多么讨厌不给你买最新款全景牌手机和Eris运动鞋的父母，正在挨饿的非洲少年一定会非常感激的。在即时通讯和短信交流的时代，写信已经成为了一门即将失传的艺术。我们要延缓它的消失。忘记「亻尔真火尧er，火辶束禾厶我8」，大声喊出这四个字，手写复兴！
 
