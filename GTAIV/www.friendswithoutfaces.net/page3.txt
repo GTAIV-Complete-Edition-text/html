@@ -1,54 +1,26 @@
-﻿;0x0FE07306=Name
-0x0FE07306=
-
-;0x8ECBE13C=Age
-0x8ECBE13C=
-
-;0x18743595=From
-0x18743595=
-
-;0x7CEA42F0=Hakan
-0x7CEA42F0=
+﻿;0x7CEA42F0=Hakan
+0x7CEA42F0=Hakan
 
 ;0x52F80F71=Mersin, Turkey
-0x52F80F71=
+0x52F80F71=土耳其，梅尔辛
 
 ;0x1B0357C7=Good morning! I am looking for the friend to write the letters!  I want to correspond with females! It has been long years since I tickled woman's skin. I would like you write letters to attractive lady from Poland and Ukraine etc. I am nice, clean man with friendly organ forceful for love maiking. Very romantic and sensitive. Ill treat you like a princess of a bloody dictator. Maybe we meet one day to exchange fluids. I like inline skating, icecream and guns. You're probably wondering how I can be single? Why don't you try out my letters ladies?         
-0x1B0357C7=
-
-;0x0FE07306=Name
-0x0FE07306=
-
-;0x8ECBE13C=Age
-0x8ECBE13C=
-
-;0x18743595=From
-0x18743595=
+0x1B0357C7=早上好！我正在寻找可以写信的朋友！我想与女人通信！我已经很久没有摸过女人的皮肤了。希望能和波兰、乌克兰等地有魅力的女人写信交流。我是一个善良、干净的人，身体素质超棒，适合作爱。我既浪漫，又敏感。我会把你当成血腥独裁者的公主。也许我们有一天会见面交换体液。我喜欢直排轮滑、冰淇淋和枪。你是不是想知道我为什么会单身？那就给我写封信试试吧，女士们。
 
 ;0x63ADEC44=Anastasija
-0x63ADEC44=
+0x63ADEC44=Anastasija
 
 ;0xF8CE937B=Hrodna, Belarus
-0xF8CE937B=
+0xF8CE937B=白俄罗斯，格罗德诺
 
 ;0xD35A9C76=Belarus woman pines for you! I would like to exchange gifts with an American man. I enjoy walking in the rain and blowjobs. I don't like exercise or cheap things. I put sunshine in your life! My star sign is virgin. Many problems in my life. Maybe one day I become american citizen. I dream of rolling in field with you. What do you look like? You write me babycake.          
-0xD35A9C76=
-
-;0x0FE07306=Name
-0x0FE07306=
-
-;0x8ECBE13C=Age
-0x8ECBE13C=
-
-;0x18743595=From
-0x18743595=
+0xD35A9C76=白俄罗斯女人渴望你！我想和美国男人交换礼物。我喜欢雨中散步和口交，不喜欢运动和便宜的东西。我能让你的生活洒满阳光！我的星座是处女座。我生活中有许多烦恼。也许有一天我会成为美国公民。我梦想着和你一起在田野里打滚。你长什么样子？给我回信，宝贝。
 
 ;0x535FD2C2=Indrajit
-0x535FD2C2=
+0x535FD2C2=Indrajit
 
 ;0xF8E60D6D=Jaipur, India
-0xF8E60D6D=
+0xF8E60D6D=印度，斋浦尔
 
 ;0x4BA0EE36=Hello world friends I want to enter you through letters. I want to get deep inside you for meaningful understanding. I have lots of humor sense! Nobody has ever lamented becoming my friend. I am small but handsome and I love to adventure freely! I want to practice my English sincerely with long letters about tractor engine overhaul, which I am full yime. I want to make a friendship that grows strong like a tree. Indutibly yours. Indrajit.          
-0x4BA0EE36=
-
+0x4BA0EE36=你们好，全世界的朋友，我想用信进入你们的心。让我深入你的内心，追寻意味深长的理解。我非常幽默！从来没有人后悔成为我的朋友。我身材矮小，但很英俊，喜欢自由冒险！我想写信练习英语，内容主要是拖拉机发动机的大修，这是我的专业。我想和你建立像树一样牢固生长的友谊。你可靠的Indrajit。

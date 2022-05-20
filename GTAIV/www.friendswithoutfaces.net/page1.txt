@@ -1,60 +1,42 @@
 ﻿;0x0FE07306=Name
-0x0FE07306=
+0x0FE07306=名字
 
 ;0x8ECBE13C=Age
-0x8ECBE13C=
+0x8ECBE13C=年龄
 
 ;0x18743595=From
-0x18743595=
+0x18743595=来自
 
 ;0x5F5421C4=Diangelo
-0x5F5421C4=
+0x5F5421C4=Diangelo
 
 ;0xCB1F2AB4=Bohan, USA
-0xCB1F2AB4=
+0xCB1F2AB4=美国，Bohan
 
 ;0x9BBE71F0=FEMALES ONLY. My name is Diangelo and I am doing a 20-year sentence at the Alderney State Correctional Facility for snapping a woman's neck. Please write to me. Mail call is the loneliest time. I need to feel some connection with the outside world other than the guards having their way with me. I need female contact. My cellmate is looking more appealing by the day.         
-0x9BBE71F0=
+0x9BBE71F0=仅限女性。我叫Diangelo，因为抹了一个女人的脖子，现在要在Alderney州立监狱关20年。请给我写信。狱警派发信件的时候是我最孤独的时候。我想和外面的世界保持联系，而不是被狱警为所欲为。我需要的是女性笔友。再这样下去看狱友我都觉得他眉清目秀了。
 
 ;0x80EDFBF9=Maybe you're an older, single woman? Maybe you're insecure about your appearance? If you give me the gift of friendship, I will give you love and support. All I ask is that you send a carton of cigarettes each month and house me after my release. I am not a bad person - I just made some bad choices in my life. Like setting my wife on fire. Judge me not for what I've done but for who I am and what I am capable of doing. We all live under the same sky.         
-0x80EDFBF9=
+0x80EDFBF9=也许你是个大龄单身女性？也许你对自己的长相没有信心？你赠予我友谊，我会回报你爱与支持。我只要求你每个月给我送一条烟，在我出狱后照顾我。我不是坏人，只是在生活中做了一些错误的选择，比如说放火烧死自己的老婆。不要看我做了什么，应该依照为人和能力评价我。我们都住在同一片天空下。
 
 ;0x117034FA=I might be physically trapped but I can still go on spiritual journeys via your letters. They will be a shining light in the darkness of my daily hell. If you can include some dirty stuff, that would be much appreciated. After 9 years locked in a cell 23/7, I'm running out of masturbation scenarios.          
-0x117034FA=
-
-;0x0FE07306=Name
-0x0FE07306=
-
-;0x8ECBE13C=Age
-0x8ECBE13C=
-
-;0x18743595=From
-0x18743595=
+0x117034FA=尽管肉体被困，但我的精神仍然可以通过你的信件踏上旅途。这将是我黑暗的地狱生活中的明灯。如果可以写一些黄色的东西，我将不胜感激。7天23小时，在监狱里关了整整9年，我打飞机的意淫素材都快用完了。
 
 ;0xA45B24CC=Kerry
-0xA45B24CC=
+0xA45B24CC=Kerry
 
 ;0xEA3C009E=Los Santos, USA
-0xEA3C009E=
+0xEA3C009E=美国，洛圣都
 
 ;0x3AF075DE=Hiya! I'm Kerry! I'm in my last year of high school and I'm just a crazy ass girl who's down for anything - yesterday I drank a whole bottle of aftershave! I have a lisp and im full of contradictions and letters from former therapists. Im serious but people laugh at me. I have a dynamic personality but im an introvert. Would you like to receive a letter from me every day? I have a positive attitude but I am manically depressed. Im stupid but opinionated. I have a rabbit but I trust no one... that's not really a contradiction, I suppose. I like to learn about different cultures and I will write to almost anybody even someone from Australia. Also, no disabled children. I would also like a new religion to piss off my parents. Something with chanting and ceremonial cutting. Will you be my friend?          
-0x3AF075DE=
-
-;0x0FE07306=Name
-0x0FE07306=
-
-;0x8ECBE13C=Age
-0x8ECBE13C=
-
-;0x18743595=From
-0x18743595=
+0x3AF075DE=你好啊！我是Kerry。这是我在高中的最后一年，我只是一个特别疯狂的普通姑娘，什么事都敢做。昨天我刚喝了一整瓶须后水！我说话大舌头，性格有点矛盾，收到了很多前心理医生的来信。我很认真，但是别人都笑话我。我性格多变，但是又很内向。你想每天收到我的信么？我有积极向上的态度，但是又有躁郁症。我很蠢，但又自以为是。养了兔子，但还是谁都不相信... 这条姑且算不上是矛盾吧。我喜欢了解不同的文化，会给几乎任何人写信，甚至是澳大利亚人。当然，残疾儿童例外。我还想找个新奇的宗教，用新的信仰气死我的父母，最好是要唱颂歌、剪彩带的那种。你可以当我的朋友么？
 
 ;0x324E1620=Adeben
-0x324E1620=
+0x324E1620=Adeben
 
 ;0x79A7B671=United States of America
-0x79A7B671=
+0x79A7B671=美国
 
 ;0x211F1C43=GREETINGS FROM GHANA! I am honorable American man on vacation in Accra and I have lost my wallet of money. Can you wire American dollars so I can buy airplane ticket back to my home soil? I thank you most effusively for writing to me at early opportunity. Your humble friend, Adeben.         
-0x211F1C43=
+0x211F1C43=来自加纳的问候！！！我是一位骄傲的美国人，正在加纳首都阿克拉度假。我的钱包丢了。你能给我汇点美刀么，方便我买机票回家？希望你能尽快给我回信，感激不尽。你谦逊的朋友，Adeben。
 
