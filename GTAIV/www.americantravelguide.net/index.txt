@@ -1,30 +1,30 @@
 ﻿;0xD8CFCFE5=Look, we know the United States of Europe is a terrifying place - a patchwork of third-world backwaters where the pop music is cheesy, American has-been stars are treated like gods, the cars are small and you have to pay a toothless crone to take a shit in a squat hole. The men kiss, the women don't shave and the children drink wine.
-0xD8CFCFE5=
+0xD8CFCFE5=我们知道欧罗巴合众国是个吓人的地方——第三世界的集合，俗气的流行音乐，还把美国的过气明星当神对待。车子很小，去个蹲坑都会被没牙老太婆拦住收钱。男人互吻，女人不剃毛，小孩还喝酒。
 
 ;0xF491CA2E=When not on strike, Europeans are paralytic by 10 AM, take a three-hour lunch and then spend their afternoons sleeping or sitting around in cafes whining about lost empires. And if you're looking to travel to Europe during the summer, beware. The entire continent gets 3 months paid leave from work - so the place is a madhouse.  It is quite evident that those with a healthy workaholic manner got out 300 years ago.
-0xF491CA2E=
+0xF491CA2E=不罢工的时候，欧洲人早上十点还迷迷糊糊。吃顿午饭，三小时就过去了。下午不是睡觉，就是坐在咖啡馆怀念祖上的帝国。如果你想夏天去欧洲旅游的话，当心。整个欧洲能带薪休假三个月——结果就是那里一团糟。热爱劳动的健康精神显然是在三百年前就丢掉了。
 
 ;0xCDA5D5FF=One thing that surprises many Americans when they travel abroad is that not everybody loves a superpower. The filthy streets of Europe are full of chain-smoking clodhoppers who will think nothing of murdering you in your sleep just for being a freedom lover.
-0xCDA5D5FF=
+0xCDA5D5FF=出国旅游时，很多美国人都会大吃一惊，发现居然不是所有人都爱超级大国。穷酸的欧洲街道上满是烟鬼小丑，他们可以趁你睡着时痛下杀手，同时内心毫无波动，然而杀人动机只是「美国人热爱自由」。
 
 ;0x94CC4247=The wily Europeans have come up with some devious ploys designed to throw the hapless American tourist into a spiral of disorientation and paranoia from the moment he sets foot on foreign soil:
-0x94CC4247=
+0x94CC4247=狡猾的欧洲人有很多用心险恶的阴招，不幸的美国游客从踏上异国他乡的那一刻起，就已陷入迷失方向和偏执的漩涡：
 
 ;0xE85A04DA=They change the time so that you think that you have arrived for dinner but end up having breakfast and feeling like you are hung over. And their breakfast is awful. You are hard pressed to find decent bacon or gravy.
-0xE85A04DA=
+0xE85A04DA=他们改了时间。你以为这个点吃的是晚饭，其实吃的是早饭，搞得你像宿醉一样晕头转向。而且他们的早饭就是垃圾，想找到能吃的培根和肉酱太难了。
 
 ;0x62A54B97=They have 31 months out of the year - but only 12 days a month.  Don't be alarmed when you arrive and it's 27-12-08.
-0x62A54B97=
+0x62A54B97=他们一年有31个月，但一个月只有12天。去了以后看见27-12-2008不要大惊小怪。
 
 ;0xE940C979=They measure everything in illogical multiples of 10; trust us - we had a call girl say she only weighs 100 but when you open the door she's a blubbery beast.
-0xE940C979=
+0xE940C979=他们的度量衡都是不合逻辑的10进制。一件真事——我们叫了个自称体重只有100的姑娘，但你开门就会发现她是辆虎式坦克。
 
 ;0x4C26BC19=They use an incomprehensible system to estimate weather temperature; you dress up in gloves and a scarf when you hear that it's 30 degrees, only to discover everyone is sunbathing.
-0x4C26BC19=
+0x4C26BC19=他们使用一套无法理解的系统衡量气温。听说外面30度，你就戴上手套围了围巾，结果发现外面烈日炎炎。
 
 ;0x981F2306=Traveling in Europe can be a minefield, LITERALLY. The American Travel Guide is here to arm you with the information that you need to neatly sidestep the pitfalls, blunders and faux pas (a phrase stolen by the French) that plague the average traveler.
-0x981F2306=
+0x981F2306=去欧洲旅游可以说是字面上的踩雷。我们美国人旅游指南会为你提供必要的情报，让你巧妙地避开困扰普通旅行者的陷阱、错误和失态(这词被法国人偷了)。
 
 ;0x81050D86=The best piece of advice that the American Travel Guide can give you is - STAY AT HOME! There's a reason you don't own a passport. Why would you want to fly halfway around the world to get insulted by socially-awkward savages who will spit in your food and steal your camera when you can get all the European culture that you need delivered to your door faster than a fire truck right here in the US of A? Relax. Kick off your Derriere shoes, put your feet up on your Krapea table, order a deep-pan from Pizza This, take a slurp of your Bean Machine gunkaccino, crack open a Piswasser and engage in some hand-to-gland combat to the finest Russian adult entertainment. You don't need to leave America to know that it's the greatest country in the world!
-0x81050D86=
+0x81050D86=美国人旅游指南能给你的最有含金量的建议就是——呆在家里！这就是你没有护照的原因。何苦飞越半个世界去被不会社交、偷你相机、往你饭里吐口水的野蛮人羞辱呢？更别说你足不出户，一个电话就能让跑得比他妈USA消防车还快的欧洲人送货上门了。放轻松。踢掉你的Derriere鞋，把脚架到宜室桌子上，从Pizza This点一份大份披萨，喝一口冰的咖啡的贡卡奇诺，开一罐尿汤啤，然后对着俄罗斯极品黄色内容手冲吧。不用出国也能知道你正身处于世界上最伟大的国家！
 
