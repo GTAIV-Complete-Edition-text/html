@@ -1,39 +1,39 @@
 ﻿;0x03371CBA=All good beef should be cooked medium-rare. Our burgers are served torched on the outside, pink on the inside and buzzing with bacteria.
-0x03371CBA=
+0x03371CBA=好的牛肉应该烹饪至三分熟。我们的汉堡外面是熟的，里面是生的，充满了细菌。
 
 ;0x7FF5628C=A veggie burger and fries cooked in animal fat! This is very rarely ordered so has normally been sitting on the heated chute for over 48 hours.
-0x7FF5628C=
+0x7FF5628C=素堡套餐包含素汉堡和动物油脂炸成的薯条！很少有人点这个套餐，一般都是在保温柜里放了两天以上的库存货。
 
 ;0xE8697CB2=Who loves cock?! Who doesn't?! The Torpedo is a deep-fried chicken filet on a stale bun. The secret ingredient of our boneless chicken is... bones! We throw carrion and carcasses into a tree chipper and grind up until we have a paste that tastes like damp sawdust.
-0xE8697CB2=
+0xE8697CB2=喜欢吃鸡的朋友在哪里？！哪个家伙不喜欢吃鸡？！鱼雷堡采用炸鸡排和烂面包制成。制作无骨鸡排的秘诀就是... 骨头本身！我们把变质鸡肉和死鸡一起放到碎木机里磨成肉泥，尝起来就像湿湿的锯末。
 
 ;0x0827D608=Can you imagine a burger as big as your head? Can you imagine getting 20 times the recommended daily amounts of calories, saturated fat and salt in one sitting? The all new Heartstopper does what it says on the box: 7 luke-warm beef patties, cheese, lettuce, tomato, half a jar of mayonnaise, pickles and an asylum seeker's semen. At 6 lbs, the Heartstopper is like a new-born baby on a roll. Die with a smile on your face.
-0x0827D608=
+0x0827D608=想象一下，有一个汉堡，和你的头一样大；再想象一下，光是吃一个汉堡，就可以摄入超过营养标准20倍的热量、饱和脂肪和盐分。所见即所得，全新的心肺停止六磅堡包含7片不冷不热的牛肉，芝士、生菜、西红柿，半瓶蛋黄酱，泡菜和难民的精液。凭着五斤半的重量，心肺停止六磅堡就像充满活力的新生儿。足以让你含笑九泉。
 
 ;0x993F667D=Amazingly, you will still be hungry again in an hour's time.
-0x993F667D=
+0x993F667D=神奇的是，一个小时后，你又饿了。
 
 ;0x029CA77A=Two quarter-pound patties, cheese, lettuce and pubic hair for less than a dollar! Maximize your meal for another 5 cents! The Bleeder is 100% animal by-products!
-0x029CA77A=
+0x029CA77A=两百克的肉饼、芝士、生菜和阴毛，只需不到1美元！再花5美分买点小菜吧！吸血鬼堡100%由动物副产品制成！
 
 ;0xED5E5E60=Block your arteries before you even finish high school!
-0xED5E5E60=
+0xED5E5E60=争取高中毕业前动脉硬化！
 
 ;0xD9A4F012=Meat for minors! The Merry Meal is identical to every other combo except it comes with a toy from a labor camp in Southeast Asia! Burger Shot has also entered into a partnership with 
-0xD9A4F012=
+0xD9A4F012=小朋友也要吃肉肉！儿童乐园餐和其他套餐没有区别，但会附送东南亚劳工制作的玩具！
 
 ;0x3E9E59D3=Bank of Liberty
-0x3E9E59D3=
+0x3E9E59D3=自由城银行
 
 ;0xD3B85F2D=  and, as a special introductory offer, all Merry Meals will come with a Kids Kredit Kard for the first six months. A $1,000 limit! Ask one of the ex-cons at the register to act as co-signer on the application form.
-0xD3B85F2D=
+0xD3B85F2D=已与吃得饱汉堡达成合作。在前六个月的推广特惠期间，购买儿童乐园餐即送一张儿童信用卡，额度1000美元！让前台的前科犯服务员帮你签个字就可以用了。
 
 ;0xF800C05C=Another option on the Merry Meal Menu, Kiddie Fiddlers are delicious deep-fried strips of mysterious dark meat that children will love! Feast on grease! Dip your Fiddlers into one of our sickly savory syrups: Steaming Hot, Sweet and Squirt, Muddy Mustard or Bubbling BBQ.
-0xF800C05C=
+0xF800C05C=儿童乐园餐系列新品上市！童恋套餐内含秘制焦黑肉棒，孩子吃了都说好！鸡油的味道就是香！更有齁甜酱料供你任选：辣到冒烟酱、爆香甜甜酱、浓厚芥末酱、滋滋烧烤酱。
 
 ;0x4F580C27=- The ultimate breakfast sandwich!
-0x4F580C27=
+0x4F580C27=顶级早餐三明治！
 
 ;0x58E9C161=The Slugger is chicken, beef, sausage, bacon, cheese, syrup, egg and cookies served between two hash browns. The only way to start the day. It will take you down!
-0x58E9C161=
+0x58E9C161=霸王三明治内含鸡肉、牛肉、香肠、培根、芝士、糖浆、鸡蛋、曲奇，夹在两片薯饼中间。霸王三明治，开启你的新一天。一口就能把你拿下！
 
