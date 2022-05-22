@@ -1,21 +1,21 @@
 ﻿;0xD1C271FB=Four different exhibits of historical 
-0xD1C271FB=
+0xD1C271FB=四个不同的有关历史的展览
 
 ;0xA5FC981F=artifacts are open to the public at the 
-0xA5FC981F=
+0xA5FC981F=文物将会向公众展出在
 
 ;0x22954926=Libertonian Museum: 
-0x22954926=
+0x22954926=自由城博物馆
 
 ;0xD1A21A93=Check out the impressive man busts and how fascinated primitive people are with their reproductive organs. 
-0xD1A21A93=
+0xD1A21A93=快来看看这些令人印象深刻的半身男人像，以及原始人对他们的生殖器是多么着迷。
 
 ;0x734C129A=Mummification demo on real corpses.
-0x734C129A=
+0x734C129A=在真正的尸体上搞木乃伊制作演示。
 
 ;0x351D3BFC=Admire the shiny helmets and long swords of violent lunatics! 
-0x351D3BFC=
+0x351D3BFC=欣赏那些属于暴力狂疯子们的闪亮的头盔和长剑吧！
 
 ;0x15312809=Did they exist?  (Note - exhibit changed after heavy lobbying by family groups.) 
-0x15312809=
+0x15312809=它们存在吗？（注：在家族团体的大力游说下，展览的内容改了。)
 

@@ -1,21 +1,20 @@
 ﻿;0x369FF06A=Today, anybody can be an artist and anything can be art. It's all about labels. Tomorrow, things will be different. You will probably be very out of fashion. 
-0x369FF06A=
+0x369FF06A=今天，每个人都可以成为艺术家，什么东西都可以成为艺术品。这一切都和它们的标签有关。到了明天，一切都会不同。你可能就沦为2G网了。
 
 ;0x629A1BED=So jump on the bandwagon now and start following contemporary art. That's what is great about having loads of time on your hands as the citizen of a First World nation. 
-0x629A1BED=
+0x629A1BED=所以现在就跟上潮流，开始追随当代艺术吧。这就是作为第一世界国家的公民能拥有大量时间的好处。
 
 ;0x2C3DE603=In the same way that some people will pay a fortune for a musty old cardigan if they can be convinced that it is retro chic, others will happily blow $5 million dollars on a can of Sprunk if a so-called expert tells them that it is a masterpiece of ironic commentary on mass-produced society. 
-0x2C3DE603=
+0x2C3DE603=就像有人愿意花一大笔钱买一件他们所谓复古时髦的发霉的旧开襟羊毛衫一样，也有其他人会很高兴地花500万美元买一罐Sprunk——如果一个所谓的专家告诉他们，它是对批量生产社会的讽刺之作
 
 ;0xBFAE7BB1=It's all about the world's greatest idea ever - postmodernism. Postmodernism means everything is a metaphor. And the result is, you just have to say what anything is a metaphor of, take a picture of it, and then call yourself an artist. 
-0xBFAE7BB1=
+0xBFAE7BB1=这些都关于世界上最伟大的理念——后现代主义。它意味着一切都只不过是一个隐喻。这样的结果就是，你只要能说出任意事物的隐喻并为它拍张照片，然后就可以自称一位艺术家。
 
 ;0xAAE881D5=The trick is to create something that is too bizarre or baffling for the common herd to comprehend.  For this reason, critics agree some of the best artists are dogs. Critics know that they, and only they, have an eye for a powerful aesthetic. 
-0xAAE881D5=
+0xAAE881D5=诀窍就是去创造一些让一般大众无法理解，看起来太奇怪或者令人摸不着头脑的东西。因此，评论家们同意某些最牛逼的艺术家们就跟狗一样。他们知道，也只有他们对某种强大的美学很有鉴赏眼光。
 
 ;0x43F11A3A=Art involves intense introspection and a rejection of self.  Art is a journey to a higher plane of meaning and understanding, and that higher plane is called Rich and Stupid.  It's about deconstructing the work and rebuilding it within a metaphysical framework. 
-0x43F11A3A=
+0x43F11A3A=艺术需要强烈的自省和对自我的拒绝。艺术更是一段通往更高层次意义和理解的旅程，而所谓的更高层次叫有钱和傻逼。它是关于对作品的解构，并将其在一个玄学的框架内重建。
 
 ;0x3C0C2395=As our minds tangle with the tortured psyche of a drug-addled artist, we begin to uncover new truths about our own existence... that we may only exist in a virtual world run by a megalomaniac. 
-0x3C0C2395=
-
+0x3C0C2395=当我们的思想与一个吸毒成瘾的艺术家饱受折磨的灵魂纠葛在一起时，我们就开始发现那些关于我们自身存在的新的事实……我们可能只存在于一个由某个自大狂掌控的虚拟世界里。
