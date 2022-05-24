@@ -1,18 +1,18 @@
 ﻿;0x0A3C2658=An exhibition of the work of the Aesthetic Minimalist, Philips Van Der Philip.  The Dutchman has been widely praised for making the subject matter of his paintings as unrecognizable as possible.  Van Der Philip's blank canvas, entitled 'Nothing', sold to a private collector last year for $120 million and has been described by critics as "a metaphor for the nihilistic decadence of modern society." 
-0x0A3C2658=
+0x0A3C2658=美学极简主义者Philips Van Der Philip的作品展。这个荷兰人的画作以尽可能难以辨识的主体为特色，受到广泛赞誉。Van Der Philip的一张题为《无》的空白画布，在去年以1.2亿美元的高价卖给了一位私人收藏家，评论家将该作品称为「对现代社会中贪图享乐的虚无主义的隐喻」。
 
 ;0xF7861457=Critical commentary: "It is very powerful. You may get drowsy while looking at his work. This is the correct response. You are communing with yourself in a very organic way. Meditate on life RIGHT NOW."
-0xF7861457=
+0xF7861457=点评：「他的作品十分有力，观看时你可能会头晕目眩，但这是正常的反应。你正以一种非常有机的方式与自身沟通。现在就开始静思人生吧。」
 
 ;0xE3C4B027=Life is about math, and nothing runs your brain in circles like trying to wrap your head around the concept of pi.  Adam Biggs has made his life's work the circle.  A selection of paintings from the world-renowned artist, Adam Biggs, will be on display at the Randolf Art Center for the next month.  Biggs achieved cult-like status for his paintings of circles during the 1950's and 1960's and is considered to be the father of the Abstract Literalist movement.  In one of his rare interviews, Biggs explained that, "A circle, by its very nature, is perfect and the quest of every artist should be to strive for circles, the mystery of what's on the other side of that circle.  A whole theme park exists to this concept.  If I try to paint a picture of a bird that is as true to reality as possible and it dies, it will inevitably be imperfect.  If I paint the bird as a circle, however, it takes on a perfect ring of fire in the loins of my soul." 
-0xE3C4B027=
+0xE3C4B027=人生离不开数学，但很少有东西能把你绕在圆周率上，让你晕头转向。Adam Biggs将其毕生精力都投入到了画圆当中。Randolf艺术中心将在下个月展出这位世界知名艺术家的部分画作。上世纪五六十年代，Biggs凭借画圆获得了邪教教主般的崇拜，并被誉为抽象白描主义之父。在他少有的一次采访中，Biggs解释道：「究其本质，圆是完美的。每个艺术家都应该竭尽全力地追求圆，追求圆彼岸的谜团。甚至可以根据这一理念专门建造一个主题公园。如果我极尽真实地去描绘一只鸟，然后这只鸟死了，那么不可避免地，这幅作品就变得不完美了。但，如果我把鸟画成一个圆，它就会在我灵魂的胯下形成一个完美的火环。」
 
 ;0x747BEDF5=Critical commentary: "Biggs is a fascinating man - he has explored concepts most of us do not understand with great sensitivity - he did not understand them either and this is very apparent from his work. It makes it profound."
-0x747BEDF5=
+0x747BEDF5=点评：「Biggs很有魅力，他对我们大多数人都不理解的概念进行了非常敏感的探索。但从作品中可以看出，他也不理解这些概念。这就是深奥的地方了。」
 
 ;0xB8160956=Galveston Avenue between Obsidian Street and Nickel Street 
-0xB8160956=
+0xB8160956=Galveston大道，Obsidian街和Nickel街之间
 
 ;0x60D9270F=Middle Park West, Algonquin
-0x60D9270F=
+0x60D9270F=Algonquin，中央公园西
 
