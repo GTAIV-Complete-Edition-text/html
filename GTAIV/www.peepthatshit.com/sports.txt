@@ -38,7 +38,7 @@
 0xC5F142A9=Randolf艺术中心
 
 ;0xDAC24B0E=Galveston Avenue between Obsidian Street and Nickel Street, Middle Park West, Algonquin       
-0xDAC24B0E=Algonquin, 中央公园西, Galveston大道上, Obsidian街与Nickel街之间
+0xDAC24B0E=Algonquin, 中央公园西, Galveston大道, Obsidian街与Nickel街之间
 
 ;0x2CEB2922=Current Exhibits:       
 0x2CEB2922=当前展览：
