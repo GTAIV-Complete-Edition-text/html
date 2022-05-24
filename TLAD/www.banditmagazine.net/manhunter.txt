@@ -44,10 +44,10 @@
 0xBE6BB19B=* 永远不要说出自己的真实姓名和手机号码。你不会希望自己被挂到
 
 ;0xF45679E4=MyRoom
-0xF45679E4=
+0xF45679E4=MyRoom网
 
 ;0x31097569= page or in a court of law.
-0x31097569=网或者是告上法庭的。
+0x31097569=或者是告上法庭的。
 
 ;0x43A39872=* Don't tell her you live with your parents or that a couple of your friends might be joining you later to tag team her.
 0x43A39872=* 别告诉她你还住在父母家里，也别告诉她待会儿你的朋友会来群P。

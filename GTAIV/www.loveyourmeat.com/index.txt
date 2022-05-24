@@ -98,13 +98,13 @@
 0x92BE6DFD=吃肉好牙膏
 
 ;0x662785D5=The only way to start your day! Available in bacon, roast chicken and Peking duck flavors.  Smooth or chunky.
-0x662785D5=开启新一天的唯一选择！现已推出培根、烤鸡和北京烤鸭风味。细腻粗糙均可。
+0x662785D5=开启新一天的唯一选择！现已推出培根、烤鸡和北京烤鸭风味。细腻粗糙可选。
 
 ;0xB839C25D=Carne Convention 
 0xB839C25D=肉食习俗展
 
 ;0x7952999C=Join us at the 'Carne Convention' in Guadalajara!  LoveYourMeat.com will be sponsoring the 'Around the World in 40 Meats' Exhibition.  Showcasing delicacies such as Pony Pot Roast from France, Monkey Meatloaf from Cameroon and Chihuahua Carpaccio from China, this is an event not to be missed!
-0x7952999C=加入我们在瓜达拉哈拉进行的肉食习俗展吧！吃肉好决定赞助「40种肉环游世界」展览会。展出的菜品包括法国的马肉锅、喀麦隆的猴肉卷、中国的吉娃娃肉片，千万不要错过！
+0x7952999C=加入我们在瓜达拉哈拉举办的肉食习俗展吧！吃肉好决定赞助「40种肉环游世界」展览会。展出的菜品包括法国的马肉锅、喀麦隆的猴肉卷、中国的吉娃娃肉片，千万不要错过！
 
 ;0x602062A2=Hardcore Carnivore 
 0x602062A2=硬核肉食者
