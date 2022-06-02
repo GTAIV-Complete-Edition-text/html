@@ -1,3 +1,3 @@
 ﻿;0x76D2A620=The Burger Shot Drive-thru is an incredible invention that allows you to buy food without leaving the seat of your car. You can also score drugs at most of them, if you know the right thing to ask. We started installing drive-thrus at our restaurants in the 1980's when we realized that customers were increasingly reluctant or unable to walk from the parking lot to the counter to get their fix of salt and grease. It was a natural follow-up to the TV remote control. Perfect for our regulars who can no longer get through the revolving doors.
-0x76D2A620=
+0x76D2A620=吃得饱汉堡的「得来速」服务是一项令人惊叹的伟大发明。不用下车，坐在座位上就可以买到我们的餐品。知道怎么对暗号的话，也可以用同样的方式买到药。我们发现顾客都不愿意下车穿过停车场，来到柜台面前点上一顿高盐重油的大餐。所以，上世纪80年代起，各大门店都开始提供得来速点餐，和躺在沙发上就能用的电视遥控器一个意思。很适合那些肥得连旋转门都过不了的常客。
 

@@ -26,7 +26,7 @@
 0x12B16F2B=三角大楼
 
 ;0x217DF431=CC Building
-0x217DF431=文明开化委员会大楼
+0x217DF431=全球文明委员会大楼
 
 ;0xBF773E55=Grand Easton Terminal
 0xBF773E55=Grand Easton车站

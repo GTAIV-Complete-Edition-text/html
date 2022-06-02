@@ -1,36 +1,6 @@
-﻿;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
-0xE773CCA2=
-
-;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
-0x5E1A6427=
-
-;0x181530BB=According to a recent survey in BJ magazine, men are losing interest in celebrity upskirt shots.  "People are bored.  Crotch shots are a dime a dozen these days," said BJ's editor, "Some of these girls are going to have to do more than flash the flesh if they want the paparazzi to stick around.  They need to think outside the box, if you know what I mean.  Sometimes I feel like I know Kerry McIntosh better than her gynecologist."
-0x181530BB=
+﻿;0x181530BB=According to a recent survey in BJ magazine, men are losing interest in celebrity upskirt shots.  "People are bored.  Crotch shots are a dime a dozen these days," said BJ's editor, "Some of these girls are going to have to do more than flash the flesh if they want the paparazzi to stick around.  They need to think outside the box, if you know what I mean.  Sometimes I feel like I know Kerry McIntosh better than her gynecologist."
+0x181530BB=《BJ》杂志最近的一项调查显示，男性正在对明星的裙底走光照失去性致。「读者们都看腻了，裙底春光早就烂大街了。」《BJ》的编辑说道，「要是还想被狗仔队包围，光靠刻意走光已经远远不够了。这些姑娘真的要开动脑筋另辟蹊径，不知道你能不能理解。有时候我觉得自己比Kerry McIntosh的妇科医生都要了解她。」
 
 ;0x49F0F53F=Simon & Nigel are the celebrity performance artists who have been wowing hipsters across the nation with their edgy reenactments of gruesome events in history, dressed as gorillas.  We've got money coming out of our ears so we assigned a photographer to tail the flamboyant British couple for a week just for the hell of it.  And, it's a good thing we did, America, because we now have DEFINITIVE PROOF that Simon is cheating on Nigel with a hot, male dentist in Liberty City!!!  EXPOSED!!!  You read it here first.  Simon spent an unbelievable 49 MINUTES in the dentist's chair yesterday with the BLINDS DOWN and left looking DISHEVELLED and FLUSTERED!!!  That sounds like a thorough check-up to us?!!!  What was the dentist doing for all that time?  Giving him a good filling?  Rooting in his canal?  Drilling his crown?  Flossing his gap?  Nothing plumps out a bit of trashy celebrity gossip like some sexual innuendo!!!  We knew that the English were heartless but the audacity of this man's torrid affair with a MARRIED FATHER OF TWO really takes the cake.  This is cutting investigative journalism at its most cutting.  We won't stop until this man's career is in tatters.
-0x49F0F53F=
-
-;0xDFCEADC4=- BREAKING NEWS: Mini Millionaire Madness!!!
-0xDFCEADC4=
-
-;0x27565A04=- From superstar to supersize... who is he again?
-0x27565A04=
-
-;0x0265E9DA=- Ernesto Asaltacunas goes to a restaurant!!!
-0x0265E9DA=
-
-;0x6EB9DE22=- In a HOLE lot of trouble?
-0x6EB9DE22=
-
-;0xE530BCB4=- Beaver Saturation!!!
-0xE530BCB4=
-
-;0x0F81AFE0=- Simon is cheating on Nigel!!!
-0x0F81AFE0=
-
-;0xA1F1D979=- Celebrity blog shut down
-0xA1F1D979=
-
-;0xC8B156AE=- Streaker issues statement
-0xC8B156AE=
+0x49F0F53F=Simon & Nigel是两位明星级表演艺术家，他们装扮成大猩猩重现历史上的可怕事件，让全国的嬉皮士大为震撼。由于本站现在富得流油，所以我们指派摄影师花了一周的时间跟踪这对耀眼的英国爱侣。是的，我们做了件好事，美利坚合众国啊，我们掌握到了Simon背着Nigel出轨自由城的性感男牙医的决定性证据！！！大爆料！！！这是我们的第一手消息。Simon昨日在牙科椅上待了足足49分钟，期间百叶窗紧紧关闭，49分钟后他衣衫不整神色慌张地离开了诊所！！！依我们看更像或许是进行了全身检查？！！！牙医在这么长时间里究竟对Simon做了什么？填充他的龋洞？插入他的根管？捅破他的牙冠？摩擦他的牙缝？没有什么比性暗示更能让这些垃圾八卦富有张力了。我们都知道英国人是无情的代名词，但Simon与两个孩子的已婚父亲之间的干柴烈火实在是胆大包天，将无情这个词推向了新的高度。以上即是目前最前沿的调查报道。在他的职业生涯变成被碾死的烂狗之前我们绝对不会收手。
 

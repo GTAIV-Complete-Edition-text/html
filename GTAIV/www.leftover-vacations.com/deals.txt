@@ -1,20 +1,20 @@
 ﻿;0x3BB94CED=Here are some of the latest special offers at Leftover Vacations.  These vacations really are a fantasy and really are left over!  They are going fast!  Buy now!  Secure your trip with a deposit, worry about the details later.  Book online or call our 900 number.       
-0x3BB94CED=
+0x3BB94CED=以下是度假捡漏网最新的特惠活动。都是梦幻般的行程，都是捡漏抢来的！机会难得，赶紧下单！先付订金拿下，行程细节过后再说。支持在线订购和付费热线订购。
 
 ;0xBD61E704=Ready for some fun in the sun?  Enjoy an unforgettable week exploring Lebanon's idyllic coastline for under $300!  Fly into Rene Mouawad Air Base in the north of the country and then travel for days by bus over hostile, war-ravaged terrain until you reach the Mediterranean paradise of Beirut, the most talked about city in the world!  Live like the locals in traditional accommodations, selected based on availability at time of arrival.  We promise that you will get a refund if shot.  You have never seen quality like this before!  Call now to take advantage of this once-in-a-lifetime promotional offer!  Some terms and conditions apply. It's a real adventure you'll be talking about for years!      
-0xBD61E704=
+0xBD61E704=准备好享受阳光了吗？不到300块，即可体验黎巴嫩难忘的田园海岸风光！飞机直达黎巴嫩北部的Rene Mouawad空军机场，再坐几天的大巴穿过黎巴嫩的战乱地区，最后到达贝鲁特：是地中海天堂，也是全球最常被提及的城市！你可以入乡随俗，住进当地的传统民居，具体地点取决于到达当地时有哪间空房。如果你在当地中枪，我们保证安排退款。如此高质量的旅行前所未有，机会千载难逢，赶快拿起电话订购吧！(需要同意相关条款和规定) 来冒险一遭，回去吹上一辈子！
 
 ;0xAF136B98=It's not a foggy shit hole full of moody cranks.  Visit one of the most famous cities in the world for less than $200!  Flights are via Oslo and Vienna to nearby Manchester Airport and the accommodation is at a quaint B&B style hotel in the lovely city of Preston, with easy access to all London's main attractions.  Only a few places left!  You must act fast!  Send us a security deposit for $1,500 NOW to secure your seats (we will refund this later in the form of 'travel-bucks', redeemable at a wide range of shops and delis).  Some date restrictions apply.       
-0xAF136B98=
+0xAF136B98=伦敦并不是烟雾弥漫的怪人之都。现在只需不到200元，即可畅游世界上最著名的城市之一！坐飞机途经奥斯陆、维也纳，最后到达伦敦附近的曼彻斯特机场。住的是一家古朴的酒店，包早餐，位于美丽的普雷斯顿，去伦敦的各大景点都很方便。余票不多，赶紧下单！支付1500元订金即可订位 (后期将以「旅游积分」的形式返还，可在各大商店餐馆使用)。行程存在一定时间限制。
 
 ;0x25D6089E=advertisement
-0x25D6089E=
+0x25D6089E=广告
 
 ;0x945E26BD=Have you ever dreamt of owning a second home?  How about owning a second home for one week out of the year with a bunch of strangers who probably shit on the carpet?  Can you imagine being able to escape to a pied-à-terre for romantic weekend getaways?  Do you even know what a pied-à-terre is?  Who really gives a shit?  Timeshares are never a regretful decision.  Leftover Vacations is giving you the chance to share in an incredible investment property, located in the beautiful city of Detroit, Michigan.  We will provide transportation and airfare for you to come see it.  After a great presentation and use of an ether soaked rag, you will wake up having signed some great contracts.  Just think, for a one-time payment of only $20,000, you could have limited access to an inner-city studio apartment in America's murder capital for the rest of your life!  Sign up for this exclusive offer today and we will give you a boat!     
-0x945E26BD=
+0x945E26BD=有没有梦想过拥有第二个家？想不想体验和一帮在地毯上拉屎的人住在一起的感觉？想不想逃到仮宿之居美美地度过周末？你真的知道仮宿之居是什么意思吗？说白了，谁他妈在乎啊？投资旅游地产的时段使用权绝对没错。度假捡漏网为你提供投资房地产的绝好机会，位于密歇根州的底特律。看房的机票和当地交通费用由我们全额包付。对方向你大吹特吹，用泡过药的抹布把你迷晕，醒来时你才发现自己签了几份超棒的合同。想想吧，一次付清区区两万，就能在指定时段入住贫民区的单元公寓！下半辈子全靠这套房在美国凶杀之都过日子了！现在参与此次独家特惠，还送小艇一艘！
 
 ;0xC4B5E540=Lowest price in history!  You just pay for the flight!  A swamp full of right-wing nutjobs and deadly mosquito-born diseases is what makes Florida great.  Enjoy free accommodation in a new hotel that is only months away from completion.  If you like an airy room and are prepared to be inventive with the disposal of your human waste, you cannot afford to pass up this limited time offer.  Fly indirect from Liberty City's Francis International Airport!  No time to read the small print, this offer expires in 5 minutes!!!! Call IMMEDIATELY to lock in this special rate.  Some restrictions apply.       
-0xC4B5E540=
+0xC4B5E540=史上最低价！仅需支付航班费！傻逼右派遍地跑，蚊虫疾病少不了，美丽佛州欢迎你！从Francis国际机场间接直飞，落地即可免费入住刚刚竣工的全新酒店。如果喜欢通风良好的房间，也想拿拉的屎尿搞点事情，那你绝对不能错过这个机会。没时间看那些小字了，本活动5分钟后过期！！！！立刻拨打电话，获取超低优惠价。行程存在一定限制。
 
 ;0xFC2B0158=You're our 10,000th customer!        
 0xFC2B0158=

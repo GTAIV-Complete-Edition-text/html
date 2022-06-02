@@ -1,21 +1,12 @@
 ﻿;0x9B05D0DF=Product: The Black Pill 
-0x9B05D0DF=
+0x9B05D0DF=品名：黑视丸
 
 ;0x4384CA18=Quantity: 60 capsules
-0x4384CA18=
+0x4384CA18=规格：60粒
 
 ;0xA29E4DB9=Our price: $36.99
-0xA29E4DB9=
+0xA29E4DB9=惊爆价：$36.99
 
 ;0x83C7D749=Are you stuck in a rut?  Do you feel overwhelmed and undervalued?  Nothing recharges the batteries and gets your life back on track like a blackout.  Take a break from yourself for a few weeks with the Black Pill.  You won't know what you did but you will spend a lifetime piecing it back together.  One minute, you're sitting at your desk, surfing porn and wondering what happened to all your hopes and dreams, the next, it's ten days later and you're fighting naked with wild dogs on a beach in Venezuela.    Live the adventure.  Get into the black.   
-0x83C7D749=
-
-;0x6FEAE585=Major credit cards accepted.
-0x6FEAE585=
-
-;0x93D0CCD8=All purchases are non-refundable.
-0x93D0CCD8=
-
-;0x246A54CE=All liabilities are denied.
-0x246A54CE=
+0x83C7D749=你是否厌倦了一成不变的生活？你是否感到压力山大、不被重视？要想让自己重获动力，让生活回到正轨，两眼一黑的失忆绝对是最好的选择。吃点黑视丸，从无趣的生活中解脱几周。你不知道自己做了什么，但你会用余生去拼凑那段消失的记忆。前一分钟你还坐在办公桌前，刷着黄色网站，回想着自己不复存在的希望与梦想；回过神来却是十天以后，你在委内瑞拉的海滩上赤身裸体地与野狗搏斗。体验冒险，陷入黑暗。
 

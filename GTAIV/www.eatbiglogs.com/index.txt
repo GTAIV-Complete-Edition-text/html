@@ -1,30 +1,30 @@
 ﻿;0xF3856A83=In 1908, Sherman Perlenowski was looking for a food the mentally disabled could eat without poking their eyes out with kitchen utensils.  Working in a center for deviants, truants, and medically unstable children, he perfected Biglogs Cereal.  During a sugar-fueled rush of enjoyment in the testing cafeteria, the children cornered Perlenowski and brutally murdered him.  His legacy lives on!
-0xF3856A83=
+0xF3856A83=1908年，Sherman Perlenowski在为智障人士寻找合适的食物，避免用餐具戳瞎自己眼睛的情况发生。在与精神中心的怪人、懒人、不正常儿童长期相处后，他发明了Biglogs麦片。伴随着糖分带来的快感，孩子们在试验区食堂包围了Perlenowski，残忍地杀害了他。但他为世界留下的馈赠依然活着！
 
 ;0x7C7DCCAB=Once you are over 21 - or have a fake ID or drunks for parents - you can start the day with a Bloody Mary or a gin-and-tonic.  Until then, you will have to make do with an eyelid-flickering, jaw-locking, teeth-grinding sugar buzz and an aftertaste like a pen just exploded in your mouth.  We know what kids like and we give it to them.  Take some modified corn starch, cover it in refined sugar and syrup, throw in some marshmallows, create a catchy jingle, invent a creepy, androgynous mascot and suddenly, you have got yourself a best-selling breakfast cereal.
-0x7C7DCCAB=
+0x7C7DCCAB=等你21岁了，或者是伪造了身份证明，抑或是有一对酒鬼父母，你就可以用血腥玛丽或金汤力开启新的一天。但是在此之前，你的早餐最多是令人眼皮抽搐、下巴卡住、牙齿摩擦的糖果。我们深知孩子们喜欢什么，更会满足他们。放一点改性玉米淀粉，裹上白砂糖和糖浆，加一些棉花糖，想一句广告词，画一个不分雌雄的可怕吉祥物。哒哒，最畅销的早餐麦片就完成了。
 
 ;0xBF588AC2=Studies have shown that Biglogs can lower cholesterol, improve eyesight, strengthen bones, reduce blood pressure, enlarge the pelvis, reduce the affects of autism and prevent sagging breasts in fat male children as part of a balanced diet. Studies have also shown that the way they achieve these results is by you making sure you don't eat them.
-0xBF588AC2=
+0xBF588AC2=研究表明，将Biglogs麦片用于均衡饮食可以减少胆固醇，提高视力，强健骨骼，降低血压，增大骨盆，降低自闭症的影响，防止胖小子胸部下垂。也有研究表明，这些效果是通过不让你食用麦片达到的。
 
 ;0xB92BF9B9=Make your own choices, kids.  A parent who tries to cheat your childhood with no-name brands, buy-in-bulk cereal or, even worse, a bowl of yogurt and fresh fruit does not love you.  You have every right to resort to emotional blackmail or to stab dad with a fork.  Every week, we re-package our cereals with a new promotional tie-in to a Vinewood movie franchise so you need to eat your Biglogs quickly if you want to get your hands on the next toy.  Come on, a stoner can get through a box in about twenty minutes!
-0xB92BF9B9=
+0xB92BF9B9=为自己做出选择吧，孩子们。给你买散装杂牌麦片，甚至是让你吃酸奶和新鲜水果的父母根本就不爱你。你完全有理由一哭二闹三上吊，做出自己的选择。每周我们都会推出与好麦坞电影联动的新包装麦片，想要得到最新玩具就快点吃完麦片吧。要知道，老顾客二十分钟就能吃完一整盒了！
 
 ;0x6B73B861=Look out for our commercials during the Saturday morning cartoons and our products on the lower supermarket shelves.  Ready for a gastrointestinal workout?  Eat your way to diabetes and heart disease in record time with the sugar-coated goodness of Biglogs.  It's nutrition, covered in sugar.   
-0x6B73B861=
+0x6B73B861=我们会在周六早间的动画中插入广告，超市里则放在货架底层。准备好锻炼自己的肠道了吗？享用包有糖衣的Biglogs麦片，以打破纪录的速度朝着肥胖和心脏病一路狂奔！这是用糖包裹的营养食品。
 
 ;0xC603C058=It's a 4-hour CGI epic!  We are cashing in on the huge success of the fantasy movie, DragonBrain, with the limited-edition Dragon Rings cereal.  Every box includes a sword-wielding elf, orc or dwarf.  Try not to swallow them - they have been known to disembowel people upon exiting the system. Every 100th box has a chamber pot so you can poop inside and throw it out the window, just like the hero in DragonBrain! 
-0xC603C058=
+0xC603C058=4小时的CG史诗！联合奇幻电影《龙之脑》推出的限量版龙之环麦片让我们赚得盆满钵满。每盒当中都有一个舞着剑的精灵、兽人，或是地精。不要吞下去哦，已经有人因为误食玩具去医院剖肚子了。卖出的第整百盒限量版中都会附赠夜壶，你可以像电影中的英雄一样，拉完屎就把壶扔出窗外！
 
 ;0x4435EB6A=DragonBrain
-0x4435EB6A=
+0x4435EB6A=《龙之脑》
 
 ;0x2D6D4BBC=  is now playing in theaters everywhere.
-0x2D6D4BBC=
+0x2D6D4BBC=正在各大影院火热上映。
 
 ;0x6817F603=The rough part of town just got its boogie back!  Popping is the breakdance movie that is taking America by storm.  Popping Cherries is a delicious breakfast cereal sowed with wild oats and pieces of red candy that, to keep things simple for marketing purposes, we will call 'fruit'.  The flavor's going to move you!  A full-motion action figure in every box!  Teach yourself about dance and hot teen relations with anatomically correct action figures!
-0x6817F603=
+0x6817F603=城里的混乱地区再次律动起来！《Popping》是一部席卷全美的霹雳舞电影。霹雳樱桃是结合了野生小麦和红色糖果的美味早餐麦片，为了便于推广，我们称这些糖果为「水果」。必能挑动你的味蕾！每盒都会附赠全关节可动人偶！用可动人偶摆出舞姿，掌握年轻人之间的火热爱情吧！
 
 ;0x5A912D6D=Popping is now playing in theaters everywhere.
-0x5A912D6D=
+0x5A912D6D=《Popping》正在各大影院火热上映。
 

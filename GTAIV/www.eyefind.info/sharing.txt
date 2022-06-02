@@ -35,7 +35,7 @@
 0x22801820=素未谋面的朋友
 
 ;0xD195B3ED=Do you remember the glory days, before the Internet, when people used to spend time writing and corresponding?
-0xD195B3ED=你还记得以前因特网出现之前的光荣时光吗？当时的人们仍在通过书信往来。
+0xD195B3ED=你还记得因特网出现之前的光荣时光吗？当时的人们仍在通过书信往来。
 
 ;0x0C87F694=www.friendswithoutfaces.net
 0x0C87F694=

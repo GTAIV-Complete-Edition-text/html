@@ -1,15 +1,15 @@
 ﻿;0x6E2F5B73=Kids love fast food. And we love kids! Especially ones who pull their parents into our stores so they can shove shit down their throats and become the type of lazy fuckwad Americans that only care about TV and not democracy. We spend billions every year on aggressively marketing our products to the tween demographic. The younger our customers are, the easier it is to mold their eating preferences for life. Our 'Every Child Deserves To Be Loved' TV campaign has been very successful in encouraging young people to emotionally blackmail their parents into spending money at Burger Shot. Also please note that we give away free fries during every Amber Alert.
-0x6E2F5B73=
+0x6E2F5B73=小孩喜欢吃快餐，我们也喜欢小孩！特别是那种非要拉着爹妈进店大吃一顿的小孩，长大以后就会变成美国大懒狗，只想看电视，不想鸟政治。我们每年投入几十亿，在小学生中大搞市场营销。因为年纪越小越容易塑造终身的饮食喜好。我们「每个孩子都应该得到关爱」的电视广告成功地鼓动了年轻人道德绑架父母，带他们去吃得饱汉堡消费。还有一件事，每次发出儿童失踪警报时，我们都会赠送免费的薯条。
 
 ;0x773FF1F8=Nutritional advice? Take it with a large pinch of salt! Who are you going to listen to? Some crusty hippy or sexless crone? Or one of the funny, colorful, cuddly mascots that we send to your school? What do you care about your diet?! Nobody ever had a stroke at the age of 10!
-0x773FF1F8=
+0x773FF1F8=营养建议？狠狠地吃盐就完事了！你打算听谁的？是那帮暴脾气的嬉皮士还是性冷淡的老太婆？还是我们派到学校的那些五颜六色可爱想抱的玩偶？你这年纪关心饮食健康干嘛？！谁会在10岁的时候中风啊！
 
 ;0x078289B9=Many of our restaurants have cool playscapes where you will find lots of other chubby kids flopping down slides, more germs than a campsite toilet and a couple of fully-grown men masturbating behind the ball pit. 
-0x078289B9=
+0x078289B9=我们很多门店内都有漂亮的游乐场，许多胖嘟嘟的小孩在这玩滑梯，然后摔下来；这里的细菌比野营厕所里还多，甚至还有成年人在球池后面打手冲。
 
 ;0xD0E00564=Celebrate your birthday at Burger Shot! You never know when it might be your last!
-0xD0E00564=
+0xD0E00564=来吃得饱汉堡过生日吧！万一是你的最后一次生日呢！
 
 ;0x0EFF8BE2=Burger Shot's Birthday Meat Muffin is the perfect treat! A fistful of reconstituted cattle off-cuts, the Meat Muffin is frosted with salt and comes with fries for candles (note: candle wax is also made from beef tallow so you can light them if you want).
-0x0EFF8BE2=
+0x0EFF8BE2=过生日就选生日牛肉马芬饼！丰盛的合成边角肉，饼上撒了盐，还插有薯条做的蜡烛 (注：烛蜡是牛油做的，可以点燃)。
 

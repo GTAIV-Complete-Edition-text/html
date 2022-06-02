@@ -1,27 +1,9 @@
-﻿;0x52F50EAE=Home
-0x52F50EAE=
-
-;0x1A55813C=Language of Love
-0x1A55813C=
-
-;0xBE9EF411=Wishful Drinking
-0xBE9EF411=
-
-;0x0077C37E=Beer Boogie
-0x0077C37E=
-
-;0xE50AC71E=Partners
-0xE50AC71E=
-
-;0xA1B68015=How Do You Know?
-0xA1B68015=
-
-;0x1E750076=Some say it with flowers; real men slur it with Piswasser.  You only have to watch the teenage girl deep-throating an over-sized Piswasser bottle in our latest TV commercial to know that beer and romance are inextricably intertwined in modern society.  Women love the smell of beer on a man's breath... it brings back memories of Daddy kissing them goodbye at the school gate.  The beauty of alcohol is that it turns men into caring, sensitive lovers with a passion for experimentation.  Do you think that touching gestures like the Dirty Sanchez, Donkey Punch and Angry Pirate would ever have been invented without beer?          
-0x1E750076=
+﻿;0x1E750076=Some say it with flowers; real men slur it with Piswasser.  You only have to watch the teenage girl deep-throating an over-sized Piswasser bottle in our latest TV commercial to know that beer and romance are inextricably intertwined in modern society.  Women love the smell of beer on a man's breath... it brings back memories of Daddy kissing them goodbye at the school gate.  The beauty of alcohol is that it turns men into caring, sensitive lovers with a passion for experimentation.  Do you think that touching gestures like the Dirty Sanchez, Donkey Punch and Angry Pirate would ever have been invented without beer?          
+0x1E750076=有些人献上鲜花大声表白，男子汉则会喝着尿汤啤叽里咕噜自己的爱意。看过我们最新的电视广告就知道了，那个深喉巨大尿汤啤玻璃瓶的姑娘正能说明啤酒和浪漫在当代是密不可分的。女人都喜欢男人呼吸中的那股啤酒味... 因为这和亲爹在校门口吻别她们时的味道一模一样。酒精能把男人变成无微不至的敏锐情人，更能赋予男人尝试新奇性爱的激情，这就是酒精的美妙之处。菊花一阳指、重拳夹逼法、后入独眼龙，没有啤酒哪会有这些震撼的操作呢？
 
 ;0x59E10313=Go on a Piswasser bender today and give your lover a night that she'll never forget!          
-0x59E10313=
+0x59E10313=现在就狂饮尿汤啤，给你的爱人一个难忘的夜晚吧！
 
 ;0xB41B5B10=Make up your moves!
-0xB41B5B10=
+0xB41B5B10=立刻行动吧！
 

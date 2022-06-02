@@ -32,13 +32,13 @@
 0x897FA269=确保你的资料有效！点此修正你的在线资料，改掉尼日利亚黑客黑进账户时胡写的内容。没有正确的地址，本行还怎么用预先批准的利率25%的信用卡天天轰炸你？！
 
 ;0x4294D58B=Please note that all personal data and banking transactions will be shared with government institutions, selected advertising sponsors and meth head identity thieves, or your money back.
-0x4294D58B=请注意，您的个人信息和交易记录将会共享给政府机构、特定的广告商，以及吸冰毒的身份窃贼，如不同意将退回所有款项。
+0x4294D58B=请注意，您的个人信息和交易记录将会共享给政府机构、特定的广告商，以及吸冰毒的身份窃贼，若非如此将退回所有款项。
 
 ;0x6E68D5F3=At Your Service... By Phone
 0x6E68D5F3=随时待命... 电话服务
 
 ;0x125BD9E6=Suspect fraudulent activity on your account?  Dial our automated phone service.
-0x125BD9E6=怀疑账户涉及欺诈活动？请联系我们的语音应答客服。
+0x125BD9E6=怀疑账户涉及欺诈活动？请联系我们的自动应答客服。
 
 ;0xB3503142=Calls $2 per minute, OFF  PEAK. Prices may vary.
 0xB3503142=通话资费$2/分钟(非高峰期)。收费标准可能不同。
@@ -53,13 +53,13 @@
 0x498ADE6F=通话资费$5/分钟，收费标准可能不同，部分分行可用。
 
 ;0x65D1F662=Bank Alerts Via Email
-0x65D1F662=银行告警邮件
+0x65D1F662=业务邮件提醒
 
 ;0x21F1F05C=Keep a grip on your finances by signing up for Banking Alerts!
-0x21F1F05C=签约银行告警服务，牢牢控制你的资产！
+0x21F1F05C=签约业务邮件提醒，牢牢控制你的资产！
 
 ;0x285E1ADD=Bank of Liberty will send you an email alert five days after a missed payment or overdraft breach.
-0x285E1ADD=账单逾期或违约透支五天后，自由城银行将会向您发送告警邮件。
+0x285E1ADD=账单逾期或违约透支五天后，自由城银行将会向您发送邮件提醒。
 
 ;0x6A20071D=Late fees and over-the-limit fees are charged at $30 per day, aside from on Thursday when we send a man around to your house who will torture and kill your family, for kicks, and charge you $50 for the privilege, at participating branches only. Prices may vary. Bank of Liberty operates in accordance with FDA, FTC and FIB regulations. Usually. 
 0x6A20071D=滞纳金和超限费的收费标准为$30/日，且会在周四派人上门折磨杀害你的家人，纯图一乐，还会产生$50的上门服务费，部分分行可用。收费标准可能不同。大部分情况下，自由城银行遵守FDA、FTC与FIB的管制措施。

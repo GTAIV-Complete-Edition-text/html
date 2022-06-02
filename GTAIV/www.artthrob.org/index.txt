@@ -1,21 +1,21 @@
 ﻿;0x369FF06A=Today, anybody can be an artist and anything can be art. It's all about labels. Tomorrow, things will be different. You will probably be very out of fashion. 
-0x369FF06A=
+0x369FF06A=今天，任何人都可以是艺术家，任何东西都可以是艺术品。一切只和标签有关。到了明天，情况又变了，你可能就沦为落伍的火星人了。
 
 ;0x629A1BED=So jump on the bandwagon now and start following contemporary art. That's what is great about having loads of time on your hands as the citizen of a First World nation. 
-0x629A1BED=
+0x629A1BED=所以现在就跟上潮流，追随当代艺术吧。你的时间非常充裕，这就是身为第一世界国家的公民的好处。
 
 ;0x2C3DE603=In the same way that some people will pay a fortune for a musty old cardigan if they can be convinced that it is retro chic, others will happily blow $5 million dollars on a can of Sprunk if a so-called expert tells them that it is a masterpiece of ironic commentary on mass-produced society. 
-0x2C3DE603=
+0x2C3DE603=就像有人愿意花大价钱购买所谓复古风的发霉旧开衫一样，只要找个「专家」解读一番，说成「讽刺批量化生产社会的杰作」，500万一罐的霜碧也会让人觉得买到就是赚到。
 
 ;0xBFAE7BB1=It's all about the world's greatest idea ever - postmodernism. Postmodernism means everything is a metaphor. And the result is, you just have to say what anything is a metaphor of, take a picture of it, and then call yourself an artist. 
-0xBFAE7BB1=
+0xBFAE7BB1=这一切的关键就是世界上最伟大的理念——后现代主义。它意味着任何事物都不过是一种隐喻。结果就是，只要能说出隐喻的含义，再给它拍张照片，你就可以自称是艺术家了。
 
 ;0xAAE881D5=The trick is to create something that is too bizarre or baffling for the common herd to comprehend.  For this reason, critics agree some of the best artists are dogs. Critics know that they, and only they, have an eye for a powerful aesthetic. 
-0xAAE881D5=
+0xAAE881D5=创造一些凡夫俗子无法理解的过于离奇、过于邪门的东西，这就是成功的诀窍。因此，评论家认为狗才是最好的艺术家。因为有且只有狗，才拥有这种独特而又强大的审美眼光。
 
 ;0x43F11A3A=Art involves intense introspection and a rejection of self.  Art is a journey to a higher plane of meaning and understanding, and that higher plane is called Rich and Stupid.  It's about deconstructing the work and rebuilding it within a metaphysical framework. 
-0x43F11A3A=
+0x43F11A3A=艺术需要强烈的自省和对自我的拒绝。艺术也是通往更高层次的意义和理解的旅程，所谓的更高层次也就是有钱无脑。要点在于解构某一作品，然后在形而上学的框架内进行重建。
 
 ;0x3C0C2395=As our minds tangle with the tortured psyche of a drug-addled artist, we begin to uncover new truths about our own existence... that we may only exist in a virtual world run by a megalomaniac. 
-0x3C0C2395=
+0x3C0C2395=一旦我们的思想与一个吸毒成瘾的艺术家饱受折磨的灵魂产生分歧，我们就会发现关于自身存在的新的事实... 我们可能只存在于由某个自大狂掌控的虚拟世界里。
 

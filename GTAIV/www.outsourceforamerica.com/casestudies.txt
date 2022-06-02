@@ -1,147 +1,141 @@
-﻿;0x52F50EAE=Home
-0x52F50EAE=
-
-;0x880CB8A1=Testimonials
-0x880CB8A1=
+﻿;0x880CB8A1=Testimonials
+0x880CB8A1=客户评价
 
 ;0x6EB3F3BC=Case Study
-0x6EB3F3BC=
-
-;0x6EB3F3BC=Case Study
-0x6EB3F3BC=
+0x6EB3F3BC=参考案例
 
 ;0xA9C50AF3=Read a call center phone transcript.
-0xA9C50AF3=
+0xA9C50AF3=阅读一份来自全球呼叫中心的通话记录。
 
 ;0x235492C5=Business across continents
-0x235492C5=
+0x235492C5=大型跨国企业
 
 ;0xF7FED494=A conversation with the CEO of 
-0xF7FED494=
+0xF7FED494=与CEO的一次对话——
 
 ;0x63D94E31=Fruit
-0x63D94E31=
+0x63D94E31=水果公司
 
 ;0xD0CED2F5=Outsource For America helped Doug Hatchet, CEO of 
-0xD0CED2F5=
+0xD0CED2F5=外包美国劳动帮助了
 
 ;0xEEB28F2B=FRUIT Computers
-0xEEB28F2B=
+0xEEB28F2B=水果电脑公司
 
 ;0x0B368675=, to offshore 2,500 US employees at the beginning of the year. Doug, now the only person left at FRUIT's six-story corporate headquarters said, "I would like to thank OFA for such a smooth transition. As I sit in the empty cafeteria each day, I smile as I think of all the 401Ks and HMOs that I have put through the shredder. My take-home is octupling by the week and I plan to retire within a couple of months. I still see some of my old computer systems analysts at the Burger Shot drive-thru but I don't go there as often now; the milkshakes have gotten a bit salty."     
-0x0B368675=
+0x0B368675=的CEO，Doug Hatchet，成功在年初将2,500个原先设在美国的岗位转移到了海外。Doug现在是水果公司总部内的唯一一个人，他说：「感谢外包美国劳动为我提供了如此平滑的过渡。每天坐在空荡的食堂里，我面带微笑地想着自己省下来的养老金和医保。到手工资一周翻了八倍，我已经决定在几个月后退休了。虽然有在吃得饱汉堡的路边窗口看见过以前手下的电脑系统分析员，但我现在不怎么去那儿了，他们的奶昔有点咸了。」
 
 ;0xB5254309=A smooth transition.
-0xB5254309=
+0xB5254309=平滑的过渡。
 
 ;0x6828368C=Mr. Hatchet has already established a close relationship with his overseas team. Below is a transcript from a recent phone conversation:
-0x6828368C=
+0x6828368C=Hatchet先生已和他的海外团队建立起紧密的联系。以下是来自最近一则电话的通话记录：
 
 ;0xA19FF62A=Amir: A very good morning to you, Sir. Welcome to WOLFS INTERNATIONAL REALTY. You are connected to Mr. George Washington, how can I facilitate the purchase of your dream home?       
-0xA19FF62A=
+0xA19FF62A=Amir：新的一天早上好，先生。感谢您联系WOLFS国际房产。乔治华盛顿正在为您服务，请问您在购买梦想之家的过程中有什么需要帮忙吗？
 
 ;0xBD0CD71D=Doug: Hi George. It's Doug over at FRUIT Computers. Why did you take so long to answer the phone?        
-0xBD0CD71D=
+0xBD0CD71D=Doug：你好，乔治。我是水果公司的Doug。你接电话怎么这么慢？
 
 ;0x19E46965=Amir: I'm apologizing for the delay, Doug. I had to finish off a triple-heart bypass.       
-0x19E46965=
+0x19E46965=Amir：稍有拖慢，非常抱歉，Doug。刚才我在做心脏三联旁路手术。
 
 ;0xFF1EC3CF=Doug: Is that an English accent?       
-0xFF1EC3CF=
+0xFF1EC3CF=Doug：你这是英国口音吗？
 
 ;0xC90BFB05=Amir: Yes.        
-0xC90BFB05=
+0xC90BFB05=Amir：是的。
 
 ;0x430012DA=Doug: It's pretty good.       
-0x430012DA=
+0x430012DA=Doug：真是太棒了。
 
 ;0x41CCB6CB=Amir: Thanks. Have you tried re-booting?       
-0x41CCB6CB=
+0x41CCB6CB=Amir：谢谢。您有尝试过重新启动吗？
 
 ;0x8F727B28=Doug: What are you talking about, George?       
-0x8F727B28=
+0x8F727B28=Doug：你在说什么，乔治？
 
 ;0x8A4BB192=Amir: Sorry, I'm a little tired, Doug. It's 4am over here and I've been working for three days straight.       
-0x8A4BB192=
+0x8A4BB192=Amir：抱歉，我有点累了，Doug。现在我这里是凌晨四点，而且我已经连续工作了三天了。
 
 ;0xB4D204F5=Doug: Can you order me some lunch, George? And please get it right this time. When I ordered a slice of Margarita and a shake last week, an Arab gentleman arrived at the door with a tequila cocktail.       
-0xB4D204F5=
+0xB4D204F5=Doug：你能帮我点一份午餐吗，乔治？希望这次不要出错。上周我点了玛格丽特和奶昔，结果那位阿拉伯绅士送来的是龙舌兰鸡尾酒。
 
 ;0x13F2A3B6=Amir: Do not concern yourself. I am very close to completing my cultural acclimatization course. Just the 'disintegration of the family unit' module to go.       
-0x13F2A3B6=
+0x13F2A3B6=Amir：请不要担心。我的文化适应训练即将完成，只剩最后的「解构家庭单元」模块了。
 
 ;0x7E4E40A1=Doug: George? George, are you still there?       
-0x7E4E40A1=
+0x7E4E40A1=Doug：乔治？乔治？你还在吗？
 
 ;0x67A9B9EB=Amir: Good afternoon. Chiropractor Overnight - the power to paralyze in 24 hours! You're speaking to George Washington...       
-0x67A9B9EB=
+0x67A9B9EB=Amir：下午好。推拿一夜通，24小时内麻痹全身！乔治华盛顿正在为您服务...
 
 ;0xB26A3C15=Doug: What happened, George? Did you hang up on me?!       
-0xB26A3C15=
+0xB26A3C15=Doug：怎么回事，乔治？你把我挂掉了吗？！
 
 ;0xBB33E0C5=Amir: Sincere apologies, Mr. Doug. Tuna taco and my eyes are on fire. Shit, the lights went out. Our national power grid is a little erratic.       
-0xBB33E0C5=
+0xBB33E0C5=Amir：非常抱歉，Doug先生。金枪鱼卷饼和我的眼睛着火了。妈的，灯灭了。我们国家的电网不太靠谱。
 
 ;0xF9E7B644=Doug: Whatever Habid.       
-0xF9E7B644=
+0xF9E7B644=Doug：好吧，哈比德。
 
 ;0xD91FD28C=Amir: It's George.       
-0xD91FD28C=
+0xD91FD28C=Amir：我是乔治。
 
 ;0x92AA8E9E=Doug: Everything's falling apart over here, George. I've run out of all supplies... I haven't even got a stapler.       
-0x92AA8E9E=
+0x92AA8E9E=Doug：现在情况非常糟糕啊，乔治。我已经弹尽粮绝了... 连订书机都没了。
 
 ;0x81E64142=Amir: Regrettably, George cannot assist in that matter. I must inform you that all administrative functions have been outsourced to our service partner in Africa.        
-0x81E64142=
+0x81E64142=Amir：很遗憾，乔治无法在这方面帮助您。您需要知道，所有的行政职能都已外包给了我们在非洲的合作伙伴。
 
 ;0x81D97AFC=Doug: Are you kidding me, George? What about all the stuff that I ordered last week?       
-0x81D97AFC=
+0x81D97AFC=Doug：开什么玩笑，乔治？那我上周订的东西呢？
 
 ;0xC00D8B8E=Amir: I am just editing a sitcom. Can I help you with anything else today? I have 36 people on hold, some from companies who pay us much more than FRUIT.       
-0xC00D8B8E=
+0xC00D8B8E=Amir：刚才在剪情景剧。今天有什么我能帮您的吗？后面还有36人等待，有些公司付的服务费比水果公司更多。
 
 ;0x69BCE9D6=Doug: To be honest, George, I am losing my mind over here. Can we not just talk for a while? Tell me more about hot foreign women.       
-0x69BCE9D6=
+0x69BCE9D6=Doug：说实话，乔治，我要疯了。要么我们随便聊聊？跟我讲讲性感的外国女性吧。
 
 ;0x6FCF9653=Amir: Certainly, Sir. I am trained in building empathy with the customer. Did you see the game last night? They really slam-dunked a home run! And wow, women really hate going down on me. Yes, do I sound American?       
-0x6FCF9653=
+0x6FCF9653=Amir：好的，先生。我接受过训练，锻炼了与客户共情的能力。您看过昨晚的比赛吗？那一记本垒打太漂亮了！而且啊，哇，女人真的 很讨厌我。好了，我听起来像美国人吗？
 
 ;0x8AB98B21=Doug: Yeah, I guess. You ever get so lonely you talk to poor people? I'm doing that now. Sometimes I feel so lonely. This building is like a ghost town and I've become a social pariah in the local community. Everyone is boycotting my products. Are you happy, George?       
-0x8AB98B21=
+0x8AB98B21=Doug：还行吧。你有没有太过寂寞，想找穷人聊天的时候？我现在就是这样。有时我会感到寂寞。整栋办公楼就像一座鬼城，我成了唯一一个被抛弃的人。所有人都在抵制我的产品。你听了开心吗，乔治？
 
 ;0xEE029138=Doug: George?       
-0xEE029138=
+0xEE029138=Doug：乔治？
 
 ;0xBC537F59=Amir: That question is not covered on any of my scripts. Have you considered a package deal? We have some excellent offers on rental cars?       
-0xBC537F59=
+0xBC537F59=Amir：我所有的应答手册中都没有涉及这一问题。有考虑过购买套餐吗？我们在租车旅行这方面有很好的优惠哦？
 
 ;0x5E88DC01=Doug: This is hopeless. Why are you trying to sell me a vacation?       
-0x5E88DC01=
+0x5E88DC01=Doug：无药可救了。你跟我推销旅游干嘛？
 
 ;0x5A03219B=Amir: Hello Doug. Please remove the sim card from the back of the cell phone.       
-0x5A03219B=
+0x5A03219B=Amir：您好，Doug。请打开手机后盖，取出SIM卡。
 
 ;0x91D170C1=Doug: This is ridiculous, George. You're supposed to be my outsourced personal assistant.       
-0x91D170C1=
+0x91D170C1=Doug：太荒谬了，乔治。你可是我的外包私人助理啊。
 
 ;0x94A4FD00=Amir: Today I am also your accountant, personal trainer and HR director.       
-0x94A4FD00=
+0x94A4FD00=Amir：今天我也是您的会计、私人教练兼人事主管。
 
 ;0x23A38813=Doug: It's simply not good enough. I'm sitting over here with nothing but the photocopier for company and even that doesn't work!       
-0x23A38813=
+0x23A38813=Doug：这样还不够。我现在坐在办公室里，手边只有一台公司的复印机，而且还是坏的！
 
 ;0x760E81FD=Amir: I currently support 27 companies at Outsource For America so you are actually receiving far better customer service than you realize. Can I help you with anything else today?       
-0x760E81FD=
+0x760E81FD=Amir：我正在为来自外包美国劳动的27家公司服务，您现在获得的服务已经远远优于其他公司了。还有什么能够帮到您的吗？
 
 ;0x99DFC9F8=Doug: That's all for now, George. Can I call you tonight?       
-0x99DFC9F8=
+0x99DFC9F8=Doug：没别的事了，乔治。今晚再联系可以吗？
 
 ;0x47B54D61=Amir: I'm leaving in 10 minutes to pick up my new SUV.       
-0x47B54D61=
+0x47B54D61=Amir：再过十分钟我就要去提我的新SUV了。
 
 ;0x887BC135=Doug: OK. Forget it. Bye George.       
-0x887BC135=
+0x887BC135=Doug：好吧，那算了。再见，乔治。
 
 ;0x0EBC6CDA=Amir: Peace out.       
-0x0EBC6CDA=
+0x0EBC6CDA=Amir：再见。
 

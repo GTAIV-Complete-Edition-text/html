@@ -1,99 +1,90 @@
-﻿;0x52F50EAE=Home
-0x52F50EAE=
-
-;0x880CB8A1=Testimonials
-0x880CB8A1=
-
-;0xC52E078D=Positive experiences with our slave labor force
-0xC52E078D=
-
-;0x6EB3F3BC=Case Study
-0x6EB3F3BC=
+﻿;0xC52E078D=Positive experiences with our slave labor force
+0xC52E078D=了解客户关于奴隶劳工优良体验的反馈
 
 ;0x1C4A2D0F=Read a call center phone transcript
-0x1C4A2D0F=
+0x1C4A2D0F=阅读一份来自全球呼叫中心的通话记录
 
 ;0x7A0C0B3B=Calling all CEOs! The American dream isn't just in America anymore. The Chinese are on board too. Not only are our countries becoming more alike by spying on citizens' emails and phone calls - but the business opportunities are endless as well! Ever since sportswear companies realized that they could get emaciated 8-year-old girls to better themselves by working 120-hour weeks for a few cents a day, businesses have been unable to resist the sweet allure of hardworking, inexpensive foreign labor.
-0x7A0C0B3B=
+0x7A0C0B3B=各位CEO！美国梦不再仅限于美国了！中国人也上船了。我们不仅在监视公民的邮件和电话这点上十分相似，在中国更有无限的商机！运动品牌早已发现了这个事实：支出几美分的日薪，就能让瘦弱的八岁姑娘一周干上120小时活，大大降低生产成本。从那以后，制造业就再也无法抵抗辛勤廉价的外国劳工的诱惑了。
 
 ;0xEF7E55A3=Cultural Acclimatization
-0xEF7E55A3=
+0xEF7E55A3=文化适应
 
 ;0xC8C4F51C=All employees at Outsource For America call centers pass through an intensive cultural acclimatization program of fast food and reality TV. We specialize in taking highly-articulate foreign graduates and turning them into celebrity-obsessed, self-medicating couch potatoes who get tanked on dollar drafts in titty bars.
-0xC8C4F51C=
+0xC8C4F51C=我们外包美国劳动会通过快餐和真人秀为呼叫中心的所有员工提供文化适应训练。招收口语流利清晰的外国应届生，并将他们变成迷恋明星、药物成瘾的电视懒虫，每天在脱衣舞酒吧拿着汇票喝个烂醉，这就是我们的专长。
 
 ;0x965FBAC7=Hoaxsourcing
-0x965FBAC7=
+0x965FBAC7=外包威慑
 
 ;0xEC823B53=Not ready to outsource? Well, nothing fires up productivity more than the prospect of losing the house and car! As part of our hoaxsourcing services, we will send in some ringers - usually Indian and Chinese guys in suits - to loiter behind desks and whisper in corner offices for a week. Rampant worker insecurity guaranteed! 
-0xEC823B53=
+0xEC823B53=没准备好接受外包？嗯，没有什么比失去房子和车子的前景更能激发生产力了！在外包威慑服务中，我们会派一些假冒的外包老板(一般是穿正装的印度人和中国人)过来一周，在工位附近晃来晃去，到高级办公室里假装交谈。保证能让原有的员工心神不宁！
 
 ;0x6A8B063E=Advertisement
-0x6A8B063E=
+0x6A8B063E=广告
 
 ;0x04006BC5=Tech Grads! New Hairdressing School opens in Silicon Valley!
-0x04006BC5=
+0x04006BC5=科技专业的毕业生！全新的美发学校已在硅谷开张！
 
 ;0xBF4A14F6=  Why Not Hire Americans?
-0xBF4A14F6=
+0xBF4A14F6=  为什么不雇美国人？
 
 ;0x80225F64=Blame the unions. They demanded health care, wages and retirement for workers. So all the jobs left the country. Rebadged under the more palatable names of 'outsourcing' and 'offshoring', sweatshops still offer fantastic opportunities to maximize shareholder value and fatten executive bonuses. Like a quick bump, outsourcing is a swift fix; an immediate boost to the bottom line which will make you look really good in the boardroom. Then you wake up and you've slept with some street trash and your penis burns.
-0x80225F64=
+0x80225F64=都怪工会。他们带着工人要医保、要涨薪、要退休金，工作岗位就都离开美国了。尽管打着「外包」和「境外生产」的名号，但其本质还是为股东创造价值、让高管分红更多的血汗工厂。类似于强心针，外包可谓是高速见效：立刻降低生产成本，让你成为董事会的英雄人物。然后你醒了，发现自己睡在垃圾堆里，鸡巴火辣辣地痛。
 
 ;0x5CA46B82=Added value, every time.
-0x5CA46B82=
+0x5CA46B82=每一次，都有附加价值。
 
 ;0xE0EF6080=Some of the traditional offshoring destinations have started to demand better wages and working conditions in recent years, but Outsource For America has focused its efforts on tapping the resources of some of the most corrupt nations in the world. Fully committed to your early retirement, we guarantee a complete lack of workers' rights laws, safety regulations and child labor restrictions in all our global call centers. And for the demanding manager you can sit in your office in America and watch live webcams of workers making your products. We even put cams in the bathrooms. Added value, every time.
-0xE0EF6080=
+0xE0EF6080=近年来，一些传统的境外生产基地开始要求提高工资、改善生产环境。但外包美国劳动专注于开发世界上最朽烂的国家。为了让你们提早退休，我们公司特意将电话呼叫中心建立在全球缺乏劳动保护法和安全要求、没有童工限制的地区。要求严格的经理大可坐在美国的办公室，通过工厂摄像头的直播监视工人的生产过程。就连卫生间也不例外。每一次，都有附加价值。
 
 ;0x3528AADC=Are employees beaten?
-0x3528AADC=
+0x3528AADC=员工会挨打吗？
 
 ;0xC4716D22=Are employees beaten? Answer - no more than usual. Working against the clock in constant fear of violent reprisals, all our employees are expected to field at least 100 calls an hour and local teams of union-busters are always on hand to swiftly quash any rumors of organized activity. By eradicating unnecessary costs such as health insurance and pension benefits, we can make an instantaneous impact on your revenue stream.
-0xC4716D22=
+0xC4716D22=员工会挨打吗？答：没平时多。争分夺秒地干活，时刻担心被人报复拳脚相向。我们要求所有员工每小时处理至少一百个来电，当地的反工会团队也能扼杀任何造反罢工的苗头。通过消灭医保和退休金等不必要的成本，我们可以让你的收入流陡然上升。
 
 ;0xB6EBCDB6=The element of surprise.
-0xB6EBCDB6=
+0xB6EBCDB6=惊喜的元素。
 
 ;0xA48FAF2B=The secret to successful outsourcing is the element of surprise. Imagine their surprise when your workers show up and the doors are locked. Remind them that what doesn't kill you will make you stronger. Except for a few sexual diseases, but we could all stand to lose a little weight.  Outsource For America has years of experience in blindsiding middle management and in springing redundancies on your employees when they least expect it. When it eventually dawns on them that they've been Bangalored up the Khyber Pass, the locks will have been changed and their desk replaced by a switchboard modem. The next time they wear a suit and tie will be when they file for bankruptcy!
-0xA48FAF2B=
+0xA48FAF2B=外包成功的关键秘密就在于惊喜。想象一下员工过来上班，结果门锁了。让他们知道杀不死你的只会让你更强大。当然，某些性病除外，不过也就是掉点体重而已。外包美国劳动在偷袭中层干部这方面有着多年经验。更专精于出其不意地裁员。他们会意识到自己被开伯尔山口的班加罗尔人取代了，公司的门锁换了，原先的工位也被放上了交换机。下次再有西装革履的时候，要等到申请破产了！
 
 ;0x53D21D33=It just makes sense.
-0x53D21D33=
+0x53D21D33=这很合理。
 
 ;0x7EBEE410=Outsourcing makes sense. Why should Americans pay through the nose for their goods and services when a farmer halfway around the world will prepare your tax return, dial in your takeout order, process your radiology scan and advise you on real estate in Ohio for a couple of dollars a week? Remember: think short-term profits. By the time the near-flawless replicas of your products start appearing in stores at a quarter of the price, your source code is on Craplist and your customers' social security numbers are being sold to terrorists, a supermodel will be sucking you off in an island paradise. When all the doctors are bagging groceries, the lawyers are pumping gas and there's nobody left with the disposable income to buy the $20 DVD players and $100 laptops that your company is churning out, you will already be sipping cocktails on a luxury yacht in the South of France. You bankrolled free trade, America... don't pussy out on us now! Outsource today!       
-0x7EBEE410=
+0x7EBEE410=外包很合理。既然世界另一头的农民就能帮你报税、点外卖、做CT，甚至还能帮你在俄亥俄州租到几十块一周的房子，为什么美国人还要花大价钱购买本土的商品和服务？记住：只考虑短期收益。在产品的完美山寨版以四分之一的价格进入商店之前，你的源码已经在Craplist上了，顾客的社会安全号码也卖给恐怖分子了，但你早就在在海岛乐园享受超模替你吹箫了。等到医生去杂货店整理货架，律师去加油站打工的时候，根本没人买得起你们公司粗制滥造的20块DVD和100块平板，而你已经在法国南部的豪华游艇上享用鸡尾酒了。你资助了自由贸易，美国... 别跟我们犯怂了！立刻外包吧！
 
 ;0xF331FB20=  Breaking The News...
-0xF331FB20=
+0xF331FB20=  残忍的事实...
 
 ;0xEB9FE385=How do you tell a woman of 55 who has worked in manufacturing for 30 years that she has lost her job?
-0xEB9FE385=
+0xEB9FE385=告诉一个在厂里干了30年的55岁阿姨她失业了，这种话怎么说的出口？
 
 ;0x5ECD06BD=By email, of course!        
-0x5ECD06BD=
+0x5ECD06BD=当然要靠邮件通知啦！
 
 ;0x21D92FD3=If you decide to lay off workers and move operations offshore, the golden rule is DON'T TELL THEM UNTIL THE LAST MINUTE. And never use the 'O' word. Euphemisms and corporate jargon should always be used in place of open references to Outsourcing. We also advise lots of hyphens. Don't use the C word. "Beat it C*#t" is not appropriate. It may make you feel manly, but don't do it. Please feel free to use the following template:       
-0x21D92FD3=
+0x21D92FD3=如果你想辞退工人，转向外包工厂，最重要的就是「直到最后一刻才下通知」。也别提到「外包」这两个字。在公开场合一定要用委婉说法和行话指代外包。我们同时还建议你多用组合词。别吐脏字。「滚〇吧」显然不合适，也许你骂得很爽，但不要这么做。以下是一个可供任意使用的模板：
 
 ;0xE4855407=Dear employee,         
-0xE4855407=
+0xE4855407=亲爱的员工，
 
 ;0x541F432C=As you know, we are all about raising the bar and pushing the envelope at (substitute company name). We have been doing some out-of-the-box thinking about our value proposition and firmly believe that the best way to re-energize our business model is to transition your skill-set to a better-aligned workflow-driven system. By de-layering our mid-to-low tier operations, re-tooling the labor allocation and sunsetting our mission-critical processes, we will be able to reinforce our results-focused commitment to future-proof cutting-edge products and services.         
-0x541F432C=
+0x541F432C=如你所知，提高标准和挑战极限是我们 (公司名) 的宗旨。这段时间我们跳出了既有框架，重新思考了公司的价值定位，并得出了一个结论：要想再次为我们的商业模型赋能，就要将你们的综合技能转移到一个设计更加合理的以工作流程为导向的体系中去。通过去除中低端产能、更新劳动配置和定期废止我们的业务关键型流程，可以提高我们对产出成果的重视，创造不会过时的尖端产品和服务。
 
 ;0x99BB9F4C=Just wanted to keep you in the loop and make sure that we are all singing from the same hymn sheet.         
-0x99BB9F4C=
+0x99BB9F4C=这封邮件的目的是为了保障你的知情权，并确保我们能在这件事上达成共识。
 
 ;0xF7F636AB=We thank you for your full cooperation in the training of your low-cost replacements.         
-0xF7F636AB=
+0xF7F636AB=感谢你在培训廉价替代者的过程中与我们的配合。
 
 ;0x6EADB5CF=Regards,         
-0x6EADB5CF=
+0x6EADB5CF=此致，
 
 ;0x54E3B28D=Your CEO.         
-0x54E3B28D=
+0x54E3B28D=你的CEO
 
 ;0x9B5D8735=PS Beat it C*#t
-0x9B5D8735=
+0x9B5D8735=PS：滚〇吧
 

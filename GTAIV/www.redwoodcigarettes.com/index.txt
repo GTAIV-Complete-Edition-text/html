@@ -17,7 +17,7 @@
 0xF20DD1F5=现在甚至烧得更快！
 
 ;0x77987987=We have beefed up the ammonia and formaldehyde content so that Redwoods now burn faster than a bottle rocket on the 4th of July.  Before you can say emphysema, you'll be onto your second stick of pleasure.         
-0x77987987=我们提高了氨和甲醛的比例，红木牌香烟现在烧得比独立日的瓶装火箭还快。在你念完慢性肺气肿这五个字钱，就已经开始享受第二支烟的快感了。
+0x77987987=我们提高了氨和甲醛的比例，红木牌香烟现在烧得比独立日的瓶装火箭还快。在你念完慢性肺气肿这五个字前，就已经开始享受第二支烟的快感了。
 
 ;0x41DA989F=REDWOOD JUNIORS
 0x41DA989F=红木青春版
@@ -35,7 +35,7 @@
 0xC3BF3D6D=教育自己
 
 ;0x8BE296E4=When people started getting tubes in their throats, the left-wing loons started getting chips on their shoulders and blaming cigarettes for everything from global warming to the spread of soccer in the US.  Learn about the potential, inconclusive dangers of smoking on 
-0x8BE296E4=当人们在喉咙里插上管子，左翼蠢人开始在肩上植入芯片，将从全球变暖到足球盛行的一切问题都归罪于香烟，学习一下抽烟造成的尚无定论的潜在风险吧：
+0x8BE296E4=人们在喉咙里插上管子，左翼蠢人开始破口大骂，将从全球变暖到足球盛行的一切问题都归罪于香烟，学习一下抽烟造成的尚无定论的潜在风险吧：
 
 ;0xF51A07ED=www.tobaccofacts.net
 0xF51A07ED=

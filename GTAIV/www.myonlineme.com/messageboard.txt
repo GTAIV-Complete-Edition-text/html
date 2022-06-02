@@ -1,63 +1,63 @@
 ﻿;0xE5EEC9E1=CLICK TO RETURN HOME
-0xE5EEC9E1=
+0xE5EEC9E1=点 击 返 回 主 页
 
 ;0x3C49957C=GUEST VIEW 
-0x3C49957C=
+0x3C49957C=访客模式
 
 ;0x3C4ED31A=    Trensage says...
-0x3C4ED31A=
+0x3C4ED31A=    发布者：Trensage
 
 ;0x94F7ABCE=Posted September 27, 1:01 AM    
-0x94F7ABCE=
+0x94F7ABCE=9月27日 01:01____
 
 ;0x3FAECF6D=I was a huge fan of MyOnlineMe and spent over 100 hours customizing my avatar when I was kicked out for a complete misunderstanding.  I was only having fun and it was a joke and I WAS AT LEVEL 43 YOU ASSHOLES.  I WILL FUCKING KILL YOU.  LET ME BACK IN!
-0x3FAECF6D=
+0x3FAECF6D=我是玩了100多个小时的老玩家，现在突然就封了我的号，绝对是封错了。你们这帮操蛋的，这太扯了，我都练到43级了，啥违规的都没干。我他妈要干死你们。快点解封！
 
 ;0x7C58D981=    ANNOUNCEMENT TO ALL MOM PLAYERS
-0x7C58D981=
+0x7C58D981=    全　站　公　告
 
 ;0x62BD5DF9=Posted September 24, 8:36 PM    
-0x62BD5DF9=
+0x62BD5DF9=9月24日 20:36____
 
 ;0xD949EBF5=Please be advised that we have been contacted by the FIB and we are handing all of our server logs over to them.  Please do not be alarmed. 
-0xD949EBF5=
+0xD949EBF5=请注意，FIB已与我们取得联系，我们会将所有服务器日志交给他们处理。请各位不必惊慌。
 
 ;0xDF782CBE=    Jaxon5 says...
-0xDF782CBE=
+0xDF782CBE=    发布者：Jaxon5
 
 ;0xA241EF1F=Posted September 9, 9:24 AM    
-0xA241EF1F=
+0xA241EF1F=9月9日 09:24____
 
 ;0x92971AD7=I am stuck upgrading my penis.  The graphics are retarded.   I paid $1,000 for this penis upgrade and it's not what I expected at all.  I went to my favorite stag bar and none of the male avatars noticed me at all.  WTF?
-0x92971AD7=
+0x92971AD7=我升级阴茎的时候电脑卡住了，显卡太慢了。我充了1000块钱买这个升级包，但是和我想的完全不一样。我去了自己最喜欢的男士酒吧，但是里面的人没一个理我的。这咋回事？
 
 ;0xAD902C02=    Chier49a says...
-0xAD902C02=
+0xAD902C02=    发布者：Chier49a
 
 ;0xA0217BB6=Posted August 9, 8:14 PM    
-0xA0217BB6=
+0xA0217BB6=8月9日 20:14____
 
 ;0x67FDB349=Hi, I'm really into darkness and I was told that MOM has a part of town where Satanists can hang out.  I love pentagrams and fire, and the idea of being trapped in eternal torment, but I can't find any of the clubs people are talking about.  What kind of virtual reality is this?   All the sex furniture is terrible, and let's just say I'll never use a leatherette loveseat again.
-0x67FDB349=
+0x67FDB349=嗨，我深信魔鬼，有人告诉我说MOM有个地方可以遇见撒旦教徒。我喜欢五芒星、火焰和无尽的炼狱，可是找不到组织和同好交流。这是什么虚拟现实啊？那些做爱道具用起来真的很恐怖，只能说我绝对不会给双人皮沙发第二次机会。
 
 ;0xD17B1395=    Lil Conner says...
-0xD17B1395=
+0xD17B1395=    发布者：Lil Conner
 
 ;0xD2A5788F=Posted August 4, 4:32 PM    
-0xD2A5788F=
+0xD2A5788F=8月4日 16:32____
 
 ;0x3B1C04CF=Hi guys, can you help me out?  I met a woman in MOM who looked like a minotaur.  We lived in Tretaville Sector 18.  We fell in love and our avatars were together every night.  My wife has an idea about it here but I don't think she fully understands.  Anyway, last night I came home and found that her account had been canceled for selling child slaves.  This is virtual reality people!  Thanks a lot MOM mods.  You think you are god because you can make it rain or turn a marital aid into a piece of dynamite.  Well I'm taking my avatar to the Cavern of Sorrow. 
-0x3B1C04CF=
+0x3B1C04CF=大家好，你们能帮帮我吗？我在MOM上遇到了一个人身牛头女。我们住在Tretaville的18区。陷入热恋后，我们每晚都待在一起。我的老婆对此有点意见，但她多半也搞不清楚。这么说吧，昨晚我回到家，发现她的号因为贩卖童奴被封了。虚拟世界的人而已！MOM的管理，真是谢谢您嘞。你可以在这里翻云覆雨，也可以把性爱道具变成定时炸弹，真当自己是上帝了是吧。好了，我要去玩Cavern of Sorrow了。
 
 ;0x0BA0FFA4=    PaulRNelsonluver says...
-0x0BA0FFA4=
+0x0BA0FFA4=    发布者：PaulRNelsonluver
 
 ;0x3110D00A=Posted July 3, 9:32 PM    
-0x3110D00A=
+0x3110D00A=7月3日 21:32____
 
 ;0x68228C45=I love MOM.  I'm online every day.  But what in the heaping flying name of all things holy are elven folk doing here?  Elves are nothing but little pointy eared bastards.  They touch you and grab your ass and chuckle.  They eat stupid shit.  I stopped playing other massives to get away from them.  My wife left me for an elf.  If we don't do something about the immigration laws in this place we'll get overrun. 
-0x68228C45=
+0x68228C45=我喜欢MOM，每天都上线。但是这里怎么也有那帮狗鸡巴傻卵精灵？它们啥都不是，只是一帮尖耳朵的混蛋。它们来碰你，捏你的屁股，完了还偷笑。这群畜生。为了躲开他们，我都不玩其他多人游戏了。我的老婆跟一个精灵私奔了。再不对移民做出什么规定，这里就要被精灵占领了。
 
 ;0xB82B6158= My Online Me   Terms and Conditions   Privacy (Or Lack Thereof) Statement   Contacts
-0xB82B6158=
+0xB82B6158=我的网络分身   网站条款与规定   隐私保护(及泄露)声明   联系我们
 

@@ -1,33 +1,6 @@
-﻿;0xE773CCA2=Dishing the dirt on your favorite celebrities! The gossip, the rumors, the scandals,
-0xE773CCA2=
-
-;0x5E1A6427=the break-ups, the meltdowns, the feuds... and anything else we can get a photo of!
-0x5E1A6427=
-
 ;0xEAE8E015='Like' has been voted 'word of the year' by linguists.  'Whatever' came in second and 'totally' a narrow third. Awesome!!!!
-0xEAE8E015=
+0xEAE8E015=「喜欢」被语言学家评为「年度词汇」。「随便」排在第二位，「完全」第三。 牛逼！！！！
 
 ;0xFEE439CA=Popping, the heartwarming dance-off movie about a kid from the rough part of town who has one chance to make something of his life, is at the top of the box office charts for a second week.  Many are attributing the movie's phenomenal success to its 78-minute training montage in which the main character, Flex, is put through his paces in a dance studio by an older mentor from the neighborhood and a hot upper-middle class ballerina.  Can Flex keep it real while high-kicking in a yellow leotard?  You'll have to go see for yourself.  Truly, this is how it is settled on the streets.
-0xFEE439CA=
-
-;0x09ED52CA=- BREAKING NEWS: Bryce Dawkins - You got MALE!!!
-0x09ED52CA=
-
-;0xB87A0552=- Samantha Muldoon buys another baby!
-0xB87A0552=
-
-;0xC7E658D4=- Shear Lunacy!
-0xC7E658D4=
-
-;0x391868C4=- McTony: A microscopic maniac!!!
-0x391868C4=
-
-;0x779E01C9=- 'Like' voted word of the year!
-0x779E01C9=
-
-;0x9112632A=- POPPING boffo box office
-0x9112632A=
-
-;0x10CCF982=- More Madness From McIntosh!!!
-0x10CCF982=
+0xFEE439CA=《Popping》是一部温暖人心的舞蹈电影，主角是一个治安混乱地区出身的小男孩，在他的面前有一个改变自己人生的机会。目前该片连续两周登顶了票房排行榜。影片利用蒙太奇手法剪辑，通过78分钟的练舞画面展现了主角Flex在附近的年长导师和一个中上阶层的性感芭蕾舞演员的教导下取得的进步，许多人认为这也是该片能够如此成功的关键因素。穿着黄色紧身衣高踢腿的Flex能够保持最初的那份真诚吗？请各位读者亲自去影院见证。说真的，这才是街头的生存法则。
 

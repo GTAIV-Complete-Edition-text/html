@@ -62,7 +62,7 @@
 0x0E7125D0=我一直不知道自己为什么体型这么大！然后我在杂志上读到了，一旦身体摄入超过消耗量的卡路里，过剩的能量就会转化为脂肪存储！太震惊了，真的。但我白天对着电脑，晚上对着电视，哪有机会消耗能量呢？一边还有家族性的果蔬不耐受，这该怎么办呢？后来我发现了Lipurgex。服药四周后，我瘦了足足70斤！
 
 ;0xCDC473EB=My idea of exercise used to consist of crawling to the kitchen to fish out a waffle from the toaster... now I am constantly hyper!!! I flap my bat-wings at the world!!! The queasiness and racing heart take some getting used to (imagine 20 espressos on an empty stomach!) but Lipurgex is  celebrity-endorsed so it must be safe.  People used to stare at me because I was so fat; now I just think everyone is staring at me because I am so paranoid. Buying Lipurgex was the best move I ever made. Leave me alone stop following me." 
-0xCDC473EB=对我来说，以前运动是指往返厨房清洗面包机... 现在我24小时都精力旺盛！！！向世界挥动我的蝙蝠翼！！！恶心呕吐喝心率加速需要适应一下 (想象一下空腹喝下20杯意式浓缩！) 但Lipurgex有名人代言，一定是安全的。以前我很胖，别人都盯着我看。现在多半是因为我太多疑，他们才会盯着我吧。购买Lipurgex是我最明智的选择。离我远点，别再跟踪我了。」
+0xCDC473EB=对我来说，以前运动是指往返厨房清洗面包机... 现在我24小时都精力旺盛！！！向世界挥动我的蝙蝠翼！！！恶心呕吐和心率加速需要适应一下 (想象一下空腹喝下20杯意式浓缩！) 但Lipurgex有名人代言，一定是安全的。以前我很胖，别人都盯着我看。现在多半是因为我太多疑，他们才会盯着我吧。购买Lipurgex是我最明智的选择。离我远点，别再跟踪我了。」
 
 ;0x5682F949=Toby, 36, England
 0x5682F949=Toby, 36岁, 英国
