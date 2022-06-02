@@ -1,11 +1,11 @@
 ﻿;0x244B9FD7=Pupil: Julio Acaudalado
-0x244B9FD7=学生：Julio Acaudalado
+0x244B9FD7=姓名：Julio Acaudalado
 
 ;0xE0F3A0AB=Class of: 1989
-0xE0F3A0AB=1989届
+0xE0F3A0AB=届别：1989届
 
 ;0x2EF6EB46=High School: East  Holland High  School
-0x2EF6EB46=高中：East Holland高中
+0x2EF6EB46=学校：East Holland高中
 
 ;0xE5F8ED95=NICKNAME:
 0xE5F8ED95=
@@ -17,16 +17,16 @@
 0xB78A2011=
 
 ;0xA7AAB074=Hello. You probably don't remember me. I'm the guy you all ignored, except when you were telling me to drink out of the toilet bowl and pulling my pants down to show Mr. Statwalter. OK, so I was a little strange. I wasn't cast in the right mold for your mindless cliques. I used to eat soil and talk to myself at recess. But none of you even gave me a chance - you were all too busy taking drugs and getting pregnant. Well, now the tables have turned. After leaving school, I studied for a Bachelor of Economics and then an MBA at an Ivy league School. I joined Schlongberg and Sachs as a junior trader in options arbitrage and was running the trading department within four years. I broke away in 1998 to launch my own hedge fund and I am now worth around half a billion dollars, give or take a million! Not bad for the guy 'most likely to suck' according to the class of 1989! I could buy you all as my bitches. As I drive home in my convertible to my 30-bedroom mansion and model girlfriend, I can't help thinking what all my old classmates from East Holland High are up to. Are you working in a factory or a fast-food restaurant? Maybe retail, if you are good-looking? PLEASE let me know. And if you are in Monaco this summer, keep your eye out for me. I'll be the guy on the big fuck-off yacht surrounded by fake tits. Wait a second, you couldn't find Monaco if you pissed on a map.
-0xA7AAB074=大家好。你们可能不记得我了。我是那个曾被你们都无视的人，你们只会叫我从马桶里喝水，把我裤子扒下来给Statwalter先生看。好吧，我过去确实有点怪。我融不进你们那些幼稚的小圈子。我过去经常在课间吃土和自言自语。但你们都不给我个机会，你们都在忙着吸毒和怀孕。现在，我可是咸鱼翻身了。离开学校后，我在一所常春藤盟校攻读了经济学学士学位和工商管理硕士学位。我加入Schlongberg and Sachs投资银行时是一名初级期权套利交易员，4年内就开始管理交易部门了。我在1998年从公司跳槽，成立了自己的对冲基金，现在我的身价约为5亿美元，上下误差一百万美元！。对于1989届同学所谓的这个 "最可能失败 "的人来说，这日子还算不错！我可以把你们都买下来当我的臣妾。当我开着敞篷车回到我那有30个卧室的豪宅和模特女友身边时，我不禁在想，我East Holland高中的老同学们都在忙什么呢？你是在工厂还是在快餐店工作呢？如果你长得好看的话，或许在零售店工作？来告诉我吧。如果你今年夏天去摩纳哥，可以留意一下我。我会是那个在大游艇上被假奶子包围的人。哦不对，如果你在地图上撒尿那你都找不到摩纳哥。
+0xA7AAB074=大家好。你们可能不记得我了，我是那个被你们无视的人。你们只会逼我喝马桶水，把我裤子扒下来给Statwalter老师看。好吧，以前我确实有点怪，融不进你们那些幼稚的小圈子。当时我经常在课间吃土、自言自语。但你们都不给我个机会，不是急着吸毒就是忙着怀孕。现在风水轮流转了。高中毕业后，我在一所常春藤盟校读了经济学学士和工商管理硕士。加入隆盛集团时，我是一名初级期权交易员，但是不到4年就开始管理交易部门了。1998年我从公司跳槽，成立了自己的对冲基金，现在我的身价约为5亿美元，上下误差一百万！作为1989届同学嘴里「最可能失败」的人，这日子还算不错！我可以把你们都买下来当我的贱婢。开着敞篷车回到我那30个卧室的豪宅和模特女友身边时，我不禁在想，那些East Holland高中的老同学都在忙什么呢？你是进厂了还是去端盘子了？长得好看的话，或许在当收银员？来告诉我吧。如果你今年夏天去摩纳哥，可以留意一下我。我就是那个在大游艇上被假奶子包围的人。哦不对，如果你在地图上撒尿，那你绝对找不到摩纳哥。
 
 ;0xFB06E813=As for you, Beefy Steve, I've had a personal trainer for the last five years and guess what?! I'm not 130lb pounds any more, asshole! Can't wait to see you at the reunion. Try taking my money clip now and I'll break your face. By the way, one of my systems analysts just hacked through the shitty security system on Horny High School Reunions and pulled down all your personal details. Expect a long and systematic hell as I begin an identity theft that will go down in history
-0xFB06E813=至于你，大块头Steve，过去五年我都有一个私人教练，你猜怎么着？！我再也不是130磅重的人了，混蛋！等不及要在同学聚会上见到你了。你敢拿我的钱夹，我就打烂你的脸。顺便说一句，我的一个系统分析员刚刚黑进了淫荡高中同学会的垃圾安全系统把你所有的个人信息都扒下来了。我要开始一场将被载入史册的身份盗窃，等着经历一场漫长而系统的苦痛吧。
+0xFB06E813=至于你，大块头Steve，过去五年我都请了私教。你猜怎么着？！我再也不是120斤的弱鸡了，混蛋！等不及要在同学聚会上见到你了。敢拿我的钱夹，我就打烂你的脸。顺便说一句，我的一个系统分析员刚刚黑进了激情高中同学会的垃圾安全系统，把你所有的个人信息都扒下来了。接下来就是将要载入史册的身份盗窃，等着承受条理清晰的漫长折磨吧。
 
 ;0xDEF8095A=MESSAGE:
 0xDEF8095A=
 
 ;0x483CC77B=Crazy! I always thought that you were a special needs child! 
-0x483CC77B=真疯狂！我一直以为你是个低能儿童！
+0x483CC77B=太疯狂了！我一直以为你是个特殊儿童！
 
 ;0x1C5BB13B=- Lance.
 0x1C5BB13B=
@@ -35,7 +35,7 @@
 0xDEF8095A=
 
 ;0x6A86D2DA=I still fucking own you. 
-0x6A86D2DA=你他妈还是我的。
+0x6A86D2DA=你他妈还是我的人。
 
 ;0x1584444B=- Steve.
 0x1584444B=

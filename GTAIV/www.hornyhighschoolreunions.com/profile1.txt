@@ -1,11 +1,11 @@
 ﻿;0xCE176829=Pupil: Jeremy Grasstain
-0xCE176829=学生：Jeremy Grasstain
+0xCE176829=姓名：Jeremy Grasstain
 
 ;0x5FF6A72F=Class of: 1996
-0x5FF6A72F=1996届
+0x5FF6A72F=届别：1996届
 
 ;0xADBA4AFD=High School: Easton  Academy for Boys
-0xADBA4AFD=高中：Easton男子高中
+0xADBA4AFD=学校：Easton男子学院
 
 ;0xE5F8ED95=NICKNAME:
 0xE5F8ED95=
@@ -17,13 +17,13 @@
 0xB78A2011=
 
 ;0x1BCC0E43=Darlings! I came across this site and thought that it would be fab to hook up with some of my old friends from the Easton Academy! How is everyone? Loving life? I am!!!!!!! Writing from Paris! I just wanted to set the record straight regarding that unfortunate incident in the 8th grade when Kevin Rodthwack and I were caught together naked under the school stage. I know how this must have looked but I want to tell everybody AGAIN that I AM NOT GAY. It was a hot day and Kevin and I had stripped off just like any other red-blooded males. We chose to conceal ourselves because we were arm-wrestling for money (a practice strictly prohibited under the Easton Academy code of conduct!!!). I hope that now we are all mature enough to move on and close this chapter for good. I don't want my parents to disown me again. Send me a message! It would be fantastic to see all the boys! Come see me in Paris. It is SO free. I am working as an interior designer with my fabulous roommate Alain. We have a gorgeous apartment and two of the cutest cats you will ever see (little rascals!). I also absolutely love musical theater, if anybody fancies taking in a show? Please get in touch! Bye for now! xxx
-0x1BCC0E43=亲爱的！我偶然发现了这个网站，觉得和Easton高中的老朋友重逢一定很棒！大家过得怎么样？热爱生活吗？我很热爱！！！我现在身在巴黎！我只是想来澄清一下8年级时发生的不幸事件，当时我和Kevin Rodthwack被人在学校舞台下发现，我俩一丝不挂。我知道这看起来很不对劲，但我想再次告诉大家，我不是基佬。那天很热，Kavin和我像其他热血男儿一样脱了衣服。我们隐藏自己是因为我们在为了钱扳手腕。（Easton高中的行为准则严格禁止这种行为！！！）我希望现在我们都足够成熟了，可以往前看，永远结束这一篇章。我不想我的父母再和我断绝关系。给我发个消息吧！能看到兄弟们就大棒啦！来巴黎见我吧。这里很自由。我和我的好室友Alain一起做室内设计师。我们有间华丽的公寓和两只你见过的最可爱的猫（小流氓！）我还非常喜欢音乐剧，有没有人想一起去看场演出？来联系我吧！爱你，亲亲
+0x1BCC0E43=亲爱的！我偶然发现了这个网站，觉得如果能和Easton学院的老朋友重逢一定很棒！大家过得怎么样？热爱生活吗？我很热爱！！！我现在身在巴黎！我只是想来澄清一下8年级时发生的不幸事件，当时我和Kevin Rodthwack在学校的舞台底下被人发现，还都一丝不挂。我知道你们会怎么想，但是跟各位重申一下：我！不！是！基！佬！那天很热，Kavin和我像其他热血男儿一样脱了衣服。之所以会藏在舞台底下，是因为我们在扳手腕赌钱。(严重违反了Easton高中的校规！！！) 希望现在我们都足够成熟了，可以往前看，就此彻底翻篇。我不想再跟父母断绝关系了。给我发个消息吧！能看到兄弟们就大棒啦！来巴黎找我吧。这里很自由。我和我的好室友Alain一起做室内设计师。我们有间华丽的公寓，还有两只你见过的最可爱的猫 (两个小淘气！) 我还非常喜欢音乐剧，有没有人想一起去看场演出？来联系我吧！爱你，亲亲
 
 ;0xDEF8095A=MESSAGE:
 0xDEF8095A=
 
 ;0x174F21A6=Hi Jeremy. Great to hear from you. I just wanted to apologize for all the teasing you had to put up with during your last few years of high school. It was cruel and immature. Glad that everything is working out for you and YOU BITE PILLOWS! 
-0x174F21A6=嗨，Jeremy。很高兴看到你的消息。我想为你在高中最后几年忍受的嘲笑道歉。这既残忍又不成熟。很高兴你们基佬一切顺利！
+0x174F21A6=嗨，Jeremy。很高兴看到你的消息。我想为你在高中最后几年忍受的嘲笑道歉。这既残忍又不成熟。很高兴知道你过得不错，祝你菊花健康！
 
 ;0x044F1353=- Mike K.
 0x044F1353=
@@ -32,7 +32,7 @@
 0xDEF8095A=
 
 ;0xD092385D=If that was arm-wrestling, I've been doing it wrong all these years!
-0xD092385D=如果那是扳手腕的话，那这么多年我都做错了！
+0xD092385D=如果那是扳手腕的话，那我这么多年玩的扳手腕都是假的！
 
 ;0xD43E2AE7=- Dave Moorcock
 0xD43E2AE7=
