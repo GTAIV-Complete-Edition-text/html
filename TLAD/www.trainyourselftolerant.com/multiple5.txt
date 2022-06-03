@@ -1,11 +1,5 @@
-﻿;0xA9FB1518=Everybody in your office should take this course but, let's be honest, sensitivity training is aimed primarily at white, heterosexual males who must be made to pay for the sins of their ancestors.
-0xA9FB1518=
-
-;0x51A68F9E=As you leave work, you spot Debbie, your attractive female co-worker, making out with another woman outside.
+﻿;0x51A68F9E=As you leave work, you spot Debbie, your attractive female co-worker, making out with another woman outside.
 0x51A68F9E=
-
-;0x1ECF38FB=Do you...
-0x1ECF38FB=
 
 ;0x9400D71C=A)...walk straight up to them and ask if they "want some meat in that sandwich?"
 0x9400D71C=
@@ -18,7 +12,4 @@
 
 ;0x40C65781=D)...report her to HR for inappropriate behavior in the vicinity of the workplace?
 0x40C65781=
-
-;0x25892513=CLICK FOR ANSWERS
-0x25892513=
 

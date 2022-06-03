@@ -1,14 +1,5 @@
-﻿;0xA9FB1518=Everybody in your office should take this course but, let's be honest, sensitivity training is aimed primarily at white, heterosexual males who must be made to pay for the sins of their ancestors.
-0xA9FB1518=
-
-;0x891E86F7=Gary, a co-worker, is dealing weed.
+﻿;0x891E86F7=Gary, a co-worker, is dealing weed.
 0x891E86F7=
-
-;0x1ECF38FB=Do you...
-0x1ECF38FB=
-
-;0x3D4B6ED5=A)...notify HR immediately demanding that punitive action be taken?
-0x3D4B6ED5=
 
 ;0x2921C00D=B)...threaten to report him if he doesn't kick you an ounce?
 0x2921C00D=
@@ -18,7 +9,4 @@
 
 ;0x85726A7E=D)...roll with Gary and some hot coworkers after work, knowing that high chicks always give it up?
 0x85726A7E=
-
-;0x25892513=CLICK FOR ANSWERS
-0x25892513=
 

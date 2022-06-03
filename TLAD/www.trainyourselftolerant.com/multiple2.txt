@@ -1,7 +1,4 @@
-﻿;0xA9FB1518=Everybody in your office should take this course but, let's be honest, sensitivity training is aimed primarily at white, heterosexual males who must be made to pay for the sins of their ancestors.
-0xA9FB1518=
-
-;0x78339FE8=Larry, your 54-year-old boss, has a habit of massaging your neck while he's talking
+﻿;0x78339FE8=Larry, your 54-year-old boss, has a habit of massaging your neck while he's talking
 0x78339FE8=
 
 ;0x8FE7B9AB=to you. You know that you're up for promotion soon.
@@ -24,7 +21,4 @@
 
 ;0x8EF52EE7=D)...tell him how good it feels and ask if he can go a little lower?
 0x8EF52EE7=
-
-;0x25892513=CLICK FOR ANSWERS
-0x25892513=
 

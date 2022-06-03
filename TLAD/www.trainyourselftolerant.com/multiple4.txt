@@ -1,14 +1,8 @@
-﻿;0xA9FB1518=Everybody in your office should take this course but, let's be honest, sensitivity training is aimed primarily at white, heterosexual males who must be made to pay for the sins of their ancestors.
-0xA9FB1518=
-
-;0xEB14D10E=Simon is great at his job and fun to be around but he smells like dog shit.
+﻿;0xEB14D10E=Simon is great at his job and fun to be around but he smells like dog shit.
 0xEB14D10E=
 
 ;0x7536CB72=His armpits are rank, fetid caves reeking of decaying corpses.
 0x7536CB72=
-
-;0x1ECF38FB=Do you...
-0x1ECF38FB=
 
 ;0x5A557E02=A)...send out a general email to all staff about the importance of personal hygiene and hopes he picks up on the hint?
 0x5A557E02=
@@ -21,7 +15,4 @@
 
 ;0x8BA966B7=D)...leave soap, a washcloth and deodorant on his desk with a callous note signed "From the office you stinky fuck.  Discover a shower"?
 0x8BA966B7=
-
-;0x25892513=CLICK FOR ANSWERS
-0x25892513=
 

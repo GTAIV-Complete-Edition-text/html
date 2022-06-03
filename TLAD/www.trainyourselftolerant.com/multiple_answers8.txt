@@ -2,41 +2,41 @@
 0xA9FB1518=
 
 ;0xEBEA6198=You find one of your co-workers extremely attractive. You probably wouldn't look at them twice in real life but they're definitely 'office hot'. What is appropriate workplace flirting?
-0xEBEA6198=
+0xEBEA6198=你发现你的一个同事非常有吸引力。在现实生活中，你可能不会看她们第两次，但她们绝对是“办公室红人”。什么是适当的工作场所调情？
 
 ;0x5CD8DD78=A)...saunter repeatedly past his desk with your blouse undone talking about
-0x5CD8DD78=
+0x5CD8DD78=A)...解开衬衫，反复走过他的桌子，
 
 ;0xE4920912=how hot and sweaty you are after your spinning class? (women)
-0xE4920912=
+0xE4920912=谈论你在动感单车课后有多热和出汗？（女人）
 
 ;0x2DC9EC6B=ANSWER - Yes, this could work.
-0x2DC9EC6B=
+0x2DC9EC6B=答案是--是的，这可以会成功。
 
 ;0xC464D306=Just bear in mind that there's always a danger of hitting the wrong target. The object of your desires might assume that you're actually talking about the gym while the greasy guy with the combover to his left might suddenly start emailing you pictures of his love muscle.
-0xC464D306=
+0xC464D306=请记住，寻找错误目标总会发生危险。你欲望的对象可能会假设你实际上是在谈论健身房，而那个左边梳理的油腻家伙可能会突然开始通过电子邮件向你发送他生殖器的照片。
 
 ;0xF8C56093=B)...drop a pen on the floor, say "Shit!" then "Pardon my French; I really need something to shut this dirty mouth of mine" then bend down slowly to pick it up while sucking on your finger? (women)
-0xF8C56093=
+0xF8C56093=B)...把笔丢在地板上，说“我日！”然后“请原谅我的法语;我真的需要一些东西来让我这张肮脏的嘴巴闭上“然后边慢慢弯下腰，边吸吮手指，把笔捡起来？（女人）
 
 ;0x7DB75E8E=ANSWER - Now you're talking!
-0x7DB75E8E=
+0x7DB75E8E=答案是--总算讲到点子上了！
 
 ;0xEF9BF726=Some light, breezy but suggestive innuendo is perfect for the workplace.  This course hasn't been written by a bunch of sexually-frustrated, immature guys, honest. When it comes to flirting with men, the general rule of thumb is the more direct the approach, the better.  Act like a slut and you'll go far.
-0xEF9BF726=
+0xEF9BF726=一些轻巧，轻盈但是暗示性的影射是非常适合工作场所的。这门课程不是由一群性无能，不成熟的家伙写的，这是实话。
 
 ;0xCD7E81A6=C)...creep up behind her, sniff her hair and enter her gently from behind? (men)
-0xCD7E81A6=
+0xCD7E81A6=C)...慢慢走到她身后，嗅着她的头发，从后面轻轻地插入她？（男性）
 
 ;0xD11851AB=ANSWER - Remember, it isn't rape if they push back.
-0xD11851AB=
+0xD11851AB=答案是--记住，如果他们反击，这就不是强奸了。
 
 ;0x8372ABB1=D)...jiggle her breasts and shout "MILKSHAKE!"? (men)
-0x8372ABB1=
+0x8372ABB1=D)...晃动她的乳房，并大喊“奶昔！”？（男性）
 
 ;0xF4310803=ANSWER - Offices need comedy, and they aren't called funbags for nothing.
-0xF4310803=
+0xF4310803=答案是--办公室需要喜剧，它们不是无缘无故地被称为乳房的。
 
 ;0xF75B3ADA=If she acts offended, cry.
-0xF75B3ADA=
+0xF75B3ADA=如果她表现得被冒犯了，就哭吧。
 
