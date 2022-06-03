@@ -1,8 +1,8 @@
 ﻿;0x9C39EFB1=STUCK IN AN ELEVATOR
-0x9C39EFB1=当电梯突然停电
+0x9C39EFB1=被困电梯
 
 ;0x9388FB14=GOING DOWN?
-0x9388FB14=会一直往下？
+0x9388FB14=一路向下？
 
 ;0x45625909=8:11
 0x45625909=
@@ -11,59 +11,59 @@
 0x72CDB5C8=发布于：10个月前
 
 ;0xDC19EF32=Views: 225,956 
-0xDC19EF32=播放量：225，956
+0xDC19EF32=播放量：225,956
 
 ;0xF698B67D=Flavian1979 (6 months ago)
-0xF698B67D=Flavian1979(6个月前)
+0xF698B67D=Flavian1979 (6个月前)
 
 ;0xF233A424=Thank fuck for Weazel!
 0xF233A424=真他妈谢谢Weazel！
 
 ;0x9811F0DC=Knuckleknock22 (5 months ago)
-0x9811F0DC=Knuckleknock22(5个月前)
+0x9811F0DC=Knuckleknock22 (5个月前)
 
 ;0xCE6312BF=I have better vids on my site!
 0xCE6312BF=我网站上有更好的视频！
 
 ;0x6B33193E=Screamingrenato (4 months ago)
-0x6B33193E=Screamingrenato(4个月前)
+0x6B33193E=Screamingrenato (4个月前)
 
 ;0x3B8BC0AE=She was beating that thing like it owed her money!
-0x3B8BC0AE=她打那玩意儿狠得就像债主一样！
+0x3B8BC0AE=这娘们太卖力了吧，跟欠了她钱一样！
 
 ;0xBF6E9E83=Feedtheducks12 (3 months ago)
-0xBF6E9E83=Feedtheducks12(3个月前)
+0xBF6E9E83=Feedtheducks12 (3个月前)
 
 ;0xA158EB0A=I think my claustrophobia is cured!
-0xA158EB0A=我感觉我幽闭恐惧症都好了！
+0xA158EB0A=感觉我幽闭恐惧症都治好了！
 
 ;0x2576FB92=Englishmuffin84 (3 months ago)
-0x2576FB92=Englishmuffin84(3个月前)
+0x2576FB92=Englishmuffin84 (3个月前)
 
 ;0xC1EBC822=I'd eat that guy's mullet 
-0xC1EBC822=我很吃那家伙的鲻鱼头
+0xC1EBC822=我想吃了那家伙的鲻鱼头
 
 ;0x9ECEE29E=Frankiefiddlewell (2 months ago)
-0x9ECEE29E=Frankiefiddlewell(2个月前)
+0x9ECEE29E=Frankiefiddlewell (2个月前)
 
 ;0x7B9F7F42=This can't be real??? When do hot girls ever say "Elevators make me horny" to middle-aged guys?!!
-0x7B9F7F42=这太假了吧？？？辣妹什么时候会对中年大叔说「电梯让我欲火焚身」了？！！
+0x7B9F7F42=太假了吧？？？哪有辣妹会对中年大叔说「电梯让我好想要」的？！！
 
 ;0x4E4B7609=Splitmn2 (2 months ago)
-0x4E4B7609=Splitmn2(两个月前)
+0x4E4B7609=Splitmn2 (2个月前)
 
 ;0xD4F26A70=Don't ruin the moment!!! This has to be real!!! It's all I have left!! 
-0xD4F26A70=不要毁了这个氛围！！！这必须是真的！！！这是我唯一相信的了！！
+0xD4F26A70=不要破坏氛围！！！这一定是真的！！！这是我唯一相信的了！！
 
 ;0x9ECEE29E=Frankiefiddlewell (2 months ago)
-0x9ECEE29E=Frankiefiddlewell(两个月前)
+0x9ECEE29E=Frankiefiddlewell (2个月前)
 
 ;0x27BF6D42=Yeah, right!!! "I am so glad that I shaved this morning"!!! Happens every day, my friend!!
-0x27BF6D42=对对对！！！「我很庆幸自己今早刮了胡子」！！！每天都是这样的，家人们！！
+0x27BF6D42=对对对！！！「幸好今早我刮了毛」！！！这可太真了，家人们！！
 
 ;0x647E012D=Jizzyjohn92 (3 weeks ago)
-0x647E012D=Jizzyjohn92(三周前)
+0x647E012D=Jizzyjohn92 (3周前)
 
 ;0xDB4DC926=WTF!!!! WHY HAS THIS CLIP BEEN TAKEN DOWN!!! I HATE ELECTRIC TIT!!!
-0xDB4DC926=他妈的！！！！为什么这个片子被下架了！！！我恨电子咪咪！！！
+0xDB4DC926=他妈的！！！！怎么被下架了！！！我恨电子咪咪！！！
 
