@@ -35,7 +35,7 @@
 0x5CA46B82=每一次，都有附加价值。
 
 ;0xE0EF6080=Some of the traditional offshoring destinations have started to demand better wages and working conditions in recent years, but Outsource For America has focused its efforts on tapping the resources of some of the most corrupt nations in the world. Fully committed to your early retirement, we guarantee a complete lack of workers' rights laws, safety regulations and child labor restrictions in all our global call centers. And for the demanding manager you can sit in your office in America and watch live webcams of workers making your products. We even put cams in the bathrooms. Added value, every time.
-0xE0EF6080=近年来，一些传统的境外生产基地开始要求提高工资、改善生产环境。但外包美国劳动专注于开发世界上最朽烂的国家。为了让你们提早退休，我们公司特意将电话呼叫中心建立在全球缺乏劳动保护法和安全要求、没有童工限制的地区。要求严格的经理大可坐在美国的办公室，通过工厂摄像头的直播监视工人的生产过程。就连卫生间也不例外。每一次，都有附加价值。
+0xE0EF6080=近年来，一些传统的境外生产基地开始要求提高工资、改善生产环境。但外包美国劳动专注于开发世界上最朽烂的国家。为了让你们提早退休，我们公司特意将电话呼叫中心建立在全球缺乏劳动保护法和安全要求、没有童工限制的地区。要求严格的经理大可坐在美国的办公室，通过海外工厂的摄像头监视工人的生产过程。就连卫生间也不例外。每一次，都有附加价值。
 
 ;0x3528AADC=Are employees beaten?
 0x3528AADC=员工会挨打吗？

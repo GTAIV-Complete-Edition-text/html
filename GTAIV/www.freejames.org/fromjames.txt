@@ -1,9 +1,9 @@
 ﻿;0xFC11A306=The following note was scrawled on a scrap of paper that he managed to slip to his lawyer:
-0xFC11A306=
+0xFC11A306=以下文字是他找了张小纸片草草书写，塞给律师的：
 
 ;0x84501E1D="To my darling fans. For five years now I have been incarcerated in a loathsome Bali prison. Every day I am beaten on my hands and knees and forced to share a cramped dark cell with up to 15 other men. But there are also downsides to my imprisonment. The food is diabolical and all my requests for a glass of port after dinner have been met with a swipe to the back of the knees. I sleep in a pool of urine on a concrete floor and I wash in an open sewer. If Nanny could see me now!!! I am a man of simple pleasures and it's the little things that I miss the most. Two lions rutting on an open plain, the smell of sweat and gunpowder in the morning air, the thwack of leather on willow... and how is the USA surviving without my radio show?
-0x84501E1D=
+0x84501E1D=「致我亲爱的粉丝们。我在这间恶心的巴厘岛监狱里呆了五年了。每天我都被人按在地上打，还被迫与其他15个人共用一间狭窄、黑暗的牢房。但是监狱生活也有消极的一面。这里的食物糟糕透顶，我想在饭后来一杯波尔多葡萄酒，得到的却是一顿暴力。我睡在满是尿液的水泥地上，只能在露天阴沟里洗澡。真希望奶奶能见到我现在的样子！！！我的快乐其实非常简单，最让我想念的还是那些小事。两只狮子在开阔的平原上发情啦，清晨空气中的汗味与火药味啦，击球的清脆响声啦... 没有我的电台节目，美国怎么活得下去啊？
 
 ;0xD9F8F3E2=The combination of sunshine, narcotics and anonymity is a heady aphrodisiac and I long to be free again, to travel the world in the pursuit of pleasure and high jinks, to be at one with nature! The desperate plight of young impressionable boys in third-world countries stirs a feeling deep within me and I feel duty-bound to continue my humanitarian works at whatever cost. The world needs me! You need me! James Pedeaston is not meant to be caged! Please help. I hope that these few words are enough to spur you to action. The Wild Traveler will return!!"
-0xD9F8F3E2=
+0xD9F8F3E2=阳光、麻药、匿名，三者结合成了一剂强力春药。我渴望得到自由，再一次周游世界，追求快感与狂欢，与自然融为一体！第三世界的易塑小鬼创造了这个绝望的困境，我的心里五味杂陈，更觉得自己需要不计代价地继续人道主义事业了。这个世界需要我！你们需要我！James Pedeaston可不是笼中鸟！请帮帮我。希望这些话语能够激励你付出行动。《旷野旅行者》会回来的！！」
 

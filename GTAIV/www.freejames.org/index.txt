@@ -1,30 +1,30 @@
 ﻿;0xD0C13E4A=Welcome to freejames.org, the official campaign for the release of world-famous radio show host, James Pedeaston from jail in Bali.
-0xD0C13E4A=
+0xD0C13E4A=欢迎光临解救JAMES网，这是帮助世界著名广播节目主持人James Pedeaston从巴厘岛监狱获释的官方活动。
 
 ;0x9E4FEEF6=We need $100,000 to pay off the judge.
-0x9E4FEEF6=
+0x9E4FEEF6=我们需要筹集$100,000买通当地法官。
 
 ;0x12127F4C=James' legal fund is currently at $23.00.
-0x12127F4C=
+0x12127F4C=James的法律基金现已筹得$23.00。
 
 ;0x21AD6D8F=Like most other days that week, James Pedeaston was awoken on the morning of October 23, 2003 by something long and hard prodding him in the face. Still groggy from the opium he indulged in the night before, James mumbled "Not now Guntur, how did you manage to slip your leash again?" before opening his eyes to find a rifle barrel in his mouth and a leering Balinese policeman standing over him. Having spent the last of his Rupiah in a Kuta nightclub the previous evening, James was unable to meet the financial demands required to secure his innocence and was bound, gagged and beaten, bundled into the back of a van and thrown into a dark prison cell.
-0x21AD6D8F=
+0x21AD6D8F=2003年10月23日，那是一个和往常一样的平凡早晨。又长又硬的什么东西戳到了James Pedeaston脸上，吵醒了他。昨晚刚抽完大烟，依然头昏脑胀的James咕哝道：「别闹，Guntur，你怎么又弄断链子跑出来了？」。睁开双眼，嘴里却是来福枪的枪管，巴厘岛的警察正站在他的身旁，斜视着他。前一天晚上，James在库塔的夜店里花完了身上的印尼盾，一时掏不出自证清白所需要的资金。于是他被绑了起来，堵住嘴巴，装进面包车，最终来到了黑暗的牢房。
 
 ;0x1CF15AA6=Bali authorities claimed to have received numerous complaints from frightened villagers about Pedeaston's odd and suspicious behavior in the surrounding areas. It is reputed that he had been spotted taking photos in schoolyards, loitering on street corners with bags of candy, hanging out near the local swimming pool with a banana hammock on and offering cigarettes to parents in exchange for their children. These reports are completely unfounded and, apart from some compromising notes and pictures planted/forged by corrupt officials, as yet only circumstantial evidence has come to light.
-0x1CF15AA6=
+0x1CF15AA6=巴厘岛当局称，Pedeaston在村落附近的可疑行为引起了村民恐慌，当局收到了大量投诉。他的行为人尽皆知，在学校操场里拍照，拿着糖果在拐角游荡，带着香蕉吊床在本地游泳池附近乱转，还有用香烟换取某些家长的孩子。这些所谓的投诉没有任何依据，纯靠当地腐败官员伪造栽赃的不宜公开的笔记和图片定罪，对外公示的不是伪证就是些间接证据。
 
 ;0x010FC970=The fact is it's not true, even though all the evidence says otherwise. It's like religion in that way. A large number of Bali residents have stepped forward to provide information but we at freejames.org question the legitimacy of these savages and strongly suspect police coercion. James was there trying to save these people, to tell the world about them in his radio show. Your donations will help us to suppress all this so-called evidence for good.    
-0x010FC970=
+0x010FC970=尽管证据对James十分不利，但是实际情况并非如此。这就像是宗教，科学依据与事实不符。虽然有很多巴厘岛居民主动提供证词，但我们解救James网高度怀疑这帮原始人给出证词的有效性，同时强烈质疑当地警方是否采取了胁迫。James是去拯救这些人的，是要在电台节目里将他们介绍给全世界的。你的捐款能够帮助我们彻底毁灭这些所谓的证据。
 
 ;0x1B142342=James Pedeaston has roamed the globe for years, reporting for his show "The Wild Traveler," which at the height of its popularity was syndicated on over 10 radio stations, before they were all fined by the overzealous FCC over what has become known as 'The Avrindar Incident'.
-0x1B142342=
+0x1B142342=James Pedeaston常年周游世界，为他的节目《旷野旅行者》取材。巅峰时期，这一节目曾在超过十家电台播出，之后这些电台则因「Avrindar事件」遭到多管闲事的联邦通信委员会处罚。
 
 ;0xA72CA5E0=CLICK HERE FOR FURTHER DETAILS
-0xA72CA5E0=
+0xA72CA5E0=点击查看事件细节
 
 ;0xD7BD194C=Until his ill-fated run-in with the Bali police, tens of avid listeners used to tune into Pedeaston's regular travelogue to hear stories of his intrepid adventures and exotic encounters in far-flung corners of the world. James Pedeaston was convicted without trial and has been rotting in a Bali prison for the last 5 years.  
-0xD7BD194C=
+0xD7BD194C=在他惨遭巴厘岛警方冤枉之前，当地有着他的数十名忠实听众，常常收听他在世界各地的勇敢冒险和异国邂逅。James Pedeaston未经审判即被定罪，已经在巴厘岛的监狱里度过了五年时光。
 
 ;0xA9C64A2C=But there is still hope and YOU CAN HELP!
-0xA9C64A2C=
+0xA9C64A2C=但是希望仍在，你的援助非常重要！
 

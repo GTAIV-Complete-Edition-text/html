@@ -74,7 +74,7 @@
 0x4D26E160=年龄：6岁
 
 ;0xE307E1B5=Man's best friend with benefits!  These Golden Retriever twins are no dumb blondes.  They are dying to be your bitches.  This affectionate pair love toys and will do anything for a juicy bone.
-0xE307E1B5=人类最好的炮友！这对金毛双胞胎可不是什么金发傻妞。她们都想成为你的母狗。她们喜欢玩具，愿意为得到多汁的骨头做任何事！
+0xE307E1B5=人类最好的炮友！这对金毛双胞胎可不是什么金发傻妞。她们都想成为你的母狗。她们喜欢玩具，为了得到多汁的骨头，这对金毛双胞胎愿意做任何事！
 
 ;0x61F09354=Name: Lulu
 0x61F09354=名字：Lulu
@@ -89,7 +89,7 @@
 0x5C26F8FD=年龄：9岁
 
 ;0x28A8D03F=Lulu grew up on a farm in Montana.  Her previous owner was very sad to see her go but cited 'irreconcilable differences'.  They had grown apart in recent years.  A bit of a deviant.  Gets down and dirty with the best of them.  Shaved.
-0x28A8D03F=Lulu在蒙大拿州的农场里长大。她的前一任主任也不想和她分离，但他俩之间存在「不可调和的分歧」。近年来他们的隔阂也越来越大。行为不太正常。和她一起随心所欲为所欲为吧。已脱毛。
+0x28A8D03F=Lulu在蒙大拿州的农场里长大。她的前一任主人也不想和她分离，但他俩之间存在「不可调和的分歧」。近年来他们的隔阂也越来越大。行为不太正常。和她一起随心所欲为所欲为吧。已脱毛。
 
 ;0x0D59AAC6=Name: Chantelle
 0x0D59AAC6=名字：Chantelle

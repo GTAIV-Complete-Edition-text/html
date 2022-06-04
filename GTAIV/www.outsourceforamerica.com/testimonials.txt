@@ -32,7 +32,7 @@
 0x1B4F1F43=你好，利润。再见，性骚扰诉讼。
 
 ;0x8C58AFF5="Listen. I'm tired of liberals complaining about this stuff. Capitalism means I make a lot of money and I don't care who gets kicked to the curb in the meantime. Outsource For America did a fantastic job helping us to move our operations overseas. We were very keen to be able to mirror our domestic business as closely as possible including having an ass-slapping misogynist Director, a sexually confused Line Manager that would talk to girls' tits and stick his hand up the Receptionist's skirt at the Christmas party and appalling morale for everyone. They found foreign workers who will do this for a fraction of the cost of our smarmy U.S. sales director. A promising start!"       
-0x8C58AFF5=「听着，我已经不想听自由派抱怨这种事情了。资本主义就是说要赚很多钱，我才不在乎有谁丢了工作。外包美国劳动让我们得以将业务转移到海外，帮了我们大忙。当时我们很想在国外复制一个于国内尽可能相似的生产环境。需要一个厌女的主人和一个很麻烦的直线经理。后者会盯着姑娘的胸部说话，在圣诞派对上把手伸到接待员裙底，吓出所有人的士气。他们在国外找到了符合条件的工人，工资还只有我们爱拍马屁的美国销售主任的零头。这是一个充满希望的开头！」
+0x8C58AFF5=「听着，我已经不想听自由派抱怨这种事情了。资本主义就是说要赚很多钱，我才不在乎有谁丢了工作。外包美国劳动让我们得以将业务转移到海外，帮了我们大忙。当时我们很想在国外复制一个与国内尽可能相似的生产环境。需要一个厌女的主人和一个很麻烦的直线经理。后者会盯着姑娘的胸部说话，在圣诞派对上把手伸到接待员裙底，吓出所有人的士气。他们在国外找到了符合条件的工人，工资还只有我们爱拍马屁的美国销售主任的零头。这是一个充满希望的开头！」
 
 ;0xCBA97790=- Steve, San Fierro         
 0xCBA97790=－Steve，圣辉洛

@@ -1,23 +1,23 @@
 ﻿;0xCF2C99EE=Please sign and mail the following letter to the President of Indonesia. The more petitions, the better!
-0xCF2C99EE=
+0xCF2C99EE=请在签字后将这封信寄给印尼总统。请愿的人越多越好！
 
 ;0x8D2CB036=To the President of Indonesia,
-0x8D2CB036=
+0x8D2CB036=致印度尼西亚总统，
 
 ;0xA95941FA=We, the undersigned, are deeply concerned for the well-being of James Pedeaston who was wrongfully imprisoned without trial in October 2003. One of the most respected figures in world media, James is a human rights pioneer who has dedicated his life to showing androgynous pre-teen youths in poverty-stricken corners of the globe that there is an alternative to the cycle of oppression and poverty.
-0xA95941FA=
+0xA95941FA=我，签名人，深切关注James Pedeaston这位好人的遭遇，他在2003年10月含冤入狱，甚至未经审判。身为全世界媒体行业中最令人尊敬的人物之一，James是维护人权的先驱。他将自己的一生奉献给了这一事业，向全球贫困地区的未成年儿童展示了出路，让这些雌雄莫辨的小家伙们意识到在贫困和压迫的循环以外还有其他出路。
 
 ;0x7999CBA3=James is currently detained in horrendous conditions in a Bali jail for a crime that he did not commit on purpose this time. If you have never snuggled up with a smooth-buttocked young boy on a lonely winter's night then you have evidently never been to a boarding school. Is it so wrong to want to loosen up with a soapy massage after a hard day pounding the bush? We believe that there has been a heinous miscarriage of justice in the Pedeaston case. Americans are father figures - strong men like to come to Indonesia and take care of boys and girls as if they were their own.
-0x7999CBA3=
+0x7999CBA3=目前James被关在巴厘岛的监狱当中，环境极其恶劣。关押他的罪名更是不妥，只是无心之失。不知道你是否曾在寂寞的冬夜倚在一个屁股柔软的小伙子身上，没有的话说明你从未去过寄宿学校。辛苦忙活了一整天，做一个滑腻腻的肥皂按摩放松有什么错吗？我们相信，正义在Pedeaston一案中严重缺位。美国人都有老父亲般的性格，强壮的男人也喜欢拜访印尼，把当地的男孩女孩当成自己的孩子。
 
 ;0xAFB910CB=We appeal to the Indonesian government to drop the charges against James Pedeaston and to release him without delay.
-0xAFB910CB=
+0xAFB910CB=在此，我们呼吁印尼政府撤销对James Pedeaston的指控，立刻将其释放。
 
 ;0x3C4FB8EC=We do not want to bribe the wrong official. Please at least point us in the right direction.
-0x3C4FB8EC=
+0x3C4FB8EC=我们不想贿赂错人，至少给我们指点个门路吧。
 
 ;0x43B83EB9=Sincerely,
-0x43B83EB9=
+0x43B83EB9=诚挚的，
 
 ;0xA06E7F63=...................................       
 0xA06E7F63=

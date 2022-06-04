@@ -17,7 +17,7 @@
 0x19B6F913=我们的目标是展厅中每英里都有一位员工，但能否实现主要取决于美元与瑞典克朗之间的汇率。给我们的员工塞$50，他就会告诉你通往出口食品屋的秘密通道。有时候，我们会特地布置两个相同的展厅，扰乱你的方向感，给你一种自己在绕圈圈的错觉，像是被困在了光鲜亮丽的柜子循环当中。我们就开个玩笑。有时开玩笑可以减轻忧郁，有时开玩笑也会让情况更糟。我们北欧人渴求阳光，正因如此，我们的幽默感比店里出售的折叠椅还要扭曲。每隔几周，我们都会找几百个流浪小孩，让他们在店里肆意奔跑。
 
 ;0x94D3E04E=All our products have a huge label with 10 different, meaningless codes. One of these is the product code. Pick one, write it down and hope for the best. If you manage to crack our code, we will give you a free table made of real wood. Each item in a furniture range has a slightly different shade of wood stain. We brainwash you with clever advertising into obsessing about color coordination in the home and then torment you by offering things that ALMOST match. Ingenious. .       
-0x94D3E04E=我们的所有产品上都有一个巨大的标签，标签上印有10个没有意义的不同编号。其中只有一个是产品编号。挑一个编号记下来，开始祈祷能拿到正确的货吧。如果有人成功破译了编号，我们会送他一张免费的实木桌子。家具区域内的产品所使用的染料存在些许不同。我们会用精心设计的广告向你灌输一个观点，家里的色彩协调非常重要，之后再出售颜色「几乎」相同的家具，让你陷入烦恼。太聪明了。
+0x94D3E04E=我们的所有产品上都有一个巨大的标签，标签上印有10个没有意义的不同编号。其中只有一个是产品编号。挑一个编号记下来，祈祷自己能拿到正确的货吧。如果有人成功破译了编号，我们会送他一张免费的实木桌子。家具区域内的产品所使用的染料存在些许不同。我们会用精心设计的广告向你灌输一个观点，家里的色彩协调非常重要，之后再出售颜色「几乎」相同的家具，让你陷入烦恼。太聪明了。
 
 ;0xC921FEF6=RESTAURANT
 0xC921FEF6=餐厅
