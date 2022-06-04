@@ -1,60 +1,54 @@
-﻿;0x520CD564=Everybody in your office should take this course but, let's be honest, sensitivity training is aimed primarily at white, heterosexual males who must be made to pay
-0x520CD564=
-
-;0xE7805839=for the sins of their ancestors.
-0xE7805839=
-
-;0x9F95A892=Larry, your 54-year-old boss, has a habit of massaging your neck while he's
+﻿;0x9F95A892=Larry, your 54-year-old boss, has a habit of massaging your neck while he's
 0x9F95A892=Larry是你54岁的老板，他有个习惯，和你说话的时候
 
 ;0xAE6993E9=talking to you.  You know that you're up for promotion soon. 
-0xAE6993E9=按你的脖子。你知道你不久就会晋升了。
+0xAE6993E9=会按你的脖子。你知道自己马上就要晋升了。
 
 ;0x77673CB5=Should you...
 0x77673CB5=你应该...
 
 ;0x3D4B6ED5=A)...notify HR immediately demanding that punitive action be taken?
-0x3D4B6ED5=A)...立即通知人事部，要求采取惩罚行动？
+0x3D4B6ED5=A)...立即通知人事部，要求对他采取惩罚？
 
 ;0x17881C4F=ANSWER - Enjoy the breadlines, bitch.
-0x17881C4F=答案是--好好享受你的施舍吧，贱人。
+0x17881C4F=解析：排队领救济粮去吧，贱人。
 
 ;0x706C8FED=Hit the bricks.
 0x706C8FED=滚吧。
 
 ;0xC86CF173=B)...say, "If you don't take your filthy hands off right now, I'll sue you so hard
-0xC86CF173=B)...说：“如果你现在不把你肮脏的手拿开，我会狠狠地起诉你，
+0xC86CF173=B)...说：「把你的脏手拿开，不然我狠狠告你，
 
 ;0x37BE093D=your grandkids will owe me money."?
-0x37BE093D=你的孙子孙女都会欠我的钱。“？
+0x37BE093D=你的孙子孙女都会欠我的钱」？
 
 ;0x833CCE1A=ANSWER - That's it - strap on a pair!
-0x833CCE1A=答案是--就是这样，鼓起勇气！
+0x833CCE1A=解析：就是这样，鼓起勇气！
 
 ;0xAE6A8624=Show the office that you're not to be messed with.  You're there to do a job, not to be boner bait for some old perv who jerks off in his car and hasn't had sex with his wife for 20 years. Now start to blackmail him for money.
-0xAE6A8624=向同事表明你不是好惹的。你来这，是为了工作，而不是成为一些老色逼的诱饵，他在车里打飞机，20年来没有和妻子发生性关系。
+0xAE6A8624=让同事知道你不是好惹的。你是来上班的，不是来满足哪个老变态的性欲的。他在车里打飞机，足足20年没有和妻子发生过性关系。现在轮到你勒索他了。
 
 ;0x1E48D726=Employers are terrified of sexual harassment lawsuits these days - we live in an age where people can be thrown into jail for complimenting a co-worker's shoes.  Just remember that too much love is sometimes better than no love at all and, when he turns his affections to somebody else, you might miss it.
-0x1E48D726=如今，雇主对性骚扰诉讼感到恐惧-我们生活在一个人们可能因称赞同事的鞋子而进局子的时代。要记住，太多的爱有时总比没有爱更好，当他把自己的感情转向别人时，你可能会错过它。
+0x1E48D726=现在的雇主都害怕性骚扰诉讼，我们生活在一个可能因为称赞同事的鞋子进局子的时代。记住，人见人爱总比无人问津好。等他把感情投到了别人身上，你说不定还会怀恋一下。
 
 ;0x2C1A20EA=C)...close your eyes and take one for the team?
 0x2C1A20EA=C)...闭上眼睛，独自承受？
 
 ;0x9FE04E8D=ANSWER - Yes, his behavior is inappropriate.
-0x9FE04E8D=答案是--是的，他的行为是不恰当的。
+0x9FE04E8D=解析：是的，他的行为是不恰当的。
 
 ;0x6D14DD9F=Yes, you shouldn't have to put up with some old letch with his hands all over you. But you really bring it upon yourself.  You poke those big tits out like they're on a scouting expedition ahead of you.Do what you have to do to climb the ladder.  Do you think President Lawton got where he is today without spending a lot of time on his knees?
-0x6D14DD9F=是的，你不应该忍受一些老色狼的手在在你身上乱摸。但你真的把它引到了自己身上。你把那些大奶子戳出来，就像它们在你面前侦察探险一样。做你必须做的事来晋升。你认为Lawton总统在没有很长时间低三下四的情况下就有今天的成就吗？
+0x6D14DD9F=是的，你没必要忍受老色狼，被他在身上乱摸。但这是你自找的。你把那对大奶露了出来，像是你的先遣队一样。为了晋升就要不择手段。你以为Lawton总统是怎么上去的？不当十几二十年孙子，怎么也轮不到他啊。
 
 ;0xAFE9CB05=How far you progress along the career path depends largely on how far you're prepared to prostitute yourself morally, spiritually and, when it gets around to bonus season, physically.  If you don't do it, somebody else will.
-0xAFE9CB05=你在职业道路上的进步，很大程度上取决于你准备在道德上、精神上以及当它接近奖金季时，在道德上滥用的程度。如果你不这样做，其他人会。
+0xAFE9CB05=你职业道路上的进步，很大程度上取决于你在道德、精神上能够接受的下限，评年终奖的时候还得看肉体上的接受程度。就算你不出手，别人也会出手。
 
 ;0x8EF52EE7=D)...tell him how good it feels and ask if he can go a little lower?
 0x8EF52EE7=D)...告诉他感觉有多好，问他能不能再往下一点？
 
 ;0xF8FEAAFC=ANSWER - Yeah, loosen up.  Give the guy a little flesh.
-0xF8FEAAFC=答案是--是的，放松一下。 给这家伙一点甜头。
+0xF8FEAAFC=解析：是的，不要拘束。给这家伙点甜头。
 
 ;0x3CD4951D=It's only a few minutes out of your day and, let's face it, you won't be thinking about four inches of flaccid tumescence pressing into your back when that fat bonus check lands on your desk.  Your colleagues will hate you but, really, fuck them.  If you play your cards right, they'll all be working for you soon anyway.
-0x3CD4951D=这只是你一天中的几分钟，面对他吧，当重磅的奖金支票落在你的桌子上时，你不会想到有四英寸的松弛肿胀压在你的背部。你的同事会恨你，但真的，去他们妈的。如果你打了一手好牌，他们很快就会为你工作了。
+0x3CD4951D=这只是你一天中的几分钟而已。说句实话，只要见到自己桌上丰厚的奖金支票，你就不会在乎压在身后的那根10公分软棒。同事可能会恨你，但真的，让他们滚蛋吧。只要操作到位，很快他们就是你手下的打工仔了。
 

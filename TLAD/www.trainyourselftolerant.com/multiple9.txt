@@ -1,18 +1,12 @@
 ﻿;0x8AE6D7FA=You end up getting wasted at the Christmas party (sorry, Holiday party) and having rough, animalistic sex with one of your co-workers in the parking lot.
-0x8AE6D7FA=
-
-;0x8F78BDDB=When you arrive at the office the next morning, do you...
-0x8F78BDDB=
-
-;0xB5947C0B=A)...have a conversation to clear the air and make sure that you're both on the same page?
-0xB5947C0B=
+0x8AE6D7FA=你在圣诞派对 (抱歉，有人不过圣诞，还是节日派对吧) 上喝了个烂醉，然后在停车场和一位同事发生了粗暴的性行为。
 
 ;0x151FE5A7=B)...never say another word to them again but make lewd comments about penis size/vagina tightness behind their back?
-0x151FE5A7=
+0x151FE5A7=B)...再也不跟对方说话，但在背后露骨地评价对方的阴茎大小/阴道紧致程度？
 
 ;0xF7272310=C)...put all your efforts into getting them fired?
-0xF7272310=
+0xF7272310=C)...全力以赴，想方设法让对方被炒？
 
 ;0xBDBCF273=D)...immediately email them a photo of your junk under the heading,"Ding, ding.  Ready for round 2?"
-0xBDBCF273=
+0xBDBCF273=D)...立即打开邮箱，给对方发自己的生殖器照片，标题填「叮，叮。准备好大战第二回合了吗」？
 

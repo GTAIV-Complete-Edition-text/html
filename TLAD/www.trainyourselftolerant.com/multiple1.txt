@@ -1,24 +1,15 @@
 ﻿;0xA9FB1518=Everybody in your office should take this course but, let's be honest, sensitivity training is aimed primarily at white, heterosexual males who must be made to pay for the sins of their ancestors.
-0xA9FB1518=
-
-;0x31C36973=A co-worker emails you a video clip of a woman having sex with a donkey.
-0x31C36973=
-
-;0x1ECF38FB=Do you...
-0x1ECF38FB=
-
-;0xAC1B8DAD=A)...notify HR immediately, demanding that punitive action be taken?
-0xAC1B8DAD=
+0xA9FB1518=在你办公室里的每一个人都应该学习这门课程。但是，说实话，敏感性训练主要针对性取向正常的白人男性，他们必须为祖先的罪孽付出代价。
 
 ;0xFBC04CFE=B)...save it to a folder on your hard drive, delete the email and then send a mock-indignant reply to cover your back?
-0xFBC04CFE=
+0xFBC04CFE=B)...把视频保存到硬盘上的某个文件夹，删除电子邮件，然后回复一个愤怒又不屑的表情保护自己？
 
 ;0xAD2A1983=C)...forward to your whole department with the subject heading, "Nice Ass"?
-0xAD2A1983=
+0xAD2A1983=C)...转发给整个部门，标题填「肥美的屁股」？
 
 ;0x6135D6CC=D)...go straight to the restroom and masturbate furiously while the image is still fresh in your mind?
-0x6135D6CC=
+0x6135D6CC=D)...直奔厕所，趁着还记得画面拼命撸管？
 
 ;0x25892513=CLICK FOR ANSWERS
-0x25892513=
+0x25892513=点击查看解析
 

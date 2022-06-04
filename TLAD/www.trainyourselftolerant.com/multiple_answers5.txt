@@ -1,54 +1,48 @@
-﻿;0xA9FB1518=Everybody in your office should take this course but, let's be honest, sensitivity training is aimed primarily at white, heterosexual males who must be made to pay for the sins of their ancestors.
-0xA9FB1518=
-
-;0x51A68F9E=As you leave work, you spot Debbie, your attractive female co-worker, making out with another woman outside.
-0x51A68F9E=当你下班时，你发现Debbie，对你有吸引力的女同事，在外面和另一个女人约会。
-
-;0x1ECF38FB=Do you...
-0x1ECF38FB=
+﻿;0x51A68F9E=As you leave work, you spot Debbie, your attractive female co-worker, making out with another woman outside.
+0x51A68F9E=下班时，你发现魅力四射的女同事Debbie在外面和一个女人亲热。
 
 ;0x9400D71C=A)...walk straight up to them and ask if they "want some meat in that sandwich?"
-0x9400D71C=A)...径直走到她们面前，问他们是否“介意再多个人？”
+0x9400D71C=A)...径直走到她们面前，问她们「是否介意再多个人」？
 
 ;0x8E508683=ANSWER -Are you serious?!
-0x8E508683=答案是--你是认真的吗？！
+0x8E508683=解析：你是认真的吗？！
 
 ;0x6F8BD3DC=You've been watching way too much porn, my friend.  Assuming that all lesbians are longing for a piece of pork is a surefire way to get your balls twisted
-0x6F8BD3DC=你已经看了很多黄片了，我的朋友。假设所有女同性恋者都渴望一根大屌，握着你的蛋，给你戴套。
+0x6F8BD3DC=你黄片看多了吧，我的朋友。别以为所有女同性恋都渴望大屌，你的鸡巴会被她们折成动物气球的。
 
 ;0xB691B9C2=into a balloon animal.  They aren't women who "haven't found the right guy yet" and you're not going to be able to "fuck them straight." They can strap on more than you can ever offer.
-0xB691B9C2=她们不是“还没有找到合适的男人”的女人，你也无法“直接操她们”。她们可以带来比你所能提供的更多的东西。
+0xB691B9C2=她们不是「还没有找到合适的男人」的女人，你也不能「直接操她们」。绑上假鸡巴的她们插起来比你还猛。
 
 ;0x262B0D8B=That being said, it doesn't hurt to ask - you might win the lottery.
-0x262B0D8B=俗话说的好，问并没有什么坏处 - 你可能会得到意料之外的结果。
+0x262B0D8B=话虽如此，问一问也没有什么坏处。说不定就人生圆满了。
 
 ;0xBAA79C7A=B)...hang around Debbie's desk and talk loudly about how you've always fantasized about a threesome?
-0xBAA79C7A=B)...在Debbie的桌子前闲晃，大声谈论你一直想着3p吗？
+0xBAA79C7A=B)...在Debbie的桌子前闲晃，大声谈论自己一直想着3P？
 
 ;0x3ABBC252=ANSWER - You're close.  But go for the pity first.
-0x3ABBC252=答案是--你很接近。 但首先要引起她们怜悯
+0x3ABBC252=解析：很有希望成功。但要先引起她们的同情。
 
 ;0xC43EAF31=Make sure you also mention that you're dying of cancer and want to leave
-0xC43EAF31=确保你还提到你快要死于癌症，
+0xC43EAF31=务必提到自己得了癌症，活不久了，
 
 ;0x1FE9A6F3=your inheritance to someone who makes your last weeks special.
-0x1FE9A6F3=并希望把你的遗产留给一个让你的最后几周体验很特别的人。
+0x1FE9A6F3=想把遗产留给让你人生的最后几周变得特别的人。
 
 ;0x8A96C81C=C)...send an email to all your co-workers announcing that
-0x8A96C81C=C)...给你所有的同事发一封电子邮件，
+0x8A96C81C=C)...给所有同事群发电子邮件，
 
 ;0xA8F2CE57=Debbie is a 'carpet muncher'?
-0xA8F2CE57=宣布Debbie是一个“给别的女的口交的女同”？
+0xA8F2CE57=宣布Debbie是「舔逼女同」？
 
 ;0xA967DFC9=ANSWER - Yeah, funny.  In the 1980's, maybe.
-0xA967DFC9=答案是--是的，很有趣。 也许是在1980年代。
+0xA967DFC9=解析：啊，很有趣。你还是回上世纪80年代吧。
 
 ;0x1937FD98=Where have you been for the last 20 years?  Sudan?  Do you really think that anyone cares?!  In fact, everybody else in the office almost certainly lready knows.  Debbie just chose not to open up about her personal life to you - a guy with the emotional maturity of a chimpanzee.
-0x1937FD98=过去的20年里，你去过哪里？苏丹？你真的认为有人在乎吗？！事实上，办公室里的其他人几乎“一”经知道了。
+0x1937FD98=你最近20年在哪？苏丹吗？真以为有人在乎她的性取向吗？！事实上，办公室里的其他人早就知道得差不多了。
 
 ;0x40C65781=D)...report her to HR for inappropriate behavior in the vicinity of the workplace?
-0x40C65781=D)...向人力资源部门举报她在工作场所附近的不当行为？
+0x40C65781=D)...向HR举报她在工作场所附近的不当行为？
 
 ;0x0F7FBC98=ANSWER - Do this ONLY if she doesn't agree to the threesome
-0x0F7FBC98=答案是--只有，当她不同意3p的时候才这样做。
+0x0F7FBC98=解析：除非她不同意3P，否则别这么做
 

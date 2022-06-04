@@ -1,57 +1,54 @@
 ﻿;0xA9FB1518=Everybody in your office should take this course but, let's be honest, sensitivity training is aimed primarily at white, heterosexual males who must be made to pay for the sins of their ancestors.
-0xA9FB1518=在你办公室里的每个人都应该参加这门课程，但是，说实话，敏感性训练主要针对白人，性取向正常的男性，他们必须为祖先的罪孽付出代价。
+0xA9FB1518=在你办公室里的每一个人都应该学习这门课程。但是，说实话，敏感性训练主要针对性取向正常的白人男性，他们必须为祖先的罪孽付出代价。
 
 ;0x9BD3D9DC=You are gay.  Kelly, the new 23-year-old Marketing trainee, has started dressing
-0x9BD3D9DC=你是同性恋。 Kelly-是23岁的营销实习生，已经开始上班穿着迷你裙，
+0x9BD3D9DC=你是男同性恋。Kelly是23岁的市场部实习生，
 
 ;0x2AC39F90=for work in miniskirts, knee boots and tight halter tops with plunging necklines.
-0x2AC39F90=膝盖靴和紧身挂脖上衣，领口很深。
-
-;0x1ECF38FB=Do you...
-0x1ECF38FB=
+0x2AC39F90=上班时穿的是迷你裙、膝盖靴和紧身吊带衣，领口很低。
 
 ;0x8B0D06F1=A)...be nice to her face but call her a whore behind her back (women under 30)?
-0x8B0D06F1=A)...当面对她很好，但背后叫她妓女（30岁以下的女人）？
+0x8B0D06F1=A)...当面对她很好，但在背后叫她妓女？(30岁以下的女性限定)
 
 ;0x79E7B8E0=ANSWER -      Isn't that what office politics are all about?
-0x79E7B8E0=答案是--这不就是办公室政治的全部的意义吗？
+0x79E7B8E0=解析：这不就是办公室政治吗？
 
 ;0xE6AE6231=Pretending to be civil to people you would normally go out of your way to avoid and then gossiping about them when they're not around and trying to get them fired.  And women are the WORST.
-0xE6AE6231=假装对待那些你极力避开的人是礼貌的，然后在他们不在身边时，八卦他们，并试图让他们被解雇。
+0xE6AE6231=对于自己敬而远之的人，当面以礼相待，背地里八卦他们，想方设法让他们被炒。女人更是如此。
 
 ;0xB6CD71B5="Wow, that dress really suits you," one minute and "I heard she's had more pricks in her than a second-hand dartboard" the next.
-0xB6CD71B5=前一分钟还在说，“哇，那件衣服真的适合你”，后一分钟就在说，“我听说她身上的刺比二手飞镖板上的洞还多”。
+0xB6CD71B5=前一分钟还在说，「哇，这件衣服真的适合你」，后一分钟就在说，「听说插过她的肉棒比二手飞镖板上的洞还多」。
 
 ;0x1EE10020=The workplace is just a continuation of the schoolyard: cliques, bullies and snitches. Never make the mistake of thinking that anybody is your friend.
-0x1EE10020=工作场所，只是校园的延续：集团，霸凌和打小报告的人。永远想当然地认为，任何人都是你的朋友。
+0x1EE10020=职场不过是校园的延续：山头林立，恶霸横行，打小报告。永远不要想当然地认为所有人都是你的朋友。
 
 ;0xACE1EB87=B)...take her aside and explain that her choice of dress is
-0xACE1EB87=B)...把她喊到一边，跟她解释她选择的着装不适合工作场所，
+0xACE1EB87=B)...把她喊到一边，解释说她的着装不适合职场，
 
 ;0x77648B40=inappropriate for the workplace, and that her style is shit?
-0x77648B40=她的穿衣风格是一坨屎？
+0x77648B40=批评她衣品很差？
 
 ;0xF80E587B=ANSWER - Exactly, and feel comfortable knowing that she may have great tits, but in the end, gravity always wins.
-0xF80E587B=答案是--没错，并且感觉到她可能有很棒的奶子，但最后，赢的总是重力。
+0xF80E587B=解析：没错，她胸大又怎么样呢，到头来还是打不过重力。
 
 ;0x1203989D=C)...press up against her in the photocopying room and say,
-0x1203989D=C)...在复印室里压在她身上，说
+0x1203989D=C)...在复印室里压在她身上，说：
 
 ;0x1E42DC70="You dirty little minx - I'd eat a mile of your shit just for a glimpse of where it came from? (men under 30 only)"
-0x1E42DC70=“你这个好骚的小狐狸——我吃掉你的屎，只是为了一瞥它来自哪里？（仅限30岁以下的男性）”
+0x1E42DC70=「你这个小骚货。为了一睹芳容，我愿意吃你的屎」？(30岁以下的男性限定)
 
 ;0x837CD58E=ANSWER - Whoa there.  Talk like that only arouses Germans.
-0x837CD58E=答案是--哇。 这样说话只会激起德国人的注意。
+0x837CD58E=解析：哇塞。说这种话只有德国人爱听。
 
 ;0x54F53122=Where did you learn the fine art of seduction?  Porn or prison? You'll be on a sex offender registry within five years.
-0x54F53122=你从哪里学来的搭讪艺术？黄片还是监狱？你将在五年内进入性犯罪者登记册。
+0x54F53122=谁教你这么跟别人搭讪的？黄片还是监狱？五年之内你就会成为登记在册的性犯罪者了。
 
 ;0xA055A75B=D)...call her into your office, pull down the blinds and askhow committed she is to furthering her career?
-0xA055A75B=D)...把她叫到你的办公室，拉下百叶窗，问问她对进一步发展事业的愿景是什么？
+0xA055A75B=D)...把她叫到你的办公室，拉下百叶窗，问她对自己的职业生涯是什么态度？
 
 ;0x9075CE59=ANSWER - Worth a try, right?
-0x9075CE59=答案是--值得一试，对吧？
+0x9075CE59=解析：值得一试，对吧？
 
 ;0xB4134FBD=When she says "but I thought you were gay," show her the strap on you bought and make her pretend she's Joe from Accounting while you get a good rogering.
-0xB4134FBD=当她说“但我认为你是同性恋”时，给她看你买的带子，当你享受做爱时，让她假装她是会计的Joe。
+0xB4134FBD=等她说「你不是男同吗」的时候，掏出你新买的皮带，让她假扮财务部的Joe，自己则享受性爱快感。
 

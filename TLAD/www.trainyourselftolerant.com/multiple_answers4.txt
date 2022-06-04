@@ -1,51 +1,45 @@
-﻿;0xA9FB1518=Everybody in your office should take this course but, let's be honest, sensitivity training is aimed primarily at white, heterosexual males who must be made to pay for the sins of their ancestors.
-0xA9FB1518=
-
-;0xEB14D10E=Simon is great at his job and fun to be around but he smells like dog shit.
-0xEB14D10E=西蒙在他的工作中很棒，很有趣，但他闻起来像狗屎一样臭。
+﻿;0xEB14D10E=Simon is great at his job and fun to be around but he smells like dog shit.
+0xEB14D10E=Simon工作做得很棒，人也很风趣，但他的味道臭不可闻。
 
 ;0x7536CB72=His armpits are rank, fetid caves reeking of decaying corpses.
-0x7536CB72=他的腋窝散发着恶心，臭气熏天的洞穴里腐烂尸体的气味。
-
-;0x1ECF38FB=Do you...
-0x1ECF38FB=
+0x7536CB72=腋下臭气熏天，堪比恶心洞穴里的腐烂尸体。
 
 ;0x5A557E02=A)...send out a general email to all staff about the importance of personal hygiene and hopes he picks up on the hint?
-0x5A557E02=A)...向所有员工发送一封关于个人卫生重要性的普通电子邮件，并希望他能get到暗示？
+0x5A557E02=A)...向所有员工群发邮件，强调个人卫生的重要性，寄希望于他能读懂暗示？
 
 ;0x1E22FE45=ANSWER -      People, especially girls, have no idea that they smell. Only when a date's face screws up and his eyes are watering does she get the hint that it's stinkville in tunatown.  The same goes for guys with BO.  When possible, email the offender and cc the whole office.
-0x1E22FE45=答案是--人们，尤其是女孩，不知道自己的味道。只有当约会对象的脸搞砸了，他的眼睛在流泪时，她才会懂这暗示，这是逼里的臭味。
+0x1E22FE45=解析：人们，尤其是女孩，都不知道自己的味道。只有当约会对象的神情变得扭曲，双眼开始流泪时，她才会读懂暗示，发现这是逼里的臭味。有狐臭的人也是如此。可能的话，给这个臭家伙写封邮件，全办公室抄送。
 
 ;0x0247D490=B)...ask to speak to him in private so that you can discuss the effects his body odor is having on the rest of the office?
-0x0247D490=B)...要求私下与他交谈，以便你可以讨论他的体味对办公室其他部分的影响？
+0x0247D490=B)...要求与他私下交谈，谈谈他的体味对办公室其他人的影响？
 
 ;0x6E6943B8=ANSWER - This is the mature, logical and kind approach to tackling a sensitive issue like this. But do you seriously want to have this conversation?  Can't you delegate? That's what a manager does.  Plus, it will take forever to get that stench out of your carpet.
-0x6E6943B8=答案是--这是解决此类敏感问题的成熟，合乎逻辑，善良的办法。但是你真的想进行这样的对话吗？你不能派个人么？这才是经理该做的。另外，需要很长时间，这种臭味才会从地毯上散完。
+0x6E6943B8=解析：要想解决此类敏感问题，这个办法成熟、善良、合乎逻辑。但你真的想和他谈话吗？就不能指派别人吗？这才是经理该做的。另外，经过很长时间，这种臭味才会从地毯上散完。
 
 ;0xB45D6744=C)...exclaim "holy shit, you stink!" and hold your nose every time you walk by his cubicle?
-0xB45D6744=C)...大喊“天哪，你真鸡巴臭！”，每次你走过他的工作隔间时都捏着鼻子？
+0xB45D6744=C)...每次经过他的工位都捏着鼻子大喊「天哪，你真鸡巴臭！」？
 
 ;0xC994C8EF=ANSWER - Sometimes it takes a little public humiliation to deal with an awkward situation. Turn it into a joke - humor is always a great way to soften the blow.  Wait until he's nearby, then hold your nose and say,
-0xC994C8EF=答案是--有时需要一点公开羞辱来处理尴尬的处境。把它变成一个笑话-幽默总是一个降低怒气值很好的方法。 等到他在附近时，然后捏着你的鼻子说：
+0xC994C8EF=解析：要想处理尴尬的处境，有时是需要一点公开羞辱。用笑话陈述事实，幽默的说法更容易让对方接受。等他经过的时候，捏着你的鼻子说：
 
 ;0xFB1C5682="Damn, did something crawl inside you and die?" 
-0xFB1C5682=“该死的，有东西在你里面爬然后死了吗？”
+0xFB1C5682=「妈的，是有什么东西钻你肚子里死了吗？」
 
 ;0xA522246D=You'll get a laugh, Simon will get the message and you can go home secure in the knowledge that you've made the workplace a better place.  It's win-win for everybody.
-0xA522246D=你会得到一个嬉笑的反馈，Simon会得到暗示，你可以安全地回家，因为你知道你已经把工作场所变成了一个更好的地方。 这对每个人来说都是双赢的。
+0xA522246D=你会收获笑声，Simon会得到暗示。你可以安心回家，办公室也好了起来。所有人都赢了。
 
 ;0x59AD52AB=D)...leave soap, a washcloth and deodorant on his desk with a callous note signed "From the office you stinky fuck. Discover a shower"?
-0x59AD52AB=D)...在他的办公桌上留下肥皂，毛巾和除臭剂，留下一张冷酷无情的纸条，上面写着“从办公室发的，你个臭逼。不知道有淋浴这个东西“？
+0x59AD52AB=D)...在他的办公桌上放一套肥皂、毛巾和除臭剂，留一张冷酷无情的纸条，上面写着「办公室同事赠，你个臭逼。不知道洗澡吗」？
 
 ;0xEC38A04F=ANSWER - There's only so long you can work day in, day out with a person who smells like a dead whore's chuff before you have to resort to drastic action.
-0xEC38A04F=答案是--在你不得不采取强硬的行动之前，你每天就是要工作这么长时间，从开始工作到下班，你都要和一个闻起来像死妓女的人一起工作。
+0xEC38A04F=解析：就算不采取强硬的行动，你的忍耐也是有限度的。不可能每天都跟一个比妓女尸体还臭的人一起工作。
 
 ;0xFBF95737=Keep the message short and succinct; firm but fair.
-0xFBF95737=保持信息简短明了;强硬但合法。
+0xFBF95737=保持信息简单明了，强硬但又合理。
 
 ;0x6D6CE72C=Something like:  "Here are three items you've probably never seen before.
-0x6D6CE72C=比如：“这里有三件你可能从未见过的物品。
+0x6D6CE72C=比如：「这里有三件你可能从未见过的物品。
 
 ;0x2C252040=Learn how to use them.  Nobody wants to taste your stench any more."
-0x2C252040=了解如何使用它们。 没有人想再闻到你的臭味了。”
+0x2C252040=学会使用它们。谁都不想再闻到你的臭味了。」
 

@@ -1,48 +1,45 @@
-﻿;0xA9FB1518=Everybody in your office should take this course but, let's be honest, sensitivity training is aimed primarily at white, heterosexual males who must be made to pay for the sins of their ancestors.
-0xA9FB1518=
-
-;0x3365F2A5=Gary, a co-worker, is dealing weed.  Do you...
-0x3365F2A5=Gary，一位同事，正在吸大麻。你该···
+﻿;0x3365F2A5=Gary, a co-worker, is dealing weed.  Do you...
+0x3365F2A5=你的同事Gary在出售大麻。你会...
 
 ;0x3D4B6ED5=A)...notify HR immediately demanding that punitive action be taken?
-0x3D4B6ED5=A)...立即通知人力资源部门要求采取惩罚性行动？
+0x3D4B6ED5=A)...立即通知人事部，要求对他采取惩罚？
 
 ;0x3F767220=ANSWER - Yeah, rat out a drug dealer.
-0x3F767220=答案是--是的，供出一个毒贩。
+0x3F767220=解析：行吧，告发毒贩子试试吧。
 
 ;0x057FF31E=You're brilliant, aren't you? Please, be our guest.  When Gary blows your brains out in the parking garage after work, your DNA won't be passed on and threaten future generations.
-0x057FF31E=你很聪明，不是吗？随你便。当Gary下班后在停车场把你脑袋崩了，你的DNA不会遗传并威胁到你的后代。
+0x057FF31E=太聪明了吧？建议你先试试。等着下班以后Gary在停车场把你脑袋崩了，这样你的DNA就被消灭了，不会危害后代生存。
 
 ;0x2921C00D=B)...threaten to report him if he doesn't kick you an ounce?
-0x2921C00D=B)...威胁说，如果他不给你一盎司，就举报他？
+0x2921C00D=B)...威胁他说，如果不给你30克，就举报他？
 
 ;0xF4D321B7=ANSWER - Could work, but very tricky.
-0xF4D321B7=答案是--可能会有用，但也非常难办。
+0xF4D321B7=解析：可能管用，但也非常难办。
 
 ;0x5C86418D=And if you're going to go - go big.  Ask for a quarter pound at least.
-0x5C86418D=如果你要这样做 - 多要点。 至少要四分之一磅。
+0x5C86418D=真要威胁的话，多要点。至少得给二两。
 
 ;0x4D6272B6=C)...steal it out of his desk when he's at lunch, knowing he can't report it?
-0x4D6272B6=C)...当他吃午饭时，从他的桌子上偷走，知道他不能举报它被偷了？
+0x4D6272B6=C)...趁他吃午饭的时候，去他的工位偷走大麻，反正他也不会报警？
 
 ;0x83004840=ANSWER - Brilliant idea.
-0x83004840=答案是--绝妙的主意。
+0x83004840=解析：绝妙的主意。
 
 ;0xB764D3C0=That is until he sets up a webcam and then you are in some major shit.
-0xB764D3C0=直到他设置了一个网络摄像头，然后你陷入了泥潭。
+0xB764D3C0=一旦他给电脑装上摄像头，你就有大麻烦了。
 
 ;0x268477B7=Drug dealers don't play.
 0x268477B7=毒贩不跟你开玩笑。
 
 ;0x85726A7E=D)...roll with Gary and some hot coworkers after work, knowing that high chicks always give it up?
-0x85726A7E=D)...下班后和加里和一些热辣的同事一起混，知道吸多的人总是放弃它吗？
+0x85726A7E=D)...知道嗑嗨的小妞好上床，下班以后跟着Gary和性感的同事一起浪？
 
 ;0x72C7FA0B=ANSWER - This is the safe bet.
-0x72C7FA0B=答案是--这是安全的赌注。
+0x72C7FA0B=解析：很稳妥的做法。
 
 ;0xFBDA641E=Drug dealers ALWAYS get laid. It's half the reason they do it - for the attention.
-0xFBDA641E=毒贩总是，会吸多。这是他们这样做的一半原因 - 为了引起注意。
+0xFBDA641E=毒贩总能操到妞。贩毒的原因之一就算为了吸引姑娘的注意。
 
 ;0x661FA92A=That and it pays really well.
-0x661FA92A=这是值得的
+0x661FA92A=这是值得的。
 

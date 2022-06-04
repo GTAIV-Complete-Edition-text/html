@@ -1,12 +1,3 @@
 ﻿;0x891E86F7=Gary, a co-worker, is dealing weed.
-0x891E86F7=
-
-;0x2921C00D=B)...threaten to report him if he doesn't kick you an ounce?
-0x2921C00D=
-
-;0x4D6272B6=C)...steal it out of his desk when he's at lunch, knowing he can't report it?
-0x4D6272B6=
-
-;0x85726A7E=D)...roll with Gary and some hot coworkers after work, knowing that high chicks always give it up?
-0x85726A7E=
+0x891E86F7=你的同事Gary在出售大麻。
 
