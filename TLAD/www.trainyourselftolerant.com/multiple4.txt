@@ -1,27 +1,6 @@
-﻿;0xA9FB1518=Everybody in your office should take this course but, let's be honest, sensitivity training is aimed primarily at white, heterosexual males who must be made to pay for the sins of their ancestors.
-0xA9FB1518=
-
-;0xEB14D10E=Simon is great at his job and fun to be around but he smells like dog shit.
-0xEB14D10E=
-
-;0x7536CB72=His armpits are rank, fetid caves reeking of decaying corpses.
-0x7536CB72=
-
-;0x1ECF38FB=Do you...
-0x1ECF38FB=
-
-;0x5A557E02=A)...send out a general email to all staff about the importance of personal hygiene and hopes he picks up on the hint?
-0x5A557E02=
-
-;0x4E3428F7=B)...accidently slip and spill cheap aftershave on him?
-0x4E3428F7=
-
-;0xB45D6744=C)...exclaim "holy shit, you stink!" and hold your nose every time you walk by his cubicle?
-0xB45D6744=
+﻿;0x4E3428F7=B)...accidently slip and spill cheap aftershave on him?
+0x4E3428F7=B)...要求与他私下交谈，谈谈他的体味对办公室其他人的影响？
 
 ;0x8BA966B7=D)...leave soap, a washcloth and deodorant on his desk with a callous note signed "From the office you stinky fuck.  Discover a shower"?
-0x8BA966B7=
-
-;0x25892513=CLICK FOR ANSWERS
-0x25892513=
+0x8BA966B7=D)...在他的办公桌上放一套肥皂、毛巾和除臭剂，留一张冷酷无情的纸条，上面写着「办公室同事赠，你个臭逼。不知道洗澡吗」？
 

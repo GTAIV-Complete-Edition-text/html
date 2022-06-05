@@ -1,57 +1,57 @@
 ﻿;0x520CD564=Everybody in your office should take this course but, let's be honest, sensitivity training is aimed primarily at white, heterosexual males who must be made to pay
-0x520CD564=
+0x520CD564=在你办公室里的每一个人都应该学习这门课程。但是，说实话，敏感性训练主要针对性取向正常的白人男性，他们必须为
 
 ;0xE7805839=for the sins of their ancestors.
-0xE7805839=
+0xE7805839=祖先的罪孽付出代价。
 
 ;0x31C36973=A co-worker emails you a video clip of a woman having sex with a donkey.
-0x31C36973=
+0x31C36973=同事用电子邮件给你发了一个女人和驴性交的视频。
 
 ;0x1ECF38FB=Do you...
-0x1ECF38FB=
+0x1ECF38FB=你会...
 
 ;0xAC1B8DAD=A)...notify HR immediately, demanding that punitive action be taken?
-0xAC1B8DAD=
+0xAC1B8DAD=A)...立即通知人事部，要求对他采取惩罚？
 
 ;0xB773BCD6=ANSWER - Wow - you're a narc.
-0xB773BCD6=
+0xB773BCD6=解析：哇哦，你这个告密者。
 
 ;0x659AF10A=If you need to report something, take the coward's route and do it anonymously.  Remember: the stench of the rat can never be washed off. Neither can a woman's perfume, so burn your clothes.
-0x659AF10A=
+0x659AF10A=如果你想举报，偷偷摸摸地干，匿名干。记住：告密者的恶臭是洗不掉的。女人的香水味也是如此，事后记得烧掉衣服。
 
 ;0xAE7BAD48=B)...save it to a folder on your hard drive, delete the email and then send a mock- indignant reply to cover your back?
-0xAE7BAD48=
+0xAE7BAD48=B)...把视频保存到硬盘上的某个文件夹，删除电子邮件，然后回复一个愤怒又不屑的表情保护自己？
 
 ;0x49BB3163=ANSWER - Sly.  You'll go far.
-0x49BB3163=
+0x49BB3163=解析：狡猾，你是能成大事的人。
 
 ;0x76097395=The office politics game isn't rocket science.  Unless you work in aerospace engineering, that is.  Even then rocket scientists suck.  Look how many people they've turned into intergalactic hamburger.  Well done guys, well done.  Anyway, it's amazing how many people still haven't grasped the very basic fact that anything they write in an email can come back to haunt them.
-0x76097395=
+0x76097395=办公室政治并没有造火箭那么难，除非你干的就是航天工程，那个确实很难。即便如此，火箭科学家依然罪孽深重，看看他们把多少人变成了星际汉堡肉。干得好啊，伙计们，干得好啊。不过令人惊讶的是，很多人仍然没有意识到非常简单的一点，电子邮件里写的任何东西都可能变成追猎他们罪行的素材。
 
 ;0xCCEB9E67=ISPs, search engines, teenage hackers, the government, YOUR EMPLOYER... somebody, somewhere has an eye on the crap that you blindly pump out into cyberspace every day.  Always make sure that you have a safety net and always slip IT a $100 around Christmas to keep their yaps shut.
-0xCCEB9E67=
+0xCCEB9E67=网络服务提供商，搜索引擎，年轻黑客，政府，你的雇主... 角落里的某人随时都在监视你，盯着你每天不过脑子发到网上的垃圾信息。务必保护好自己的网络安全，圣诞节前后给IT运维塞100块礼金，别让他们说你闲话。
 
 ;0x7F50812F=C)...forward to your whole department with the subject heading,"Nice Ass"?
-0x7F50812F=
+0x7F50812F=C)...转发给整个部门，标题填「肥美的屁股」？
 
 ;0xE7BBAD18=ANSWER - Absolutely.
-0xE7BBAD18=
+0xE7BBAD18=解析：太对了。
 
 ;0xB628BCE8=If everyone has it on their computer, it's not a crime. Every team has at least one self-righteous old hag or ambitious young upstart just waiting for an opportunity to throw you to the lions.  If they object, use photo-retouching software to put their face on a porn star and put the picture up in the kitchen.
-0xB628BCE8=
+0xB628BCE8=只要所有人的电脑上都有这段视频，那就不是犯罪。每个团队都会有那种自以为是的老不死和雄心勃勃的年轻新人，只缺一个把你踩下去的机会。如果他们反对，用修图软件把他们的脸换到女优身上，打印出来贴厨房里。
 
 ;0x0077CB37=D)...go straight to the restroom and masturbate furiously while the image
-0x0077CB37=
+0x0077CB37=D)...直奔厕所，趁着还记得画面
 
 ;0x613CFB3C=is still fresh in your mind?
-0x613CFB3C=
+0x613CFB3C=拼命撸管？
 
 ;0x968E9E5E=ANSWER - Yeah, now you're talking.
-0x968E9E5E=
+0x968E9E5E=解析：耶，正合我意。
 
 ;0x12EFB339=But what is the excitement of going to the bathroom?
-0x12EFB339=
+0x12EFB339=但是去厕所有什么刺激呢？
 
 ;0x0F01E985=Try to rub one out in your cubicle without anyone noticing. That adds a whole new level of naughtiness. And if you are caught, claim that it's workplace stress and file for disability payments.
-0x0F01E985=
+0x0F01E985=在你的工位上偷偷撸管，别被同事发现。这才够皮。一旦被人发现，就说自己职场压力太大，再去申请残疾津贴。
 
