@@ -1,29 +1,29 @@
 ﻿;0xD95DBCC3=Pupil: Mikey Norburg
-0xD95DBCC3=
+0xD95DBCC3=姓名：Mikey Norburg
 
 ;0x5DF6A409=Class of: 1990
-0x5DF6A409=
+0x5DF6A409=届别：1990届
 
 ;0xF32CC969=High School: Rotterdam  Heights High  School
-0xF32CC969=
+0xF32CC969=学校：Rotterdam Heights高中
 
 ;0xE5F8ED95=NICKNAME:
 0xE5F8ED95=
 
 ;0x4441BA7E=Turdhead
-0x4441BA7E=
+0x4441BA7E=傻逼
 
 ;0xB78A2011=BIO:
 0xB78A2011=
 
 ;0x4358CAE7=Hola dudes. Since leaving high school, I have been mostly sleeping with relatives and living in a trailer. I make whatever money I can selling drugs to children. Send me an email if you want a cheap hand-job from my sister.
-0x4358CAE7=
+0x4358CAE7=哈喽伙计们。高中毕业以后，我大多数时候都在睡我亲戚，现在住在拖车里。我什么钱都赚，在向孩子出售毒品。如果想让我妹妹帮你打个便宜的飞机，就给我发个邮件。
 
 ;0xDEF8095A=MESSAGE:
 0xDEF8095A=
 
 ;0x831FF350=Hey, I didn't write this!!!!! I'm living in Los Santos with my wife and three kids! I've had the police at my door twice this week. This is humiliating. When will you stop picking on me? WTF? Leave me alone.
-0x831FF350=
+0x831FF350=喂，这不是我写的！！！我和妻子还有三个孩子住在洛圣都！这周警察已经两次找上门来了。太丢人了。你什么时候才肯放过我？搞什么啊？别来烦我了。
 
 ;0x85CE1F5E=- Michael Norburg.
 0x85CE1F5E=
@@ -32,7 +32,7 @@
 0xDEF8095A=
 
 ;0x1695B7FD=At least we don't pin signs on your back any more! Sniff, sniff...what's that smell? It's TURDHEAD! TURDHEAD! 
-0x1695B7FD=
+0x1695B7FD=至少我们没有在你背上贴纸条了！闻闻... 那是什么味道？是傻逼！傻逼！
 
 ;0xCC0A05F5=- 'Dambuster' Danny 
 0xCC0A05F5=
@@ -41,7 +41,7 @@
 0xDEF8095A=
 
 ;0x313F0704=You're in your 30s, Danny. Get a LIFE!
-0x313F0704=
+0x313F0704=你都30多岁了，Danny。成熟一点！
 
 ;0x5769F5C4=- Michael Norburg
 0x5769F5C4=

@@ -1,29 +1,29 @@
 ﻿;0xBA04A15A=Pupil: Dino Perdente
-0xBA04A15A=
+0xBA04A15A=姓名：Dino Perdente
 
 ;0x5EF6A59C=Class of: 1997
-0x5EF6A59C=
+0x5EF6A59C=届别：1997届
 
 ;0x6DAF141E=High School: Alderney  City Tech
-0x6DAF141E=
+0x6DAF141E=学校：Alderney市技术学院
 
 ;0xE5F8ED95=NICKNAME:
 0xE5F8ED95=
 
 ;0x9D1A9F1B=The Hoseman
-0x9D1A9F1B=
+0x9D1A9F1B=喷水员
 
 ;0xB78A2011=BIO:
 0xB78A2011=
 
 ;0xA689A376=What's up losers???!!!! It's the Hoseman here! MVP 1997!!! You know it - yeah you do!! Working part-time at a gas station and full-time at chasing ass!!! Some things never change! I still live with my Mom in Alderney City and go out drinking with Fishface, Spunky and Bubble every night! SWEET! High school ring as well. I'd like to hear from any of the hot chicks I used to hook up with. Suzie, Marianne, Yolanda, Chu Hua... FIRE, FIRE!! Quick, where's the hose? Right here, baby, right here. Check me out. Fuckin A!
-0xA689A376=
+0xA689A376=屌丝们怎么样啊？？？！！！我是喷水员！1997届的最佳选手！！！你懂的，你肯定懂！！我兼职在加油站打工，全职追妹子！！！有些东西永远不会变！我还是和我妈一起住在Alderney市，每晚都和Fishface，Spunky和Bubble一起出去喝酒！真爽！高中时也是如此。我想收到曾经被我勾搭过的辣妹们的回复，Suzie、Marianne、Yolanda、Chu Hua... 太烧啦，着火啦！！快，消防龙头在哪？在我这，宝贝，就在这儿。来看看我吧。爽爆！
 
 ;0xDEF8095A=MESSAGE:
 0xDEF8095A=
 
 ;0x6660B8AD=Hoseman - you rock!! Last night fucking RULED! 
-0x6660B8AD=
+0x6660B8AD=喷水员，你太屌了！！昨天晚上真爽！
 
 ;0xC18D4A2C=- Spunky
 0xC18D4A2C=
@@ -32,7 +32,7 @@
 0xDEF8095A=
 
 ;0x377981F4=For the record, Dino, you were the worst lay of my life. More like a straw than a hose. 
-0x377981F4=
+0x377981F4=Dino，在此申明，你是我这辈子最烂的炮友。就是根吸管，哪是水管啊。
 
 ;0x6BB0229A=- Yolanda.
 0x6BB0229A=

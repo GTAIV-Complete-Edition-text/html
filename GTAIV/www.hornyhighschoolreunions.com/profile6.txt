@@ -1,11 +1,11 @@
 ﻿;0x8EDBD9CA=Pupil: Mandy Allhand
-0x8EDBD9CA=
+0x8EDBD9CA=姓名：Mandy Allhand
 
 ;0x5FF6A72F=Class of: 1996
-0x5FF6A72F=
+0x5FF6A72F=届别：1996届
 
 ;0x3AF33ED7=High School: Fort Side High School
-0x3AF33ED7=
+0x3AF33ED7=学校：Fort Side高中
 
 ;0xE5F8ED95=NICKNAME:
 0xE5F8ED95=
@@ -17,46 +17,46 @@
 0xB78A2011=
 
 ;0x0B2BA286=Hiya!!! This is a message for anyone who was at Fort Side High School between 1989 and 1996. This is for all the girls who used to call me 24/7 behind my back because I was supposedly 'always open for business' and who voted me 'most likely to take my clothes off for money'. OK, so I had my fair share of boys but I didn't notice any of them complaining! I can't help it if I matured early. If you'd had a killer rack like mine at such an age, you'd have all done the same thing. I just thought you might like to know that I now work for a big PR company in Liberty City and I made VP last year. Not bad for the airhead bimbo! PR is easy. 
-0x0B2BA286=
+0x0B2BA286=哈喽！！这条消息是给1989年到1996年期间就读于Fort Side高中的人的。是写给那些偷偷叫我24/7的姑娘的，你们说我「随时都在接活」，还投票给我「最有可能脱衣服赚钱」。好吧，我确实有很多男生追，他们可没有什么不满的！毕竟我早熟，自己也没办法。你在那个年纪有我这么大的胸，也会做同样的事的。跟你们说个事吧，我现在在自由城的一家大型公关公司工作，去年升了副总。对我这个傻乎乎的小妞来说还算不错！公关挺轻松的。
 
 ;0x8AFE0558=Anyway, I've lost a lot of weight recently and figured that now would be a good time for a class reunion! Who's in?! Mandy x  
-0x8AFE0558=
+0x8AFE0558=总之，我最近瘦了很多，现在应该是同学聚会的好时机！谁想来参加？！Mandy 爱你
 
 ;0x22E98040=BTW... remember that blond cheerleader, Brenda? She served me tacos at Ping the other day! She's ballooned like a puffer fish!! Take it from me, you wouldn't want her at the top of a pyramid!
-0x22E98040=
+0x22E98040=哦对了... 还记得那个金发拉拉队长Brenda吗？那天她在Ping餐厅请我吃玉米饼！她胖得像个河豚了！！相信我，你不会想让她站在金字塔顶端的！
 
 ;0xDEF8095A=MESSAGE:
 0xDEF8095A=
 
 ;0xF955BB73=Hi Mandy! I remember when you used to show me your tits in exchange for my math homework! I'd love to get another look at those puppies??? 
-0xF955BB73=
+0xF955BB73=嗨Mandy！我记得以前你为了抄数学作业给我看了奶子！能再让我瞧一眼那对咪咪吗？？
 
 ;0xA388D3EC=- Darius.
 0xA388D3EC=
 
 ;0x2AFDA114=REPLY FROM MANDY :
-0x2AFDA114=
+0x2AFDA114=MANDY的回复：
 
 ;0x1178A9A2=I'm still way out of your league, Darius.
-0x1178A9A2=
+0x1178A9A2=你还是配不上我，Darius。
 
 ;0xDEF8095A=MESSAGE:
 0xDEF8095A=
 
 ;0x45525E36=Hey Mandy. Remember that party at Debbie's dad's place at the end of our senior year? I know you were drunk. I know you thought I was Danny Kurtz but it was the best sex of my life. In fact, it was the only sex of my life! I'd love to see you again and rekindle the flame! We still haven't talked about that night.
-0x45525E36=
+0x45525E36=嘿，Mandy。还记得高三结束时在Debbie爸爸家的派对吗？我知道你喝醉了。我知道你把我当成了Danny Kurtz，但那是我这辈子打过的最爽的一炮。实际上，那是我这辈子唯一的一次性爱！希望能再次见到你，重燃爱火！我们还没谈过那晚的事呢。
 
 ;0x2AFDA114=REPLY FROM MANDY :
 0x2AFDA114=
 
 ;0xD68A8196=I wasn't drunk, I was passed out! Well, I guess that solves the immaculate conception theory! Fucking asshole! No wonder that kid is so ugly. You owe me $120,000 in back payments. See you in court.
-0xD68A8196=
+0xD68A8196=我没醉，我是昏过去了！好吧，这么说就不是圣灵感孕了！该死的混蛋！难怪那个孩子长这么丑。你欠我12万。法庭上见。
 
 ;0xDEF8095A=MESSAGE:
 0xDEF8095A=
 
 ;0xE1F4FD83=Mandy Allhand! I can't believe it! Not a day goes by when I don't jerk off to the thought of you in your sports bra. Listen - I'm going to keep this short and to the point. I'm willing to pay $2,000 for a photo of you in underwear. Not naked, just underwear. Oh, and pig tails. If you can wear a retainer, that would be great.
-0xE1F4FD83=
+0xE1F4FD83=Mandy Allhand！真不敢相信！每天不想着你穿着运动胸罩的样子打飞机我就浑身难受。听好，我长话短说，直奔主题。我愿意花两千块买一张你的内衣照。不要裸体，穿着内衣就行。哦，还要两股辫。如果能戴上牙套，那就更好了。
 
 ;0x0995BB9E=- Ralph Upwell.
 0x0995BB9E=
@@ -65,7 +65,7 @@
 0x2AFDA114=
 
 ;0x4FB79335=Ralph, if you were the last person on Earth... well, actually, if you were the last person on Earth I probably would... If there were 10 men left on the planet, I would fuck the other nine before you! Pervert! Are you still getting your dog to lick yogurt off your balls?
-0x4FB79335=
+0x4FB79335=Ralph，如果你是地球上最后一个人... 额，其实吧，如果你真的是地球上最后一个人，我可能会... 如果地球上还剩10个男人，我也只会操其他9个男人！变态！还在让你家狗舔你蛋蛋上的酸奶吗？
 
 ;0xADD9CB45=BACK TO MAIN PAGE 
 0xADD9CB45=

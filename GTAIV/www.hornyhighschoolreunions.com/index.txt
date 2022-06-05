@@ -1,111 +1,111 @@
 ﻿;0x85F534CC=That song hits the mp3 player on shuffle. A guilty pleasure. You're driving along in your car down the dark expressway home after a hard day's work. The chorus kicks in. You forget where you are for a moment. You remember her.  The tail lights ahead blur into a sea of tail lights years ago - it's you and your friends - in high school - leaning against the trunks of cars. You were actually happy. And she's there. Her face, so vibrant in the night at your favorite spot, drinking beers while the music blared out of car windows. You wanted those lips. You wanted to taste. You still do.  You come to - your hand is in your pants - your face is strewn with tears. And your car is slowly wrapping, warping, screeching with piercing intensity, around a streetlight.
-0x85F534CC=
+0x85F534CC=MP3随机切到了那首歌，罪恶的快感暗暗涌起。一天辛苦的工作后，你在漆黑的高速公路上开着车回家。副歌响起，让你一时忘记自己身在何处。你想起了她。前车的尾灯逐渐模糊，化为多年前的朦胧光景——那时还在高中，身旁是那些朋友，一起靠在车的后备箱上。那时的你还是快乐的。她也在那里。晚上，在你最喜欢的地方，她的脸庞是那么清秀动人，喝着啤酒，歌声透过车窗传来。你渴望那双唇，渴望品尝它们，至今仍是如此。你的性致来了，一手伸进裤裆，脸上洒满泪水。你的车剐着、擦着，与路灯亲密接触，发出刺耳的尖声。
 
 ;0xF4049665=We all get nostalgic about our school days. It is human nature to view the past through rose-tinted glasses or, more often, through mp3 compilations and beer goggles. Stop living in the past. Live in the present past now. 
-0xF4049665=
+0xF4049665=我们都怀念学生时代。用美好的滤镜回顾过去是人类的天性，不过更多的时候，是借助MP3曲库和酒里出西施的效应回顾。别活在过去了。要活就活在过去的当下。
 
 ;0xFE86F10D=Everybody likes to find out how their old classmates are doing. We wonder whether the fat kid is now a record producer, whether the school freak has found religion or whether the class clown is a manic depressive. But most of all, we want to finally sleep with the chicks we lusted after, especially after you finally know what to do in bed. 
-0xFE86F10D=
+0xFE86F10D=每个人都喜欢了解老同学的近况。我们想知道那个胖小子当没当上唱片制作人，学校里的怪胎有没有信教，班里的小丑是不是躁狂症。但最重要的是，我们想和当年垂涎三尺的小妞上床，何况现在终于知道在床上该做什么了。
 
 ;0x75689D08=There is no better feeling than discovering that somebody has failed miserably in life. And there is no better feeling than sending hot passionate emails to fellow classmates in a mid-life crisis. Secretly we all long to hear that the homecoming queen is turning tricks for dollar-bags of crystal. And we long even more to email her and make her miss what she turned down all those years ago. 
-0x75689D08=
+0x75689D08=没有什么比发现有人在生活中惨遭失败的感觉更好了。也没有什么比发邮件热情问候中年危机的同学的感觉更好了。其实私底下我们都希望曾经的校花沦落到卖身换取冰毒。我们更渴望给她发邮件，让她怀念那些年她所拒绝的同学。
 
 ;0x41A74772=NAME 
-0x41A74772=
+0x41A74772=姓名
 
 ;0x0B2C1281=YEAR OF GRAD 
-0x0B2C1281=
+0x0B2C1281=毕业年份
 
 ;0x4BD256A9=HIGH SCHOOL 
-0x4BD256A9=
+0x4BD256A9=学校
 
 ;0x91FB574B=Barry Fralewick 
 0x91FB574B=
 
 ;0x27CE4DD2=Castle Garden High School
-0x27CE4DD2=
+0x27CE4DD2=Castle Garden高中
 
 ;0x010D4D31=Jeremy Grasstain
 0x010D4D31=
 
 ;0x89F5D8CF=Easton Academy for Boys
-0x89F5D8CF=
+0x89F5D8CF=Easton男子学院
 
 ;0x2783F72C=Lincoln Atwood
 0x2783F72C=
 
 ;0x7779390C=Graysford Academy
-0x7779390C=
+0x7779390C=Graysford学院
 
 ;0x95F15A4B=Mikey Norburg
 0x95F15A4B=
 
 ;0x046C0131=Rotterdam Heights High School
-0x046C0131=
+0x046C0131=Rotterdam Heights高中
 
 ;0x2B940CC6=Dino Perdente 
 0x2B940CC6=
 
 ;0xAF70D570=Alderney City Tech
-0xAF70D570=
+0xAF70D570=Alderney市技术学院
 
 ;0x61E4CADD=Julio Acaudalado 
 0x61E4CADD=
 
 ;0x9778EFBA=East Holland High School 
-0x9778EFBA=
+0x9778EFBA=East Holland高中
 
 ;0x7E6CC506=Mandy Allhand 
 0x7E6CC506=
 
 ;0x36FDFAEB=Fort Side High School
-0x36FDFAEB=
+0x36FDFAEB=Fort Side高中
 
 ;0x5EAD2698=Peter Wyndup 
 0x5EAD2698=
 
 ;0x17B0312C=Washington Beach High School
-0x17B0312C=
+0x17B0312C=华盛顿海滩高中
 
 ;0xF91234FE=Craig Dingleberry
 0xF91234FE=
 
 ;0xFDBE461F=South Broker High School
-0xFDBE461F=
+0xFDBE461F=South Broker高中
 
 ;0xA0CC54FB=Melissa Baremott
 0xA0CC54FB=
 
 ;0xC082D38C=Doherty High School
-0xC082D38C=
+0xC082D38C=Doherty高中
 
 ;0xF7748B2A=Tisha Finch
 0xF7748B2A=
 
 ;0xFBD5635A=Bohan Leadership Academy
-0xFBD5635A=
+0xFBD5635A=Bohan领袖学院
 
 ;0x755ED08C=Randy Fox 
 0x755ED08C=
 
 ;0xD3FBD6D2=Boar Corner High School
-0xD3FBD6D2=
+0xD3FBD6D2=Boar Corner高中
 
 ;0x4143FC34=John Firmstroke 
 0x4143FC34=
 
 ;0x744CE0B9=Meadows Park International 
-0x744CE0B9=
+0x744CE0B9=草地公园国际高中
 
 ;0xF6C9CC3A=Adele Gudride
 0xF6C9CC3A=
 
 ;0xB5A726CA=South Slopes High School
-0xB5A726CA=
+0xB5A726CA=South Slopes高中
 
 ;0x380E1D82=Gerry Smegladen
 0x380E1D82=
 
 ;0x65102FD0=Acter High School
-0x65102FD0=
+0x65102FD0=Acter高中
 

@@ -1,35 +1,35 @@
 ﻿;0xD18292B4=Pupil: Lincoln Atwood
-0xD18292B4=
+0xD18292B4=姓名：Lincoln Atwood
 
 ;0x65F6B0A1=Class of: 1998
-0x65F6B0A1=
+0x65F6B0A1=届别：1998届
 
 ;0x56D494B4=High School: Graysford  Academy
-0x56D494B4=
+0x56D494B4=学校：Graysford学院
 
 ;0xE5F8ED95=NICKNAME:
 0xE5F8ED95=
 
 ;0x732A0F1B=NONE
-0x732A0F1B=
+0x732A0F1B=无
 
 ;0xB78A2011=BIO:
 0xB78A2011=
 
 ;0x53E5EA50=Everything was going great after high school. I found a good job as a mechanic, moved in with my girlfriend and started to plan for a family. Then I got bombed on whisky and PCP one night and ended up holding up a liquor store. Seemed like a good idea at the time! Now I'm three years into a life sentence at the Alderney State Correctional Facility. I am sharing a cell (and all too often a bed) with a psychotic biker called Digger who makes me shave my legs. I am trying to stay positive and it would be great to hear from some of my old high school buddies. Sometimes it's hard to remember what life was like before I became Digger's bitch. Please write to me or come visit! Bring cigarettes if you can. Hope you're all well. 
-0x53E5EA50=
+0x53E5EA50=高中毕业后一切都很顺利。我找了份机械师的好工作，搬去和女朋友住，都开始规划家庭了。然后有天晚上我喝了威士忌，吞了迷幻药，最后抢劫了一家酒水店。当时还觉得这是个好主意！现在我被判无期，已经在Alderney州立监狱蹲了三年。我和一个叫Digger的精神病飞车党同住一个牢房 (通常还同床共枕)，他让我刮掉腿毛。我想尽量保持积极的心态，如果能收到一些高中老同学的回复，那就太好了。都快记不清成为Digger的婊子之前的生活是什么样的了。请给我回信，或是来拜访我！如果可以的话，带上香烟。希望你们一切安好。
 
 ;0xDEF8095A=MESSAGE:
 0xDEF8095A=
 
 ;0xEBDA597C=You got life for holding up a liquor store?
-0xEBDA597C=
+0xEBDA597C=你抢劫了个酒水店就被终身监禁了？
 
 ;0xE0AC1E7C=REPLY FROM LINCOLN :
-0xE0AC1E7C=
+0xE0AC1E7C=LINCOLN的回复：
 
 ;0x89DEDC06=I also shot a cop.
-0x89DEDC06=
+0x89DEDC06=我还射了个条子。
 
 ;0xADD9CB45=BACK TO MAIN PAGE 
 0xADD9CB45=
