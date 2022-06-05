@@ -32,7 +32,7 @@
 0xBE843690=RIORPG的意思是「真的很蠢的在线角色扮演游戏」。在RIORPG中，成千上万个强大的白痴同时存在于虚拟的游戏世界，形成一种社区的感觉。
 
 ;0x69D0CD69=Note: If you come across a girl, you must kill it instantly as they are an abomination against God.
-0x69D0CD69=注意：如果遇到了女性玩家，必须立刻击杀她们，因为上帝对她们深恶痛绝。
+0x69D0CD69=注意：如果遇到了女性玩家，必须立刻击杀她们，因为上帝对女人深恶痛绝。
 
 ;0xCA63FCC9=Priests: Be warned, young warrior, and keep your tunic tight.
 0xCA63FCC9=牧师：小心，年轻的战士，系紧你的长袍。

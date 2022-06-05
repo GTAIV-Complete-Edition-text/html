@@ -50,7 +50,7 @@
 0x98733266=运动男、主流垃圾、肉、资本主义
 
 ;0x52BC47EB=in touch with emotions
-0x52BC47EB=感受内心的情感
+0x52BC47EB=情感细腻
 
 ;0x3F5784D9=drug problem, punching walls, sterile 
 0x3F5784D9=毒瘾、敲墙、不育
@@ -125,7 +125,7 @@
 0xA17C801C=妈的，我讨厌自己的人生。为什么与众不同就要被人迫害？社会不给我机会，排斥了我。我已经活够了。又或者是我排斥了社会？谁知道呢。
 
 ;0x0950E0F7=One things 4 sure, I don't fit in and now I whine about it online.  The road to acceptance is paved with hate and guts and propsitions and thats a path I refuse to take.  Sometimes I get the feeling that the world around me is nothing mmore than an illusion, and I'm so smart and one day I will invent a machine that I can attach to bears that will allow them to speak and they will have small headsets and we can discuss fushing.   im trapped in a parallel universe and looking in a mirror.  Actually, I'm trapped in a shit apartment with carpet that smells like a musty old woman's diaper. im condemned to drift forever more on a sea of loneliness.  Floating.  And now jody has left me as well.  What is love if not a test of our capacity 2 forgive?  We said we would love each other forever.  But can I forgive her?  She says it was her mouth on that man's junk and not mine but we were both loaded and swinging with couples in their 40s can be troublesome, especially when they spike your drink.  Geezers. Thank Zeus for my poetry.  Without it, I don't think I would be here today.  I wish I wasn't so in touch with my emotions - I FEEL everything so strongly.  It might be the fistful of pills I just shoved into my piehole.  I soak up pain like a sponge and it eats away at me day after day, like a rat.  I am hollowed out, an empty shell.  I am nothing but I am everything.  I am the most boring Myroom person in the world.  How I long for death's cold embrace!!!!  I planted a tree today and started to cry uncontrollably as I shit next to it and covered it up like a cat. I castrated one of nature's babies with my excretement.  
-0x0950E0F7=有一件事是肯定的，我不合群，正在网上抱怨。认同之路满是入骨的恨意，我拒绝通过这种方式获得认同。有时我觉得整个世界只是幻觉，而我聪明得很，以后会研发出熊语机，和熊交流捕鱼。我被困在了平行时空里，一直看着镜中的自己。实际上，我被困在了一间垃圾公寓里，地毯像老太太的纸尿布一样臭。我这一生都要在孤独之海上漂泊流浪了。现在jody也离开了我。爱不就是对原谅理解的测试吗？我们说过要爱一辈子的吧。但我又能原谅她吗？她说吸别人鸡巴的是她的嘴，不是我的，但我俩都喝醉了，和40多岁的夫妻换妻实在有点麻烦，特别是他们往你酒里下药的时候。天哪，感谢上帝赐予我诗歌。没了诗，也许就不会有现在的我了。真希望我感受内心情感的能力没那么强，现在我对任何事物的感觉都很强烈。可能是我往嘴里塞了把药的关系吧。我就像一块吸收痛苦的海绵，一天天的被老鼠一样的痛苦吞噬。我被掏空了，只剩一具躯壳。我什么都不是，但我就是一切。我是世界上最无聊的Myroom用户了。我是多么渴望死亡的冰冷怀抱降临啊！！！！今天我种了棵树，然后止不住地哭出来了。因为我在树旁拉屎，再像猫一样把它埋了起来，用排泄物让大自然的孩子绝育了。
+0x0950E0F7=有一件事是肯定的，我不合群，正在网上抱怨。认同之路满是入骨的恨意，我拒绝通过这种方式获得认同。有时我觉得整个世界只是幻觉，而我聪明得很，以后会研发出熊语机，和熊交流捕鱼。我被困在了平行时空里，一直看着镜中的自己。实际上，我被困在了一间垃圾公寓里，地毯像老太太的纸尿布一样臭。我这一生都要在孤独之海上漂泊流浪了。现在jody也离开了我。爱不就是对原谅理解的测试吗？我们说过要爱一辈子的吧。但我又能原谅她吗？她说吸别人鸡巴的是她的嘴，不是我的，但我俩都喝醉了，和40多岁的夫妻换妻实在有点麻烦，特别是他们往你酒里下药的时候。天哪，感谢上帝赐予我诗歌。没了诗，也许就不会有现在的我了。真希望我的情感没那么细腻，现在我对任何事物的感觉都很强烈。可能是我往嘴里塞了把药的关系吧。我就像一块吸收痛苦的海绵，一天天的被老鼠一样的痛苦吞噬。我被掏空了，只剩一具躯壳。我什么都不是，但我就是一切。我是世界上最无聊的Myroom用户了。我是多么渴望死亡的冰冷怀抱降临啊！！！！今天我种了棵树，然后止不住地哭出来了。因为我在树旁拉屎，再像猫一样把它埋了起来，用排泄物让大自然的孩子绝育了。
 
 ;0xF39AE793=What's wrong with me?!!!!
 0xF39AE793=我这是什么情况？！！！！

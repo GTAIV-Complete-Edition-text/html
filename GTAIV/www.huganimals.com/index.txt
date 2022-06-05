@@ -35,7 +35,7 @@
 0xFE4A653E=抱抱小动物
 
 ;0xC3D998FC= is a non-profit organization, funded entirely by the sale of short videos of our pets with their new owners. We rely on you. These pets need a home. They need a warm bed to sleep in. Adopt an animal today.  They have a lot of love to give. 
-0xC3D998FC=是非营利组织，全部资金都来源于出售小动物与新主人的短视频的收入。我们因你存在。这些小动物需要新家，它们需要温暖的被窝。现在就领养一只小动物吧！它们能给你海量的爱。
+0xC3D998FC=是非营利组织，全部资金都来源于小动物与新主人的短视频的销售收入。我们因你存在。这些小动物需要新家，它们需要温暖的被窝。现在就领养一只小动物吧！它们能给你海量的爱。
 
 ;0xC31B9AFC=Some people call us creepy - well, let's be very clear, there is nothing creepy about loving God's creatures, in any way you see fit. Nothing at all. It's not perverted. It's saving lives and self-expression all at once. This is a fact. You know why? Because you read it on the internet.      
 0xC31B9AFC=有人说我们是变态。呃，就直说了吧，不论从哪个角度出发，热爱主的造物都不是一件变态的事。一点都不变态，反而十分正常。既能挽救生命，又能表现自我。这是事实。何出此言？因为网上就是这么说的。
