@@ -2,7 +2,7 @@
 0x06B64E6A=在电脑上下载粉红鱼雷，我们会阻止其他间谍软件运行，同时还会出售你的个人信息。我们给你带来安全。
 
 ;0x45EB1A9C=Your information is private. And like your privates, you need a fig leaf to cover them up. So many people don't realize that in the world of high speed communications, within seconds, someone can be poking around in your private regions. If you have a family or a teen daughter or a dirty little secret, this is especially worrisome. And hot.
-0x45EB1A9C=你的个人信息是私密的。和你的私处一样，个人信息也需要加以保护。很多人没有意识到，在这个高速通信的时代，你的个人领域可以被人瞬间侵入。如果你有家庭、女儿或者是见不得人的小秘密，这是很敏感的事情，你得多操点心。
+0x45EB1A9C=你的个人信息是私密的。和你的私处一样，个人信息也需要加以保护。很多人没有意识到，在这个高速通信的时代，你的私人空间可以被人瞬间侵入。如果你有家庭、女儿或者是见不得人的小秘密，这是很敏感的事情，你得多操点心。
 
 ;0x68BB79D2=There is nothing more important than spending money to protect your loved ones. If you don't, you are risking everything and you probably will be punished. That's where the Pink Torpedo comes in. The Pink Torpedo is the most powerful thing in the universe.  
 0x68BB79D2=没有什么比花钱保护自己所爱的东西更重要了。要是不这样做，你就是在拿自己的一切冒险，最终受害的也是你自己。这就体现了粉红鱼雷的存在价值。粉红鱼雷是全宇宙最厉害的东西。
