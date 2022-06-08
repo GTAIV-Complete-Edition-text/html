@@ -11,7 +11,7 @@
 0x6AC1E321=律师 DICK SHYSTER
 
 ;0xAA84554E=Mr. Shyster is an expert in State, National, and International Law.  He demonstrated this by constructing a case against a former Secretary General of the Civilization Committee in all three sectors and can be held personally responsible for the rescinding of parking permits previously granted to foreign dignitaries.  
-0xAA84554E=Shyster先生是州法律，国家法律和国际法方面的专家。他在这三方面针对文明开化委员会前秘书长发起的诉讼证明了这一点，也正是他废除了以前给予外国政要的停车许可证。
+0xAA84554E=Shyster先生是州法律，国家法律和国际法方面的专家。他在这三方面针对全球文明委员会前秘书长发起的诉讼证明了这一点，也正是他废除了以前给予外国政要的停车许可证。
 
 ;0x42340908=Family man, talented litigator and bureaucrat - Mr. Ligner is a vital part of the GL&S team.  He is a fierce trial lawyer, a meticulous investigator and is experienced in the filing of class action law suits against BAWSAQ 500 companies.  Just don't call him Richard.
 0x42340908=对家庭他尽心尽责，打官司他所向披靡，对规章他严格执行——Ligner先生是GLS团队的重要成员。他是一位作风强硬的辩护律师，一位一丝不苟的调查员，在对BAWSAQ 500公司提起集体诉讼方面经验丰富。别叫他Richard就行了。

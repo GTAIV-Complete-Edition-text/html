@@ -1,5 +1,5 @@
 ﻿;0x49D0468D=European countries believe that they are much more important than they actually are. Humor them. They have tiny plots of land - we have 50 countries in our US of A.
-0x49D0468D=欧洲国家相当把自己当回事。多么可笑，他们就是弹丸之地————而我们美利坚就有50个国家。
+0x49D0468D=欧洲国家相当把自己当回事。多么可笑，他们就是弹丸之地——而我们美利坚就有50个国家。
 
 ;0x137E5482=Many European countries are still in the Dark Ages with regards to gun culture. The fist and stick approach to dispute resolution remains widespread. Even some of the cops don't have guns, so don't take them seriously.
 0x137E5482=就枪械文化来说，欧洲人还在中世纪。解决冲突时用的还是拳头和棍子。就连警察都未必配枪，所以不用把他们当回事。

@@ -11,7 +11,7 @@
 0xE0AA6E99=紧紧抓住你的钱包
 
 ;0x2DB238BA=Speak slowly and loudly like you are talking to someone with a mental handicap - most have one     
-0x2DB238BA=慢慢地、大声地说话，把对方当成弱智交流——应该本来就是
+0x2DB238BA=慢慢地、大声地说话，把对方当成弱智交流——大概率本来就是
 
 ;0x615FC7FF=Move closer into their personal space and repeat at a higher volume
 0x615FC7FF=走到他们的社交距离内，大声重复

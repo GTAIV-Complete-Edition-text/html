@@ -56,7 +56,7 @@
 0x3110D00A=7月3日 21:32____
 
 ;0x68228C45=I love MOM.  I'm online every day.  But what in the heaping flying name of all things holy are elven folk doing here?  Elves are nothing but little pointy eared bastards.  They touch you and grab your ass and chuckle.  They eat stupid shit.  I stopped playing other massives to get away from them.  My wife left me for an elf.  If we don't do something about the immigration laws in this place we'll get overrun. 
-0x68228C45=我喜欢MOM，每天都上线。但是这里怎么也有那帮狗鸡巴傻卵精灵？它们啥都不是，只是一帮尖耳朵的混蛋。它们来碰你，捏你的屁股，完了还偷笑。这群畜生。为了躲开他们，我都不玩其他多人游戏了。我的老婆跟一个精灵私奔了。再不对移民做出什么规定，这里就要被精灵占领了。
+0x68228C45=我喜欢MOM，每天都上线。但是这里怎么也有那帮狗鸡巴傻卵精灵？它们啥都不是，只是一帮尖耳朵的混蛋。它们来碰你，捏你的屁股，完了还偷笑。这群畜生。为了躲开它们，我都不玩其他多人游戏了。我的老婆跟一个精灵私奔了。再不对移民做出什么规定，这里就要被精灵占领了。
 
 ;0xB82B6158= My Online Me   Terms and Conditions   Privacy (Or Lack Thereof) Statement   Contacts
 0xB82B6158=我的网络分身   网站条款与规定   隐私保护(及泄露)声明   联系我们
