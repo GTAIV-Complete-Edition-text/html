@@ -11,7 +11,7 @@
 0x92882617=幸福女神像
 
 ;0x90DB42AF=Star Junction
-0x90DB42AF=
+0x90DB42AF=星汇广场
 
 ;0x2C1AE7B0=Middle Park
 0x2C1AE7B0=中心公园

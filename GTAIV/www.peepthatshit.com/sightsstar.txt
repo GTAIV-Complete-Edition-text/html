@@ -1,9 +1,9 @@
 ﻿;0x4F07A575=Star Junction       
-0x4F07A575=
+0x4F07A575=星汇广场
 
 ;0x9B5659D5=Algonquin      
 0x9B5659D5=
 
 ;0x2B537EAD=The neon-lit chaos of Star Junction is the beating heart of Algonquin.  You can join the hordes of tourists staring at soft-porn advertising on gigantic video screens, watch a stream of meaningless stock numbers revolve around the BAWSAQ building, pay $250 for a horrible show, or do some celebrity-spotting outside the meTV studios.             
-0x2B537EAD=Star Junction杂乱的霓虹灯正是Algonquin跳动的心脏。你可以和众多观光客一道，盯着巨大屏幕上的软色情广告，看着BAWSAQ交易所外墙毫无意义的股票代码，花250块看一场糟糕的演出，或是在meTV工作室外蹲守名人。
+0x2B537EAD=星汇广场杂乱的霓虹灯正是Algonquin跳动的心脏。你可以和众多观光客一道，盯着巨大屏幕上的软色情广告，看着BAWSAQ交易所外墙毫无意义的股票代码，花250块看一场糟糕的演出，或是在meTV工作室外蹲守名人。
 
