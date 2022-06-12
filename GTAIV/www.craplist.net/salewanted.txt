@@ -80,7 +80,7 @@
 0xD5EF1A38=想在你的车里付费过夜
 
 ;0xC1C58482= (Star Junction)
-0xC1C58482=
+0xC1C58482= (星汇广场)
 
 ;0x2990D048=Broken air guitar for sale
 0x2990D048=出售坏掉的空气吉他
