@@ -11,7 +11,7 @@
 0x4B11936B=局部身体模特最棒的点就在于，即便你又矮又胖，脸像被车轧过一样，一样可以接到工作。从杂志到电视广告再到电影，对玉手的需求总是很大。只需要一套专业的手部写真，马上你也能年入千元。
 
 ;0x8A52DE17=That's where I come in. I'm so much more than a photographer (in fact, I'm not really a photographer but that's beside the point). I know hands. I'm obsessed with hands. I'm a hand guru. You need stamina to be a hand model and I will really put you through the paces. I'll run tests to determine grip, skin texture and range of motion. I'll teach you exercises to keep your hands taut and supple. I'll make you do things with a banana. Don't worry if you've never modeled before - I'm very good with first-timers. I always ease people into it with a few drinks and tranquilizers before stripping and moving onto some role-playing games. I'm a firm believer that you can't strike natural hand poses until you're comfortable with your body as a whole.
-0x8A52DE17=这时我就派上用场了。我不仅仅是一名摄影师 (实际上我连摄影师都不是，但这不重要)。我很了解手。我很痴迷手。我就是手控界的权威。成为手模需要一定的耐力，因为我会细致地检查你的双手。我会用测试决定力度、肤质和动作范围。我会教你通过锻炼保持双手柔软紧致。我会让你用香蕉进行各种练习。没有模特经验也不要紧，我很擅长带新人。我总会用酒水和镇静剂让人放松，然后让他们脱下衣服开始玩角色扮演。我有一个坚信的原则，只有完全接受自己的身体，才能做出自然的手势。
+0x8A52DE17=这时我就派上用场了。我不仅仅是一名摄影师 (实际上我连摄影师都不是，但这不重要)。我很了解手。我很痴迷手。我就是手控界的权威。成为手模需要一定的耐力，因为我会细致地检查你的双手。我会用测试判断力度、肤质和动作范围。我会教你通过锻炼保持双手柔软紧致。我会让你用香蕉进行各种练习。没有模特经验也不要紧，我很擅长带新人。我总会用酒水和镇静剂让人放松，然后让他们脱下衣服开始玩角色扮演。我有一个坚信的原则，只有完全接受自己的身体，才能做出自然的手势。
 
 ;0x1889E3C3=My studio apartment is fully decked out with a digital camera, video camera, enema machine, TV, suspension harness, microwave, alligator clips, electrodes, mattress, soundproofing, a tazer, a couple of desk lamps from 
 0x1889E3C3=我的单元公寓全副武装，数码相机、摄影机、灌肠机、电视、拘束器具、微波炉、鳄鱼夹、电极、床垫、隔音板、电击枪、几盏从
