@@ -1,6 +1,0 @@
-﻿;0x4C9AE530=My apartment is infested with insects.  They're everywhere!!!!!!  I can't sleep, I can't eat.  They crawl all over me, eating away at my skin.  I can't stop scratching   I can't get rid of them.  And I think my roommate's trying to kill me.  It's a nightmare.  I've called out two exterminators in the last week but they were fucking amateurs.  Trees.  Swat teams.  Pool of blood.  What? Who are you?  I kept screaming "I'm covered in them" but they just looked at me like I was some kind of lunatic.  I can't take much more of this.  I need somebody to deal with this TODAY.  I can't pay you but I've got a massive bag of tina. 
-0x4C9AE530=我的公寓里全是虫子，到处都是！！！！！！搞得我睡不着觉，吃不下饭。浑身都有虫子在爬，啃食我的皮肤。我止不住地挠痒，根本摆脱不掉。我觉得室友都想杀了我了。太可怕了。上周我请了两个灭虫专家，结果都是业余的。草木、特警队、血流成河。啥？你是谁？我不停尖叫「我被虫子爬满了」，但他们还是像看疯子一样看着我。我受不了了，现在就得找人过来处理虫子。我没钱付你报酬，但是有一大袋冰。
-
-;0x9BB00390=PostingID: 262056498
-0x9BB00390=帖子ID：262056498
-

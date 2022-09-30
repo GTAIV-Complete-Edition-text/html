@@ -1,6 +1,0 @@
-﻿;0xE6512A52= Car Thefts!
-0xE6512A52=偷车贼！
-
-;0xC2954BC2=Back
-0xC2954BC2=返回
-

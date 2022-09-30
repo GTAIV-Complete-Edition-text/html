@@ -1,0 +1,44 @@
+[
+    {
+        "hash": 1322157126,
+        "original": "NEWS",
+        "translated": "",
+        "desc": ""
+    },
+    {
+        "hash": 2520495668,
+        "original": "MUSIC",
+        "translated": "音乐",
+        "desc": ""
+    },
+    {
+        "hash": 2980824234,
+        "original": "ART",
+        "translated": "艺术",
+        "desc": ""
+    },
+    {
+        "hash": 398577521,
+        "original": "BOOKS",
+        "translated": "书籍",
+        "desc": ""
+    },
+    {
+        "hash": 862343265,
+        "original": "COFFEE",
+        "translated": "咖啡",
+        "desc": ""
+    },
+    {
+        "hash": 3090821235,
+        "original": "CHARITY",
+        "translated": "慈善",
+        "desc": ""
+    },
+    {
+        "hash": 1807123366,
+        "original": " HEADLINE NEWS",
+        "translated": " 头条新闻",
+        "desc": ""
+    }
+]

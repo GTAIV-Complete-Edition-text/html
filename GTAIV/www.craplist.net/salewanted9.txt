@@ -1,6 +1,0 @@
-﻿;0xC4FF6054='Free The Bass' only stocks the biggest, baddest subwoofers out there.  Loud stereos impress people, especially girls.  You're young, you're angry, you're insecure.  Get the attention you deserve.  In the urban jungle, it is all about who has the loudest roar.  Subwoofers are a statement of your virility.  How big is yours? 
-0xC4FF6054=「Free The Bass」公司只卖最大最响的低音炮。大声外放能给别人深刻的印象，对姑娘特别有效。你很年轻，你很愤怒，你很不安。获得你应有的存在感吧。在都市丛林，最重要的就是声音要大。低音炮就是你男子气概的象征。你的气概够大吗？
-
-;0x50D60EEB=PostingID: 454677956
-0x50D60EEB=帖子ID：454677956
-

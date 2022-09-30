@@ -1,6 +1,0 @@
-﻿;0x44BBF943=Just Say You Did It
-0x44BBF943=大胆承认吧
-
-;0x62BEC974=Fruntalot streetwear is for players who don't take any shit! Check out our ostentatiously-decorated zip-up hoodies for just $55!! Perfect for hanging out at the mall or trying to get over the fact that you're a violent pimpled shithead and everyone hates you. Will be sold out tomorrow!! 
-0x62BEC974=Fruntalot的街头风专为拒绝妥协的赢家准备！看看我们的浮夸拉链套头衫吧，只要$55！！很适合穿去逛商场，也能让你忘记自己是个长满痘痘的暴力白痴，所有人都讨厌你。明天就卖完了！！
-

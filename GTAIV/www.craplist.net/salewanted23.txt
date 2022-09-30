@@ -1,6 +1,0 @@
-﻿;0x17D834A5=Forget handguns.  There's nothing quite as satisfying or intimidating as the sound of a pump-action shotgun being racked.  They are fun, reliable and easy to use.  You can't miss!  Excellent condition - $250.  This would be a great first gun for somebody. 
-0x17D834A5=忘记手枪吧。没有什么能比泵动式霰弹枪的声音更加吓人、更加令人满意了。泵动式霰弹枪既有趣，又可靠，还容易上手。绝对不要错过！枪况极佳 - $250。很适合作为人生中的第一把枪。
-
-;0x89E32E12=PostingID: 4542563263
-0x89E32E12=帖子ID：4542563263
-

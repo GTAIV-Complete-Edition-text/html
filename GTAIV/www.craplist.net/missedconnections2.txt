@@ -1,9 +1,0 @@
-﻿;0xA4ED45B7=(BOABO)
-0xA4ED45B7=
-
-;0x86DBE51C=I met you last Friday night in Club Liberty.  You had meth mouth.  We drank tequila shots, danced, did some ketamine and then made out slumped in the corner.  You took me back to your place and I think we had sex, but it's possible you weren't involved.  All a bit hazy.  This is unlike me but I'm feeling really guilty about stealing your PDA.  It was a spur of the moment thing and seemed like a good idea at the time.  I can't remember where you live - I was too busy trying to get out of there before you woke up.  All I know is that it's somewhere in BOABO.  You were called Anna or Julie or something.  Please get in touch so I can return the offending article. 
-0x86DBE51C=上周五晚上我们在自由夜店遇到的。你有一口冰毒烂牙。我和你喝了几杯龙舌兰，跳了舞，吸了点K粉，然后在墙角昏倒了。你把我带回了你家，我们好像还做了，不过你可能没一起做。印象太模糊了。我一般不这样，但我偷走了你的PDA，现在很愧疚。一时冲动，觉得挺好玩的，就拿走了。我不记得你住哪儿了，当时光顾着趁你没睡醒逃走了。我只记得大概是在BOABO的哪里。你好像叫Anna还是Julie还是啥的。请联系我取回赃物。
-
-;0xA86A4549=PostingID: 882031223
-0xA86A4549=帖子ID：882031223
-

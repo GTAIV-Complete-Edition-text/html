@@ -1,9 +1,0 @@
-﻿;0xAFA7C44F=Grand Easton Terminal         
-0xAFA7C44F=Grand Easton车站
-
-;0xAC0DDCAB=Easton, Algonquin           
-0xAC0DDCAB=Algonquin, Easton
-
-;0x7750ABC6=Grand Easton Terminal, with its famous vaulted ceiling, is one of the busiest train stations in the world and is widely considered to be a wonder of Beaux-Arts architecture.  Buy a ticket, have a seat, and remember the freedom of decades past where you could smoke a cigarette or score some drugs in a train station bathroom and it wasn't on the friggin' evening news.        
-0x7750ABC6=Grand Easton车站以它的拱顶闻名，是全世界最繁忙的车站之一，也被认为是学院派建筑的奇迹。买张票，找个座，怀念一下几十年前在车站厕所里抽烟吸毒还不会被晚间新闻报道的年代吧。
-

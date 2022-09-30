@@ -1,9 +1,0 @@
-﻿;0x48E45DDE="Master Pedeaston. I am extremely hoping of your exit from jail. I often remembers the days when you was in Phuket and you teach me the famous english games like hide the toothbrush and jacking the beanstalk.
-0x48E45DDE=「Pedeaston主人，我很期盼你能出狱。时常会想起你在普吉岛的那段时光，你教会了我藏牙刷和搓火球之类的英语游戏。
-
-;0x46D60879=Did you forget about my ticket to America? I still waiting."
-0x46D60879=你还记得带我去美国的机票吗？我还在等你。」
-
-;0xFE5DE4F6="Oi papai! I thought that poppycock was just a quaint old English expression until you dropped your trousers and pulled out a bag of heroin! Still, my parents are grateful for the $8 that you paid them and I am muito excited about the university place you promised! Please write soon."     
-0xFE5DE4F6=「喂，爸比！曾经我以为罂粟花只是一个古老的英文单词，直到你脱下裤子，掏出了一袋海洛因！尽管如此，我的父母还是很感激你给他们的八块钱。很期待你说好的要安排我上大学！希望能收到你的回信。」
-

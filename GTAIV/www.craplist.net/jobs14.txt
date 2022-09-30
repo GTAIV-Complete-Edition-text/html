@@ -1,9 +1,0 @@
-﻿;0x08696DB4=(East Hook Bay) 
-0x08696DB4=(East Hook湾)
-
-;0xAAC2C85F=Discover the sights, sounds and smells of gastroenterology!  Explore the wonders of the digestive tract!  No experience required but not for the squeamish.  Rubber gloves and lunch provided. 
-0xAAC2C85F=来了解消化科的声、色、味吧！探索消化道的秘密！无需工作经验，洁癖绕行。提供橡胶手套和午餐。
-
-;0x4586307E=PostingID: 424585561
-0x4586307E=帖子ID：424585561
-

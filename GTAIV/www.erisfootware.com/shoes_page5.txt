@@ -1,9 +1,0 @@
-﻿;0x6E831556=Get Outside Your Comfort Zone!
-0x6E831556=走出舒适区！
-
-;0x4BF840BD=How far are you prepared to go for fashion?  You have to go over the edge.  It works for men in power, trust us.  The Eris PINCH is at the cutting edge of sneaker design.  An extra narrow design with blistering new in-seam technology, the PINCH is the equivalent of a corset for your feet.  Guys with ugly feet finish last.  Winners know that suffering is everything.                  
-0x4BF840BD=你在时尚的路上能走多远？必须向着时尚最前沿前进。对掌权者来说更是如此，相信我们。Eris PINCH(夹脚)就是一款采用前沿设计的运动鞋。极其狭窄的设计搭配全新内部缝合技术，PINCH就是你脚上的紧身衣。脚丑的人一事无成。只有赢家知道痛苦能带来什么。
-
-;0x3D87DE14=$270
-0x3D87DE14=
-

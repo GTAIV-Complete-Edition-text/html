@@ -1,6 +1,0 @@
-﻿;0x523FBEB6=IN PARTNERSHIP WITH
-0x523FBEB6=我们的合作伙伴
-
-;0xDDC50982=love-meet.net
-0xDDC50982=
-

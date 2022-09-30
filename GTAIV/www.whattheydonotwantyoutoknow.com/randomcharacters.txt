@@ -1,6 +1,0 @@
-﻿;0x1CCF895C=Meet Random People In Libery City Here! 
-0x1CCF895C=在自由城碰见有缘人吧！
-
-;0xC2954BC2=Back
-0xC2954BC2=返回
-

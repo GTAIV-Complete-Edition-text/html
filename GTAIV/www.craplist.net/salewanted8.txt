@@ -1,9 +1,0 @@
-﻿;0x382D9282=For sale: one kebab   
-0x382D9282=出售：烤肉一串
-
-;0x2EC7F090=Bought late last night, virtually untouched.  I found it on my pillow this morning - must have passed out after one bite.  Hot sauce, extra cheese.  Looks like I threw some mayo on there as well.  Cheap lunch for somebody.  Just give me a couple of dollars so I can buy myself an eye-opener. 
-0x2EC7F090=昨晚买的，几乎全新。今早在枕头上找到的，多半是咬了一口就昏倒了。加辣，多加奶酪，好像还放了蛋黄酱。很划算的午餐选择。给我点钱买杯酒喝就行。
-
-;0x8D814C11=PostingID: 454679211
-0x8D814C11=帖子ID：454679211
-

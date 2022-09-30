@@ -1,9 +1,0 @@
-﻿;0xEB99804A=Plumber's Skyway       
-0xEB99804A=Plumbers高架
-
-;0x2BFB67DD=Alderney              
-0x2BFB67DD=
-
-;0xFBDBBC3B=Pick up a car, slug down a fifth of whiskey and blaze down Plumber's Skyway which runs through Alderney City, Acter, Tudor and Acter Industrial Park.       
-0xFBDBBC3B=找辆车，喝一口威士忌，在Plumber高架上狂飙吧，一路经过Alderney市、Acter、Tudor和Acter工业园。
-

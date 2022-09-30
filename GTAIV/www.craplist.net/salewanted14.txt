@@ -1,9 +1,0 @@
-﻿;0xB3F2F94F=(Fishmarket South)
-0xB3F2F94F=(鱼市南)
-
-;0x0608B8A2=I've bought every self-help book under the sun over the past couple of years.  By my calculations, I should be rich, famous and good-looking by now.  Or at least happy.  But I'm still overweight, I still earn minimum wage, I still hate my parents, I'm still lame in bed... nothing ever changes.  The closest I get to self-help is a dirty magazine and a box of tissues.  I've tried meditation, Chakra dancing and starting a diary.  I've de-cluttered my home storage and chanted "I am empowered" into the bathroom mirror.  At some point, you have to admit defeat.  Time to get real.  Positive thinking gives you false hope.  I was so much happier as a pessimist.  Email me for title list and prices.  I want to lose them asap so I can get back to focusing on the slow march towards death. 
-0x0608B8A2=过去几年，我把市面上所有的成功学书籍都买了一遍。按照我个人的计算，我早就该发财出名变好看了，再不济也能过上高兴的日子。然而我还是那么胖，拿的还是最低工资，还是和父母闹得很僵，还是卧病在床... 什么都没有变。也只有在看着黄书拿着纸的时候最接近成功了。我尝试过冥想，也跳过脉轮舞，还写了日记。我整理了房子，对着卫生间的镜子大喊「我能行的」。有的时候还是老实认输吧，该现实一点了。积极的心态只会带来虚假的希望。现在还没之前消极悲观的时候活得开心呢。邮件联系，我会给你发价格清单。我想尽快处理掉这些书，早日回到慢性死亡的路上。
-
-;0x2A338AA5=PostingID: 454672669
-0x2A338AA5=帖子ID：454672669
-

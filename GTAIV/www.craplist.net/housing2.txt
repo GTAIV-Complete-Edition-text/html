@@ -1,9 +1,0 @@
-﻿;0x2917218A=$1200 1 furnished room for rent  
-0x2917218A=$1200 出租一个装修好的房间
-
-;0xF2F5F1E8=Paranoid control freak reluctantly seeks roommate for immaculate apartment in Hatton Gardens.  No access to kitchen or living room.  Use of the shower between the hours of 2-3pm.  Don't bring guests.  Don't order takeout.  Don't move anything.  Don't masturbate.  Don't play music.  Don't speak to me.  The windowless room contains a single bed, wardrobe, webcam and a portrait of my mother.  Everything must be kept spotless at ALL TIMES.  It's tiny so this should not be a problem.  I will be poking around in there whenever you are out so don't think you're getting any leeway.  You will be given your own code for the security system so that I can track your comings and goings.  Occasionally you will wake up to find me standing over you.  If you are late with the rent, I will incinerate every last one of your belongings.  That's all I can think of for now.  Let me know if you are interested and I will set up a time for my mom to show you round.  I don't want to even see you.  The thought of your germs makes me weak.  
-0xF2F5F1E8=多疑的控制狂被迫寻找室友，Hatton Gardens的干干净净的公寓。禁止进入厨房或客厅。只能在下午2-3点洗澡。不许带客人进来。不许点外卖。不许动任何东西。不许自慰。不许放音乐。不许跟我说话。房间没有窗户，有一张单人床、一个衣柜、一个网络摄像头、一张我母亲的肖像。任何时候都不能出现脏东西。你出门的时候我随时有可能进房间查看，别以为你有什么隐私空间。我会在安全系统里给你分配一个密码，这样就能知道你的进进出出了。醒来时你可能会发现我就站在床边。如果你迟交了房租，我会把你的东西全部烧掉。暂时只想到这些注意事项。有兴趣的话请联系我，我会安排一个时间让我妈带你过来看看。我都不想亲自见你，想到你身上的病菌我就头晕。
-
-;0x77A96493=PostingID: 962021555
-0x77A96493=帖子ID：962021555
-

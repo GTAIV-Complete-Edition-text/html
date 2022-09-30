@@ -1,9 +1,0 @@
-﻿;0xB4A2AFBB=The Exchange       
-0xB4A2AFBB=证交区
-
-;0x6B018F07=Algonquin         
-0x6B018F07=
-
-;0x283B8D39=Check out where all the money is made by assholes placing wagers on your future.  Take a wander through the skyscrapers and swanky office blocks of The Exchange.  Then go back to your shitheap and cry that there are people getting bonuses of a cool million just for being a capitalist prick.         
-0x283B8D39=这里就是混蛋们拿你的未来赌博的地方，他们甚至能借此获利。在证交区的摩天大楼和豪华写字楼附近走上一圈，然后回到自己的粪坑，哭诉有些人当着资本的走狗就能拿到上百万的分红吧。
-

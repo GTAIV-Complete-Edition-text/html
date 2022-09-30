@@ -1,9 +1,0 @@
-﻿;0x44CFA621=The Wind From Below       
-0x44CFA621=下面的风
-
-;0xDDD3A167=at the Maginot Theater               
-0xDDD3A167=马奇诺剧院
-
-;0xAD8D30C6=You can't see wind, but you can feel it, especially in this show that takes wind to a whole new level.  Feel the interactive vibe of a theater performance where the cast cuts wind in the face of the audience. The Wind From Below reminds us that comedy does not have to be subtle or clever or funny.  Sometimes a bald man getting a real ripper unleashed on his face is all you need. The acoustics at the Maginot Theater are perfect for a show that is about cutting loose and having a good-ass time.  Until you've seen 100 people honking their butt trumpets in unison at strangers, you haven't experienced entertainment.  It's a blast!
-0xAD8D30C6=虽然看不见风，但你依然能感受到风，在这部将风送上新境界的剧目中更是如此。在演员朝观众放的屁中感受演出互动吧。《下面的风》告诉我们，喜剧未必需要小聪明和幽默，有时只需要一个面露凶色的秃子。马奇诺剧场的声学设计很适合这样一出关于放松和享受生活的剧目。没见过100个人朝观众鸣响屁股号，就是没经历过真正的娱乐。简直就是大爆炸！
-

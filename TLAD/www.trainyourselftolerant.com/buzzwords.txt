@@ -1,6 +1,0 @@
-﻿;0xFF73EB4B=The following is a list of business buzzwords that are no longer appropriate
-0xFF73EB4B=_
-
-;0xE050980B=for the workplace.
-0xE050980B=下表为不再适合出现在职场的商业术语。
-

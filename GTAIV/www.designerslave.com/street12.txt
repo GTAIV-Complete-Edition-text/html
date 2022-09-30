@@ -1,6 +1,0 @@
-﻿;0x1070B15A=You Can Never Have Enough 
-0x1070B15A=永远都不够
-
-;0xE44AF86F=For women who refuse to grow up! White Widow is owned by Sub Urban Clothing and is the store of choice for aging hipsters. Our line of eccentric, flowing, boho skirts is made in India but looks just as crumpled as the genuine article! $40 if you buy in the next hour! 
-0xE44AF86F=为那些拒绝长大的女士准备！White Widow现已被郊区服饰收购，专为上了年纪的嬉皮士打造。我们怪异、飘动、波西米亚风的短裙在印度生产，但和真品一样起皱！接下来一小时内下单只要$40！
-

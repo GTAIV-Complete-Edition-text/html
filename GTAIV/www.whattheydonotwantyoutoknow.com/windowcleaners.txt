@@ -1,6 +1,0 @@
-﻿;0x4C9CCBA7=Looking For A Window Cleaner? 
-0x4C9CCBA7=在找玻璃幕墙清理平台吗？
-
-;0xC2954BC2=Back
-0xC2954BC2=返回
-

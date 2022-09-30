@@ -1,6 +1,0 @@
-﻿;0x17CDA04A=Whether you're looking for a tummy tuck before the summer vacation or to add a couple of inches to an aging and frankly inadequate penis, Bank of Liberty has a loan package to suit you.
-0x17CDA04A=无论你是想在暑假来临前做个腹部拉皮，还是想给年久失修的软弱鸡巴做个加长，自由城银行都能为你提供合适的贷款。
-
-;0x3CD92700=Fast approval.  No credit check.  Confidentiality not quite guaranteed. Desperation rates guaranteed.
-0x3CD92700=快速审批。不看征信。不承诺保密。保证高利。
-

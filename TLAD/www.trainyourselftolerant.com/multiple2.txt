@@ -1,6 +1,0 @@
-﻿;0x78339FE8=Larry, your 54-year-old boss, has a habit of massaging your neck while he's talking
-0x78339FE8=Larry是你54岁的老板，他有个习惯，和你说话的时候
-
-;0x8FE7B9AB=to you. You know that you're up for promotion soon.
-0x8FE7B9AB=会按你的脖子。你知道自己马上就要晋升了。
-

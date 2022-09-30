@@ -1,9 +1,0 @@
-﻿;0x9F9C808C=Help to create a new world for your children, including entirely new coastlines and seaside resorts.
-0x9F9C808C=加入我们，为你的孩子创造一个新世界，包括全新的海岸线和海滨度假区。
-
-;0x982F2EFA=Globe Oil is always looking for new staff, especially in the fields of, Law and Lobbying.  If you are young, blond, and would like the thrill of interfacing with members of Congress, helping to get energy legislation killed by hiking your business in the air for a quick bang courtesy of Globe Oil, apply now!
-0x982F2EFA=环球石油长期招收新的员工，尤其是法律和游说政府方面的专家。如果你年轻动人、金发碧眼，喜欢体验联系国会议员的刺激，愿意替环球石油给议员来上一发，立刻联系我们应聘吧！
-
-;0xA03DB633=We also hire the top Public Relations executives in the world.  If you are extremely persuasive and can make members of the media melt with a sophisticated verbal dance - we want to hire you!
-0xA03DB633=我们也在招收全世界的顶级公关专家。如果你能言善辩，能够利用语言的艺术让媒体理屈词穷——你就是我们在找的人！
-

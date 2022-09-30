@@ -1,6 +1,0 @@
-﻿;0x6F32392E=You Want A Hospital - They're Here
-0x6F32392E=需要医院的话，这里有。
-
-;0xC2954BC2=Back
-0xC2954BC2=返回
-

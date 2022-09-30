@@ -1,6 +1,0 @@
-﻿;0x173E536C=Up Against It 
-0x173E536C=攻克难关
-
-;0x736DB38D=Designed for mountaineering; worn by yuppies and gangsters who would die if they had to sleep outside for one night. Our mirror-image replicas sacrifice warmth and waterproofing for extreme affordability. Rearwall jackets for $60!
-0x736DB38D=专为登山者设计。露天睡一夜就会死的雅皮士和黑帮混混很爱穿。我们的一比一复制款牺牲了保暖性和防水性，换来了及其亲民的价格。Rearwall夹克衫只要$60！
-

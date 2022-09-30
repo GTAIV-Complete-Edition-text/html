@@ -1,9 +1,0 @@
-﻿;0xCEE223D3=Are you ready to compete? Do the slogans above mean anything to you?  Have you got what it takes to be a winner? Do you want to stagger through life or swagger through life with pristine shoes?  
-0xCEE223D3=做好加入竞技的准备了吗？上面的那些标语让你产生什么想法了吗？你拥有成为赢家所需要的条件了吗？你是想摇摇晃晃爬过一生，还是想穿上崭新的鞋子大步流星？
-
-;0xC43A1FD5=There is a reason that people look down on you.
-0xC43A1FD5=别人看不起你也是有原因的。
-
-;0xDC615EF0=It's not because you're short.
-0xDC615EF0=绝不是因为你身材短小。
-

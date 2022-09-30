@@ -1,6 +1,0 @@
-﻿;0x7C4B3592=Powder Specialists 
-0x7C4B3592=白粉专家
-
-;0xD758F89B=Funky snowboarding gear for investment bankers who like to vacation in the Rockies! Our Hawaiian Snow camouflage salopettes are covered in zippers and are guaranteed to get you noticed on the slopes! $60!!!! Only 3 pairs left! 
-0xD758F89B=独特的滑雪装备，适合喜欢去落基山度假的银行家！我们的夏威夷白雪迷彩背带裤到处是拉链，保证能让你在雪山上被人发现！$60！！！！只剩三条！
-

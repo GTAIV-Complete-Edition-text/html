@@ -1,6 +1,0 @@
-﻿;0xFE002F52=STREET SLAVES 
-0xFE002F52=潮牌大甩卖
-
-;0x62CE09F7=Boring British fashion that is loved by American jocks! Designer Slave has a wide range of Dr. B shirts in assorted pastel colors. $20 a pop! Some in original packaging!
-0x62CE09F7=美国运动男最爱的无聊不列颠风格！跳楼大甩卖有五颜六色的Dr. B短袖。$20一件！部分库存还带原包装！
-

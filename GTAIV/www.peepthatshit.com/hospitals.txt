@@ -1,9 +1,0 @@
-﻿;0x400BCC80=Grotti
-0x400BCC80=
-
-;0x3FA16D2D=Autoeroticar
-0x3FA16D2D=
-
-;0x8DD5CC45=Big Paulie's Budget Cars
-0x8DD5CC45=
-

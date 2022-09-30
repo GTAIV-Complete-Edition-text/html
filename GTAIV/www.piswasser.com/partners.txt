@@ -1,6 +1,0 @@
-﻿;0xC625CAB0=While we strongly recommend that you skip dinner when drinking Piswasser, fast food is the perfect complement at around 3 AM.  Puking marks the halfway point of the evening; a face buried in the fat rolls of some horny slob marks the end.  Piswasser is proud of its strategic alliances with Burger Shot, Cluckin' Bell, Al Dente's and Pizza Stack.
-0xC625CAB0=我们强烈建议各位喝了尿汤啤就别吃晚餐，最好在凌晨三点左右补一顿快餐作为夜宵。呕吐只是后劲的一半，把脸埋到哪个发骚懒娘们的肥肉里才是真正的结束。尿汤啤已与吃得饱汉堡、铛铛钟炸鸡、Al Dente's意面、叠叠披萨达成战略合作，我们对此引以为傲。
-
-;0x8D978CA7=Try to eat before you get plastered.               
-0x8D978CA7=赶在烂醉如泥之前多吃点吧。
-

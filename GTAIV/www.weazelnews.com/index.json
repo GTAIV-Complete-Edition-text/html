@@ -1,0 +1,56 @@
+[
+    {
+        "hash": 2350458746,
+        "original": "U.S. NEWS",
+        "translated": "美国新闻",
+        "desc": ""
+    },
+    {
+        "hash": 855730417,
+        "original": "VIEWS",
+        "translated": "观点",
+        "desc": ""
+    },
+    {
+        "hash": 2785279054,
+        "original": "POLITICS",
+        "translated": "政治",
+        "desc": ""
+    },
+    {
+        "hash": 2629154699,
+        "original": "BUSINESS",
+        "translated": "",
+        "desc": ""
+    },
+    {
+        "hash": 1090436258,
+        "original": "GUNS",
+        "translated": "枪械",
+        "desc": ""
+    },
+    {
+        "hash": 1968791600,
+        "original": "PATRIOT",
+        "translated": "爱国者",
+        "desc": ""
+    },
+    {
+        "hash": 2782586452,
+        "original": "LOCAL WEATHER",
+        "translated": "本地天气",
+        "desc": ""
+    },
+    {
+        "hash": 2799666423,
+        "original": "This material may not be published, broadcast, rewritten, or redistributed.",
+        "translated": "本站内容严禁转载、刊印、改写、分发",
+        "desc": ""
+    },
+    {
+        "hash": 1755011862,
+        "original": "All rights reserved. All news delayed 13hrs.",
+        "translated": "版权所有　全部新闻均有13小时的延迟",
+        "desc": ""
+    }
+]

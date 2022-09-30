@@ -1,9 +1,0 @@
-﻿;0x25F5F6D3=Banging Trash Can Lids For An Hour       
-0x25F5F6D3=敲一小时垃圾桶盖
-
-;0x5FEB1CED=at the Liberteen Kids Theater              
-0x5FEB1CED=子由儿童剧院
-
-;0xBD6196C8=The critics are baffled.  It's not dance and it's not music.  It's a group of failed ballet dancers jumping around the stage with a load of household junk and making shitty percussion that will give you a raging migraine.  Pay $150 to watch people hammering a bucket with a spatula or smacking a frying pan with a broomstick for an hour.          
-0xBD6196C8=评论家看得一头雾水。既不是舞蹈，也不是音乐。只有一群失败的芭蕾舞者带着一大堆垃圾在舞台上跳来跳去，敲打桶盖发出让人头痛的声音。花150块看他们拿着勺子敲铁桶，拿着扫把敲平底锅，就这样敲上一个小时。
-

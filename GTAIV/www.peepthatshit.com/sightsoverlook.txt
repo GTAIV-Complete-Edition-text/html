@@ -1,9 +1,0 @@
-﻿;0x6D4E15DC=Overlook Park       
-0x6D4E15DC=Overlook公园
-
-;0xD1D9F323=You can't go to Broker without making a stop in Overlook Park with its impressive entrance and arch at Soldier's Plaza.   Or maybe you can.  And you probably will.        
-0xD1D9F323=去了Broker，怎么能不去Overlook公园气派的入口和士兵广场的拱门看看呢？好像也可以不去，你也大概率不会去。
-
-;0xD3F48134=Overlook Park
-0xD3F48134=Overlook公园
-

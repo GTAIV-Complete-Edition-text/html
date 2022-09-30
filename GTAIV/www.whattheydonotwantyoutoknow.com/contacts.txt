@@ -1,6 +1,0 @@
-﻿;0x94A7B4F2=Make Contact Here!
-0x94A7B4F2=在此取得联系！
-
-;0xC2954BC2=Back
-0xC2954BC2=返回
-

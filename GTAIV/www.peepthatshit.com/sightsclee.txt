@@ -1,6 +1,0 @@
-﻿;0xAB85BA02=Cleethorpes Tower       
-0xAB85BA02=Cleethorpes大楼
-
-;0xAD41766C=Cleethorpes Tower, in Algonquin's fashionable Hatton Gardens shopping district, was built by Lyle Cleethorpes the 5th as a demonstration to the world of his great wealth.  Filthy-rich heir to an awful family, fame-crazy Cleethorpes will do anything to get his face on TV or his name up in lights.        
-0xAD41766C=Cleethorpes大楼，位于Algonquin最时尚的购物区Hatton Gardens，由Lyle Cleethorpes五世出资建造，向世界展露他的财富。作为来财不正的家族继承人，渴望名声的Cleethorpes为了上电视和出名愿意不择手段。
-

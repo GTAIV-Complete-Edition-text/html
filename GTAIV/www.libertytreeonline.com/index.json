@@ -1,0 +1,56 @@
+[
+    {
+        "hash": 1322157126,
+        "original": "NEWS",
+        "translated": "新闻",
+        "desc": ""
+    },
+    {
+        "hash": 3144763962,
+        "original": "SPORTS",
+        "translated": "体育",
+        "desc": ""
+    },
+    {
+        "hash": 2629154699,
+        "original": "BUSINESS",
+        "translated": "财经",
+        "desc": ""
+    },
+    {
+        "hash": 613814169,
+        "original": "ENTERTAINMENT",
+        "translated": "娱乐",
+        "desc": ""
+    },
+    {
+        "hash": 1437218849,
+        "original": "LOTTO",
+        "translated": "彩票",
+        "desc": ""
+    },
+    {
+        "hash": 166681459,
+        "original": "WEATHER",
+        "translated": "天气",
+        "desc": ""
+    },
+    {
+        "hash": 1969207570,
+        "original": " LCPD BLOTTER",
+        "translated": " LCPD日志",
+        "desc": ""
+    },
+    {
+        "hash": 4187883893,
+        "original": " TV TONIGHT!",
+        "translated": " 今晚播出！",
+        "desc": ""
+    },
+    {
+        "hash": 2077510282,
+        "original": "This material may be published, broadcast, rewritten, or redistributed.",
+        "translated": "本站内容允许转载、刊印、改写、分发",
+        "desc": ""
+    }
+]

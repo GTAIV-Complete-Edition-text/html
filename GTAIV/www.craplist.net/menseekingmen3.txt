@@ -1,9 +1,0 @@
-﻿;0x3293E753=(Meat Quarter)
-0x3293E753=
-
-;0x83BB6AF5=Who wants to go out tonight?  I've hired a limo from 10-12 and plan to drive around the clubs in the Meat Quarter.  I need a couple of wingmen who know how to get it popping.  I've got a bottle of Ragga Rum and about three grams of yay so we can really tear it up.  Send me a short email with photo - you need to look the part.  You know the drill - jewelry, tight jeans, leisure blazer and very well-manscaped facial hair.  I don't want anybody who's going to cramp my style.  If you don't tan, don't waste my time.  Let's see if we can get some Euro-trash tail. 
-0x83BB6AF5=今晚有人想出门吗？我在10-12点雇了辆礼车，打算在Meat Quarter的夜店附近转转，需要几架僚机一起创造气氛。我会带一瓶Ragga朗姆酒和三克左右的白粉，这样大家就能放开来玩了。要求懂得都懂：首饰、紧身牛仔裤、休闲夹克、刮干净的面部毛发。我不想见到违背我风格的人。如果你不美黑，就别来浪费我的时间。不知道能不能招到欧式炮友。
-
-;0x1A839991=PostingID: 562036669
-0x1A839991=帖子ID：562036669
-

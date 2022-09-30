@@ -1,9 +1,0 @@
-﻿;0xC060FDB8=(Dukes) 
-0xC060FDB8=
-
-;0xE83A9DCF=Can you imagine getting paid to travel the world????  We are looking for drug mules to fly between various South American locations and the US.  No experience required.  If you have an understated appearance, a cast-iron stomach and a passion for adventure, we want to hear from you!  We are particularly keen to work with children, pregnant women and elderly people.    
-0xE83A9DCF=你能想象有人请你周游世界吗？？？？我们正在招募往返于南美和美国的毒骡。无需工作经验。如果你长相低调朴实，肠胃惊人，有冒险的心，请务必联系我们！我们也很期待与儿童、孕妇、老人合作。
-
-;0xB0E1284D=PostingID: 424588978
-0xB0E1284D=帖子ID：424588978
-

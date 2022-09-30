@@ -1,9 +1,0 @@
-﻿;0x7C5C18CE=(Hatton Gardens)
-0x7C5C18CE=
-
-;0x35912D81=Who needs to go to the country when we have great hunting right here in Algonquin?  The streets are infested with stray dogs, cats and immigrants.  Not to mention all the pigeons.  They disgust me with their filth and disease.  Somebody needs to clean up this town!  I read a great comic book where a guy did it and the town totally appreciated it.  I'd really like a female sidekick while I do this cause it's cool that superheroes wear bikinis.   Who's with me?  I have a spare semi-automatic pistol (with silencer) so all you need to do is bring some booze and maybe a camera.  I will assign you a rank once you have proved your mettle out in the field.   
-0x35912D81=既然在Algonquin就能大肆狩猎，又何苦要去乡下呢？路上到处是流浪狗、流浪猫、流浪移民。更别提那些鸽子了，一想到它肮脏带病，我就犯恶心。必须有人把城市打扫干净！我看了一本漫画，就是讲有人清理了城市，然后被市民视作英雄的。同时我也想要一个女性搭档，因为穿比基尼的超级英雄很酷。有人加入吗？我还有一把备用的半自动手枪(带消音器)，所以你只需要带点酒来就行了，或许还可以带一个相机。等你在实战中大显身手了，我会给你颁发称号。
-
-;0x689BDE3F=PostingID: 494533782
-0x689BDE3F=帖子ID：494533782
-

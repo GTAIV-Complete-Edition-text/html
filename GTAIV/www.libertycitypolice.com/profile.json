@@ -1,0 +1,62 @@
+[
+    {
+        "hash": 4218632806,
+        "original": "SURNAME",
+        "translated": "姓",
+        "desc": ""
+    },
+    {
+        "hash": 1167580328,
+        "original": "FIRST NAME",
+        "translated": "名",
+        "desc": ""
+    },
+    {
+        "hash": 1853619452,
+        "original": "AGE",
+        "translated": "年龄",
+        "desc": ""
+    },
+    {
+        "hash": 709252412,
+        "original": "PLACE OF BIRTH",
+        "translated": "出生地",
+        "desc": ""
+    },
+    {
+        "hash": 3887037150,
+        "original": "AFFILIATIONS",
+        "translated": "背景",
+        "desc": ""
+    },
+    {
+        "hash": 2972249335,
+        "original": "CRIMINAL RECORD",
+        "translated": "犯罪记录",
+        "desc": ""
+    },
+    {
+        "hash": 1306637354,
+        "original": "NOTES",
+        "translated": "备注",
+        "desc": ""
+    },
+    {
+        "hash": 122316834,
+        "original": "BACK",
+        "translated": "",
+        "desc": ""
+    },
+    {
+        "hash": 1517769160,
+        "original": "CONFIDENTIAL INFORMATION BY ORDER OF LCPD",
+        "translated": "LCPD机密信息",
+        "desc": ""
+    },
+    {
+        "hash": 1643974584,
+        "original": "FOR OFFICIAL USE ONLY",
+        "translated": "",
+        "desc": ""
+    }
+]

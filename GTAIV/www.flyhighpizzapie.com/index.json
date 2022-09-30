@@ -1,0 +1,308 @@
+[
+    {
+        "hash": 378444633,
+        "original": "For over 10 years, Fly High Pizza Pie has been bringing smiles to the faces of hungry customers across Liberty City. A family-owned business, we use only the freshest home-grown ingredients and pride ourselves on high-grade quality and discreet, speedy service.",
+        "translated": "过去10年中，高飞披萨饼为自由城各地的饥饿顾客送去了笑容。自家生意，我们只用最新鲜的自种食材，并提供引以为傲的高品质、高保密、高速度服务。",
+        "desc": ""
+    },
+    {
+        "hash": 911219535,
+        "original": "Why buy second-rate pizza from a shady street vendor when you can get the best stuff in town delivered straight to your door?! As soon as you catch your first whiff of a Fly High pizza, we guarantee you will never buy from anywhere else again. The finest herbs on the East Coast are but a phone call away. The best way to relax at the end of a hard day is with a Fly High Pizza Pie. Order now!",
+        "translated": "明明有人能送货上门，又何必去路边小摊买次品披萨呢？！只要闻到过高飞披萨饼的味道，你就再也不会选择其他披萨了。只要一个电话，东海岸最好的草就能上门。辛苦一天后最好的放松，就是高飞披萨饼。赶快订购吧！",
+        "desc": ""
+    },
+    {
+        "hash": 2412852133,
+        "original": "Open 24 hours!",
+        "translated": "24小时营业！",
+        "desc": ""
+    },
+    {
+        "hash": 2505892848,
+        "original": "Delivery only!",
+        "translated": "只做外卖配送！",
+        "desc": ""
+    },
+    {
+        "hash": 3296811971,
+        "original": "Free delivery for orders over $100!",
+        "translated": "满$100免配送费！",
+        "desc": ""
+    },
+    {
+        "hash": 574944526,
+        "original": "Slice (around an eighth) - $60",
+        "translated": "一片 (八分之一左右) - $60",
+        "desc": ""
+    },
+    {
+        "hash": 3498769280,
+        "original": "Large Slice (approx quarter) - $110",
+        "translated": "大片 (四分之一左右) - $110",
+        "desc": ""
+    },
+    {
+        "hash": 2740670784,
+        "original": "Half Pie - $180",
+        "translated": "半块披萨 - $180",
+        "desc": ""
+    },
+    {
+        "hash": 124452924,
+        "original": "Whole Pie - $320",
+        "translated": "整块披萨 - $320",
+        "desc": ""
+    },
+    {
+        "hash": 3152121464,
+        "original": "Cash only. Not for re-sale. Please have the money ready when the delivery guy arrives and keep your hands where he can see them. We don't barter. Please tip.",
+        "translated": "只收现金，禁止倒卖。请在配送员上门之前备好现金，把手放在配送员看得见的地方。拒绝以物易物，请付小费。",
+        "desc": ""
+    },
+    {
+        "hash": 3613431295,
+        "original": "PURPLE HAZE",
+        "translated": "紫烟",
+        "desc": ""
+    },
+    {
+        "hash": 4024703138,
+        "original": "You won't remember your first!",
+        "translated": "让你忘记自己的第一次！",
+        "desc": ""
+    },
+    {
+        "hash": 383540892,
+        "original": "Tomato sauce, mozzarella cheese, pepperoni, eggplant, beetroot, red onion.",
+        "translated": "番茄沙司、马苏里拉奶酪、意式香肠、茄子、甜菜根、紫洋葱。",
+        "desc": ""
+    },
+    {
+        "hash": 4131163395,
+        "original": "ACAPULCO GOLD",
+        "translated": "阿卡普尔科黄金",
+        "desc": ""
+    },
+    {
+        "hash": 902456568,
+        "original": "You'll smell it two blocks away!",
+        "translated": "两条马路之外都能闻到味道！",
+        "desc": ""
+    },
+    {
+        "hash": 51834766,
+        "original": "Tomato sauce, mozzarella cheese, cheddar cheese, chicken, yellow peppers, pineapple.",
+        "translated": "番茄沙司、马苏里拉奶酪、切达干酪、鸡肉、黄辣椒、菠萝。",
+        "desc": ""
+    },
+    {
+        "hash": 1377285520,
+        "original": "WHITE WIDOW",
+        "translated": "白寡妇",
+        "desc": ""
+    },
+    {
+        "hash": 771945084,
+        "original": "You won't want to move after this!",
+        "translated": "吃了以后包你不想动弹！",
+        "desc": ""
+    },
+    {
+        "hash": 3636148986,
+        "original": "Olive oil and garlic sauce, mozzarella cheese, garlic, artichoke hearts, and topped with goat cheese.",
+        "translated": "大蒜橄榄油酱、马苏里拉奶酪、大蒜、菜心、山羊奶酪。",
+        "desc": ""
+    },
+    {
+        "hash": 1951990039,
+        "original": "MOROCCAN CARAMELLO",
+        "translated": "摩洛哥焦糖",
+        "desc": ""
+    },
+    {
+        "hash": 768099413,
+        "original": "Get ready for some sticky fingers!",
+        "translated": "让你的手指黏不拉几！",
+        "desc": ""
+    },
+    {
+        "hash": 859105086,
+        "original": "Tomato sauce, mozzarella cheese, chorizo, sun-dried tomatoes, caramelized onions.",
+        "translated": "番茄沙司、马苏里拉奶酪、西班牙腊肠、番茄干、焦糖洋葱。",
+        "desc": ""
+    },
+    {
+        "hash": 2516247932,
+        "original": "SHROOM FEST (Seasonal)",
+        "translated": "幻菇盛宴 (季节限定)",
+        "desc": ""
+    },
+    {
+        "hash": 475467952,
+        "original": "It will make you see things differently!",
+        "translated": "换个角度看世界！",
+        "desc": ""
+    },
+    {
+        "hash": 4259650817,
+        "original": "Tomato sauce, mozzarella cheese, gold tops, blue meanies, liberty caps and fresh herbs.",
+        "translated": "番茄沙司、马苏里拉奶酪、古巴裸盖菇、暗蓝斑褶菇、半针裸盖菇、新鲜药草。",
+        "desc": ""
+    },
+    {
+        "hash": 3458464495,
+        "original": "SPECIAL OFFERS",
+        "translated": "特别优惠",
+        "desc": ""
+    },
+    {
+        "hash": 4067608665,
+        "original": "The 4:20 special - half-price slices after school!",
+        "translated": "4:20特惠－放学后半价！",
+        "desc": ""
+    },
+    {
+        "hash": 1305612482,
+        "original": "The Wake n' Bake special - 15% off all pizzas ordered before",
+        "translated": "早起一支烟特惠－10点之前全场披萨八五折！",
+        "desc": ""
+    },
+    {
+        "hash": 1657438613,
+        "original": "10am!",
+        "translated": "_",
+        "desc": ""
+    },
+    {
+        "hash": 3246532982,
+        "original": "If you like a bit of extra kick, why not order a Power Crust Pizza, dusted with our special seasoning? Warning: can cause psychotic behavior.",
+        "translated": "如果你想来点猛的，何不试试撒有季节菜品的强力表壳披萨？警告：可能引起精神病行为。",
+        "desc": ""
+    },
+    {
+        "hash": 1803293400,
+        "original": "Soda",
+        "translated": "苏打水",
+        "desc": ""
+    },
+    {
+        "hash": 2004063857,
+        "original": "- Don't let cottonmouth get the better of you!",
+        "translated": "－别被干裂的口腔夺去快感！",
+        "desc": ""
+    },
+    {
+        "hash": 60833389,
+        "original": "Sprunk, E-Cola and Orang-O-Tang in one-liter and two-liter bottles (many uses for these after you are finished!)",
+        "translated": "一升装和两升装的霜碧、易可乐、橙汁汽水 (瓶子留着，吸完还能用)",
+        "desc": ""
+    },
+    {
+        "hash": 154965655,
+        "original": "Beer",
+        "translated": "啤酒",
+        "desc": ""
+    },
+    {
+        "hash": 1071740307,
+        "original": "- Logger, Piswasser, Jakey's",
+        "translated": "－Logger啤酒、尿汤啤、Jakey拉格啤酒",
+        "desc": ""
+    },
+    {
+        "hash": 2082964528,
+        "original": "Cigarettes",
+        "translated": "香烟",
+        "desc": ""
+    },
+    {
+        "hash": 2762396598,
+        "original": "- Redwood, Cardiaque and 69 Brand",
+        "translated": "－红木、Cardiaque、69牌",
+        "desc": ""
+    },
+    {
+        "hash": 289944976,
+        "original": "Nuggets",
+        "translated": "小块",
+        "desc": ""
+    },
+    {
+        "hash": 628731130,
+        "original": "- Sometimes you don't want a whole slice. Fly High's nuggets are the perfect snack-size order for people on a budget.",
+        "translated": "－有时一整片太多。高飞的小块披萨是手头紧张的人的完美选择。",
+        "desc": ""
+    },
+    {
+        "hash": 1756994885,
+        "original": "Mini Calzones",
+        "translated": "迷你披萨饺",
+        "desc": ""
+    },
+    {
+        "hash": 3649810976,
+        "original": "- Pre-rolled pizzas for one! No cutlery required! Cheap, convenient and ready to choke down!",
+        "translated": "－包起来的披萨！无需餐具！便宜、便利、一口吞下！",
+        "desc": ""
+    },
+    {
+        "hash": 2525034962,
+        "original": "Lots of candy!",
+        "translated": "各种糖！",
+        "desc": ""
+    },
+    {
+        "hash": 810480783,
+        "original": "Placing your order -",
+        "translated": "立刻下单－",
+        "desc": ""
+    },
+    {
+        "hash": 3950865305,
+        "original": "BE COOL! USE THE CODE.",
+        "translated": "当心！用暗语点餐。",
+        "desc": ""
+    },
+    {
+        "hash": 3128468420,
+        "original": "Tell us the type of pizza you want and let us know the quantity, e.g.",
+        "translated": "告诉我们你想要的披萨口味和数量。例：",
+        "desc": ""
+    },
+    {
+        "hash": 2470886730,
+        "original": "'Just a slice'",
+        "translated": "「一片就行」",
+        "desc": ""
+    },
+    {
+        "hash": 746078448,
+        "original": "'Extra cheese on half'",
+        "translated": "「半块披萨多加奶酪」",
+        "desc": ""
+    },
+    {
+        "hash": 1957504449,
+        "original": "'A whole pie'",
+        "translated": "「整块披萨」",
+        "desc": ""
+    },
+    {
+        "hash": 3815409193,
+        "original": "Please mention whether you need napkins (standard or king-size). Pizzas can be delivered in aluminum foil or vacuum sealed plastic bags.",
+        "translated": "记得说明是否需要餐巾 (标准号/特大号)。可选择铝箔纸包装或塑料真空包装。",
+        "desc": ""
+    },
+    {
+        "hash": 3435444442,
+        "original": "We find that at least half of our customers have problems remembering their phone number and address. If you can write these down before calling, it will save us all a lot of time and confusion.",
+        "translated": "我们发现顾客中至少有一半的人记不住自己的手机号和住址。如果你能在下单之前写下这些信息，大家都能省下很多时间。",
+        "desc": ""
+    },
+    {
+        "hash": 3042884775,
+        "original": "Runners wanted! Excellent commission structure. Must be inconspicuous and comfortable with violence. Call for rigorous background check.",
+        "translated": "招募运货员！高提成。要求外貌低调，能够适应暴力。联系我们进行严格的背景调查。",
+        "desc": ""
+    }
+]

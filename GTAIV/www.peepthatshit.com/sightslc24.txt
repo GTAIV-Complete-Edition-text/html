@@ -1,9 +1,0 @@
-﻿;0x1BF46FD5=LC24 Tower       
-0x1BF46FD5=LC24大楼
-
-;0xFF2B9E54=East Island City, Dukes         
-0xFF2B9E54=Dukes, 东岛城
-
-;0x281A397C=A glass monstrosity in Dukes that shows how all modern architecture is really just about using the cheapest materials available, this is one of Liberty City's tallest buildings and is home to LC24, a well-known news and lifestyle magazine.        
-0x281A397C=Dukes的玻璃怪胎，证明了现代建筑只会用最便宜的材料。这是自由城最高的建筑之一，也是知名新闻和生活杂志LC24的总部。
-

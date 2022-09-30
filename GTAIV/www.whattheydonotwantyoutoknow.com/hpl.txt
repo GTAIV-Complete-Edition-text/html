@@ -1,6 +1,0 @@
-﻿;0x94DDC5EE=Hidden Packages Locations
-0x94DDC5EE=隐藏包裹的位置
-
-;0xC2954BC2=Back
-0xC2954BC2=返回
-

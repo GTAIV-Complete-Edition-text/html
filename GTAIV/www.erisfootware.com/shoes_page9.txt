@@ -1,9 +1,0 @@
-﻿;0x276BA874=Be a Player
-0x276BA874=成为赢家
-
-;0xA6384F9C=A basketball legend for the Liberty Penetrators, Tyrone 'The Tower' Hancock signed a record-breaking endorsement deal with Eris in 1985.  The Eris Hancock sneaker range initially received a lukewarm reception but, after The Tower's ignominious exit from professional basketball the following year, sales went through the roof.  During a random drug test, Hancock tested positive for 9 different illegal narcotics and famously came out with the line, "I thought if I just took a little bit of everything it would cancel itself out."  The Hancock was the first sports shoe to feature the Eris SQUIDGE heel-cushioning technology in a visible plastic capsule (original models actually contained Tyrone's own hair gel).  The Tower never played basketball again and has been in and out of rehab ever since his fall from grace but Hancocks are still going strong 20 years later.  These days, he is more commonly referred to as 'The Leaning Tower' by the tabloid press.  Eris founder, Pete Vassal, said of Hancock, "Tyrone is an inspiration for millions of kids the world over.  He is just the type of unsuitable role model young people will go out of their way to emulate.  It's a fact - bad boys sell sneakers.  Every time The Tower falls off the wagon, Hancocks fly off the shelves." Be like your hero. Walk in his shoes. 
-0xA6384F9C=自由城透人队的传奇球星 高塔Tyrone Hancock 在1985年与Eris签下创纪录的代言合约。Eris Hancock系列球星战靴最初反响平平，但在次年高塔因丑闻离开职业篮球以后，该系列球鞋的销量一飞冲天。在一次随机毒品检测中，Hancock本人被测出九种毒品阳性，说出了那句有名的话：「我还以为只要都来一点，它们就会互相抵消掉的。」Hancock球鞋是第一款用外置气垫实现Eris弹力缓冲技术的产品(早期产品中还有Tyrone自用的发胶)。在那次毒检之后，高塔再也没有打过篮球，也多次因吸毒进入戒毒所，但Hancock球鞋在20年后依然畅销。最近的八卦小报更喜欢称他为「斜塔」。而Eris的创始人Pete Vassal则是这样评价他的：「高塔启发了全世界数百万的孩子。他是年轻人争相模仿的坏榜样。一个事实，卖鞋的都是坏孩子。每当高塔毒瘾复发登上新闻的时候，Hancock球鞋都会脱销。」向你的英雄靠近，穿上联名球鞋。
-
-;0xA98D0546=$250
-0xA98D0546=
-

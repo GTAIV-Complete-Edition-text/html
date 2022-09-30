@@ -1,9 +1,0 @@
-﻿;0x83519350=GetaLife Building       
-0x83519350=GetaLife大厦
-
-;0x8875E879=Easton, Algonquin              
-0x8875E879=Algonquin, Easton
-
-;0x9F16EF29=It's a landmark but that's about it.  Another big building!  Big Fucking Deal!   Add it to your album of terrorist targets.       
-0x9F16EF29=这是一处地标，但也仅此而已。又是一栋高楼！太鸡巴大了！加进收集恐怖分子目标的相册吧。
-

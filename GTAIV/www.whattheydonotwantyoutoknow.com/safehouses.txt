@@ -1,6 +1,0 @@
-﻿;0xFC23799D=Safe Houses
-0xFC23799D=安全屋
-
-;0xC2954BC2=Back
-0xC2954BC2=返回
-

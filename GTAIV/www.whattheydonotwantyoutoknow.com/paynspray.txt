@@ -1,6 +1,0 @@
-﻿;0xEB783AF0=Pay N' Spray Location 
-0xEB783AF0=喷漆店位置
-
-;0xC2954BC2=Back
-0xC2954BC2=返回
-

@@ -1,9 +1,0 @@
-﻿;0x7EF7DE02=We understand that tolerance to caffeine develops quickly and we spend millions of dollars each year on developing genetically-modified coffee blends guaranteed to make even the most depraved caffeine fiend sneeze with his eyes open.  Bean Machine buys only the richest coffee beans from the poorest nations in the world.  Poor people make great stimulants.
-0x7EF7DE02=我们深知咖啡因很容易产生耐受性，因此每年都会投入数百万美元，研发基因编辑的混合咖啡。再堕落的咖啡鬼喝了都会张开双眼。冰的咖啡只收购来自全世界最贫穷国家的最饱满的咖啡豆。穷人造就了好的兴奋剂。
-
-;0x8C811D95=All our stores offer a wide range of fresh coffee by the bag.  Only $20 per pound.  We are firmly committed to fair trade and for every pound of coffee purchased, we ensure that no less than 7 cents is returned to the local farmer.
-0x8C811D95=我们的所有门店都会出售品种多样的新鲜袋装咖啡豆，每磅只要20元。我们是公平贸易的坚定支持者，每卖出一磅咖啡，我们都会支付产地农民至少7美分。
-
-;0x9B6B76E3=Buy 4 pounds of coffee today and we will throw in a free coffee enema and a Colossale Gunkuccino T-Shirt (sizes start in XL)        
-0x9B6B76E3=现在购买四磅咖啡，还会额外赠送一次免费的咖啡灌肠，以及一件超大杯贡卡奇诺短袖(最小尺码为XL)。
-

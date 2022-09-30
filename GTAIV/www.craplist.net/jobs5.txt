@@ -1,6 +1,0 @@
-﻿;0x22AE0C47=I'll do anything.  I've got very few morals and I don't mind breaking the law.  Nothing too strenuous, though - I'm lazy and bruise easily. 
-0x22AE0C47=我什么都会做的。我这人没什么底线，违法了也没关系。别太费劲就行，我这人有点懒，很容易受伤。
-
-;0xAEF50F51=PostingID: 424745687
-0xAEF50F51=帖子ID：424745687
-

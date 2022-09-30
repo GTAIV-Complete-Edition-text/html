@@ -1,9 +1,0 @@
-﻿;0xEE8067EB=CC Building       
-0xEE8067EB=全球文明委员会大楼
-
-;0x717F5395=Hatton Gardens, Algonquin    
-0x717F5395=Algonquin, Hatton Gardens
-
-;0xCA15254E=The Civilization Committee is a largely inefficient organization where representatives from nations around the world are supposed to decide on the best course of action in the event of an international conflict.  In reality, they talk a lot, do very little, don't pay their traffic tickets, and eat amazing meals while half the world is dying of disease and starvation.  Great work, guys.  Wisely ignored by the U.S. administration in any case, this is more of a nice spot to take some photos by the Humboldt River River than anything of political significance.                  
-0xCA15254E=全球文明委员会是一个效率低下的庞大组织，来自世界各国的代表在此决定国际冲突中应采取的最佳措施。实际上，他们的废话很多，做的事很少，还不交罚单。大半个世界因疾病和饥饿危在旦夕，他们却依然吃着山珍海味。干得好啊，各位。还好美国政府在任何时候都明智地忽略掉了他们。这里更适合作为Humboldt河河畔的拍照景点，而非重要的政治组织。
-

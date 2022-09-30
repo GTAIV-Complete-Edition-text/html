@@ -1,6 +1,0 @@
-﻿;0x98A5CFBB=Want All The Weapons?
-0x98A5CFBB=想要所有的武器吗？
-
-;0xC2954BC2=Back
-0xC2954BC2=返回
-

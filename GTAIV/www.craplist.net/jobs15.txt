@@ -1,9 +1,0 @@
-﻿;0xED7B5102=(Acter Industrial Park)
-0xED7B5102=(Acter工业园)
-
-;0x7B0B5081=Need some quick cash to buy a few beers tonight?  Large agricultural manufacturer seeks people for clinical trials.  $10 an hour to have pesticide injected into your eye. 
-0x7B0B5081=急需赚钱购买晚上的啤酒吗？大型农企招募临床试验者。一小时$10，试验内容为朝眼睛里注射杀虫剂。
-
-;0x58FBB98E=PostingID: 424578561
-0x58FBB98E=帖子ID：424578561
-
